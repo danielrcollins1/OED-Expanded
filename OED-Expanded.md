@@ -1,425 +1,277 @@
-Original Edition Delta
+# Original Edition Delta
 
-![](Pictures/10000000000000C8000000C8E8322714EFE4B9CF.gif){width="2.0311in"
-height="2.3126in"}
+VERBOSE EDITION  
+Original Edition Delta  
+_Markdown version compiled by Tyler Farrington AKA Underwater Owlbear_
 
-VERBOSE EDITION
+## Introduction
 
-Original Edition Delta
-
-What is OED?
+### What is OED?
 
 OED is a short set of house rules for Original D&D (1974 edition).
 
-Many of us find the original game the purest, most playable, most
-DM-friendly version, but it does have some gaps and confusing points.
-OED clarifies and streamlines various topics to make these rules more
-approachable to the modern gamer.
+Many of us find the original game the purest, most playable, most DM-friendly version, but it does have some gaps and confusing points. OED clarifies and streamlines various topics to make these rules more approachable to the modern gamer.
 
-What are the main modifications?
+### What are the main modifications?
 
--   All combat actions are rolled d20 + level + modifiers, with success
-    on 20 or more (no tables!).
--   Wizards can't memorize duplicate spells (more variety!).
--   Clerics are removed (scarier undead and injuries!).
--   Money is silver standard (more value for PC gold!).
--   Encumbrance is historical stone unites (easier numbers!).
--   Melee weapons each get a simple, unique benefit.
--   All the monsters and magic work like core D&D.
+- All combat actions are rolled d20 + level + modifiers, with success on 20 or more (no tables!).
+- Wizards can't memorize duplicate spells (more variety!).
+- Clerics are removed (scarier undead and injuries!).
+- Money is silver standard (more value for PC gold!).
+- Encumbrance is historical stone unites (easier numbers!).
+- Melee weapons each get a simple, unique benefit.
+- All the monsters and magic work like core D&D.
 
-Where can I get it?
+### Where can I get it?
 
-The OED rules supplement is free for download at OED Games
-([*www.oedgames.com*](http://www.oedgames.com/)). And don't forget,
-scans of the Original D&D core rules can be bought at RPGNow.com (search
-for "Original Edition").
+The OED rules supplement is free for download at OED Games ([_www.oedgames.com_](http://www.oedgames.com/)). And don't forget, scans of the Original D&D core rules can be bought at RPGNow.com (search for "Original Edition").
 
-![](Pictures/10000000000000C8000000C8E8322714EFE4B9CF.gif){width="1.6134in"
-height="1.722in"}
+## Core Mechanic
 
-Core Mechanic
+Original Edition Delta uses Target 20 for combat and resolution with the same results as D&D, but no tables or new statistics required.
 
-Original Edition Delta uses Target 20 for combat and resolution with the
-same results as D&D, but no tables or new statistics required.
+### What Is Target 20?
 
-What Is Target 20?
+Target 20 is an easy and elegant way to adjudicate combat in classic D&D -- without any tables or new statistics, using just the original rules. Here's the basic idea: **Every roll is d20 + level + modifiers, with a result of 20 or more indicating success.**
 
-Target 20 is an easy and elegant way to adjudicate combat in classic D&D
--- without any tables or new statistics, using just the original rules.
-Here's the basic idea: **Every roll is d20 + level + modifiers, with a
-result of 20 or more indicating success.**
+Easy, right? Many DMs have been using this to simplify their games for years now. The mechanic is purely additive, which most people find easier than an inverse-subtraction method (e.g., THACO). The target is always 20, and AC is just another added modifier -- there's no need to invent a new target score for every opponent or skill check (e.g., as in the d20 System). Here's some more detail:
 
-Easy, right? Many DMs have been using this to simplify their games for
-years now. The mechanic is purely additive, which most people find
-easier than an inverse-subtraction method (e.g., THACO). The target is
-always 20, and AC is just another added modifier -- there's no need to
-invent a new target score for every opponent or skill check (e.g., as in
-the d20 System). Here's some more detail:
+### Attack Rolls
 
-Attack Rolls
+Attacks are resolved by rolling **d20 + fighter level + modifiers + target AC** (success on 20 or more). For actual fighters and monsters, the base addition is just their level or hit dice (for other classes, we take a ratio: ⅔ level for clerics and thieves; ½ level for wizards). Players may wish to document their total attack adjustments; but the DM doesn't need any new stats, because they just add the HD value for any attacking monsters. When PCs attack a monster, we usually keep the AC secret and add it mentally after the player announces their roll; note that using the classic descending AC means that the better the armor, the less an attacker gets to add.
 
-Attacks are resolved by rolling **d20 + fighter level + modifiers +
-target AC** (success on 20 or more). For actual fighters and monsters,
-the base addition is just their level or hit dice (for other classes, we
-take a ratio: ⅔ level for clerics and thieves; ½ level for wizards).
-Players may wish to document their total attack adjustments; but the DM
-doesn't need any new stats, because they just add the HD value for any
-attacking monsters. When PCs attack a monster, we usually keep the AC
-secret and add it mentally after the player announces their roll; note
-that using the classic descending AC means that the better the armor,
-the less an attacker gets to add.
+### Saving Throws
 
-Saving Throws
+Saving throws work likewise: **roll d20 + character level + modifiers** (success on 20 or more). The modifiers in this case are by type of save: +0 vs. spells, +1 vs. breath, +2 vs. stone, +3 vs. wands, +4 vs. death. With this simplification, we don't even bother to record saving scores on PC sheets anymore.
 
-Saving throws work likewise: **roll d20 + character level + modifiers**
-(success on 20 or more). The modifiers in this case are by type of save:
-+0 vs. spells, +1 vs. breath, +2 vs. stone, +3 vs. wands, +4 vs. death.
-With this simplification, we don't even bother to record saving scores
-on PC sheets anymore.
+### Thief Skills
 
-Thief Skills
+Thief skills get the same treatment: **roll d20 + thief level + modifiers** (success on 20 or more). We grant the thief's Dexterity modifier as a bonus to this roll. We don't even bother writing down separate skill categories with this streamlining.
 
-Thief skills get the same treatment: **roll d20 + thief level +
-modifiers** (success on 20 or more). We grant the thief's Dexterity
-modifier as a bonus to this roll. We don't even bother writing down
-separate skill categories with this streamlining.
+### How Accurate Is It?
 
-How Accurate Is It?
+In 2018 we learned that the [_pre-publication draft_](http://playingattheworld.blogspot.com/2018/09/why-did-armor-class-descend-from-9-to-2.html) of the original D&D rules used no combat tables, and was instead based on a simple formula equivalent to the one we have here. You\'ll see a link from that site back to our blog, where we deduced this fact a decade or more prior. Compared to the table versions that we do see in the official books, Target 20 tends to produce results, on average, within 1 or 2 pips (regardless of which classic edition you use). For example, with attacks, the results are identical to Original D&D at 1st level, and grow a bit more generous with advancing levels. Likewise, for thief skills (assuming a 1 or 2 point Dexterity bonus), results are identical to OD&D at 1st level, and then fall slightly behind at higher levels. For a more detailed statistical analysis, [_please visit our blog_](http://deltasdnd.blogspot.com/2018/02/target-20-system-accuracy.html).
 
-In 2018 we learned that the [*pre-publication
-draft*](http://playingattheworld.blogspot.com/2018/09/why-did-armor-class-descend-from-9-to-2.html)
-of the original D&D rules used no combat tables, and was instead based
-on a simple formula equivalent to the one we have here. You\'ll see a
-link from that site back to our blog, where we deduced this fact a
-decade or more prior. Compared to the table versions that we do see in
-the official books, Target 20 tends to produce results, on average,
-within 1 or 2 pips (regardless of which classic edition you use). For
-example, with attacks, the results are identical to Original D&D at 1st
-level, and grow a bit more generous with advancing levels. Likewise, for
-thief skills (assuming a 1 or 2 point Dexterity bonus), results are
-identical to OD&D at 1st level, and then fall slightly behind at higher
-levels. For a more detailed statistical analysis, [*please visit our
-blog*](http://deltasdnd.blogspot.com/2018/02/target-20-system-accuracy.html).
+## Characters
 
-Characters
+### Ability Scores
 
-Ability Scores
+Prior to the selection of character race and class, it is necessary to determine ability scores.
 
-Prior to the selection of character race and class, it is necessary to
-determine ability scores.
+#### Generation
 
-Generation
+Select one ability score to generate 2d6+6, the rest will be generated 3d6 in order.
 
-Select one ability score to generate 2d6+6, the rest will be generated
-3d6 in order.
+#### Effects
 
-Effects
+In OED the modifiers from your ability scores affect the attributes listed below.
 
-In OED the modifiers from your ability scores affect the attributes
-listed below.
+_Strength_: Melee Attacks and Melee Damage  
+_Intelligence_\*: Secret Door and Trap Detection  
+_Wisdom_: Saves vs Mental Attacks  
+_Dexterity_: Missile Attacks and Armor Class  
+_Constitution_: Hit Die Rolls  
+_Charisma_: Reaction Rolls  
 
-*Strength*: Melee Attacks and Melee Damage
+\*For each point above 10, able to learn one additional language. Can select at a later time.
 
-*Intelligence*\*: Secret Door and Trap Detection
+_Experience Points_: In OED, ability scores do not affect XP earned.
 
-*Wisdom*: Saves vs Mental Attacks
+### Race
 
-*Dexterity*: Missile Attacks and Armor Class
+**Note**: in OED all PC races move at a base speed of 12" (60') per round.
 
-*Constitution*: Hit Die Rolls
+#### Humans
 
-*Charisma*: Reaction Rolls
+**Starting Languages**: Common  
+**Class Options**: Can be a member of any class, and advance to unlimited level.
 
-\*For each point above 10, able to learn one additional language. Can
-select
+#### Dwarves
 
-at a later time.
+**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework)  
+**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin  
+**Class Options**: Fighter 6^th^ (7^th^ with STR 17, 8^th^ with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th)
 
-*Experience Points*: In OED, ability scores do not affect XP earned.
+#### Elves
 
-Race
+**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands)  
+**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll  
+**Class Options**: Fighter 4^th^ (5^th^ with STR 17, 6^th^ with STR 18), Thief Unlimited, Wizard 8^th^ (9^th^ with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
 
-**Note**: in OED all PC races move at a base speed of 12" (60') per
-round.
+#### Halflings
 
-Humans
+**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.  
+**Languages**: Common, Halfling  
+**Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard 4th)
 
-**Starting Languages**: Common
+### Class
 
-**Class Options**: Can be a member of any class, and advance to
-unlimited level.
-
-Dwarves
-
-**Special Abilities**: Infravision 60' (see creatures in darkness),
-Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1
-in 6 to detect Traps, Secret Doors, etc. in stonework)
-
-**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin
-
-**Class Options**: Fighter 6^th^ (7^th\ ^with STR 17, 8^th^ with STR
-18), Thief Unlimited, (NPCs/Optional Wizard 4th)
-
-Elves
-
-**Special Abilities**: Infravision 60' (see creatures in darkness), Hide
-in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret
-Doors, etc. in woodlands)
-
-**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll
-
-**Class Options**: Fighter 4^th^ (5^th\ ^with STR 17, 6^th^ with STR
-18), Thief Unlimited, Wizard 8^th^ (9^th\ ^with INT 18),
-
-Elves start as a member of BOTH the Wizard class and one other class.
-
-Halflings
-
-**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to
-Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium
-melee weapons two handed, plus sling, shortbow, and light crossbow.
-
-**Languages**: Common, Halfling
-
-**Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard
-4th)
-
-Class
-
-OED features three character classes: Fighter, Thief, and Wizard. There
-are no Clerics in OED.
+OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
 
 When determining HP at first level, reroll 1s and 2s.
 
-Fighters
+#### Fighters
 
-*Armor*: Light (Leather), Medium(Chain), Heavy(Plate), Shields
+**Armor**: Light (Leather), Medium(Chain), Heavy(Plate), Shields
 
-*Weapons*: All (Light, Medium, Heavy, Ranged)
+**Weapons**: All (Light, Medium, Heavy, Ranged)
 
-  ------- ------------ ------ -------- -------------------------------
-  Level   XP           HP     To Hit   Class Abilities
-  1       0            1d8    +1       Swim (+2 in 6); Sweep Attacks
-  2       2,000        2d8    +2       
-  3       4,000        3d8    +3       
-  4       8,000        4d8    +4       Choose a Feat
-  5       16,000       5d8    +5       
-  6       32,000       6d8    +6       
-  7       64,000       7d8    +7       
-  8       120,000      8d8    +8       Choose a Feat
-  9       240,000      9d8    +9       
-  9+      (+240,000)   (+3)   (+1)     Feat at levels 12, 16, etc.
-  ------- ------------ ------ -------- -------------------------------
+| Level | XP         | HP   | To Hit | Class Abilities               |
+|-------|------------|------|--------|-------------------------------|
+| 1     | 0          | 1d8  | +1     | Swim (+2 in 6); Sweep Attacks |
+| 2     | 2,000      | 2d8  | +2     |                               |
+| 3     | 4,000      | 3d8  | +3     |                               |
+| 4     | 8,000      | 4d8  | +4     | Choose a Feat                 |
+| 5     | 16,000     | 5d8  | +5     |                               |
+| 6     | 32,000     | 6d8  | +6     |                               |
+| 7     | 64,000     | 7d8  | +7     |                               |
+| 8     | 120,000    | 8d8  | +8     | Choose a Feat                 |
+| 9     | 240,000    | 9d8  | +9     |                               |
+| 9+    | (+240,000) | (+3) | (+1)   | Feat at levels 12, 16, etc.   |
 
-**Swim: **Fighters gain a +2 in 6 to Swim.
+**Swim**: Fighters gain a +2 in 6 to Swim.
 
-**Sweep Attacks**: Fighters can melee attack a number of 1HD opponents
-equal to their level in one round.
+**Sweep Attacks**: Fighters can melee attack a number of 1HD opponents equal to their level in one round.  
 
-**Feats**: Fighters can select one feat at level 4 and every 4^th^ level
-thereafter from the list below.
+**Feats**: Fighters can select one feat at level 4 and every 4^th^ level thereafter from the list below.
 
-1.  *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP -
-    Average 20 hp) for the duration of melee combat; afterward save vs.
-    breath or lose this ability for the day.
-2.  *Exceptional Strength*: The character adds +3 to Strength.
-3.  *Great Fortitude*: The character gains a +4 bonus to saves against
-    poison, disease, and death.
-4.  *Iron Will*: The character gains a +4 bonus to saves against mental
-    attacks (including charm, fear, illusions, etc.)
-5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4
-    to damage with a mounted lance, and +4 to checks d against being
-    unhorsed.
-6.  *Rapid Shot*: Add one attack per round with any missile weapon.
-7.  *Rapid Strike*: Add one attack every OTHER round with any melee
-    weapon.
-8.  *Survival*: The character gains a +2 bonus to checks to find food,
-    water, shelter, or avoid being lost in the wilderness.
-9.  *Toughness*: The character gains +2 hit points per level.
-10. *Tracking*: Track prey on a base 4 in 6 chance.
-11. *Two-Weapon Fighting*: The character can fight with a light melee
-    weapon in the off hand, for an extra attack (at -2 to hit) or a
-    parry (+2 AC) each round.
-12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and
-    damage with that weapon.
+1. _Berserking_: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
+2. _Exceptional Strength_: The character adds +3 to Strength.
+3. _Great Fortitude_: The character gains a +4 bonus to saves against poison, disease, and death.
+4. _Iron Will_: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
+5. _Mounted Combat_: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks d against being unhorsed.
+6. _Rapid Shot_: Add one attack per round with any missile weapon.
+7. _Rapid Strike_: Add one attack every OTHER round with any melee weapon.
+8. _Survival_: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
+9. _Toughness_: The character gains +2 hit points per level.
+10. _Tracking_: Track prey on a base 4 in 6 chance.
+11. _Two-Weapon Fighting_: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
+12. _Weapon Specialization_: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
 
-Thieves
+#### Thieves
 
-**Armor**: Light (Leather) Armor,
+**Armor**: Light (Leather) Armor
 
 **Weapons**: Light Weapons plus Sword, Sling, and Light Crossbow
 
-  ------- ------------ ------ -------- ------------------------------------------------------------------------------------
-  Level   XP           HP     To Hit   Class Abilities
-  1       0            1d8    +0       Swim (+2 in 6); Backstab x2; Detect Noise (+1 in 6); Climb (+1 in 6); Thief Skills
-  2       1,200        2d6    +1       
-  3       2,400        3d6    +2       
-  4       4,800        4d6    +2       Backstab x3; Detect Noise (+1 in 6); Climb (+1 in 6);
-  5       9,600        5d6    +3       
-  6       20,000       6d6    +4       
-  7       40,000       7d6    +4       
-  8       60,000       8d6    +5       Backstab x4; Detect Noise (+1 in 6); Climb (+1 in 6);
-  9       85,000       9d6    +6       
-  10      115,000      10d6   +6       
-  10+     (+125,000)   (+2)   (+2/3)   Backstab, Detect Noise, and Climb increment at 12^th,^,16^th^, etc.
-  ------- ------------ ------ -------- ------------------------------------------------------------------------------------
+| Level | XP         | HP   | To Hit | Class Abilities                                                                    |
+|-------|------------|------|--------|------------------------------------------------------------------------------------|
+| 1     | 0          | 1d6  | +0     | Swim (+2 in 6); Backstab x2; Detect Noise (+1 in 6); Climb (+1 in 6); Thief Skills |
+| 2     | 1,200      | 2d6  | +1     |                                                                                    |
+| 3     | 2,400      | 3d6  | +2     |                                                                                    |
+| 4     | 4,800      | 4d6  | +2     | Backstab x3; Detect Noise (+1 in 6); Climb (+1 in 6);                              |
+| 5     | 9,600      | 5d6  | +3     |                                                                                    |
+| 6     | 20,000     | 6d6  | +4     |                                                                                    |
+| 7     | 40,000     | 7d6  | +4     |                                                                                    |
+| 8     | 60,000     | 8d6  | +5     | Backstab x4; Detect Noise (+1 in 6); Climb (+1 in 6);                              |
+| 9     | 85,000     | 9d6  | +6     |                                                                                    |
+| 10    | 115,000    | 10d6 | +6     |                                                                                    |
+| 10+   | (+125,000) | (+2) | (+2/3) | Backstab, Detect Noise, and Climb increment at 12^th,^,16^th^, etc.                |
 
-**Swim: **Thieves gain a +2 in 6 to Swim.
+**Swim**: Thieves gain a +2 in 6 to Swim.  
 
-**Backstab**: Inflicts x2 damage, must be in hiding/unnoticed for 1
-round prior to strike. Multiplier increases at levels 4, 8, 12, 16, etc.
+**Backstab**: Inflicts x2 damage, must be in hiding/unnoticed for 1 round prior to strike. Multiplier increases at levels 4, 8, 12, 16, etc.  
 
-**Climb and Detect Noise: **Thieves gain a +1 in 6 to Detect Noise and
-Climb. This bonus increases at level 4, 8, 12, 16, etc.
+**Climb and Detect Noise**: Thieves gain a +1 in 6 to Detect Noise and Climb. This bonus increases at level 4, 8, 12, 16, etc.  
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per
-target (when applicable)
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable)  
 
-*Hide in Shadows*: The chance to remain undetected when hiding or moving
-through shadows. Requires shadows and a lack of observation prior to
-hiding.
+- _Hide in Shadows_: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.  
+- _Move Silently_: The likelihood of moving with absolute silence.  
+- _Open Locks_: For small, discreet, single mechanical locking mechanisms. On a natural one - the lock must be forced open - a very time consuming process.  
+- _Pick Pockets_: Can also be used for acts of sleight of hand.  
+- _Remove Traps_: For small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.  
 
-*Move Silently*: The likelihood of moving with absolute silence.
-
-*Open Locks*: For small, discreet, single mechanical locking mechanisms.
-On a natural one the lock must be forced open - a very time consuming
-process.
-
-*Pick Pockets*: Can also be used for acts of sleight of hand
-
-*Remove Traps*: For small mechanical devices, needle traps, etc. Rarely
-consider a mishap on natural 1.
-
-Wizards
+#### Wizards
 
 **Armor**: None
 
 **Weapons**: Daggers and Staff only
 
-  ------- ------------ -------- -------- -------------------------------------------------------------------------
-  Level   XP           HP       To Hit   Class Abilities
-  1       0            1d4      +0       Spells: 1; Spell Research
-  2       2,500        2d4      +1       Spells: 2
-  3       5,000        3d4      +1       Spells: 3 1
-  4       10,000       4d4      +2       Spells: 4 2; Potion and Scroll Creation
-  5       20,000       5d4      +2       Spells: 4 2 1
-  6       35,000       6d4      +3       Spells: 4 2 2
-  7       50,000       7d4      +3       Spells: 4 3 2 1
-  8       75,000       8d4      +4       Spells: 4 3 3 2; Magic Wands/Staves & Weapon Creation
-  9       100,000      9d4      +4       Spells: 4 3 3 2 1
-  10      200,000      10d4     +5       Spells: 4 4 3 3 2
-  11      300,000      11d4     +5       Spells: 4 4 4 3 3
-  12      600,000      11d4+1   +6       Spells: 4 4 4 4 4 1; All Other Magic Item Creation
-  13      900,000      11d4+2   +6       Spells: 5 5 5 4 4 2
-  14      1,200,000    11d4+3   +7       Spells: 5 5 5 4 4 3
-  15      1,500,000    11d4+4   +7       Spells: 5 5 5 4 4 4
-  16      1,800,000    11d4+5   +8       Spells: 5 5 5 5 5 5
-  16+     (+300,000)   (+1)     (+1/2)   Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6
-  ------- ------------ -------- -------- -------------------------------------------------------------------------
+| Level | XP         | HP     | To Hit | Class Abilities                                                         |
+|-------|------------|--------|--------|-------------------------------------------------------------------------|
+| 1     | 0          | 1d4    | +0     | Spells: 1; Spell Research                                               |
+| 2     | 2,500      | 2d4    | +1     | Spells: 2                                                               |
+| 3     | 5,000      | 3d4    | +1     | Spells: 3 1                                                             |
+| 4     | 10,000     | 4d4    | +2     | Spells: 4 2; Potion and Scroll Creation                                 |
+| 5     | 20,000     | 5d4    | +2     | Spells: 4 2 1                                                           |
+| 6     | 35,000     | 6d4    | +3     | Spells: 4 2 2                                                           |
+| 7     | 50,000     | 7d4    | +3     | Spells: 4 3 2 1                                                         |
+| 8     | 75,000     | 8d4    | +4     | Spells: 4 3 3 2; Magic Wands/Staves & Weapon Creation                   |
+| 9     | 100,000    | 9d4    | +4     | Spells: 4 3 3 2 1                                                       |
+| 10    | 200,000    | 10d4   | +5     | Spells: 4 4 3 3 2                                                       |
+| 11    | 300,000    | 11d4   | +5     | Spells: 4 4 4 3 3                                                       |
+| 12    | 600,000    | 11d4+1 | +6     | Spells: 4 4 4 4 4 1; All Other Magic Item Creation                      |
+| 13    | 900,000    | 11d4+2 | +6     | Spells: 5 5 5 4 4 2                                                     |
+| 14    | 1,200,000  | 11d4+3 | +7     | Spells: 5 5 5 4 4 3                                                     |
+| 15    | 1,500,000  | 11d4+4 | +7     | Spells: 5 5 5 4 4 4                                                     |
+| 16    | 1,800,000  | 11d4+5 | +8     | Spells: 5 5 5 5 5 5                                                     |
+| 16+   | (+300,000) | (+1)   | (+1/2) | Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6 |
 
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell
-can be memorized at a time.
+**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
-**Spellbook**: Wizards start with a spellbook containing all 1^st^ level
-spells. Each level of spells requires its own book. Replacement or
-duplicate spellbooks require time and expense the same as learning
-spells.
+**Spellbook**: Wizards start with a spellbook containing all 1^st^ level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a
-roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell
-level (3 tries per spell)
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 +
-Wizard Level + Int Modifier ≥ 20. Access to a library or other resources
-grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 +
-Wizard Level + Int Modifier ≥ 20. Access to a library or other resources
-grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell
-level/charge/use and the ability to cast the relevant spell(s). Note:
-Treat potions of healing as a 1^st^ level spell, and Mithridate as 4^th^
-level spell.
-
+**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1^st^ level spell, and Mithridate as 4^th^ level spell.  
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
-Multi Classing
+#### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime
-Requisite of the new class (Strength for Fighter, Dexterity for Thieves,
-Intelligence for Wizards), and must pay 1000xp to add the new class.
-*Note*: Elves begin play as a member of the Wizard class and one other
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.  
+_Note_: Elves begin play as a member of the Wizard class and one other
 without needing to meet the above requirements.
 
-**Experience Points**: After each adventure, the character applies all
-earned XP to a single class of their choice.
+**Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 
 **Benefits of Multiclassing**:
 
--   Uses best entry for Armor.
--   Uses best entry for Weapons.
--   Uses best value for Attacks
--   Uses highest class for Saves
--   Keep a separate HP tally for each class and use the higher of the
-    two for your character's HP.
--   Fighter/Wizards may cast spells in Light (Leather) and Medium
-    (Chain) armor as long as they do not employ a shield.
--   Fighter/Wizards may cast spells so long as they only wield 1 handed
-    melee weapon, and have a free hand.
--   Thief skills can only be used in Light (Leather) armor.
+- Uses best entry for Armor.
+- Uses best entry for Weapons.
+- Uses best value for Attacks
+- Uses highest class for Saves,
+- Keep a separate HP tally for each class and use the higher of the    two for your character's HP.
+- Fighter/Wizards may cast spells in Light (Leather) and Medium (Chain) armor as long as they do not employ a shield.
+- Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
+- Thief skills can only be used in Light (Leather) armor.
 
-Alignment
+#### Alignment
 
-OED features 3 alignment options
+OED features 3 alignment options:
 
-*Lawful* beings want civilization peaceful and expanding; they take
-prisoners, pay taxes, obey the king.
+- _Lawful_ beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
+- _Neutral_ beings seek a balance, or are simply disinterested.
+- _Chaotic_ beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
-*Neutral* beings seek a balance, or are simply disinterested.
+## Equipment
 
-*Chaotic* beings want civilization broken down and destroyed; the never
-take prisoners and stab each other in the back. PCs should list their
-alignment as either neutral or lawful and secretly inform the DM.
+### Money
 
-Equipment
+**Starting Money**: 3d6x10 **Silver** Pieces (SP).
 
-Money
+**Silver Standard**: OED uses a Silver standard for money. A Silver Piece in OED has the buying power of a GP in traditional sources. In published sources replace references to "gold pieces' with "silver pieces", keeping original amount. Silver becomes Copper, Platinum becomes Gold and so on.
 
-**Starting Money**: 3d6x10 ***Si****lver*** Pieces (SP).
+**Calculating Costs**: For items not listed, take the historical value in shillings and multiply by 3 for SP cost.
 
-**Silver Standard**: OED uses a Silver standard for money. A Silver
-Piece in OED has the buying power of a GP in traditional sources. In
-published sources replace references to "gold pieces' with "silver
-pieces", keeping original amount. Silver becomes Copper, Platinum
-becomes Gold and so on.
+**Monthly Upkeep**: Equal to 1% of current XP (of highest class) in Silver Pieces, minimum 20sp. Paid monthly. If unpaid, the character suffers -10% to Attack rolls and HP, cumulative per month.
 
-**Calculating Costs**: For items not listed, take the historical value
-in shillings and multiply by 3 for SP cost.
+### Encumbrance
 
-**Monthly Upkeep**: Equal to 1% of current XP (of highest class) in
-Silver Pieces, minimum 20sp. Paid monthly. If unpaid, the character
-suffers -10% to Attack rolls and HP, cumulative per month.
+OED measures the encumbrance value of items in "stone", roughly equivalent to the historical unit. Characters can carry a number of stone equal to their Strength. A character's encumbrance affects their movement rate as shown below. This encumbrance level also functions as a modifier to some rolls.
 
-Encumbrance
+| Encumbrance Level | Stone Carried           | Effect                         |
+|-------------------|-------------------------|--------------------------------|
+| Level 0           | up to 1/3 Strength      | Full Movement Rate: 12"(60')   |
+| Level 1           | up to 2/3 Strength      | Movement Reduced 1/3: 9"(45')  |
+| Level 2           | up to Strength Score    | Movement Reduced 1/2 : 6"(30') |
+| Level 3           | up to 2x Strength Score | Movement Reduced to 0          |
 
-OED measures the encumbrance value of items in "stone", roughly
-equivalent to the historical unit. Characters can carry a number of
-stone equal to their Strength. A character's encumbrance affects their
-movement rate as shown below. This encumbrance level also functions as a
-modifier to some rolls.
-
-Encumbrance LevelStone CarriedEffect
-
-Level 0up to 1/3 StrengthFull Movement Rate: 12"(60')
-
-Level 1up to 2/3 StrengthMovement Reduced 1/3: 9"(45')
-
-Level 2up to Strength ScoreMovement Reduced 1/2 : 6"(30')
-
-Level 3up to 2x Strength ScoreMovement Reduced to 0
-
-Weapons
+### Weapons
 
 Weapons in OED fall into 4 types, Light, Medium, Heavy, and Ammo.
 
@@ -429,430 +281,305 @@ Weapons have 5 main properties.
 
 **Spears**: Can be used to attack from the 2^nd^ rank (+5') reach)
 
-**Axes**: +2 to hit targets in Medium/Heavy armor, or creatures with a
-tough hide (AC 5 or better)
+**Axes**: +2 to hit targets in Medium/Heavy armor, or creatures with a tough hide (AC 5 or better)
 
-**Clubs**: +4 to hit targets in Heavy armor, or creatures with a very
-tough hide (AC 3 or better)
+**Clubs**: +4 to hit targets in Heavy armor, or creatures with a very tough hide (AC 3 or better)
 
 **Ranged/Thrown**: -1 to Hit per 10', See also Firing at a Crowd below.
 
-  ----------------- ---------- ----------- -------- ------- ----------------------------------------
-  Weapon            Category   Cost (SP)   Damage   Stone   Properties
-  Cudgle            Light      \--         1d6      1/3     Thrown 60'; not a "Club" type weapon
-  Dagger            Light      3           1d4      1/3     "Sword"; Thrown 60'
-  Dagger (silver)   Light      30          1d4      1/3     "Sword"; Thrown 60'
-  Spear             Light      1           1d6      1/3     "Spear"; Thrown 60'
-  Hand Axe          Light      3           1d6      1/3     "Axe"; Thrown 60'
-  Mace              Light      5           1d6      1/3     "Club"; Thrown 60'
-  Hammer            Light      5           1d6      1/3     "Club"; Thrown 60'
-  Military Pick     Light      5           1d6      1/3     "Club"; Thrown 60'
-  Staff             Medium     1           1d6      1       Two Hands needed to attack
-  Sword             Medium     10          1d8      1       "Sword"
-  Polearm           Medium     7           1d8      1       "Spear"; Two Handed
-  Battle Axe        Medium     7           1d8      1       "Axe"
-  Morning Star      Medium     6           1d8      1       "Club"
-  2H Sword          Heavy      15          1d10     1       "Sword"
-  Lance             Heavy      4           1d8      1       "Spear"; x2 Damage on Charging Mount
-  Pike              Heavy      5           1d8      1       "Spear"; x2 Damage when set vs charge
-  Halberd           Heavy      7           1d10     1       "Axe"
-  Flail             Heavy      8           1d8      1       Ignore Target Shield Bonus
-  Sling             Light      1           \--      \--     Fire every other round; Range 60'
-  Light Crossbow    Light      15          \--      1/3     Fire every other round; Range 95'
-  Heavy X-bow       Heavy      25          \--      1       Fire every other round; Range 120'
-  Short Bow         Medium     25          \--      1/3     Range 75'
-  Long Bow          Heavy      40          \--      1/3     Range 105'
-  Composite Bow     Heavy      50          \--      1/3     Range 90'
-  Sling Bullets     Ammo       \--         1d4      1/3     Qty 10
-  Arrows            Ammo       5           1d6      1/3     Qty 20
-  Arrow (silver)    Ammo       5           1d6      \--     One Arrow
-  Quarrels          Ammo       5           1d6      1/3     Qty 30
-  Quiver/Case       N/A        5           \--      \--     Holds 20 Quarrels/30 Arrows/10 Bullets
-  ----------------- ---------- ----------- -------- ------- ----------------------------------------
+| Weapon          | Category | Cost (SP) | Damage | Stone | Properties                             |
+|-----------------|----------|-----------|--------|-------|----------------------------------------|
+| Cudgle          | Light    | \--       | 1d6    | 1/3   | Thrown 60'; not a "Club" type weapon   |
+| Dagger          | Light    | 3         | 1d4    | 1/3   | "Sword"; Thrown 60'                    |
+| Dagger (silver) | Light    | 30        | 1d4    | 1/3   | "Sword"; Thrown 60'                    |
+| Spear           | Light    | 1         | 1d6    | 1/3   | "Spear"; Thrown 60'                    |
+| Hand Axe        | Light    | 3         | 1d6    | 1/3   | "Axe"; Thrown 60'                      |
+| Mace            | Light    | 5         | 1d6    | 1/3   | "Club"; Thrown 60'                     |
+| Hammer          | Light    | 5         | 1d6    | 1/3   | "Club"; Thrown 60'                     |
+| Military Pick   | Light    | 5         | 1d6    | 1/3   | "Club"; Thrown 60'                     |
+| Staff           | Medium   | 1         | 1d6    | 1     | Two Hands needed to attack             |
+| Sword           | Medium   | 10        | 1d8    | 1     | "Sword"                                |
+| Polearm         | Medium   | 7         | 1d8    | 1     | "Spear"; Two Handed                    |
+| Battle Axe      | Medium   | 7         | 1d8    | 1     | "Axe"                                  |
+| Morning Star    | Medium   | 6         | 1d8    | 1     | "Club"                                 |
+| 2H Sword        | Heavy    | 15        | 1d10   | 1     | "Sword"                                |
+| Lance           | Heavy    | 4         | 1d8    | 1     | "Spear"; x2 Damage on Charging Mount   |
+| Pike            | Heavy    | 5         | 1d8    | 1     | "Spear"; x2 Damage when set vs charge  |
+| Halberd         | Heavy    | 7         | 1d10   | 1     | "Axe"                                  |
+| Flail           | Heavy    | 8         | 1d8    | 1     | Ignore Target Shield Bonus             |
+| Sling           | Light    | 1         | \--    | \--   | Fire every other round; Range 60'      |
+| Light Crossbow  | Light    | 15        | \--    | 1/3   | Fire every other round; Range 95'      |
+| Heavy X-bow     | Heavy    | 25        | \--    | 1     | Fire every other round; Range 120'     |
+| Short Bow       | Medium   | 25        | \--    | 1/3   | Range 75'                              |
+| Long Bow        | Heavy    | 40        | \--    | 1/3   | Range 105'                             |
+| Composite Bow   | Heavy    | 50        | \--    | 1/3   | Range 90'                              |
+| Sling Bullets   | Ammo     | \--       | 1d4    | 1/3   | Qty 10                                 |
+| Arrows          | Ammo     | 5         | 1d6    | 1/3   | Qty 20                                 |
+| Arrow (silver)  | Ammo     | 5         | 1d6    | \--   | One Arrow                              |
+| Quarrels        | Ammo     | 5         | 1d6    | 1/3   | Qty 30                                 |
+| Quiver/Case     | N/A      | 5         | \--    | \--   | Holds 20 Quarrels/30 Arrows/10 Bullets |
 
-Gear
+### Gear
+| Item                  | Cost (SP) | Encumbrance | Notes                                                                           |
+|-----------------------|-----------|-------------|---------------------------------------------------------------------------------|
+| Coins (1000)          | Varies    | 1           | When in an appropriate container                                                |
+| 10' Pole              | 1         | 1           |                                                                                 |
+| 50' of Rope           | 1         | 1/3         |                                                                                 |
+| 6 Torches             | 1         | 1/3         | Good light 30', dim light 60' radius, lasts 1 hour per torch                    |
+| 12 Iron Spikes        | 1         | 1/3         |                                                                                 |
+| Small Sack            | 1         | \--         | Holds 1/3 Stone                                                                 |
+| Large Sack            | 2         | \--         | Holds 2 Stone                                                                   |
+| Leather Back Pack     | 5         | 1/3         | Holds 3 Stone                                                                   |
+| Water/Wine Skin       | 1         | 1/3         | Encumbrance = when full, otherwise \--                                          |
+| Iron Rations (Dry)    | 15        | 1           | 1 weeks food for 1 person, resists spoilage                                     |
+| Rations (Fresh)       | 5         | 1           | 1 weeks food for 1 person                                                       |
+| Lantern               | 10        | 1/3         | Good light 30', dim light 60' radius, 4 hours per flask.                        |
+| Lantern Oil (Flask)   | 2         | 1/3         | Is not flammable but can ignite flammable items.                                |
+| 3 Stakes & Mallet     | 3         | 1/3         |                                                                                 |
+| Steel Mirror          | 5         | \--         |                                                                                 |
+| Silver Mirror (Small) | 15        | \--         |                                                                                 |
+| Holy Symbol (Wood)    | 2         | \--         |                                                                                 |
+| Holy Symbol (Silver)  | 25        | \--         |                                                                                 |
+| Holy Water (Vial)     | 25        | \--         |                                                                                 |
+| Spellbook             | 50        | 1/3         | Blank; Rugged; Can hold 1 level worth of spells.                                |
+| Thieves Tools         | 25        | 1/3         | Needed to Open Locks and Remove Traps                                           |
+| Wolfsbane (Bunch)     | 10        | \--         | Wards vs Lycanthropes (Must save vs Breath to attack)                           |
+| Belladona (Bunch)     | 10        | \--         | Lycanthropy cure, if consumed just after infection (Save vs poison for success) |
+| Garlic (Head)         | 5         | \--         | Wards vs Vampires (Must save vs Breath to attack)                               |
+| Wine (Quart)          | 1         | 1/3         |                                                                                 |
+| Mule                  | 20        | \--         | AC 7, Mv 60', HD 2+1, 24 stone, can go in dungeons                              |
+| Draft Horse           | 30        | \--         | AC 7, Mv 60', HD 2+1, 36 stone                                                  |
+| Light Horse           | 40        | \--         | AC 7, Mv 120', HD 2, 24 stone                                                   |
+| Warhorse (Medium)     | 100       | \--         | AC 7, Mv 90', HD 2+1, 36 stone, OK around fire/combat                           |
+| Warhorse (Heavy)      | 200       | \--         | AC 7, Mv 60', HD 3, 48 stone, OK around fire/combat                             |
+| Saddle                | 25        | 1/3         |                                                                                 |
+| Saddlebags            | 10        | \--         | Holds 3 stone                                                                   |
+| Horse Armor           | 150       | 4           | AC 5                                                                            |
+| Cart                  | 100       | \--         |                                                                                 |
+| Wagon                 | 200       | \--         |                                                                                 |
+| Raft                  | 40        | \--         |                                                                                 |
+| Rumors                | d6x10     | \--         | via rounds of drinks/bribes; generated by GM.                                   |
+| Post for Hirelings    | 100       | \--         | Attracts 1d3 1^st^ level potential recruits (see Hirelings)                     |
+| Potion of Healing     | 200       | \--         | Heals 1d6+1 HP                                                                  |
+| Potion of Mithridate  | 1,000     | \--         | Neutralizes Poison in imbiber                                                   |
+| Small Boat            | 100       | \--         |                                                                                 |
+| Small Merchant Ship   | 2,000     | \--         |                                                                                 |
+| Large Merchant Ship   | 20,000    | \--         |                                                                                 |
+| Small Galley          | 10,000    | \--         |                                                                                 |
+| Large Galley          | 30,000    | \--         |                                                                                 |
 
-  ----------------------- ----------- ------------- ---------------------------------------------------------------------------------
-  Item                    Cost (SP)   Encumbrance   Notes
-  Coins (1000)            Varies      1             When in an appropriate container
-  10' Pole                1           1             
-  50' of Rope             1           1/3           
-  6 Torches               1           1/3           Good light 30', dim light 60' radius, lasts 1 hour per torch
-  12 Iron Spikes          1           1/3           
-  Small Sack              1           \--           Holds 1/3 Stone
-  Large Sack              2           \--           Holds 2 Stone
-  Leather Back Pack       5           1/3           Holds 3 Stone
-  Water/Wine Skin         1           1/3           Encumbrance = when full, otherwise \--
-  Iron Rations (Dry)      15          1             1 weeks food for 1 person, resists spoilage
-  Rations (Fresh)         5           1             1 weeks food for 1 person
-  Lantern                 10          1/3           Good light 30', dim light 60' radius, 4 hours per flask.
-  Lantern Oil (Flask)     2           1/3           Is not flammable but can ignite flammable items.
-  3 Stakes & Mallet       3           1/3           
-  Steel Mirror            5           \--           
-  Silver Mirror (Small)   15          \--           
-  Holy Symbol (Wood)      2           \--           
-  Holy Symbol (Silver)    25          \--           
-  Holy Water (Vial)       25          \--           
-  Spellbook               50          1/3           Blank; Rugged; Can hold 1 level worth of spells.
-  Thieves Tools           25          1/3           Needed to Open Locks and Remove Traps
-  Wolfsbane (Bunch)       10          \--           Wards vs Lycanthropes (Must save vs Breath to attack)
-  Belladona (Bunch)       10          \--           Lycanthropy cure, if consumed just after infection (Save vs poison for success)
-  Garlic (Head)           5           \--           Wards vs Vampires (Must save vs Breath to attack)
-  Wine (Quart)            1           1/3           
-  Mule                    20          \--           AC 7, Mv 60', HD 2+1, 24 stone, can go in dungeons
-  Draft Horse             30          \--           AC 7, Mv 60', HD 2+1, 36 stone
-  Light Horse             40          \--           AC 7, Mv 120', HD 2, 24 stone
-  Warhorse (Medium)       100         \--           AC 7, Mv 90', HD 2+1, 36 stone, OK around fire/combat
-  Warhorse (Heavy)        200         \--           AC 7, Mv 60', HD 3, 48 stone, OK around fire/combat
-  Saddle                  25          1/3           
-  Saddlebags              10          \--           Holds 3 stone
-  Horse Armor             150         4             AC 5
-  Cart                    100         \--           
-  Wagon                   200         \--           
-  Raft                    40          \--           
-  Rumors                  d6x10       \--           via rounds of drinks/bribes; generated by GM.
-  Post for Hirelings      100         \--           Attracts 1d3 1^st^ level potential recruits (see Hirelings)
-  Potion of Healing       200         \--           Heals 1d6+1 HP
-  Potion of Mithridate    1,000       \--           Neutralizes Poison in imbiber
-  Small Boat              100         \--           
-  Small Merchant Ship     2,000       \--           
-  Large Merchant Ship     20,000      \--           
-  Small Galley            10,000      \--           
-  Large Galley            30,000      \--           
-  ----------------------- ----------- ------------- ---------------------------------------------------------------------------------
+### Armor
 
-Armor
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy
-(Plate), and Shields. Leather and Chain armor takes 1 minute to put on,
-Plate takes 10 minutes and requires assistance.
+| Item                 | Cost (Silver) | AC          | Encumbrance |
+|----------------------|---------------|-------------|-------------|
+| Unarmored            | \--           | 9           | \--         |
+| Leather              | 15            | 7           | 1           |
+| Chain Mail           | 50            | 5           | 2           |
+| Plate Mail           | 200           | 3           | 4           |
+| Shield               | 10            | -1          | 1           |
+| Helmet (Heavy Armor) | 10            | \*See Below | 1/3         |
 
-  ---------------------- --------------- ------------- -------------
-  Item                   Cost (Silver)   AC            Encumbrance
-  Unarmored              \--             9             \--
-  Leather                15              7             1
-  Chain Mail             50              5             2
-  Plate Mail             200             3             4
-  Shield                 10              -1            1
-  Helmet (Heavy Armor)   10              \*See Below   1/3
-  ---------------------- --------------- ------------- -------------
+\***Helmets**: if a helmet is _not_ worn, 1 in 6 attacks are against the head at AC 9.
 
-\***Helmets**: if a helmet is *not* worn, 1 in 6 attacks are against the
-head at AC 9.
+## Gameplay
 
-Gameplay
-
-The core mechanic of OED is the Target 20 roll as summarized below. Some
-game actions are resolved on an X in 6 chance using a d6 (see
-Adventuring)
+The core mechanic of OED is the Target 20 roll as summarized below. Some game actions are resolved on an X in 6 chance using a d6 (see Adventuring)
 
 **Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC ≥ 20
 
-**Ranged Attacks**:d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20
+**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20
 
 **Saving Throws**: d20 + Level + Save Mod ≥ 20
 
-*Save TypeSave Mod*
+| _Save Type_ | _Save Mod_ |
+|-------------|------------|
+| Spells      | +0         |
+| Breath      | +1         |
+| Stone       | +2         |
+| Wands       | +3         |
+| Death       | +4         |
 
-Spells+0
+**Ability Checks**: d20 + Level + Modifier ≥ 20
 
-Breath+1
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20
 
-Stone+2
+**Learn/Research Spell**: d20 + Wizard Level + Int Modifier ≥ 20
 
-Wands+3
+## Adventuring
 
-Death+4
+### Scale, Movement, and Time
 
-**Ability Checks:** d20 + Level + Modifier ≥ 20
+**Scale**: OED uses the below scale for dungeon combat. For battlefield scale see [*Book of War.*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461)
 
-**Thief Skills:** d20 + Thief Level + Dex Modifier ≥ 20
+| Unit        | Scale             |
+|-------------|-------------------|
+| 1 round     | 10 seconds        |
+| 1 turn      | 1 minute          |
+| 1' on table | 5 feet or 1"pace" |
 
-**Learn/Research Spell:**d20 + Wizard Level + Int Modifier ≥ 20
+**Movement**: All player races move at a rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'), a run is double again (240', sustainable for a few minutes), and a full sprint would be 300' sustainable for but a round. Walking is half (30').
 
-Adventuring
+**Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
-Scale, Movement, and Time
+### Light and Vision
 
-**Scale**: OED uses the below scale for dungeon combat. For battlefield
-scale see [*Book of
-War.*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461)
+**Lighting**:Torches and lanterns shed good light out to 30', and dim light out to 60'. In dim light one can make out basic shapes and/or glowing eyes.
 
-UnitScale
+**Infravision**: Infravision allows one to see (most) creatures in darkness clearly out to ½ the specified distance (30') and dimly out to the full listed distance (60'). It is spoiled when looking directly at a torch/fire source.
 
-1 round10 seconds
+**Darkness/Blindness**: []{#anchor}Creatures unable to see suffer a -4 penalty to AC and melee attacks. They cannot make ranged attacks (see errant shots below), move at half speed, and suffer -1 to morale.
 
-1 turn 1 minute
+### Adventuring Tasks
 
-1' on table5 feet or 1"pace"
+In OED a number of tasks are resolved with a d6 roll. The chance for success is listed as X in6, and can be modified a number of "pips" (numbers) up or down by circumstance or race/class ability.
 
-**Movement**: All player races move at a rate of 60' per round,
-equivalent to a light jog. A fast jog is double this (120'), a run is
-double again (240', sustainable for a few minutes), and a full sprint
-would be 300' sustainable for but a round. Walking is half (30').
-
-**Time:** Assume that the amount of time spent searching and exploring
-is analogous to actual time spent. This will result in checking for
-wandering monsters every 15 minutes of real time, adding a check for
-long searches (such as for secret doors, etc.).
-
-**Light and Vision**
-
-**Lighting: **Torches and lanterns shed good light out to 30', and dim
-light out to 60'. In dim light one can make out basic shapes and/or
-glowing eyes.
-
-**Infravision**: Infravision allows one to see (most) creatures in
-darkness clearly out to ½ the specified distance (30') and dimly out to
-the full listed distance (60'). It is spoiled when looking directly at a
-torch/fire source.
-
-**Darkness/Blindness:** []{#anchor}Creatures unable to see suffer a -4
-penalty to AC and melee attacks. They cannot make ranged attacks (see
-errant shots below), move at half speed, and suffer -1 to morale.
-
-**Adventuring Tasks**
-
-In OED a number of tasks are resolved with a d6 roll. The chance for
-success is listed as X in6, and can be modified a number of "pips"
-(numbers) up or down by circumstance or race/class ability.
-
-TaskChanceModifiers
-
-Climbing2 in 6+ Dexterity *Bonus*; Encumbrance Level (0-3); +2 for using
-a rope.
-
-Detection2 in 6+ Intelligence *Bonus*
-
-Doff Armor3 in 6Chance per round, Leather and Chain Only
-
-Force a Door2 in 6+ Strength *Bonus*: Locks/Bars -2, Reinforced Gates
--4, Solid Metal -6
-
-Swimming2 in 6\*+ Strength *Bonus*; -\# of Stone Stone carried; +/- 1
-for water conditions
-
-Tracking4 in 6\*\*+/- 1 small or large parties, inclement weather, and
-the like
+| Task         | Chance     | Modifiers                                                                  |
+|--------------|------------|----------------------------------------------------------------------------|
+| Climbing     | 2 in 6     | + Dexterity _Bonus_; Encumbrance Level (0-3); +2 for using a rope.         |
+| Detection    | 2 in 6     | + Intelligence _Bonus_                                                     |
+| Doff Armor   | 3 in 6     | Chance per round, Leather and Chain Only                                   |
+| Force a Door | 2 in 6     | + Strength _Bonus_: Locks/Bars -2, Reinforced Gates -4, Solid Metal -6     |
+| Swimming     | 2 in 6\*   | + Strength _Bonus_; -\# of Stone Stone carried; +/- 1 for water conditions |
+| Tracking     | 4 in 6\*\* | +/- 1 small or large parties, inclement weather, and the like              |
 
 \*Fighters and Thieves gain a +2 as noted in their class description,
 for a base 4 in 6 chance.
 
 \*\*Fighters with the Tracking feat only
 
-**Climbing**: When climbing you move at half speed on a successful
-check. A failed check is stalled movement. If you fail the roll by 2
-pips or greater you fall.
+**Climbing**: When climbing you move at half speed on a successful check. A failed check is stalled movement. If you fail the roll by 2 pips or greater you fall.
 
-**Climbing with Rope**: Grants a +2 to the roll and allows one to move
-downward at up to 4x speed. A sharp jolt while on the rope results in a
-1 in 20 chance for the rope to break.
+**Climbing with Rope**: Grants a +2 to the roll and allows one to move downward at up to 4x speed. A sharp jolt while on the rope results in a 1 in 20 chance for the rope to break.
 
-**Hauling with Rope:** A character can haul a load safely up or down a
-rope equal to their Strength score in Stone. A sharp jolt while on the
-rope results in a 1 in 20 chance for the rope to break.
+**Hauling with Rope**: A character can haul a load safely up or down a rope equal to their Strength score in Stone. A sharp jolt while on the rope results in a 1 in 20 chance for the rope to break.
 
-**Detection: **Used to find a secret door, listen at a door, discover a
-trap, etc. Listening can not be done while wearing a helmet.
+**Detection**: Used to find a secret door, listen at a door, discover a trap, etc. Listening can not be done while wearing a helmet.
 
-**Doff Armor: **It takes 1 round (each) to remove a shield, helm, or
-backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate
-requires 3 turns to remove with assistance.
+**Doff Armor**: It takes 1 round (each) to remove a shield, helm, or backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate requires 3 turns to remove with assistance.
 
-**Force a Door: **Limited to one character per door panel. Special tools
-(ropes, ram, etc.) will allow the summation of all character's Strength
-modifiers.
+**Force a Door**: Limited to one character per door panel. Special tools (ropes, ram, etc.) will allow the summation of all character's Strength modifiers.
 
-**Jumping: **A running jump will allow a creature to cover a distance of
-d6×3 feet, - encumbrance level. Half again for a long jump, half again
-for a vertical jump.
+**Jumping**: A running jump will allow a creature to cover a distance of d6×3 feet, - encumbrance level. Half again for a long jump, half again for a vertical jump.
 
-**Swimming:** When swimming you move at half speed on a successful
-check. A failed check is stalled movement. If you fail the roll by 2
-pips or greater you sink (see Drowning/Suffocation). You may swim at
-full speed with a -2 to the check.
+**Swimming**: When swimming you move at half speed on a successful check. A failed check is stalled movement. If you fail the roll by 2 pips or greater you sink (see Drowning/Suffocation). You may swim at full speed with a -2 to the check.
 
-Hazards
+### Hazards
 
-In general, all spells and harmful effects should require an attack or
-allow some form of saving throw to either negate the effect or result in
-half effect/damage.
+In general, all spells and harmful effects should require an attack or allow some form of saving throw to either negate the effect or result in half effect/damage.
 
-**Diseases:** When exposed to a disease hazard, a Save vs Breath will
-avoid Strength damage for the day. Recovery requires bed rest.
+**Diseases**: When exposed to a disease hazard, a Save vs Breath will avoid Strength damage for the day. Recovery requires bed rest.
 
-*Rat Plague*: -1d12 Strength per day. Recover 3 Strength per week of
-rest
+_Rat Plague_: -1d12 Strength per day. Recover 3 Strength per week of rest
 
-*Tick Fever*: -1d6 Strength per week. Recover 1 Strength per week of
-rest
+_Tick Fever_: -1d6 Strength per week. Recover 1 Strength per week of rest
 
-*Leech Fever*: -1 Strength per day. Recover 3 Strength per week of rest
+_Leech Fever_: -1 Strength per day. Recover 3 Strength per week of rest
 
-*Mummy Rot*: -1 Strength per day. Recovery (See Magic Diseases below)
+_Mummy Rot_: -1 Strength per day. Recovery (See Magic Diseases below)
 
-**Magic Diseases: **Magical disease such as Lycanthropy and Mummy Rot
-can be removed via the Remove Curse spell in place of the Remove Disease
-spell.
+**Magic Diseases**:Magical disease such as Lycanthropy and Mummy Rot can be removed via the Remove Curse spell in place of the Remove Disease spell.
 
-**Drowning/Suffocation**: You have a 50% chance each round without air
-to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6
-damage per Turn (minute) without air. Damage is doubled if surprised.
+**Drowning/Suffocation**: You have a 50% chance each round without air to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6 damage per Turn (minute) without air. Damage is doubled if surprised.
 
-**Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A
-successful Save vs Stone halves the damage. Damage may be modified by 1
-or 2 pips per die based on landing surface.
+**Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A successful Save vs Stone halves the damage. Damage may be modified by 1 or 2 pips per die based on landing surface.
 
-**Level Drain**: Characters are allowed a Save vs Death to avoid Level
-Drain effect. If the save is failed, XP is set to the midpoint of the
-prior level. Current and Max HP are reduced proportionally (divide by
-original level), possibly resulting in death at 0hp. The number of lost
-HP should be noted and returned if/when the level is re-achieved.
+**Level Drain**: Characters are allowed a Save vs Death to avoid Level Drain effect. If the save is failed, XP is set to the midpoint of the prior level. Current and Max HP are reduced proportionally (divide by original level), possibly resulting in death at 0hp. The number of lost HP should be noted and returned if/when the level is re-achieved.
 
-**Poison: **Unless otherwise specified, a failed save vs poison means
-incapacitation, then death in 1d6 rounds. Normal animals may have
-delayed or non-fatal effect (HP damage, Incapacitation, etc.)
+**Poison**:Unless otherwise specified, a failed save vs poison means incapacitation, then death in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
 
-Combat
+## Combat
 
-**Surprise**: Parties are surprised on a roll of 2 in 6. If the foes are
-unseen (hidden, invisible, elven cloak, etc.) the chance is increased by
-2 pips. If the foes are silent (motionless, undead, moving silently,
-etc.) the chance is increased by 2 pips. A warning (the presence of
-light, noisy action, magic detection, etc.) negates the surprise roll. A
-party with the advantage of surprise gets a free round of action before
-initiative is rolled.
+**Surprise**: Parties are surprised on a roll of 2 in 6. If the foes are unseen (hidden, invisible, elven cloak, etc.) the chance is increased by 2 pips. If the foes are silent (motionless, undead, moving silently, etc.) the chance is increased by 2 pips. A warning (the presence of light, noisy action, magic detection, etc.) negates the surprise roll. A party with the advantage of surprise gets a free round of action before initiative is rolled.
 
-**Initiative**: Roll a d6 per side; high rolling side goes first; ties
-go to players. Players declare and resolve actions around the table in
-order.
+**Initiative**: Roll a d6 per side; high rolling side goes first; ties go to players. Players declare and resolve actions around the table in order.
 
-**Actions**: On their turn, characters can move and then take an action,
-in that order. The following actions *disallow* movement during that
-round:
+**Actions**: On their turn, characters can move and then take an action, in that order. The following actions _disallow_ movement during that round:
 
--   Casting a Spell
--   Set a Pike
--   Retrieve a Scroll
--   Use a Retrieved Scroll
--   Retrieve and Use a Potion
--   Ranged Attacks (unless a weapon thrown in the same direction as the
-    character's movement)
+- Casting a Spell
+- Set a Pike
+- Retrieve a Scroll
+- Use a Retrieved Scroll
+- Retrieve and Use a Potion
+- Ranged Attacks (unless a weapon thrown in the same direction as the character's movement)
 
-**Fleeing: **A creature can flee combat and does not draw a free attack
-at its back, but does suffer the penalty for attacks to the rear.
+**Fleeing**:A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear.
 
-**Withdraw: **In combat a creature can move up to half their speed
-without turning their back on the enemy, preventing an attack against
-the rear flank.
+**Withdraw**:In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
 
-**Natural 1**: A roll of 1 on a d20 counts as a -10. On attack rolls,
-the Judge rolls a d20 with the following results: 1 = Hit Self, 2 = Hit
-Ally, 3 = Slip & Fall, 4 = Damage Weapon, 5 = Drop Weapon, 6+ = No
-Fumble.
+**Natural 1**: A roll of 1 on a d20 counts as a -10. On attack rolls, the Judge rolls a d20 with the following results: 1 = Hit Self, 2 = Hit Ally, 3 = Slip & Fall, 4 = Damage Weapon, 5 = Drop Weapon, 6+ = No Fumble.
 
-**Natural 20: **A roll of 20 counts as a 30. On attacks rolls, roll
-damage twice with all bonuses included.
+**Natural 20**:A roll of 20 counts as a 30. On attacks rolls, roll damage twice with all bonuses included.
 
-**Combat Modifiers**: The following situational modifiers may be added
-to attack rolls.
+**Combat Modifiers**: The following situational modifiers may be added to attack rolls.
 
-Attacks to the target's rear: +2 to hit & To hit roll ignores shield AC.
+- Attacks to the target's rear: +2 to hit & To hit roll ignores shield AC.
+- Attacker is silent or unseen: +4 to hit
+- Target is stunned, stationary: +4 to hit
+- Target is helpless:+6 to Ranged attacks; Automatic Melee attacks for full damage
+- Target has no Helmet:1 in 6 chance attack is to the head vs AC 9 (humanoids only)
 
-Attacker is silent or unseen: +4 to hit
+**Shots at Groups**:When firing at a specific individual in a crowd, if the attack roll (d20+To Hit+Dex Modifier+Range/Attack Modifiers; but _not_ AC) is less than 10, it misses the (man-size) target.
 
-Target is stunned, stationary: +4 to hit
+An "**errant shot**" is triggered if that attack roll is between 10 and 10 minus the number of creatures in the group. Ex: If the target is in a squad of 5 other men, an errant shot occurs on 5-9. If the target group has 10 men, then a roll of 0-9 indicates an errant shot.
 
-Target is helpless:+6 to Ranged attacks; Automatic Melee attacks for
-full damage
+**Errant Shots**:When making a ranged attack to hit any target in a crowd (or on a fumbled attack against a specific target in a crowd), the attack is resolved by d20+AC ≥ 20. Range penalties are ignored.
 
-Target has no Helmet:1 in 6 chance attack is to the head vs AC 9
-(humanoids only)
+## Death and Healing
 
-**Shots at Groups: **When firing at a specific individual in a crowd, if
-the attack roll (d20+To Hit+Dex Modifier+Range/Attack Modifiers; but
-*not* AC) is less than 10, it misses the (man-size) target.
+**Zero Hit Point**s: When a character reaches or goes below 0 hit points, they must immediately make a Save vs Death. Failure means the character is Dead. Success results in the character stabilizing at 0HP, waking in 1d6 turns, in an incapacitated state. Any healing (returning the character to 1 HP) will restore normal activity.
 
-An "**errant shot**" is triggered if that attack roll is between 10 and
-10 minus the number of creatures in the group. Ex: If the target is in a
-squad of 5 other men, an errant shot occurs on 5-9. If the target group
-has 10 men, then a roll of 0-9 indicates an errant shot.
+**Natural Healing**: Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con _Bonus_ per week of rest and comfort. The creature can not undergo other meaningful activities.
 
-**Errant Shots: **When making a ranged attack to hit any target in a
-crowd (or on a fumbled attack against a specific target in a crowd), the
-attack is resolved by d20+AC ≥ 20. Range penalties are ignored.
+**Magical Healing**:The only common source of magical healing in OED are potions of healing and potions of mithridate (neutralize poison) which are available from Wizards and NPC Alchemists. There is no common source of regeneration, resurrection, or restoration magic.
 
-Death and Healing
+**Character Death**: Players can bring in a new 1^st^ level character at the completion of current combat/activity.
 
-**Zero Hit Point**s: When a character reaches or goes below 0 hit
-points, they must immediately make a Save vs Death. Failure means the
-character is Dead. Success results in the character stabilizing at 0HP,
-waking in 1d6 turns, in an incapacitated state. Any healing (returning
-the character to 1 HP) will restore normal activity.
+## Spells
 
-**Natural Healing**: Creatures regain a number of Hit Points equal to
-Level (Hit Dice) + Con *Bonus* per week of rest and comfort. The
-creature can not undergo other meaningful activities.
+OED makes the below spells available to the Wizard class. Spell attributes and effects have been standardized and are available in the [*OED Book of Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 
-**Magical Healing: **The only common source of magical healing in OED
-are potions of healing and potions of mithridate (neutralize poison)
-which are available from Wizards and NPC Alchemists. There is no common
-source of regeneration, resurrection, or restoration magic.
+| **Level 1**               | **Level 2**                | **Level 3**                   |
+|---------------------------|----------------------------|-------------------------------|
+| 1\. Charm Person          | 1\. Continuing Light       | 1\. Clairaudience             |
+| 2\. Detect Magic          | 2\. Darkness               | 2\. Clairvoyance              |
+| 3\. Hold Portal           | 3\. Detect Evil            | 3.Dispel Magic                |
+| 4\. Light                 | 4\. Detect Invisibility    | 4\. Fireball                  |
+| 5\. Magic Missile         | 5\. Invisibility           | 5\. Fly                       |
+| 6\. Protection from Evil  | 6\. Knock                  | 6\. Haste                     |
+| 7\. Read Languages        | 7\. Levitate               | 7\. Hold Person               |
+| 8\. Read Magic            | 8\. Locate Object          | 8\. Infravision               |
+| 9\. Shield                | 9\. Magic Mouth            | 9\. Invisibility Sphere       |
+| 10\. Sleep                | 10\. Mirror Image          | 10\. Lightning Bolt           |
+|                           | 11\. Phantasmal Force      | 11\. Protection from Missiles |
+|                           | 12\. Pyrotechnics          | 12\. Protective Sphere        |
+|                           | 13\. Read Minds            | 13\. Rope Trick               |
+|                           | 14\. Strength              | 14\. Slow                     |
+|                           | 16\. Wizard Lock           | 16\. Water Breathing          |
+| **Level 4**               | **Level 5**                | **Level 6**                   |
+| 1\. Charm Monster         | 1\. Animal Growth          | 1\. Antimagic Sphere          |
+| 2\. Confusion             | 2\. Animate Dead           | 2\. Control Weather           |
+| 3\. Dimension Door        | 3\. Cloudkill              | 3\. Death Spell               |
+| 4\. Extend Spell          | 4\. Conjure Elemental      | 4\. Disintegrate              |
+| 5\. Fear                  | 5\. Contact Other Plane    | 5\. Geas                      |
+| 6\. Hallucinatory Terrain | 6\. Feeblemind             | 6\. Invisible Stalker         |
+| 7\. Ice Storm             | 7\. Hold Monster           | 7\. Legend Lore               |
+| 8\. Plant Growth          | 8\. Magic Jar              | 8\. Lower Water               |
+| 9\. Polymorph Other       | 9\. Passwall               | 9\. Move Earth                |
+| 10\. Polymorph Self       | 10\. Telekinesis           | 10\. Project Image            |
+| 11\. Remove Curse         | 11\. Teleport              | 11\. Reincarnate              |
+| 12\. Wall of Fire         | 12\. Transmute Rock to Mud | 12\. Stone to Flesh           |
+| 13\. Wall of Ice          | 13\. Wall of Iron          |                               |
+| 14\. Wizard Eye           | 14\. Wall of Stone         |                               |
 
-**Character Death**: Players can bring in a new 1^st^ level character at
-the completion of current combat/activity.
+## NPCs
 
-Spells
-
-OED makes the below spells available to the Wizard class. Spell
-attributes and effects have been standardized and are available in
-the[]{#anchor-1} [*OED Book of
-Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
-
-  --------------------------- ---------------------------- -------------------------------
-  Level 1                     Level 2                      Level 3
-  1\. Charm Person            1\. Continuing Light         1\. Clairaudience
-  2\. Detect Magic            2\. Darkness                 2\. Clairvoyance
-  3\. Hold Portal             3\. Detect Evil              3.Dispel Magic
-  4\. Light                   4\. Detect Invisibility      4\. Fireball
-  5\. Magic Missile           5\. Invisibility             5\. Fly
-  6\. Protection from Evil    6\. Knock                    6\. Haste
-  7\. Read Languages          7\. Levitate                 7\. Hold Person
-  8\. Read Magic              8\. Locate Object            8\. Infravision
-  9\. Shield                  9\. Magic Mouth              9\. Invisibility Sphere
-  10\. Sleep                  10\. Mirror Image            10\. Lightning Bolt
-                              11\. Phantasmal Force        11\. Protection from Missiles
-                              12\. Pyrotechnics            12\. Protective Sphere
-                              13\. Read Minds              13\. Rope Trick
-                              14\. Strength                14\. Slow
-                              15\. Web                     15\. Suggestion
-                              16\. Wizard Lock             16\. Water Breathing
-                                                           
-  Level 4                     Level 5                      Level 6
-  1\. Charm Monster           1\. Animal Growth            1\. Antimagic Sphere
-  2\. Confusion               2\. Animate Dead             2\. Control Weather
-  3\. Dimension Door          3\. Cloudkill                3\. Death Spell
-  4\. Extend Spell            4\. Conjure Elemental        4\. Disintegrate
-  5\. Fear                    5\. Contact Other Plane      5\. Geas
-  6\. Hallucinatory Terrain   6\. Feeblemind               6\. Invisible Stalker
-  7\. Ice Storm               7\. Hold Monster             7\. Legend Lore
-  8\. Plant Growth            8\. Magic Jar                8\. Lower Water
-  9\. Polymorph Other         9\. Passwall                 9\. Move Earth
-  10\. Polymorph Self         10\. Telekinesis             10\. Project Image
-  11\. Remove Curse           11\. Teleport                11\. Reincarnate
-  12\. Wall of Fire           12\. Transmute Rock to Mud   12\. Stone to Flesh
-  13\. Wall of Ice            13\. Wall of Iron            
-  14\. Wizard Eye             14\. Wall of Stone           
-  --------------------------- ---------------------------- -------------------------------
-
-NPCs
-
-It is recommended that the Judge keep a short roster of basic NPC info
-(names, stats, personality).
+It is recommended that the Judge keep a short roster of basic NPC info (names, stats, personality).
 
 NPC types can be generate randomly below.
 
-**Ability Scores: **As below based on level.
+**Ability Scores**:As below based on level.
 
 **Race**: 1-3 (Human), 4 (Halfling), 5 (Dwarf), 6 (Elf)
 
@@ -860,77 +587,47 @@ NPC types can be generate randomly below.
 
 **Alignment**: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
 
-The Judge should run the NPC initially and for the next session generate
-full stats for the player's reference including personality, (public)
-alignment, morale, equipment, and treasure share.
+The Judge should run the NPC initially and for the next session generate full stats for the player's reference including personality, (public) alignment, morale, equipment, and treasure share.
 
 NPC's bequeath their belongings to their next of kin.
 
-Zero Level Characters
+## Zero Level Characters
 
-**Generation**: Normal folk are assumed to be 0 Level. Their Ability
-Scores are generated via 3d6 in order. They have 1d6 Hit Points. Their
-attack and saves bonuses are +0. They can make use of up to 3 weapons
-(ex: Sling, Sword, Pike). They possess -1,000 xp.
+**Generation**: Normal folk are assumed to be 0 Level. Their Ability Scores are generated via 3d6 in order. They have 1d6 Hit Points. Their attack and saves bonuses are +0. They can make use of up to 3 weapons (ex: Sling, Sword, Pike). They possess -1,000 xp.
 
-**Advancing to 1**^**st**^** Level**: When earning 1000xp, to arrive at
-0xp, the character can enter one of the three basic classes. Entry to a
-class presumes they have undergone one of the following: An act of
-combat for Fighter, an act of larceny for a Thief, learning the Read
-Magic spell for Wizard. Entry into the Fighter class grants +1HP, entry
-into the Wizard class removes 1 HP (minimum 1).
+**Advancing to 1**^**st**^**Level**: When earning 1000xp, to arrive at 0xp, the character can enter one of the three basic classes. Entry to a class presumes they have undergone one of the following: An act of combat for Fighter, an act of larceny for a Thief, learning the Read Magic spell for Wizard. Entry into the Fighter class grants +1HP, entry into the Wizard class removes 1 HP (minimum 1).
 
-Higher Level Characters
+## Higher Level Characters
 
-**Ability Scores:** For characters levels 1 -3, generate scores normally
-(2d6+6 for one, 3d6 in order for the rest). Levels 4-7, generate two
-scores via 2d6+6, 3d6 in order for the rest. Level 8 or greater:
-Generate one score via 2d4+10, two more via 2d6+6, and the rest 3d6 in
-order.
+**Ability Scores**: For characters levels 1 -3, generate scores normally (2d6+6 for one, 3d6 in order for the rest). Levels 4-7, generate two scores via 2d6+6, 3d6 in order for the rest. Level 8 or greater: Generate one score via 2d4+10, two more via 2d6+6, and the rest 3d6 in order.
 
-**Hit Points:** High-level characters re-roll Hit Point rolls of 1 or 2
-for all their levels at the time of generation, then progress normally.
+**Hit Points**: High-level characters re-roll Hit Point rolls of 1 or 2 for all their levels at the time of generation, then progress normally.
 
-**Languages**: Give one extra language per level up to Intelligence
-limit.
+**Languages**: Give one extra language per level up to Intelligence limit.
 
-**Equipment**: Can select any mundane bit of gear to carry on person,
-encumbrance permitting.
+**Equipment**: Can select any mundane bit of gear to carry on person, encumbrance permitting.
 
-**Spellsbooks**: Randomly generate a Wizards spellbook using the table
-on Supplement 1 page 8, or use the [*Wizard Spellbook
-Generator*](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html).
-Generally, give the maximum number of low level spells, the minimum
-number of high level spells, and extrapolate in between (See Spells
-above)
+**Spellsbooks**: Randomly generate a Wizards spellbook using the table on Supplement 1 page 8, or use the [*Wizard Spellbook Generator*](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html). Generally, give the maximum number of low level spells, the minimum number of high level spells, and extrapolate in between (See Spells above)
 
-**Magic Items**: For *every* level of the character's highest class;
-roll a d6 for *each* of the below magic item categories. A result of 1
-awards that magic item. Ex. a 6^th^ level character would a d6 six times
-to see if they get a Sword or Wand, then a d6 six more times for Armor
-or Scroll, and so on.
+**Magic Items**: For _every_ level of the character's highest class; roll a d6 for _each_ of the below magic item categories. A result of 1 awards that magic item. Ex. a 6^th^ level character would a d6 six times to see if they get a Sword or Wand, then a d6 six more times for Armor or Scroll, and so on.
 
-Sword or Wand
+- Sword or Wand
+- Armor or Scroll
+- Potion
+- Weapon, Ring, or Misc. (roll 1d3 to determine which it is)
 
-Armor or Scroll
+Each additional "hit" for a given item type indicates an additional +1 bonus, dosage, or ability.
 
-Potion
+## Hirelings
 
-Weapon, Ring, or Misc. (roll 1d3 to determine which it is)
-
-Each additional "hit" for a given item type indicates an additional +1
-bonus, dosage, or ability.
-
-Hirelings
-
-**Posting Advertisements:** Every 100sp spent on posts/agents will
+**Posting Advertisements**: Every 100sp spent on posts/agents will
 attract 1d3 first level recruits within 1d6 days. The maximum number of
 potential recruits is equal to 1% of the settlements population
 (approximately 3 such folks in a typical hamlet). Populations will
 refresh once per season. Calls to far, elf, or dwarf lands will multiply
 the cost and time.
 
-**Offers and Shares:** The default rate for a Hireling is 100sp plus a
+**Offers and Shares**: The default rate for a Hireling is 100sp plus a
 "half share" of the treasure (and XP) split. The NPC will accept this
 offer based on the outcome of a reaction roll (2d6+Cha Mod ≥ 9). The
 roll can be modified by the quality of the offer.
@@ -989,20 +686,20 @@ or throughout gameplay. The cost is 1d6x10 sp, which represents buying
 drinks for locals, bribing guards, and buying odds and ends from
 traveling merchants.
 
-**Generating Rumors:** Rumor can be generated with a series of d6 rolls
+**Generating Rumors**: Rumor can be generated with a series of d6 rolls
 as shown below.
 
-*Veracity*: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
+_Veracity_: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
 
-*Topic*: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules
+_Topic_: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules
 Lore
 
-> *Dungeon Location*: Choose a level of the current dungeon
+> _Dungeon Location_: Choose a level of the current dungeon
 
-> *Wilderness Location*: Choose a location in a neighboring hex (d6),
+> _Wilderness Location_: Choose a location in a neighboring hex (d6),
 > lair, new dungeon, etc.
 
-> *Rules Lore*: How to cure Mummy Rot, Wandering Monsters in Area, Holy
+> _Rules Lore_: How to cure Mummy Rot, Wandering Monsters in Area, Holy
 > Water is bunk, etc.
 
 Rewards
@@ -1039,21 +736,21 @@ The table below dictates the type of treasure present.
   8-9                                                                                                                                                        d6 x 5,000    d6 x 1,000       40% each for d6 of either   20%
   10-12                                                                                                                                                      d6 x 5,000    d6 x 2,000       50% each for d6 of either   25%
   13+                                                                                                                                                        d6 x 10,000   d6 x 5,000       50% each for d6 of either   30%
-  \* There is a 10% chance the coinage is in gold                                                                                                                                                                       
-  \*\* Gems and Jewelry can be generated using the tables in Vol II page 40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp each.                                                                   
-  \*\*\* Magic items can be generated using the tables in Vol II page 23, or [**The Magic Table**](https://www.paulsgameblog.com/2018/06/28/magic-tables/)                                                              
+  \* There is a 10% chance the coinage is in gold
+  \*\* Gems and Jewelry can be generated using the tables in Vol II page 40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp each.
+  \*\*\* Magic items can be generated using the tables in Vol II page 23, or [**The Magic Table**](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ---------------- --------------------------- -------------
 
 **Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
 charges when found. Staves can have a maximum of 40 charges and have
 d20+20 charges when found.
 
-**Magic Item Saves: ** Grant a +2 bonus to saves and rolls to resist
+**Magic Item Saves**: Grant a +2 bonus to saves and rolls to resist
 harm for each plus or special ability.
 
 **Intelligent Swords**: When in conflict; d20 + (Character Intelligence
 & Charisma) - (Sword Ego & Intelligence) + Wound Modifier ≥ 20. You can
-jot down the simplified formula in the Sword stats. *Wound Modifier*:
+jot down the simplified formula in the Sword stats. _Wound Modifier_:
 Full HP = +15, Half or more = +10, Less than Half = +5
 
 Experience Points
@@ -1097,24 +794,24 @@ power. This is used to determine monster encounters and XP rewards.
 **Monster Damage**: Monster damage is determined on a 1d6, unless
 otherwise noted.
 
-**Monster Strength:** If necessary, you can assume a Monster's Strength
+**Monster Strength**: If necessary, you can assume a Monster's Strength
 modifier is equal to ½ its Hit Die.
 
-**Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it
+**Magic to Hit**: For every 4 _natural_ Hit Die a creature possesses, it
 is capable of harming creatures that normally require +1 magic weapon to
 hit.
 
-**Languages:** It is assumed than an intelligent creature has a base 1
+**Languages**: It is assumed than an intelligent creature has a base 1
 in 6 chance to speak common.
 
-**Gaze Attacks: **Creatures facing beings with Gaze Attacks must make a
+**Gaze Attacks**:Creatures facing beings with Gaze Attacks must make a
 Save each round unless precautions are taken.
 
-**Chimera/Gorgons: **Each round roll a 2d6, a result of 7+ means the
+**Chimera/Gorgons**:Each round roll a 2d6, a result of 7+ means the
 creature will use its breath weapon. It can use its breath weapon a
 total of 3 times per day.
 
-**Dragons: **Divide the Dragon's HP by 3 to determine its Hit Dice. Use
+**Dragons**:Divide the Dragon's HP by 3 to determine its Hit Dice. Use
 this Hit Dice value to determine Attacks and Saves. []{#anchor-2}Each
 round roll a 2d6, a result of 7+ means the creature will use its breath
 weapon. It can use its breath weapon a total of 3 times per day. A
@@ -1123,7 +820,7 @@ currently possesses. Dragons can force a morale check on NPCs within 75
 feet. They have a 2 in 6 chance to detect creatures within 75 feet.
 Dragon subdual rules are not used.
 
-**Goblin-kin: **Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1
+**Goblin-kin**:Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1
 to Morale in full daylight.
 
 **Giants**: Giants can throw a stone every other round at ranges of of
@@ -1157,10 +854,10 @@ Wandering Monsters
 **Checks**: Make a 1 in 6 check for wandering monsters using the below
 guidelines:
 
--   Every 15 minutes of real time play.
--   During long searches, such as those for secret doors, etc.
--   On the parties exit from dungeon.
--   In the presence of loud/combat noise.
+- Every 15 minutes of real time play.
+- During long searches, such as those for secret doors, etc.
+- On the parties exit from dungeon.
+- In the presence of loud/combat noise.
 
 If a wandering monster result is indicated, use the Monster
 Determination information below. Multiple parties of monsters may attack
@@ -1174,11 +871,11 @@ result against the level of the dungeon (depth) in question. This will
 give you the "Threat" rank (I -- VI) of the monster.
 
   --------------------- ----------- ----- ----- ----- ----- -----
-  Dungeon Level Depth   d6 Result                           
-                                                            
-  1                     1-4         5     6                 
-  2                     1-2         3-4   5     6           
-  3-4                   1           2     3-4   5     6     
+  Dungeon Level Depth   d6 Result
+
+  1                     1-4         5     6
+  2                     1-2         3-4   5     6
+  3-4                   1           2     3-4   5     6
   5-7                               1     2     3-4   5     6
   8-10                                    1     2     3-4   5-6
   11+                                           1     2     3-6
@@ -1293,8 +990,8 @@ indicates The EHD for this creature is highly situational.
   Yeti                      7     Green Dragon              14    Stone Golem              55
   Giant Slug                8     Medium Roc                14    Beholder                 60
   Griffon                   8     Blue Dragon               15    Iron Golem               140
-  Hill Giant                8     Flesh Golem               15                             
-  Invisible Stalker         8     Small Fire Elemental      15                             
+  Hill Giant                8     Flesh Golem               15
+  Invisible Stalker         8     Small Fire Elemental      15
   ------------------------- ----- ------------------------- ----- ------------------------ -----
 
 For a more detailed list of appropriate monsters and Equivalent Hit
@@ -1318,11 +1015,11 @@ level of the dungeon (depth) in question. This will give you the
 Finally roll a d12 and match the result to the given Threat rank.
 
   --------------------- ------------- ----- ----- ----- ----- -----
-  Dungeon Level Depth   d6 Result\*                           
-                                                              
-  1                     1-4           5     6                 
-  2                     1-2           3-4   5     6           
-  3-4                   1             2     3-4   5     6     
+  Dungeon Level Depth   d6 Result\*
+
+  1                     1-4           5     6
+  2                     1-2           3-4   5     6
+  3-4                   1             2     3-4   5     6
   5-7                                 1     2     3-4   5     6
   8-10                                      1     2     3-4   5-6
   11+                                             1     2     3-6
@@ -1330,8 +1027,8 @@ Finally roll a d12 and match the result to the given Threat rank.
   --------------------- ------------- ----- ----- ----- ----- -----
 
   ----- --------------------- ------------------- ------------------------- ------------------------- --------------------------- ---------------------------------------
-  d12   Trap by Threat Rank                                                                                                       
-  I     II                    III                 IV                        V                         VI                          
+  d12   Trap by Threat Rank
+  I     II                    III                 IV                        V                         VI
   1     Pit, Covered          Pit, Locking        Pit, Spiked               Pit, Spiked -- Poison     Pit, Locking, - Monster     Pit, Spiked, Poison, Locked, Flooding
   2     Pit, Open -- Spiked   Pit, Watery         Pit, Monster              Pit, Flooding             Pit, Locking, Flooding      Pit, Locking, Crushing
   3     Darts 1d3             Arrows 1d6          Arrows, Weak Poison 1d6   Darts 2d6                 Arrows, Poison 1d6          Darts, Poison 2d6
@@ -1364,50 +1061,50 @@ rank), add 10\' to pit depth (+1d6 damage) per level difference.
 
 Optionally, convert any pit to a chute to a lower level.
 
-**Pit, Covered: **Save vs. stone to avoid falling damage
+**Pit, Covered**:Save vs. stone to avoid falling damage
 
-**Pit, Open, Spiked: **PCs will not fall into an open pit accidentally**
+**Pit, Open, Spiked**:PCs will not fall into an open pit accidentally**
 **unless running, pushed, etc.; spikes do 1d6 damage in addition to fall
 damage
 
-**Pit, Locking: **Requires magic to escape, or an outside character to
-Force Door (2in6 plus Strength *Bonus*)
+**Pit, Locking**:Requires magic to escape, or an outside character to
+Force Door (2in6 plus Strength _Bonus_)
 
-**Pit, Watery: **Requires swim check or begin drowning** **(1d3
+**Pit, Watery**:Requires swim check or begin drowning****(1d3
 damage/round)
 
-**Pit, Spiked: **Spikes do 1d6 damage in addition to fall damage
+**Pit, Spiked**:Spikes do 1d6 damage in addition to fall damage
 
-**Pit, Monster: **Roll for random unintelligent monster appropriate for
+**Pit, Monster**:Roll for random unintelligent monster appropriate for
 dungeon level
 
-**Pit, Spiked, Poison: **Spikes do 1d6 damage in addition to fall
-damage.** **If the save for half fall damage is failed, victim must then
+**Pit, Spiked, Poison**:Spikes do 1d6 damage in addition to fall
+damage.****If the save for half fall damage is failed, victim must then
 save vs. death
 
-**Pit, Flooding: **Torrent forces victim to bottom (drowning damage
+**Pit, Flooding**:Torrent forces victim to bottom (drowning damage
 1d3/round); victims require outside assistance to escape (must hit AC 2
 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Monster: **Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength *Bonus*). Roll for random
+**Pit, Locking, Monster**:Requires magic to escape, or an outside
+character to Force Door (2in6 plus Strength _Bonus_). Roll for random
 unintelligent monster appropriate for dungeon level
 
-**Pit, Locking, Flooding: **Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength *Bonus*). Torrent forces
+**Pit, Locking, Flooding**:Requires magic to escape, or an outside
+character to Force Door (2in6 plus Strength _Bonus_). Torrent forces
 victim to bottom (drowning damage 1d3/round); victims require outside
 assistance to escape (must hit AC 2 to grab pole or rope and be pulled
 out)
 
-**Pit, Spiked, Poison, Locking, Flooding: **Spikes do 1d6 damage in
-addition to fall damage.** **If the save for half fall damage is failed,
+**Pit, Spiked, Poison, Locking, Flooding**:Spikes do 1d6 damage in
+addition to fall damage.****If the save for half fall damage is failed,
 victim must then save vs. death. Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength *Bonus*). Torrent forces
+character to Force Door (2in6 plus Strength _Bonus_). Torrent forces
 victim to bottom (drowning damage 1d3/round); victims require outside
 assistance to escape (AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Crushing: **Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength *Bonus*). Walls start
+**Pit, Locking, Crushing**:Requires magic to escape, or an outside
+character to Force Door (2in6 plus Strength _Bonus_). Walls start
 crushing in 1d3 rounds, requires save vs. death each round thereafter
 
 Shooting Traps
@@ -1416,34 +1113,34 @@ The basic shooting trap attacks as a 3 Hit Die monster and fires the
 listed number of projectiles randomly at characters in the trigger zone.
 On a roll of 1 the Judge may decide the trap has run out of ammo.
 
-**Darts (1d3):** Attacks as 3HD monster, 1d4 damage each
+**Darts (1d3)**: Attacks as 3HD monster, 1d4 damage each
 
-**Arrows (1d3):** Attacks as 3HD monster, 1d6 each damage each
+**Arrows (1d3)**: Attacks as 3HD monster, 1d6 each damage each
 
-**Arrows (1d6):** Attacks as 3HD monster, 1d6 damage each
+**Arrows (1d6)**: Attacks as 3HD monster, 1d6 damage each
 
-**Spears (1d6): **Attacks as 3HD monster, damage 1d6 each
+**Spears (1d6)**:Attacks as 3HD monster, damage 1d6 each
 
-**Arrows (1d6), Weak Poison: **Attacks as 3HD monster, 1d6 damage each,
+**Arrows (1d6), Weak Poison**:Attacks as 3HD monster, 1d6 damage each,
 plus save vs. death at +4 bonus
 
-**Spears (1d6), Accurate: **Attacks as **6HD** monster, 1d6 damage each
+**Spears (1d6), Accurate**:Attacks as **6HD** monster, 1d6 damage each
 
-**Darts (2d6): **Attacks as a 3 HD monster, 1d4 damage each
+**Darts (2d6)**:Attacks as a 3 HD monster, 1d4 damage each
 
-**Spears, Weak Poison (1d6): **Attacks as 3HD monster, 1d6 damage each,
+**Spears, Weak Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each,
 plus save vs. death at +4 bonus
 
-**Arrows, Poison (1d6): **Attacks as 3HD monster, 1d6 damage each, plus
+**Arrows, Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus
 save vs. death
 
-**Spears, Very Accurate (1d6): **Attacks as** 9HD **monster, damage 1d6
+**Spears, Very Accurate (1d6)**:Attacks as**9HD**monster, damage 1d6
 each
 
-**Darts, Poison (2d6): **Attacks as a 3 HD monster**, **1d4 damage each,
+**Darts, Poison (2d6)**:Attacks as a 3 HD monster**,**1d4 damage each,
 plus save vs. death
 
-**Spears, Accurate, Poison (1d6): **Attacks as 6HD monster, 1d6 damage
+**Spears, Accurate, Poison (1d6)**:Attacks as 6HD monster, 1d6 damage
 each, plus save vs. death
 
 Slashing Traps
@@ -1451,28 +1148,28 @@ Slashing Traps
 Slashing traps typically come out of cunningly concealed panels in the
 walls or ceiling.
 
-**Pendulum: **A poleaxe springs from the ceiling, attacking the
+**Pendulum**:A poleaxe springs from the ceiling, attacking the
 triggering character only as a 3 HD monster for 2d6 damage
 
-**Scything Blade: **A Scythe springs out of the wall or other object,
+**Scything Blade**:A Scythe springs out of the wall or other object,
 attacking as a 3 HD monster. It strikes up to three characters for 2d6
 damage
 
-**Wall Spikes: **Spikes spring from holes in the walls. If these holes
+**Wall Spikes**:Spikes spring from holes in the walls. If these holes
 are not covered by tapestries, foliage, plaster, etc.; grant characters
 a +2 to search. When triggers, anyone within 5\' of the wall is attacked
 by 1d3 protruding spikes. They strike as a 6 HD creature for 1d6 damage
 
-**Door, Poison Needle: **A poison needle jabs out and quickly retracts
+**Door, Poison Needle**:A poison needle jabs out and quickly retracts
 from doorknob or other protrusion. Character must save vs. death at +4
 bonus. Note: Plate gauntlets are either open or leather on the inner
 side, and are no protection against this trap
 
-**Poison Scythe: **A Scythe springs out of the wall or other object,
+**Poison Scythe**:A Scythe springs out of the wall or other object,
 attacking as a 9HD monster. It strikes up to three characters for 2d6
 damage and they must save vs death
 
-**Wall Spikes, Poison: **Spikes spring from holes in the walls. If these
+**Wall Spikes, Poison**:Spikes spring from holes in the walls. If these
 holes are not covered by tapestries, foliage, plaster, etc.; grant
 characters a +2 to search. When triggers, anyone within 5\' of the wall
 is attacked by 1d3 protruding spikes and they must save vs death
@@ -1482,26 +1179,26 @@ Clubbing Traps
 Clubbing traps are concealed within the architectural elements of the
 structure.
 
-**Ball Trap: **Countless steel balls drop to the floor, the sound of
+**Ball Trap**:Countless steel balls drop to the floor, the sound of
 which triggers a check for nearby monsters. Anyone moving through the
 area must save vs. stone or fall and be stunned for 1d3 rounds. It takes
 1d6 rounds for the balls to dissipate, ending the effect
 
-**Royal Statue: **A statue of a king or other nobility swings at the
+**Royal Statue**:A statue of a king or other nobility swings at the
 character with its scepter, attacking as a 6 HD monster for 2d6 damage
 
-**Block, Swinging: **A large stone block swings down from the ceiling in
+**Block, Swinging**:A large stone block swings down from the ceiling in
 an arc that effect a 20 foot-long area, those in the area suffer 4d6
 damage and can save vs. stone for half
 
-**Block, Falling: **A large stone block falls from ceiling in 5×10 foot
+**Block, Falling**:A large stone block falls from ceiling in 5×10 foot
 area causing 6d6 damage, those caught can make a save vs. stone for half
 
-**Block, Falling, Spiked: **A large spiked stone block falls from
+**Block, Falling, Spiked**:A large spiked stone block falls from
 ceiling in 5×10 foot area causing 10d6 damage, those caught can make a
 save vs. stone for half
 
-**Block, Falling, Spiked, Poison: **A large spiked stone block falls
+**Block, Falling, Spiked, Poison**:A large spiked stone block falls
 from ceiling in 5×10 foot area causing 10d6 damage, those caught can
 save vs. stone for half. The spikes are coated in poison and all those
 in the area must also save vs. death.
@@ -1511,30 +1208,30 @@ Crushing Traps
 Crushing traps, like clubbing traps, are concealed within the
 architectural elements of the structure
 
-**Door, Falling: **This heavy reinforced door springs off of its hinges
+**Door, Falling**:This heavy reinforced door springs off of its hinges
 landing in 5×10 foot area when the character attempts to open it. It
 inflicts 2d6 damage; targets can save vs. stone for half
 
-**Rolling Rock: **A 8' diameter boulder is released down the passage
+**Rolling Rock**:A 8' diameter boulder is released down the passage
 moving at 9" (45') per round; those struck take 4d6 damage and can save
 vs. stone for half. The boulder comes to rest, blocking the passageway,
 and can be moved by a party of 4 working in unison.
 
-**Collapsing Column: **A non-load bearing column breaks apart with the
+**Collapsing Column**:A non-load bearing column breaks apart with the
 sections falling in a 10×10 foot area causing 4d6 damage, characters can
 save vs. stone for half
 
-**Collapsing Wall: **The outer layer of blocks on this wall collapse in
+**Collapsing Wall**:The outer layer of blocks on this wall collapse in
 10\' long area causing 8d6 damage, those affected can save vs. stone for
 half.
 
-**Compacting Room: **The doors to this room are reinforced and will
+**Compacting Room**:The doors to this room are reinforced and will
 swing shut and lock. If they are spiked open beforehand, the spikes have
 a 4 in 6 chance to hold. The walls will close in 1d6+1 rounds causing
 12d6 damage before retracting. Victims can save vs. death for half
 damage.
 
-**Crushing Wall: **This solid outer section of wall 20\' wide smashes
+**Crushing Wall**:This solid outer section of wall 20\' wide smashes
 forward on trigger inflicting 16d6 damage and then retracts. Targets can
 save vs death for half
 
@@ -1544,7 +1241,7 @@ Confining traps are typically normal appearing rooms that restrict
 movement. The Judge should familiarize themselves with the rules for
 Forcing Doors, Swimming, etc.
 
-**Net: **A net with hooks and bells drops from the ceiling, landing in
+**Net**:A net with hooks and bells drops from the ceiling, landing in
 10' × 20' area, entangling those beneath, the sound of which triggers a
 check for nearby monsters. Those in the net cannot move, suffer a -2
 penalty to AC, and can only make melee attacks with swords and spears at
@@ -1552,23 +1249,23 @@ a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per
 round to escape. Having a dagger in-hand grants a +2 to this role.
 Finally, check for nearby monsters when net falls.
 
-**Portcullis: **An iron gate falls behind party and blocks the passage,
+**Portcullis**:An iron gate falls behind party and blocks the passage,
 the sound of which triggers a check for nearby monsters. The bars may be
 forced as locked door (base 2 in 6, with a --2)
 
-**Watery Room: **The floor of the room is flooded with stagnant water at
+**Watery Room**:The floor of the room is flooded with stagnant water at
 least 10\' deep.
 
-**Spinning Wall: **A section of wall up to 20' in length spins in place,
+**Spinning Wall**:A section of wall up to 20' in length spins in place,
 depositing the victims in area on adjacent side. It cannot be triggered
 from the other side.
 
-**Flooding Room: **The doors to this room are reinforced and will swing
+**Flooding Room**:The doors to this room are reinforced and will swing
 shut and lock. If they are spiked open beforehand, the spikes have a 4
 in 6 chance to hold. Once sealed, the room floods with water in 1d6
 rounds. Once flooded, attempt to open the door attempts are at --2
 
-**Dropping Ceiling: **The entire stone ceiling drops on the room when
+**Dropping Ceiling**:The entire stone ceiling drops on the room when
 triggered inflicting 12d6 damage to the occupants, who can save vs.
 death for half). Passage through the room is then blocked.
 
@@ -1580,26 +1277,26 @@ allowing them to immediately flee the affected area. Those in the area
 must save vs. breath each round to avoid the effect of the gas. The gas
 clears after one hour.
 
-**Gas, Obscuring: **A hazy gas fills the area imposing a --4 to attacks
+**Gas, Obscuring**:A hazy gas fills the area imposing a --4 to attacks
 
-**Gas, Sickness: **This sulfurous smelling gas causes the victims to
+**Gas, Sickness**:This sulfurous smelling gas causes the victims to
 lose 1d6 points of Strength for one hour unless a save vs. breath is
 made.
 
-**Gas, Blinding: **This apple scented gas inflicts blindness for one
+**Gas, Blinding**:This apple scented gas inflicts blindness for one
 hour
 
-**Gas, Poison: **This bitter almond scented gas forces the victims to
+**Gas, Poison**:This bitter almond scented gas forces the victims to
 save vs. death with a +4 bonus
 
-**Gas, Corroding:** This ammonia smelling gas will rust any metal items
+**Gas, Corroding**: This ammonia smelling gas will rust any metal items
 in the area. Each item must succeed a save vs. stone or it falls to
 pieces. Magic items get +2 bonus for each magic plus or ability.
 
-**Gas, Insanity: **This fruity smelling gas causes the victim to become
+**Gas, Insanity**:This fruity smelling gas causes the victim to become
 permanently insane unless a save vs. breath is successful. Those
 affected are equally likely to attack or flee from allies in any given
-encounter. A *remove curse *spell will lift the affliction.
+encounter. A _remove curse_spell will lift the affliction.
 
 Energy/Magic Traps
 
@@ -1607,14 +1304,14 @@ While these traps may make use of magical effects, they are triggered
 and detected in the same manner as other traps. Some mechanical
 interface activates the magic, which is undetectable until that time.
 
-**Boiling Oil: **Boiling oil dumps into a 10' radius area inflicting 2d6
+**Boiling Oil**:Boiling oil dumps into a 10' radius area inflicting 2d6
 points of fire damage. The targets can make a save vs. breath for half
 damage.
 
-**Fire Vent: **Flames belch out into a 10' radius inflicting 4d6 points
+**Fire Vent**:Flames belch out into a 10' radius inflicting 4d6 points
 of fire damage. The targets can make a save vs. breath for half damage.
 
-**Acid Vent: **Acid dumps into a 10' radius area inflicting 4d6 points
+**Acid Vent**:Acid dumps into a 10' radius area inflicting 4d6 points
 of fire damage. The targets can make a save vs. breath for half damage.
 
 **Spells**: These traps work as under their spell description at the
@@ -1624,9 +1321,9 @@ than trap rank), add +2 to the caster level per degree of difference.
 
 Resources
 
-[*http://deltasdnd.blogspot.com/*](http://deltasdnd.blogspot.com/)
+[_http://deltasdnd.blogspot.com/_](http://deltasdnd.blogspot.com/)
 
-[*OED games website*](http://oedgames.com/)
+[_OED games website_](http://oedgames.com/)
 
 [*OED Character
 Sheet*](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
@@ -1637,7 +1334,7 @@ Database*](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.
 [*OED Book of War, Mass Combat
 System*](http://oedgames.com/addons/bow/index.html)
 
-[*https://wanderingdms.com/*](https://wanderingdms.com/)
+[_https://wanderingdms.com/_](https://wanderingdms.com/)
 
 [*The Magic
 Table*](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
@@ -2033,11 +1730,11 @@ of the price found in Vol III (or the historical price in shillings x3)
 as the number of weeks to build. Each multiplied cost factor divides
 time by a like amount, up to quadruple cost/speed.
 
-**Clerics **If thou must...
+**Clerics**If thou must...
 
-*Armor*: Light (Leather), Medium (Chain), Heavy (Plate), Shields
+_Armor_: Light (Leather), Medium (Chain), Heavy (Plate), Shields
 
-*Weapons*: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the
+_Weapons_: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the
 "club" type)
 
   ------- ------------ ------- -------- -------------------------------------------------------------------------
@@ -2057,7 +1754,7 @@ time by a like amount, up to quadruple cost/speed.
   13+     (+100,000)   (+1)    (+2/3)   Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6
   ------- ------------ ------- -------- -------------------------------------------------------------------------
 
-**Turn Undead: ** A Cleric may brandish their Holy Symbol in order repel
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel
 the Undead. When doing so, the player rolls 1d6 + (Cleric Level -- 5),
 with the result being the highest Hit Die of Undead affected. Up to 2d6
 such creatures are affected (lowest Hit Die first). If the Cleric's
@@ -2126,5 +1823,5 @@ Unarmed Attacks
 
 When striking without a weapon (including strikes with just a
 gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1
-(+Str *Bonus*) points of damage. An unarmored Fighter or Thief can punch
+(+Str _Bonus_) points of damage. An unarmored Fighter or Thief can punch
 twice per round against a single target.
