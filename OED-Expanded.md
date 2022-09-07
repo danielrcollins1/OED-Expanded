@@ -240,7 +240,7 @@ without needing to meet the above requirements.
 - Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
 - Thief skills can only be used in Light (Leather) armor.
 
-#### Alignment
+### Alignment
 
 OED features 3 alignment options:
 
@@ -526,7 +526,7 @@ An "**errant shot**" is triggered if that attack roll is between 10 and 10 minus
 
 **Errant Shots**:When making a ranged attack to hit any target in a crowd (or on a fumbled attack against a specific target in a crowd), the attack is resolved by d20+AC ≥ 20. Range penalties are ignored.
 
-## Death and Healing
+### Death and Healing
 
 **Zero Hit Point**s: When a character reaches or goes below 0 hit points, they must immediately make a Save vs Death. Failure means the character is Dead. Success results in the character stabilizing at 0HP, waking in 1d6 turns, in an incapacitated state. Any healing (returning the character to 1 HP) will restore normal activity.
 
@@ -591,13 +591,13 @@ The Judge should run the NPC initially and for the next session generate full st
 
 NPC's bequeath their belongings to their next of kin.
 
-## Zero Level Characters
+### Zero Level Characters
 
 **Generation**: Normal folk are assumed to be 0 Level. Their Ability Scores are generated via 3d6 in order. They have 1d6 Hit Points. Their attack and saves bonuses are +0. They can make use of up to 3 weapons (ex: Sling, Sword, Pike). They possess -1,000 xp.
 
 **Advancing to 1**^**st**^**Level**: When earning 1000xp, to arrive at 0xp, the character can enter one of the three basic classes. Entry to a class presumes they have undergone one of the following: An act of combat for Fighter, an act of larceny for a Thief, learning the Read Magic spell for Wizard. Entry into the Fighter class grants +1HP, entry into the Wizard class removes 1 HP (minimum 1).
 
-## Higher Level Characters
+### Higher Level Characters
 
 **Ability Scores**: For characters levels 1 -3, generate scores normally (2d6+6 for one, 3d6 in order for the rest). Levels 4-7, generate two scores via 2d6+6, 3d6 in order for the rest. Level 8 or greater: Generate one score via 2d4+10, two more via 2d6+6, and the rest 3d6 in order.
 
@@ -607,7 +607,7 @@ NPC's bequeath their belongings to their next of kin.
 
 **Equipment**: Can select any mundane bit of gear to carry on person, encumbrance permitting.
 
-**Spellsbooks**: Randomly generate a Wizards spellbook using the table on Supplement 1 page 8, or use the [*Wizard Spellbook Generator*](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html). Generally, give the maximum number of low level spells, the minimum number of high level spells, and extrapolate in between (See Spells above)
+**Spellbooks**: Randomly generate a Wizard's spellbook using the table on Supplement 1 page 8, or use the [*Wizard Spellbook Generator*](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html). Generally, give the maximum number of low level spells, the minimum number of high level spells, and extrapolate in between (See Spells above)
 
 **Magic Items**: For _every_ level of the character's highest class; roll a d6 for _each_ of the below magic item categories. A result of 1 awards that magic item. Ex. a 6^th^ level character would a d6 six times to see if they get a Sword or Wand, then a d6 six more times for Armor or Scroll, and so on.
 
@@ -618,500 +618,365 @@ NPC's bequeath their belongings to their next of kin.
 
 Each additional "hit" for a given item type indicates an additional +1 bonus, dosage, or ability.
 
-## Hirelings
+### Hirelings
 
-**Posting Advertisements**: Every 100sp spent on posts/agents will
-attract 1d3 first level recruits within 1d6 days. The maximum number of
-potential recruits is equal to 1% of the settlements population
-(approximately 3 such folks in a typical hamlet). Populations will
-refresh once per season. Calls to far, elf, or dwarf lands will multiply
-the cost and time.
+**Posting Advertisements**: Every 100sp spent on posts/agents will attract 1d3 first level recruits within 1d6 days. The maximum number of potential recruits is equal to 1% of the settlements population (approximately 3 such folks in a typical hamlet). Populations will refresh once per season. Calls to far, elf, or dwarf lands will multiply the cost and time.
 
-**Offers and Shares**: The default rate for a Hireling is 100sp plus a
-"half share" of the treasure (and XP) split. The NPC will accept this
-offer based on the outcome of a reaction roll (2d6+Cha Mod ≥ 9). The
-roll can be modified by the quality of the offer.
+**Offers and Shares**: The default rate for a Hireling is 100sp plus a "half share" of the treasure (and XP) split. The NPC will accept this offer based on the outcome of a reaction roll (2d6+Cha Mod ≥ 9). The roll can be modified by the quality of the offer.
 
-Specialists
+#### Specialists
 
 Various specialists can be hired, typically for the rate of 10sp per
 day. These will often be zero level characters (see above) and they will
 not enter dungeons or hazardous areas.
 
-Sage
+##### Sage
 
-A sage can Identify the properties of magic items. The process takes one
-day and will reveal a single property or command word per instance. A
-sage can also do research on behalf of the party at a cost of 10sp per
-day, using the guidelines below:
+A sage can Identify the properties of magic items. The process takes one day and will reveal a single property or command word per instance. A sage can also do research on behalf of the party at a cost of 10sp per day, using the guidelines below:
 
-Judge knows the answer:General Topic = d6 hoursSpecific Topic = d6
-daysJudge needs to Invent Info:General Topic = d6 daysSpecific Topic =
-d6 weeks
+|                             |                          |                           |
+|-----------------------------|--------------------------|---------------------------|
+| Judge knows the answer:     | General Topic = d6 hours | Specific Topic = d6 days  |
+| Judge needs to Invent Info: | General Topic = d6 days  | Specific Topic = d6 weeks |
 
-Alchemist
+##### Alchemist
 
 Alchemists can provide potions of healing and mithridate (neutralize
 poison) at the listed prices, taking a week to produce one dose. They
 may also be able to brew other potions if given a sample.
 
-Reaction/Morale Checks
+### Reaction/Morale Checks
 
 Hirelings, NPCs, and Monsters will be called on to make reaction/morale
 checks which are resolved by a roll of 2d6 + NPC Level/HD and compare
 against the below table.
 
-**ResultReactionMorale**
+| **Result** | **Reaction**             | **Morale**         |
+|------------|--------------------------|--------------------|
+| 2          | May Attack               | Surrender          |
+| 3-5        | Hostile Reaction         | Flee               |
+| 6-8        | Uncertain, Can Try Again | Withdraw           |
+| 9-11       | Accepts Offer            | Fight On           |
+| 12         | Enthusiastic             | Fight to the Death |
 
-2May Attack, Surrender
+#### Morale Triggers
 
-3-5Hostile ReactionFlee
+In combat, a 1/3 loss of forces will trigger a morale check. Other triggers include: death of leader, when left alone, and when ordered into a dangerous situation.
 
-6-8Uncertain, Can Try AgainWithdraw
+### Rumors
 
-9-11Accepts OfferFight On
+**Procuring Rumors**: Characters can "buy" rumors at character creation or throughout gameplay. The cost is 1d6x10 sp, which represents buying drinks for locals, bribing guards, and buying odds and ends from traveling merchants.
 
-12EnthusiasticFight to the Death
-
-Morale Triggers
-
-In combat, a 1/3 loss of forces will trigger a morale check. Other
-triggers include: death of leader, when left alone, and when ordered
-into a dangerous situation.
-
-Rumors
-
-**Procuring Rumors**: Characters can "buy" rumors at character creation
-or throughout gameplay. The cost is 1d6x10 sp, which represents buying
-drinks for locals, bribing guards, and buying odds and ends from
-traveling merchants.
-
-**Generating Rumors**: Rumor can be generated with a series of d6 rolls
-as shown below.
+**Generating Rumors**: Rumor can be generated with a series of d6 rolls as shown below.
 
 _Veracity_: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
 
-_Topic_: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules
-Lore
+_Topic_: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules Lore
 
-> _Dungeon Location_: Choose a level of the current dungeon
+- _Dungeon Location_: Choose a level of the current dungeon
+- _Wilderness Location_: Choose a location in a neighboring hex (d6), lair, new dungeon, etc.
+- _Rules Lore_: How to cure Mummy Rot, Wandering Monsters in Area, Holy Water is bunk, etc.
 
-> _Wilderness Location_: Choose a location in a neighboring hex (d6),
-> lair, new dungeon, etc.
+## Rewards
 
-> _Rules Lore_: How to cure Mummy Rot, Wandering Monsters in Area, Holy
-> Water is bunk, etc.
+### Treasure
 
-Rewards
+**Silver Standard**: OED uses a Silver standard for money. A Silver Piece in OED has the buying power of a GP in traditional sources. In published sources, replace references to "gold pieces' with "silver pieces", keeping original amount. Silver becomes Copper, Platinum becomes Gold and so on.
 
-Treasure
+**Calculating Value**: For mundane items, take the historical value in shillings x3 for SP value.
 
-**Silver Standard**: OED uses a Silver standard for money. A Silver
-Piece in OED has the buying power of a GP in traditional sources. In
-published sources, replace references to "gold pieces' with "silver
-pieces", keeping original amount. Silver becomes Copper, Platinum
-becomes Gold and so on.
+**Treasure Hordes**: The Judge should place one or two "big hauls" on the first few levels of the dungeon, such as a magic item or gems & jewels. These hauls serve as a "call to action" for starting parties.
 
-**Calculating Value**: For mundane items, take the historical value in
-shillings x3 for SP value.
+For any empty rooms in a dungeon, there is a 1 in 6 chance that a (hidden) treasure is present.
 
-**Treasure Hordes**: The Judge should place one or two "big hauls" on
-the first few levels of the dungeon, such as a magic item or gems &
-jewels. These hauls serve as a "call to action" for starting parties.
-
-For any empty rooms in a dungeon, there is a 1 in 6 chance that a
-(hidden) treasure is present.
-
-For rooms with monsters, there is a 3 in 6 chance that treasure is
-present.
+For rooms with monsters, there is a 3 in 6 chance that treasure is present.
 
 The table below dictates the type of treasure present.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ---------------- --------------------------- -------------
-  Dungeon Level                                                                                                                                              Copper        Silver (50%)\*   Gems and/or Jewelry\*\*     Magic\*\*\*
-  1                                                                                                                                                          d6 x 100      d6 x 10          5% each for d6 of either    5%
-  2-3                                                                                                                                                        d6 x 200      d6 x 100         10% each for d6 of either   5%
-  4-5                                                                                                                                                        d6 x 1,000    d6 x 200         20% each for d6 of either   10%
-  6-7                                                                                                                                                        d6 x 2,000    d6 x 500         30% each for d6 of either   15%
-  8-9                                                                                                                                                        d6 x 5,000    d6 x 1,000       40% each for d6 of either   20%
-  10-12                                                                                                                                                      d6 x 5,000    d6 x 2,000       50% each for d6 of either   25%
-  13+                                                                                                                                                        d6 x 10,000   d6 x 5,000       50% each for d6 of either   30%
-  \* There is a 10% chance the coinage is in gold
-  \*\* Gems and Jewelry can be generated using the tables in Vol II page 40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp each.
+| Dungeon Level | Copper      | Silver (50%)\* | Gems and/or Jewelry\*\*   | Magic\*\*\* |
+|---------------|-------------|----------------|---------------------------|-------------|
+| 1             | d6 x 100    | d6 x 10        | 5% each for d6 of either  | 5%          |
+| 2-3           | d6 x 200    | d6 x 100       | 10% each for d6 of either | 5%          |
+| 4-5           | d6 x 1,000  | d6 x 200       | 20% each for d6 of either | 10%         |
+| 6-7           | d6 x 2,000  | d6 x 500       | 30% each for d6 of either | 15%         |
+| 8-9           | d6 x 5,000  | d6 x 1,000     | 40% each for d6 of either | 20%         |
+| 10-12         | d6 x 5,000  | d6 x 2,000     | 50% each for d6 of either | 25%         |
+| 13+           | d6 x 10,000 | d6 x 5,000     | 50% each for d6 of either | 30%         |
+
+  \* There is a 10% chance the coinage is in gold  
+  \*\* Gems and Jewelry can be generated using the tables in Vol II page 40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp each.  
   \*\*\* Magic items can be generated using the tables in Vol II page 23, or [**The Magic Table**](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------- ------------- ---------------- --------------------------- -------------
 
-**Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
-charges when found. Staves can have a maximum of 40 charges and have
-d20+20 charges when found.
+**Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10 charges when found. Staves can have a maximum of 40 charges and have d20+20 charges when found.
 
-**Magic Item Saves**: Grant a +2 bonus to saves and rolls to resist
-harm for each plus or special ability.
+**Magic Item Saves**: Grant a +2 bonus to saves and rolls to resist harm for each plus or special ability.
 
-**Intelligent Swords**: When in conflict; d20 + (Character Intelligence
-& Charisma) - (Sword Ego & Intelligence) + Wound Modifier ≥ 20. You can
-jot down the simplified formula in the Sword stats. _Wound Modifier_:
-Full HP = +15, Half or more = +10, Less than Half = +5
+**Intelligent Swords**: When in conflict; d20 + (Character Intelligence & Charisma) - (Sword Ego & Intelligence) + Wound Modifier ≥ 20. You can jot down the simplified formula in the Sword stats. _Wound Modifier_: Full HP = +15, Half or more = +10, Less than Half = +5
 
-Experience Points
+### Experience Points
 
-In OED, characters gain Experience Points for the recovery of treasure,
-defeat of monsters, and carousing. *Ability Scores (Prime Requisites) do
-not modify XP earned*.
+In OED, characters gain Experience Points for the recovery of treasure, defeat of monsters, and carousing. *Ability Scores (Prime Requisites) do not modify XP earned*.
 
-**XP for Treasure**: Character's earn 1 Experience Point for each Silver
-Piece value of coin, gems, jewelry they return to civilization.
+**XP for Treasure**: Character's earn 1 Experience Point for each Silver Piece value of coin, gems, jewelry they return to civilization.
 
-**XP for Monsters**: The base XP for monsters is equal to 100 x
-(Equivalent) Hit Dice (see Monsters below)
+**XP for Monsters**: The base XP for monsters is equal to 100 x (Equivalent) Hit Dice (see Monsters below)
 
-**XP for Carousing**: When in town, players can spend d6x 100sp to
-carouse, gaining an amount of xp equal to the coin spent (this amount
-can be adjusted based on the size of the community). They must save vs
-poison or suffer a mishap. If they cannot afford the rolled cost, they
-also suffer a mishap. Mishaps can include; tavern brawls, jailed, a
-tattoo, hangovers, or anything that could jump-start an adventure.
+**XP for Carousing**: When in town, players can spend d6x 100sp to carouse, gaining an amount of xp equal to the coin spent (this amount can be adjusted based on the size of the community). They must save vs poison or suffer a mishap. If they cannot afford the rolled cost, they also suffer a mishap. Mishaps can include; tavern brawls, jailed, a tattoo, hangovers, or anything that could jump-start an adventure.
 
-For more ideas see: [*Jeff Rients'
-Carousing*](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
+For more ideas see: [*Jeff Rients' Carousing*](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
 
-Monsters
+## Monsters
 
 OED uses the monsters presented in Vol II with the adjustments below.
 
-Monster Information
+### Monster Information
 
-**Hit Dice**: All monsters use a d6 for their base Hit Dice, which is
-used to calculate combat abilities.
+**Hit Dice**: All monsters use a d6 for their base Hit Dice, which is used to calculate combat abilities.
 
-**Equivalent Hit Dice**: Monsters in OED have an Equivalent Hit Dice
-value that takes into account their special abilities and relative
-power. This is used to determine monster encounters and XP rewards.
+**Equivalent Hit Dice**: Monsters in OED have an Equivalent Hit Dice value that takes into account their special abilities and relative power. This is used to determine monster encounters and XP rewards.
 
-**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC ≥
-20. Monsters get a single attack per round unless otherwise noted.
+**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC ≥ 20. Monsters get a single attack per round unless otherwise noted.
 
-**Monster Damage**: Monster damage is determined on a 1d6, unless
-otherwise noted.
+**Monster Damage**: Monster damage is determined on a 1d6, unless otherwise noted.
 
-**Monster Strength**: If necessary, you can assume a Monster's Strength
-modifier is equal to ½ its Hit Die.
+**Monster Strength**: If necessary, you can assume a Monster's Strength modifier is equal to ½ its Hit Die.
 
-**Magic to Hit**: For every 4 _natural_ Hit Die a creature possesses, it
-is capable of harming creatures that normally require +1 magic weapon to
-hit.
+**Magic to Hit**: For every 4 _natural_ Hit Die a creature possesses, it is capable of harming creatures that normally require +1 magic weapon to hit.
 
-**Languages**: It is assumed than an intelligent creature has a base 1
-in 6 chance to speak common.
+**Languages**: It is assumed than an intelligent creature has a base 1 in 6 chance to speak common.
 
-**Gaze Attacks**:Creatures facing beings with Gaze Attacks must make a
-Save each round unless precautions are taken.
+**Gaze Attacks**:Creatures facing beings with Gaze Attacks must make a Save each round unless precautions are taken.
 
-**Chimera/Gorgons**:Each round roll a 2d6, a result of 7+ means the
-creature will use its breath weapon. It can use its breath weapon a
-total of 3 times per day.
+**Chimera/Gorgons**:Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day.
 
-**Dragons**:Divide the Dragon's HP by 3 to determine its Hit Dice. Use
-this Hit Dice value to determine Attacks and Saves. []{#anchor-2}Each
-round roll a 2d6, a result of 7+ means the creature will use its breath
-weapon. It can use its breath weapon a total of 3 times per day. A
-Dragon's breath weapon does 1 die of damage for every 6 hit points it
-currently possesses. Dragons can force a morale check on NPCs within 75
-feet. They have a 2 in 6 chance to detect creatures within 75 feet.
-Dragon subdual rules are not used.
+**Dragons**:Divide the Dragon's HP by 3 to determine its Hit Dice. Use this Hit Dice value to determine Attacks and Saves. Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day. A Dragon's breath weapon does 1 die of damage for every 6 hit points it currently possesses. Dragons can force a morale check on NPCs within 75 feet. They have a 2 in 6 chance to detect creatures within 75 feet. Dragon subdual rules are not used.
 
-**Goblin-kin**:Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1
-to Morale in full daylight.
+**Goblin-kin**:Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1 to Morale in full daylight.
 
-**Giants**: Giants can throw a stone every other round at ranges of of
-100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is
-equivalent to Leather armor on top of naturally tough skin (+3 AC).
+**Giants**: Giants can throw a stone every other round at ranges of of 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
-**Horses**: Non-Warhorses are unusable in combat, near to fire or
-smells, etc. (auto-fail morale)
+**Horses**: Non-Warhorses are unusable in combat, near to fire or smells, etc. (auto-fail morale)
 
-**Slimes**: Successful attacks by these creatures will cause metal to
-corrode instantly. Metal weapons used against them will corrode on a
-successful attack. Wood is consumed at too slow a rate to affect combat.
+**Slimes**: Successful attacks by these creatures will cause metal to corrode instantly. Metal weapons used against them will corrode on a successful attack. Wood is consumed at too slow a rate to affect combat.
 
-**Undead**: Undead are (mostly) immune to backstabs, critical hits,
-death effects, and mental attacks.
+**Undead**: Undead are (mostly) immune to backstabs, critical hits, death effects, and mental attacks.
 
 **Skeletons**: Skeletons are 1 Hit Die monsters
 
-**Vampires**: Vampires can summon 1d10 Rats (AC 7, Mv 75', HD 1/6 (1HP),
-Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6)
+**Vampires**: Vampires can summon 1d10 Rats (AC 7, Mv 75', HD 1/6 (1HP), Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6)
 
 **Zombies**: Zombies are 2 Hit Die monsters
 
-Monster Placement
+### Monster Placement
 
-Within the dungeon, there is a 2 in 6 chance a monster is present in any
-unallocated space (See Monster Determination below)
+Within the dungeon, there is a 2 in 6 chance a monster is present in any unallocated space (See Monster Determination below)
 
-Wandering Monsters
+### Wandering Monsters
 
-**Checks**: Make a 1 in 6 check for wandering monsters using the below
-guidelines:
+**Checks**: Make a 1 in 6 check for wandering monsters using the below guidelines:
 
 - Every 15 minutes of real time play.
 - During long searches, such as those for secret doors, etc.
 - On the parties exit from dungeon.
 - In the presence of loud/combat noise.
 
-If a wandering monster result is indicated, use the Monster
-Determination information below. Multiple parties of monsters may attack
-one another. On a near miss (result of 5), give a hint that monsters are
-present (ex: distant monster noise).
+If a wandering monster result is indicated, use the Monster Determination information below. Multiple parties of monsters may attack one another. On a near miss (result of 5), give a hint that monsters are present (ex: distant monster noise).
 
-Monster Determination
+### Monster Determination
 
-To determine the type of monster encountered, roll a d6 and consult the
-result against the level of the dungeon (depth) in question. This will
-give you the "Threat" rank (I -- VI) of the monster.
+To determine the type of monster encountered, roll a d6 and consult the result against the level of the dungeon (depth) in question. This will give you the "Threat" rank (I -- VI) of the monster.
 
-  --------------------- ----------- ----- ----- ----- ----- -----
-  Dungeon Level Depth   d6 Result
+| **Dungeon Level Depth** | **d6 Result** |        |         |        |       |        |
+|-------------------------|---------------|--------|---------|--------|-------|--------|
+| 1                       | 1-4           | 5      | 6       |        |       |        |
+| 2                       | 1-2           | 3-4    | 5       | 6      |       |        |
+| 3-4                     | 1             | 2      | 3-4     | 5      | 6     |        |
+| 5-7                     |               | 1      | 2       | 3-4    | 5     | 6      |
+| 8-10                    |               |        | 1       | 2      | 3-4   | 5-6    |
+| 11+                     |               |        |         | 1      | 2     | 3-6    |
+| **Threat Rank**         | **I**         | **II** | **III** | **IV** | **V** | **VI** |
 
-  1                     1-4         5     6
-  2                     1-2         3-4   5     6
-  3-4                   1           2     3-4   5     6
-  5-7                               1     2     3-4   5     6
-  8-10                                    1     2     3-4   5-6
-  11+                                           1     2     3-6
-  Threat Rank           I           II    III   IV    V     VI
-  --------------------- ----------- ----- ----- ----- ----- -----
+### Number Appearing
 
-Number Appearing
+When stocking a dungeon, the numbers of monsters appearing dependent on the relation between the Equivalent Hit Die of the creature and dungeon level (presuming a traditional party of 4)
 
-When stocking a dungeon, the numbers of monsters appearing dependent on
-the relation between the Equivalent Hit Die of the creature and dungeon
-level (presuming a traditional party of 4)
-
-EHD vs Dungeon Level No of monsters appearing
-
-Dungeon is greater by 3 or more(1d4+1)\*3 (11)
-
-Dungeon is greater by 1 or 2(1d4+1)\*2 (7)
-
-Equal1d4+1 (4)
-
-EHD is greater by 1 or 2(1d4+1)/2 (2)
-
-EHD is greater by 3 or more(1d4+1)/3 (1)
+| EHD vs Dungeon Level         | No of monsters appearing |
+|------------------------------|--------------------------|
+| Dungeon is greater by 3 or   | (1d4+1)\*3 (11)          |
+| Dungeon is greater by 1 or 2 | (1d4+1)\*2 (7)           |
+| Equal                        | 1d4+1 (4)                |
+| EHD is greater by 1 or 2     | (1d4+1)/2 (2)            |
+| EHD is greater by 3 or more  | (1d4+1)/3 (1)            |
 
 For a wandering monster encounter, cut the above number in half.
 
-For a more detailed breakdown of this formula and approach, see:
-[*Underworld Overhaul, Pt. 4: Monster Numbers
-Appearing*](https://deltasdnd.blogspot.com/2018/05/underworld-overhaul-pt-4-monster.html)
+For a more detailed breakdown of this formula and approach, see: [*Underworld Overhaul, Pt. 4: Monster Numbers Appearing*](https://deltasdnd.blogspot.com/2018/05/underworld-overhaul-pt-4-monster.html)
 
-Monster Equivalent Hit Dice
+### Monster Equivalent Hit Dice
 
-This is a measure of monster threat that can be slotted into monster
-determination for a more accurate distribution of challenges. An \*
-indicates The EHD for this creature is highly situational.
+This is a measure of monster threat that can be slotted into monster determination for a more accurate distribution of challenges. An \* indicates The EHD for this creature is highly situational.
 
-  ------------------------- ----- ------------------------- ----- ------------------------ -----
-  Monster                   EHD   Monster                   EHD   Monster                  EHD
-  Rat                       0     Stirge                    1     Warrior                  2
-  Aquatic Elf               1     Veteran                   1     Weed Eel                 2
-  Bandit                    1     Wolf                      1     Wererat                  2
-  Berserker                 1     Caveman                   2     Yellow Mold              2
-  Brigand                   1     Crocodile                 2     Zombie                   2
-  Buccaneer                 1     Dire Wolf                 2     Blink Dog                3
-  Dervish                   1     Dolphin                   2     Boar                     3
-  Dwarf                     1     Draft Horse               2     Bugbear                  3
-  Elf                       1     Giant Bombardier Beetle   2     Bull                     3
-  Giant Centipede           1     Giant Eel                 2     Doppleganger             3
-  Giant Fire Beetle         1     Giant Frog                2     Ghoul                    3
-  Giant Rat                 1     Giant Hog                 2     Giant Toad               3
-  Giant Sea Horse           1     Giant Lamprey             2     Giant Weasel             3
-  Gnome                     1     Giant Leech               2     Green Slime              3
-  Goblin                    1     Giant Lizard              2     Heavy Horse              3
-  Hobgoblin                 1     Giant Tick                2     Hippogriff               3
-  Homunculus                1     Giant Worker Ant          2     Huge Spider              3
-  Jackal                    1     Gnoll                     2     Shadow                   3
-  Kobold                    1     Ixitxachitl               2     Shrieker                 3
-  Leprechaun                1     Large Spider              2     Swordsman                3
-  Light Horse               1     Lizard Man                2     Wereboar                 3
-  Merman                    1     Locathah                  2     Werewolf                 3
-  Nixie                     1     Medium                    2     Wight                    3
-  Nomad                     1     Medium Horse              2     Centaur                  4
-  Orc                       1     Mule                      2     Floating Eye             4
-  Piercer                   1     Pegasus                   2     Gelatinous Cube          4
-  Pirate                    1     Ram                       2     Giant Crab               4
-  Pixie                     1     Sahuagin                  2     Giant Sea Spider         4
-  Skeleton                  1     Troglodyte                2     Giant Warrior Ant        4
-  Monster                   EHD   Monster                   EHD   Monster                  EHD
-  Giant Wasp                4     Phase Spider              8     Small Water Elemental    15
-  Gray Ooze                 4     Six-Headed Hydra          8     Water Naga               15
-  Harpy                     4     Slithering Tracker        8     Mastodon                 16
-  Hell Hound                4     Spectre                   8     Mind Flayer              16
-  Hero                      4     Superhero                 8     Storm Giant              17
-  Ochre Jelly               4     Thaumaturgist             8     Ten-Headed Hydra         17
-  Ogre                      4     Troll                     8     Warlock                  17
-  Seer                      4     Carrion Crawler           9     Balrog                   18
-  Wraith                    4     Giant Scorpion            9     Medium Air Elemental     18
-  Dryad                     5     Giant Sea Snake           9     Ogre Mage                18
-  Gargoyle                  5     Lord                      9     Roper                    18
-  Giant Boring Beetle       5     Lurker Above              9     Shambling Mound          18
-  Giant Crocodile           5     Manticore                 9     Small Earth Elemental    18
-  Giant Octopus             5     Salamander                9     Small Sea Monster        18
-  Giant Poisonous Snake     5     Stone Giant               9     Tyranosaurus Rex         18
-  Lion                      5     Wyvern                    9     Basilisk                 20
-  Portugese Man-Of-War      5     Animated Tree             10    Giant Manta Ray          20
-  Rust Monster              5     Chimera                   10    Medium Fire Elemental    20
-  Small Roc                 5     Frost Giant               10    Medium Water Elemental   20
-  Swashbuckler              5     Giant Rhinoceros Beetle   10    Red Dragon               20
-  Weretiger                 5     Minotaur Lizard           10    Sorcerer                 20
-  White Ape                 5     Morkoth                   10    Will-O-Wisp              20
-  Bear                      6     Small Air Elemental       10    Large Air Elemental      22
-  Cockatrice                6     Triton                    10    Purple Worm              22
-  Conjurer                  6     Fire Giant                11    Spirit Naga              22
-  Displacer Beast           6     Giant Fish                11    Large Roc                24
-  Ghast                     6     Giant Shark               11    Necromancer              24
-  Giant Constrictor Snake   6     Giant Squid               11    Dragon Turtle            25
-  Giant Spider              6     Gorgon                    11    Treant                   25
-  Giant Stag Beetle         6     Guardian Naga             11    Vampire                  25
-  Minotaur                  6     Magician                  11    Medium Earth Elemental   26
-  Mummy                     6     Medusa                    11    Wizard                   26
-  Myrmidon                  6     White Dragon              11    Masher                   28
-  Owl Bear                  6     Black Dragon              12    Large Fire Elemental     33
-  Pungi Ray                 6     Cloud Giant               12    Large Water Elemental    33
-  Unicorn                   6     Ettin                     12    Medium Sea Monster       33
-  Champion                  7     Trapper                   12    Gold Dragon              35
-  Djinni                    7     Umber Hulk                12    Large Earth Elemental    36
-  Lammasu                   7     Black Pudding             13    Lich                     40
-  Sabre-Tooth Tiger         7     Fire Lizard               13    Whale                    40
-  Theurgist                 7     Catoblepas                14    Large Sea Monster        45
-  Werebear                  7     Efreeti                   14    Titan                    50
-  Wind Walker               7     Enchanter                 14    Rakshasa                 55
-  Yeti                      7     Green Dragon              14    Stone Golem              55
-  Giant Slug                8     Medium Roc                14    Beholder                 60
-  Griffon                   8     Blue Dragon               15    Iron Golem               140
-  Hill Giant                8     Flesh Golem               15
-  Invisible Stalker         8     Small Fire Elemental      15
-  ------------------------- ----- ------------------------- ----- ------------------------ -----
+| Monster                 | EHD | Monster                 | EHD | Monster                | EHD |
+|-------------------------|-----|-------------------------|-----|------------------------|-----|
+| Rat                     | 0   | Stirge                  | 1   | Warrior                | 2   |
+| Aquatic Elf             | 1   | Veteran                 | 1   | Weed Eel               | 2   |
+| Bandit                  | 1   | Wolf                    | 1   | Wererat                | 2   |
+| Berserker               | 1   | Caveman                 | 2   | Yellow Mold            | 2   |
+| Brigand                 | 1   | Crocodile               | 2   | Zombie                 | 2   |
+| Buccaneer               | 1   | Dire Wolf               | 2   | Blink Dog              | 3   |
+| Dervish                 | 1   | Dolphin                 | 2   | Boar                   | 3   |
+| Dwarf                   | 1   | Draft Horse             | 2   | Bugbear                | 3   |
+| Elf                     | 1   | Giant Bombardier Beetle | 2   | Bull                   | 3   |
+| Giant Centipede         | 1   | Giant Eel               | 2   | Doppleganger           | 3   |
+| Giant Fire Beetle       | 1   | Giant Frog              | 2   | Ghoul                  | 3   |
+| Giant Rat               | 1   | Giant Hog               | 2   | Giant Toad             | 3   |
+| Giant Sea Horse         | 1   | Giant Lamprey           | 2   | Giant Weasel           | 3   |
+| Gnome                   | 1   | Giant Leech             | 2   | Green Slime            | 3   |
+| Goblin                  | 1   | Giant Lizard            | 2   | Heavy Horse            | 3   |
+| Hobgoblin               | 1   | Giant Tick              | 2   | Hippogriff             | 3   |
+| Homunculus              | 1   | Giant Worker Ant        | 2   | Huge Spider            | 3   |
+| Jackal                  | 1   | Gnoll                   | 2   | Shadow                 | 3   |
+| Kobold                  | 1   | Ixitxachitl             | 2   | Shrieker               | 3   |
+| Leprechaun              | 1   | Large Spider            | 2   | Swordsman              | 3   |
+| Light Horse             | 1   | Lizard Man              | 2   | Wereboar               | 3   |
+| Merman                  | 1   | Locathah                | 2   | Werewolf               | 3   |
+| Nixie                   | 1   | Medium                  | 2   | Wight                  | 3   |
+| Nomad                   | 1   | Medium Horse            | 2   | Centaur                | 4   |
+| Orc                     | 1   | Mule                    | 2   | Floating Eye           | 4   |
+| Piercer                 | 1   | Pegasus                 | 2   | Gelatinous Cube        | 4   |
+| Pirate                  | 1   | Ram                     | 2   | Giant Crab             | 4   |
+| Pixie                   | 1   | Sahuagin                | 2   | Giant Sea Spider       | 4   |
+| Skeleton                | 1   | Troglodyte              | 2   | Giant Warrior Ant      | 4   |
 
-For a more detailed list of appropriate monsters and Equivalent Hit
-Dice, consult the [*OED Monster
-Determination*](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)
-sheet.
+| Monster                 | EHD | Monster                 | EHD | Monster                | EHD |
+|-------------------------|-----|-------------------------|-----|------------------------|-----|
+| Giant Wasp              | 4   | Phase Spider            | 8   | Small Water Elemental  | 15  |
+| Gray Ooze               | 4   | Six-Headed Hydra        | 8   | Water Naga             | 15  |
+| Harpy                   | 4   | Slithering Tracker      | 8   | Mastodon               | 16  |
+| Hell Hound              | 4   | Spectre                 | 8   | Mind Flayer            | 16  |
+| Hero                    | 4   | Superhero               | 8   | Storm Giant            | 17  |
+| Ochre Jelly             | 4   | Thaumaturgist           | 8   | Ten-Headed Hydra       | 17  |
+| Ogre                    | 4   | Troll                   | 8   | Warlock                | 17  |
+| Seer                    | 4   | Carrion Crawler         | 9   | Balrog                 | 18  |
+| Wraith                  | 4   | Giant Scorpion          | 9   | Medium Air Elemental   | 18  |
+| Dryad                   | 5   | Giant Sea Snake         | 9   | Ogre Mage              | 18  |
+| Gargoyle                | 5   | Lord                    | 9   | Roper                  | 18  |
+| Giant Boring Beetle     | 5   | Lurker Above            | 9   | Shambling Mound        | 18  |
+| Giant Crocodile         | 5   | Manticore               | 9   | Small Earth Elemental  | 18  |
+| Giant Octopus           | 5   | Salamander              | 9   | Small Sea Monster      | 18  |
+| Giant Poisonous Snake   | 5   | Stone Giant             | 9   | Tyranosaurus Rex       | 18  |
+| Lion                    | 5   | Wyvern                  | 9   | Basilisk               | 20  |
+| Portugese Man-Of-War    | 5   | Animated Tree           | 10  | Giant Manta Ray        | 20  |
+| Rust Monster            | 5   | Chimera                 | 10  | Medium Fire Elemental  | 20  |
+| Small Roc               | 5   | Frost Giant             | 10  | Medium Water Elemental | 20  |
+| Swashbuckler            | 5   | Giant Rhinoceros Beetle | 10  | Red Dragon             | 20  |
+| Weretiger               | 5   | Minotaur Lizard         | 10  | Sorcerer               | 20  |
+| White Ape               | 5   | Morkoth                 | 10  | Will-O-Wisp            | 20  |
+| Bear                    | 6   | Small Air Elemental     | 10  | Large Air Elemental    | 22  |
+| Cockatrice              | 6   | Triton                  | 10  | Purple Worm            | 22  |
+| Conjurer                | 6   | Fire Giant              | 11  | Spirit Naga            | 22  |
+| Displacer Beast         | 6   | Giant Fish              | 11  | Large Roc              | 24  |
+| Ghast                   | 6   | Giant Shark             | 11  | Necromancer            | 24  |
+| Giant Constrictor Snake | 6   | Giant Squid             | 11  | Dragon Turtle          | 25  |
+| Giant Spider            | 6   | Gorgon                  | 11  | Treant                 | 25  |
+| Giant Stag Beetle       | 6   | Guardian Naga           | 11  | Vampire                | 25  |
+| Minotaur                | 6   | Magician                | 11  | Medium Earth Elemental | 26  |
+| Mummy                   | 6   | Medusa                  | 11  | Wizard                 | 26  |
+| Myrmidon                | 6   | White Dragon            | 11  | Masher                 | 28  |
+| Owl Bear                | 6   | Black Dragon            | 12  | Large Fire Elemental   | 33  |
+| Pungi Ray               | 6   | Cloud Giant             | 12  | Large Water Elemental  | 33  |
+| Unicorn                 | 6   | Ettin                   | 12  | Medium Sea Monster     | 33  |
+| Champion                | 7   | Trapper                 | 12  | Gold Dragon            | 35  |
+| Djinni                  | 7   | Umber Hulk              | 12  | Large Earth Elemental  | 36  |
+| Lammasu                 | 7   | Black Pudding           | 13  | Lich                   | 40  |
+| Sabre-Tooth Tiger       | 7   | Fire Lizard             | 13  | Whale                  | 40  |
+| Theurgist               | 7   | Catoblepas              | 14  | Large Sea Monster      | 45  |
+| Werebear                | 7   | Efreeti                 | 14  | Titan                  | 50  |
+| Wind Walker             | 7   | Enchanter               | 14  | Rakshasa               | 55  |
+| Yeti                    | 7   | Green Dragon            | 14  | Stone Golem            | 55  |
+| Giant Slug              | 8   | Medium Roc              | 14  | Beholder               | 60  |
+| Griffon                 | 8   | Blue Dragon             | 15  | Iron Golem             | 140 |
+| Hill Giant              | 8   | Flesh Golem             | 15  |                        |     |
+| Invisible Stalker       | 8   | Small Fire Elemental    | 15  |                        |     |
 
-Traps
+For a more detailed list of appropriate monsters and Equivalent Hit Dice, consult the [*OED Monster Determination*](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf) sheet.
 
-When stocking a dungeon, there is a 1 in 6 chance for a room to have a
-trap.
+## Traps
 
-Searching has a base 2 in 6 chance to spot a trap, and there is a base 2
-in 6 chance (per creature) to trigger a trap. The judge may rule that a
-trap resets in 1d6 turns
+When stocking a dungeon, there is a 1 in 6 chance for a room to have a trap.
 
-When a trap is indicated, roll a d6 and consult the result against the
-level of the dungeon (depth) in question. This will give you the
-"Threat" rank (I -- VI) of the trap.
+Searching has a base 2 in 6 chance to spot a trap, and there is a base 2 in 6 chance (per creature) to trigger a trap. The judge may rule that a trap resets in 1d6 turns
+
+When a trap is indicated, roll a d6 and consult the result against the level of the dungeon (depth) in question. This will give you the "Threat" rank (I -- VI) of the trap.
 
 Finally roll a d12 and match the result to the given Threat rank.
 
-  --------------------- ------------- ----- ----- ----- ----- -----
-  Dungeon Level Depth   d6 Result\*
+| **Dungeon Level Depth** | **d6 Result** |        |         |        |       |        |
+|-------------------------|---------------|--------|---------|--------|-------|--------|
+| 1                       | 1-4           | 5      | 6       |        |       |        |
+| 2                       | 1-2           | 3-4    | 5       | 6      |       |        |
+| 3-4                     | 1             | 2      | 3-4     | 5      | 6     |        |
+| 5-7                     |               | 1      | 2       | 3-4    | 5     | 6      |
+| 8-10                    |               |        | 1       | 2      | 3-4   | 5-6    |
+| 11+                     |               |        |         | 1      | 2     | 3-6    |
+| **Threat Rank**         | **I**         | **II** | **III** | **IV** | **V** | **VI** |
 
-  1                     1-4           5     6
-  2                     1-2           3-4   5     6
-  3-4                   1             2     3-4   5     6
-  5-7                                 1     2     3-4   5     6
-  8-10                                      1     2     3-4   5-6
-  11+                                             1     2     3-6
-  Threat Rank           I             II    III   IV    V     VI
-  --------------------- ------------- ----- ----- ----- ----- -----
+ | d12 | I                   | II                | III                     | IV                      | V                         | VI                                    |
+|-----|---------------------|-------------------|-------------------------|-------------------------|---------------------------|---------------------------------------|
+| 1   | Pit, Covered        | Pit, Locking      | Pit, Spiked             | Pit, Spiked -- Poison   | Pit, Locking, - Monster   | Pit, Spiked, Poison, Locked, Flooding |
+| 2   | Pit, Open -- Spiked | Pit, Watery       | Pit, Monster            | Pit, Flooding           | Pit, Locking, Flooding    | Pit, Locking, Crushing                |
+| 3   | Darts 1d3           | Arrows 1d6        | Arrows, Weak Poison 1d6 | Darts 2d6               | Arrows, Poison 1d6        | Darts, Poison 2d6                     |
+| 4   | Arrows 1d3          | Spears 1d6        | Spears, Accurate 1d6    | Spears, Weak Poison 1d6 | Spears, Very Accurate 1d6 | Spears, Accurate, Poison 1d6          |
+| 5   | Pendulum            | Scything Blade    | Wall Spikes             | Door, Poison Needle     | Poison Scythe             | Wall Spikes, Poison                   |
+| 6   | Ball Trap           | Royal Statue      | Block, Swinging         | Block, Falling          | Block, Falling, Spiked    | Block, falling, Spiked, Poison        |
+| 7   | Door, Falling       | Rolling Rock      | Collapsing Collumn      | Collapsing Wall         | Compacting Room           | Crushing Wall                         |
+| 8   | Net                 | Portcullis        | Watery Room             | Spinning Wall           | Flooding Room             | Dropping Ceiling                      |
+| 9   | Gas, Obscuring      | Gas, Sickening    | Gas, Blinding           | Gas, Poisonous          | Gas, Corroding            | Gas, Insanity                         |
+| 10  | Boiling Oil         | Acid Vent         | Fear                    | Wall of Fire/Ice        | Conjure Elemental         | Symbol                                |
+| 11  | Wizard Lock         | Phantasmal Forces | Fireball                | Confusion               | Teleport                  | Death Spell                           |
+| 12  | Magic Mouth         | Fire Vent         | Lightning Bolt          | Polymorph               | Wall of Stone/Iron        | Reverse Gravity                       |
 
-  ----- --------------------- ------------------- ------------------------- ------------------------- --------------------------- ---------------------------------------
-  d12   Trap by Threat Rank
-  I     II                    III                 IV                        V                         VI
-  1     Pit, Covered          Pit, Locking        Pit, Spiked               Pit, Spiked -- Poison     Pit, Locking, - Monster     Pit, Spiked, Poison, Locked, Flooding
-  2     Pit, Open -- Spiked   Pit, Watery         Pit, Monster              Pit, Flooding             Pit, Locking, Flooding      Pit, Locking, Crushing
-  3     Darts 1d3             Arrows 1d6          Arrows, Weak Poison 1d6   Darts 2d6                 Arrows, Poison 1d6          Darts, Poison 2d6
-  4     Arrows 1d3            Spears 1d6          Spears, Accurate 1d6      Spears, Weak Poison 1d6   Spears, Very Accurate 1d6   Spears, Accurate, Poison 1d6
-  5     Pendulum              Scything Blade      Wall Spikes               Door, Poison Needle       Poison Scythe               Wall Spikes, Poison
-  6     Ball Trap             Royal Statue        Block, Swinging           Block, Falling            Block, Falling, Spiked      Block, falling, Spiked, Poison
-  7     Door, Falling         Rolling Rock        Collapsing Collumn        Collapsing Wall           Compacting Room             Crushing Wall
-  8     Net                   Portcullis          Watery Room               Spinning Wall             Flooding Room               Dropping Ceiling
-  9     Gas, Obscuring        Gas, Sickening      Gas, Blinding             Gas, Poisonous            Gas, Corroding              Gas, Insanity
-  10    Boiling Oil           Acid Vent           Fear                      Wall of Fire/Ice          Conjure Elemental           Symbol
-  11    Wizard Lock           Phantasmal Forces   Fireball                  Confusion                 Teleport                    Death Spell
-  12    Magic Mouth           Fire Vent           Lightning Bolt            Polymorph                 Wall of Stone/Iron          Reverse Gravity
-  ----- --------------------- ------------------- ------------------------- ------------------------- --------------------------- ---------------------------------------
+Table: Traps by Threat Rank
 
-Trap Descriptions
+### Trap Descriptions
 
-Pit Traps
+#### Pit Traps
 
-The basic pit is 10×10×10\' and hidden by a cover unless a successful
-search is made. It generally drops two characters. When triggered,
-victims get saves vs. stone or fall in. In a standard depth pit,
-resulting in 1d6 points of falling damage (save again for half). The
-cover will reset in 1d6 turns unless noted.
+The basic pit is 10×10×10\' and hidden by a cover unless a successful search is made. It generally drops two characters. When triggered, victims get saves vs. stone or fall in. In a standard depth pit, resulting in 1d6 points of falling damage (save again for half). The cover will reset in 1d6 turns unless noted.
 
-A running jump over an open pit may be possible: Assume a jump distance
-of d6×3 feet (minus encumbrance level).
+A running jump over an open pit may be possible: Assume a jump distance of d6×3 feet (minus encumbrance level).
 
-For deeper dungeon levels (where the dungeon level is greater than trap
-rank), add 10\' to pit depth (+1d6 damage) per level difference.
+For deeper dungeon levels (where the dungeon level is greater than trap rank), add 10\' to pit depth (+1d6 damage) per level difference.
 
 Optionally, convert any pit to a chute to a lower level.
 
 **Pit, Covered**:Save vs. stone to avoid falling damage
 
-**Pit, Open, Spiked**:PCs will not fall into an open pit accidentally**
-**unless running, pushed, etc.; spikes do 1d6 damage in addition to fall
-damage
+**Pit, Open, Spiked**:PCs will not fall into an open pit accidentally unless running, pushed, etc.; spikes do 1d6 damage in addition to fall damage
 
-**Pit, Locking**:Requires magic to escape, or an outside character to
-Force Door (2in6 plus Strength _Bonus_)
+**Pit, Locking**:Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_)
 
-**Pit, Watery**:Requires swim check or begin drowning****(1d3
-damage/round)
+**Pit, Watery**:Requires swim check or begin drowning****(1d3 damage/round)
 
 **Pit, Spiked**:Spikes do 1d6 damage in addition to fall damage
 
-**Pit, Monster**:Roll for random unintelligent monster appropriate for
-dungeon level
+**Pit, Monster**:Roll for random unintelligent monster appropriate for dungeon level
 
-**Pit, Spiked, Poison**:Spikes do 1d6 damage in addition to fall
-damage.****If the save for half fall damage is failed, victim must then
-save vs. death
+**Pit, Spiked, Poison**:Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death
 
-**Pit, Flooding**:Torrent forces victim to bottom (drowning damage
-1d3/round); victims require outside assistance to escape (must hit AC 2
-to grab pole or rope and be pulled out)
+**Pit, Flooding**:Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Monster**:Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength _Bonus_). Roll for random
-unintelligent monster appropriate for dungeon level
+**Pit, Locking, Monster**:Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_). Roll for random unintelligent monster appropriate for dungeon level
 
-**Pit, Locking, Flooding**:Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength _Bonus_). Torrent forces
-victim to bottom (drowning damage 1d3/round); victims require outside
-assistance to escape (must hit AC 2 to grab pole or rope and be pulled
-out)
+**Pit, Locking, Flooding**:Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Spiked, Poison, Locking, Flooding**:Spikes do 1d6 damage in
-addition to fall damage.****If the save for half fall damage is failed,
-victim must then save vs. death. Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength _Bonus_). Torrent forces
-victim to bottom (drowning damage 1d3/round); victims require outside
-assistance to escape (AC 2 to grab pole or rope and be pulled out)
+**Pit, Spiked, Poison, Locking, Flooding**:Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death. Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Crushing**:Requires magic to escape, or an outside
-character to Force Door (2in6 plus Strength _Bonus_). Walls start
-crushing in 1d3 rounds, requires save vs. death each round thereafter
+**Pit, Locking, Crushing**:Requires magic to escape, or an outside character to Force Door (2i n 6 plus Strength _Bonus_). Walls start crushing in 1d3 rounds, requires save vs. death each round thereafter
 
-Shooting Traps
+#### Shooting Traps
 
-The basic shooting trap attacks as a 3 Hit Die monster and fires the
-listed number of projectiles randomly at characters in the trigger zone.
-On a roll of 1 the Judge may decide the trap has run out of ammo.
+The basic shooting trap attacks as a 3 Hit Die monster and fires the listed number of projectiles randomly at characters in the trigger zone. On a roll of 1 the Judge may decide the trap has run out of ammo.
 
 **Darts (1d3)**: Attacks as 3HD monster, 1d4 damage each
 
@@ -1121,235 +986,137 @@ On a roll of 1 the Judge may decide the trap has run out of ammo.
 
 **Spears (1d6)**:Attacks as 3HD monster, damage 1d6 each
 
-**Arrows (1d6), Weak Poison**:Attacks as 3HD monster, 1d6 damage each,
-plus save vs. death at +4 bonus
+**Arrows (1d6), Weak Poison**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
 
 **Spears (1d6), Accurate**:Attacks as **6HD** monster, 1d6 damage each
 
 **Darts (2d6)**:Attacks as a 3 HD monster, 1d4 damage each
 
-**Spears, Weak Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each,
-plus save vs. death at +4 bonus
+**Spears, Weak Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
 
-**Arrows, Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus
-save vs. death
+**Arrows, Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death
 
-**Spears, Very Accurate (1d6)**:Attacks as**9HD**monster, damage 1d6
-each
+**Spears, Very Accurate (1d6)**:Attacks as**9HD**monster, damage 1d6 each
 
-**Darts, Poison (2d6)**:Attacks as a 3 HD monster**,**1d4 damage each,
-plus save vs. death
+**Darts, Poison (2d6)**:Attacks as a 3 HD monster**,**1d4 damage each, plus save vs. death
 
-**Spears, Accurate, Poison (1d6)**:Attacks as 6HD monster, 1d6 damage
-each, plus save vs. death
+**Spears, Accurate, Poison (1d6)**:Attacks as 6HD monster, 1d6 damage each, plus save vs. death
 
-Slashing Traps
+#### Slashing Traps
 
-Slashing traps typically come out of cunningly concealed panels in the
-walls or ceiling.
+Slashing traps typically come out of cunningly concealed panels in the walls or ceiling.
 
-**Pendulum**:A poleaxe springs from the ceiling, attacking the
-triggering character only as a 3 HD monster for 2d6 damage
+**Pendulum**:A poleaxe springs from the ceiling, attacking the triggering character only as a 3 HD monster for 2d6 damage
 
-**Scything Blade**:A Scythe springs out of the wall or other object,
-attacking as a 3 HD monster. It strikes up to three characters for 2d6
-damage
+**Scything Blade**:A Scythe springs out of the wall or other object, attacking as a 3 HD monster. It strikes up to three characters for 2d6 damage
 
-**Wall Spikes**:Spikes spring from holes in the walls. If these holes
-are not covered by tapestries, foliage, plaster, etc.; grant characters
-a +2 to search. When triggers, anyone within 5\' of the wall is attacked
-by 1d3 protruding spikes. They strike as a 6 HD creature for 1d6 damage
+**Wall Spikes**:Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes. They strike as a 6 HD creature for 1d6 damage
 
-**Door, Poison Needle**:A poison needle jabs out and quickly retracts
-from doorknob or other protrusion. Character must save vs. death at +4
-bonus. Note: Plate gauntlets are either open or leather on the inner
-side, and are no protection against this trap
+**Door, Poison Needle**:A poison needle jabs out and quickly retracts from doorknob or other protrusion. Character must save vs. death at +4 bonus. Note: Plate gauntlets are either open or leather on the inner side, and are no protection against this trap
 
-**Poison Scythe**:A Scythe springs out of the wall or other object,
-attacking as a 9HD monster. It strikes up to three characters for 2d6
-damage and they must save vs death
+**Poison Scythe**:A Scythe springs out of the wall or other object, attacking as a 9HD monster. It strikes up to three characters for 2d6 damage and they must save vs death
 
-**Wall Spikes, Poison**:Spikes spring from holes in the walls. If these
-holes are not covered by tapestries, foliage, plaster, etc.; grant
-characters a +2 to search. When triggers, anyone within 5\' of the wall
-is attacked by 1d3 protruding spikes and they must save vs death
+**Wall Spikes, Poison**:Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes and they must save vs death
 
-Clubbing Traps
+#### Clubbing Traps
 
-Clubbing traps are concealed within the architectural elements of the
-structure.
+Clubbing traps are concealed within the architectural elements of the structure.
 
-**Ball Trap**:Countless steel balls drop to the floor, the sound of
-which triggers a check for nearby monsters. Anyone moving through the
-area must save vs. stone or fall and be stunned for 1d3 rounds. It takes
-1d6 rounds for the balls to dissipate, ending the effect
+**Ball Trap**:Countless steel balls drop to the floor, the sound of which triggers a check for nearby monsters. Anyone moving through the area must save vs. stone or fall and be stunned for 1d3 rounds. It takes 1d6 rounds for the balls to dissipate, ending the effect
 
-**Royal Statue**:A statue of a king or other nobility swings at the
-character with its scepter, attacking as a 6 HD monster for 2d6 damage
+**Royal Statue**:A statue of a king or other nobility swings at the character with its scepter, attacking as a 6 HD monster for 2d6 damage
 
-**Block, Swinging**:A large stone block swings down from the ceiling in
-an arc that effect a 20 foot-long area, those in the area suffer 4d6
-damage and can save vs. stone for half
+**Block, Swinging**:A large stone block swings down from the ceiling in an arc that effect a 20 foot-long area, those in the area suffer 4d6 damage and can save vs. stone for half
 
-**Block, Falling**:A large stone block falls from ceiling in 5×10 foot
-area causing 6d6 damage, those caught can make a save vs. stone for half
+**Block, Falling**:A large stone block falls from ceiling in 5×10 foot area causing 6d6 damage, those caught can make a save vs. stone for half
 
-**Block, Falling, Spiked**:A large spiked stone block falls from
-ceiling in 5×10 foot area causing 10d6 damage, those caught can make a
-save vs. stone for half
+**Block, Falling, Spiked**:A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can make a save vs. stone for half
 
-**Block, Falling, Spiked, Poison**:A large spiked stone block falls
-from ceiling in 5×10 foot area causing 10d6 damage, those caught can
-save vs. stone for half. The spikes are coated in poison and all those
-in the area must also save vs. death.
+**Block, Falling, Spiked, Poison**:A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can save vs. stone for half. The spikes are coated in poison and all those in the area must also save vs. death.
 
-Crushing Traps
+#### Crushing Traps
 
-Crushing traps, like clubbing traps, are concealed within the
-architectural elements of the structure
+Crushing traps, like clubbing traps, are concealed within the architectural elements of the structure
 
-**Door, Falling**:This heavy reinforced door springs off of its hinges
-landing in 5×10 foot area when the character attempts to open it. It
-inflicts 2d6 damage; targets can save vs. stone for half
+**Door, Falling**:This heavy reinforced door springs off of its hinges landing in 5×10 foot area when the character attempts to open it. It inflicts 2d6 damage; targets can save vs. stone for half
 
-**Rolling Rock**:A 8' diameter boulder is released down the passage
-moving at 9" (45') per round; those struck take 4d6 damage and can save
-vs. stone for half. The boulder comes to rest, blocking the passageway,
-and can be moved by a party of 4 working in unison.
+**Rolling Rock**:A 8' diameter boulder is released down the passage moving at 9" (45') per round; those struck take 4d6 damage and can save vs. stone for half. The boulder comes to rest, blocking the passageway, and can be moved by a party of 4 working in unison.
 
-**Collapsing Column**:A non-load bearing column breaks apart with the
-sections falling in a 10×10 foot area causing 4d6 damage, characters can
-save vs. stone for half
+**Collapsing Column**:A non-load bearing column breaks apart with the sections falling in a 10×10 foot area causing 4d6 damage, characters can save vs. stone for half
 
-**Collapsing Wall**:The outer layer of blocks on this wall collapse in
-10\' long area causing 8d6 damage, those affected can save vs. stone for
-half.
+**Collapsing Wall**:The outer layer of blocks on this wall collapse in 10\' long area causing 8d6 damage, those affected can save vs. stone for half.
 
-**Compacting Room**:The doors to this room are reinforced and will
-swing shut and lock. If they are spiked open beforehand, the spikes have
-a 4 in 6 chance to hold. The walls will close in 1d6+1 rounds causing
-12d6 damage before retracting. Victims can save vs. death for half
-damage.
+**Compacting Room**:The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. The walls will close in 1d6+1 rounds causing 12d6 damage before retracting. Victims can save vs. death for half damage.
 
-**Crushing Wall**:This solid outer section of wall 20\' wide smashes
-forward on trigger inflicting 16d6 damage and then retracts. Targets can
-save vs death for half
+**Crushing Wall**:This solid outer section of wall 20\' wide smashes forward on trigger inflicting 16d6 damage and then retracts. Targets can save vs death for half
 
-Confining Traps
+#### Confining Traps
 
-Confining traps are typically normal appearing rooms that restrict
-movement. The Judge should familiarize themselves with the rules for
-Forcing Doors, Swimming, etc.
+Confining traps are typically normal appearing rooms that restrict movement. The Judge should familiarize themselves with the rules for Forcing Doors, Swimming, etc.
 
-**Net**:A net with hooks and bells drops from the ceiling, landing in
-10' × 20' area, entangling those beneath, the sound of which triggers a
-check for nearby monsters. Those in the net cannot move, suffer a -2
-penalty to AC, and can only make melee attacks with swords and spears at
-a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per
-round to escape. Having a dagger in-hand grants a +2 to this role.
-Finally, check for nearby monsters when net falls.
+**Net**:A net with hooks and bells drops from the ceiling, landing in 10' × 20' area, entangling those beneath, the sound of which triggers a check for nearby monsters. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this role. Finally, check for nearby monsters when net falls.
 
-**Portcullis**:An iron gate falls behind party and blocks the passage,
-the sound of which triggers a check for nearby monsters. The bars may be
-forced as locked door (base 2 in 6, with a --2)
+**Portcullis**:An iron gate falls behind party and blocks the passage, the sound of which triggers a check for nearby monsters. The bars may be forced as locked door (base 2 in 6, with a --2)
 
-**Watery Room**:The floor of the room is flooded with stagnant water at
-least 10\' deep.
+**Watery Room**:The floor of the room is flooded with least 10\' deep.
 
-**Spinning Wall**:A section of wall up to 20' in length spins in place,
-depositing the victims in area on adjacent side. It cannot be triggered
-from the other side.
+**Spinning Wall**:A section of wall up to 20' in length spins in place, depositing the victims in area on adjacent side. It cannot be triggered from the other side.
 
-**Flooding Room**:The doors to this room are reinforced and will swing
-shut and lock. If they are spiked open beforehand, the spikes have a 4
-in 6 chance to hold. Once sealed, the room floods with water in 1d6
-rounds. Once flooded, attempt to open the door attempts are at --2
+**Flooding Room**:The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. Once sealed, the room floods with water in 1d6 rounds. Once flooded, attempt to open the door attempts are at --2
 
-**Dropping Ceiling**:The entire stone ceiling drops on the room when
-triggered inflicting 12d6 damage to the occupants, who can save vs.
-death for half). Passage through the room is then blocked.
+**Dropping Ceiling**:The entire stone ceiling drops on the room when triggered inflicting 12d6 damage to the occupants, who can save vs. death for half). Passage through the room is then blocked.
 
-Gas Traps
+#### Gas Traps
 
-The basic gas trap covers a 20 × 20\' area with a cracking sound and
-distinct smell. When triggered characters can make a save vs. stone,
-allowing them to immediately flee the affected area. Those in the area
-must save vs. breath each round to avoid the effect of the gas. The gas
-clears after one hour.
+The basic gas trap covers a 20 × 20\' area with a cracking sound and distinct smell. When triggered characters can make a save vs. stone, allowing them to immediately flee the affected area. Those in the area must save vs. breath each round to avoid the effect of the gas. The gas clears after one hour.
 
 **Gas, Obscuring**:A hazy gas fills the area imposing a --4 to attacks
 
-**Gas, Sickness**:This sulfurous smelling gas causes the victims to
-lose 1d6 points of Strength for one hour unless a save vs. breath is
-made.
+**Gas, Sickness**:This sulfurous smelling gas causes the victims to lose 1d6 points of Strength for one hour unless a save vs. breath is made.
 
-**Gas, Blinding**:This apple scented gas inflicts blindness for one
-hour
+**Gas, Blinding**:This apple scented gas inflicts blindness for one hour
 
-**Gas, Poison**:This bitter almond scented gas forces the victims to
-save vs. death with a +4 bonus
+**Gas, Poison**:This bitter almond scented gas forces the victims to save vs. death with a +4 bonus
 
-**Gas, Corroding**: This ammonia smelling gas will rust any metal items
-in the area. Each item must succeed a save vs. stone or it falls to
-pieces. Magic items get +2 bonus for each magic plus or ability.
+**Gas, Corroding**: This ammonia smelling gas will rust any metal items in the area. Each item must succeed a save vs. stone or it falls to pieces. Magic items get +2 bonus for each magic plus or ability.
 
-**Gas, Insanity**:This fruity smelling gas causes the victim to become
-permanently insane unless a save vs. breath is successful. Those
-affected are equally likely to attack or flee from allies in any given
-encounter. A _remove curse_spell will lift the affliction.
+**Gas, Insanity**:This fruity smelling gas causes the victim to become permanently insane unless a save vs. breath is successful. Those affected are equally likely to attack or flee from allies in any given encounter. A _remove curse_spell will lift the affliction.
 
-Energy/Magic Traps
+#### Energy/Magic Traps
 
-While these traps may make use of magical effects, they are triggered
-and detected in the same manner as other traps. Some mechanical
-interface activates the magic, which is undetectable until that time.
+While these traps may make use of magical effects, they are triggered and detected in the same manner as other traps. Some mechanical interface activates the magic, which is undetectable until that time.
 
-**Boiling Oil**:Boiling oil dumps into a 10' radius area inflicting 2d6
-points of fire damage. The targets can make a save vs. breath for half
-damage.
+**Boiling Oil**:Boiling oil dumps into a 10' radius area inflicting 2d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
-**Fire Vent**:Flames belch out into a 10' radius inflicting 4d6 points
-of fire damage. The targets can make a save vs. breath for half damage.
+**Fire Vent**:Flames belch out into a 10' radius inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
-**Acid Vent**:Acid dumps into a 10' radius area inflicting 4d6 points
-of fire damage. The targets can make a save vs. breath for half damage.
+**Acid Vent**:Acid dumps into a 10' radius area inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
-**Spells**: These traps work as under their spell description at the
-lowest level required to cast. Trap-conjured Elementals are 8 HD
-(small). For deeper dungeon levels (where the dungeon level is greater
-than trap rank), add +2 to the caster level per degree of difference.
+**Spells**: These traps work as under their spell description at the lowest level required to cast. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
 
-Resources
+## Resources
 
 [_http://deltasdnd.blogspot.com/_](http://deltasdnd.blogspot.com/)
 
 [_OED games website_](http://oedgames.com/)
 
-[*OED Character
-Sheet*](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
+[*OED Character Sheet*](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
 
-[*OED Monster
-Database*](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv)
+[*OED Monster Database*](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv)
 
-[*OED Book of War, Mass Combat
-System*](http://oedgames.com/addons/bow/index.html)
+[*OED Book of War, Mass Combat System*](http://oedgames.com/addons/bow/index.html)
 
 [_https://wanderingdms.com/_](https://wanderingdms.com/)
 
-[*The Magic
-Table*](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
+[*The Magic Table*](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
 
-[*OED Book of
-Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854)
+[*OED Book of Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854)
 
-[*Jeff Rients'
-Carousing*](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
+[*Jeff Rients' Carousing*](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
 
-Appendix A: Monster Stat Summary
+## Appendix A: Monster Stat Summary
 
-To access original data in spreadsheet format, see:
-
-[**https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv**](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv)
+To access original data in spreadsheet format, see: [**https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv**](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv)
 
   ---------------- --------- ---- ---- ------ ------- ------- ----- ------- ------- ------ ----- ------ ----- --------- ------------------------------------------------------------------------------
   Monster          Number    AC   MV   HD     Lair%   Treas   Atk   Dam     Align   Type   EHD   hdd    Env   Source    Special
