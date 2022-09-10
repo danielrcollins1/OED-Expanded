@@ -426,7 +426,7 @@ The core mechanic of OED is the Target 20 roll as summarized below. Some game ac
 
 ### Light and Vision
 
-**Lighting**:Torches and lanterns shed good light out to 30', and dim light out to 60'. In dim light one can make out basic shapes and/or glowing eyes.
+**Lighting**: Torches and lanterns shed good light out to 30', and dim light out to 60'. In dim light one can make out basic shapes and/or glowing eyes.
 
 **Infravision**: Infravision allows one to see (most) creatures in darkness clearly out to ½ the specified distance (30') and dimly out to the full listed distance (60'). It is spoiled when looking directly at a torch/fire source.
 
@@ -480,7 +480,7 @@ _Leech Fever_: -1 Strength per day. Recover 3 Strength per week of rest
 
 _Mummy Rot_: -1 Strength per day. Recovery (See Magic Diseases below)
 
-**Magic Diseases**:Magical disease such as Lycanthropy and Mummy Rot can be removed via the Remove Curse spell in place of the Remove Disease spell.
+**Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot can be removed via the Remove Curse spell in place of the Remove Disease spell.
 
 **Drowning/Suffocation**: You have a 50% chance each round without air to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6 damage per Turn (minute) without air. Damage is doubled if surprised.
 
@@ -488,7 +488,7 @@ _Mummy Rot_: -1 Strength per day. Recovery (See Magic Diseases below)
 
 **Level Drain**: Characters are allowed a Save vs Death to avoid Level Drain effect. If the save is failed, XP is set to the midpoint of the prior level. Current and Max HP are reduced proportionally (divide by original level), possibly resulting in death at 0hp. The number of lost HP should be noted and returned if/when the level is re-achieved.
 
-**Poison**:Unless otherwise specified, a failed save vs poison means incapacitation, then death in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
+**Poison**: Unless otherwise specified, a failed save vs poison means incapacitation, then death in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
 
 ## Combat
 
@@ -505,13 +505,13 @@ _Mummy Rot_: -1 Strength per day. Recovery (See Magic Diseases below)
 - Retrieve and Use a Potion
 - Ranged Attacks (unless a weapon thrown in the same direction as the character's movement)
 
-**Fleeing**:A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear.
+**Fleeing**: A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear.
 
-**Withdraw**:In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
+**Withdraw**: In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
 
 **Natural 1**: A roll of 1 on a d20 counts as a -10. On attack rolls, the Judge rolls a d20 with the following results: 1 = Hit Self, 2 = Hit Ally, 3 = Slip & Fall, 4 = Damage Weapon, 5 = Drop Weapon, 6+ = No Fumble.
 
-**Natural 20**:A roll of 20 counts as a 30. On attacks rolls, roll damage twice with all bonuses included.
+**Natural 20**: A roll of 20 counts as a 30. On attacks rolls, roll damage twice with all bonuses included.
 
 **Combat Modifiers**: The following situational modifiers may be added to attack rolls.
 
@@ -521,11 +521,11 @@ _Mummy Rot_: -1 Strength per day. Recovery (See Magic Diseases below)
 - Target is helpless:+6 to Ranged attacks; Automatic Melee attacks for full damage
 - Target has no Helmet:1 in 6 chance attack is to the head vs AC 9 (humanoids only)
 
-**Shots at Groups**:When firing at a specific individual in a crowd, if the attack roll (d20+To Hit+Dex Modifier+Range/Attack Modifiers; but _not_ AC) is less than 10, it misses the (man-size) target.
+**Shots at Groups**: When firing at a specific individual in a crowd, if the attack roll (d20+To Hit+Dex Modifier+Range/Attack Modifiers; but _not_ AC) is less than 10, it misses the (man-size) target.
 
 An "**errant shot**" is triggered if that attack roll is between 10 and 10 minus the number of creatures in the group. Ex: If the target is in a squad of 5 other men, an errant shot occurs on 5-9. If the target group has 10 men, then a roll of 0-9 indicates an errant shot.
 
-**Errant Shots**:When making a ranged attack to hit any target in a crowd (or on a fumbled attack against a specific target in a crowd), the attack is resolved by d20+AC ≥ 20. Range penalties are ignored.
+**Errant Shots**: When making a ranged attack to hit any target in a crowd (or on a fumbled attack against a specific target in a crowd), the attack is resolved by d20+AC ≥ 20. Range penalties are ignored.
 
 ### Death and Healing
 
@@ -533,7 +533,7 @@ An "**errant shot**" is triggered if that attack roll is between 10 and 10 minus
 
 **Natural Healing**: Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con _Bonus_ per week of rest and comfort. The creature can not undergo other meaningful activities.
 
-**Magical Healing**:The only common source of magical healing in OED are potions of healing and potions of mithridate (neutralize poison) which are available from Wizards and NPC Alchemists. There is no common source of regeneration, resurrection, or restoration magic.
+**Magical Healing**: The only common source of magical healing in OED are potions of healing and potions of mithridate (neutralize poison) which are available from Wizards and NPC Alchemists. There is no common source of regeneration, resurrection, or restoration magic.
 
 **Character Death**: Players can bring in a new 1^st^ level character at the completion of current combat/activity.
 
@@ -580,7 +580,7 @@ It is recommended that the Judge keep a short roster of basic NPC info (names, s
 
 NPC types can be generate randomly below.
 
-**Ability Scores**:As below based on level.
+**Ability Scores**: As below based on level.
 
 **Race**: 1-3 (Human), 4 (Halfling), 5 (Dwarf), 6 (Elf)
 
@@ -746,13 +746,13 @@ OED uses the monsters presented in Vol II with the adjustments below.
 
 **Languages**: It is assumed than an intelligent creature has a base 1 in 6 chance to speak common.
 
-**Gaze Attacks**:Creatures facing beings with Gaze Attacks must make a Save each round unless precautions are taken.
+**Gaze Attacks**: Creatures facing beings with Gaze Attacks must make a Save each round unless precautions are taken.
 
-**Chimera/Gorgons**:Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day.
+**Chimera/Gorgons**: Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day.
 
-**Dragons**:Divide the Dragon's HP by 3 to determine its Hit Dice. Use this Hit Dice value to determine Attacks and Saves. Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day. A Dragon's breath weapon does 1 die of damage for every 6 hit points it currently possesses. Dragons can force a morale check on NPCs within 75 feet. They have a 2 in 6 chance to detect creatures within 75 feet. Dragon subdual rules are not used.
+**Dragons**: Divide the Dragon's HP by 3 to determine its Hit Dice. Use this Hit Dice value to determine Attacks and Saves. Each round roll a 2d6, a result of 7+ means the creature will use its breath weapon. It can use its breath weapon a total of 3 times per day. A Dragon's breath weapon does 1 die of damage for every 6 hit points it currently possesses. Dragons can force a morale check on NPCs within 75 feet. They have a 2 in 6 chance to detect creatures within 75 feet. Dragon subdual rules are not used.
 
-**Goblin-kin**:Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1 to Morale in full daylight.
+**Goblin-kin**: Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1 to Morale in full daylight.
 
 **Giants**: Giants can throw a stone every other round at ranges of of 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
@@ -951,29 +951,29 @@ For deeper dungeon levels (where the dungeon level is greater than trap rank), a
 
 Optionally, convert any pit to a chute to a lower level.
 
-**Pit, Covered**:Save vs. stone to avoid falling damage
+**Pit, Covered**: Save vs. stone to avoid falling damage
 
-**Pit, Open, Spiked**:PCs will not fall into an open pit accidentally unless running, pushed, etc.; spikes do 1d6 damage in addition to fall damage
+**Pit, Open, Spiked**: PCs will not fall into an open pit accidentally unless running, pushed, etc.; spikes do 1d6 damage in addition to fall damage
 
-**Pit, Locking**:Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_)
+**Pit, Locking**: Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_)
 
-**Pit, Watery**:Requires swim check or begin drowning****(1d3 damage/round)
+**Pit, Watery**: Requires swim check or begin drowning****(1d3 damage/round)
 
-**Pit, Spiked**:Spikes do 1d6 damage in addition to fall damage
+**Pit, Spiked**: Spikes do 1d6 damage in addition to fall damage
 
-**Pit, Monster**:Roll for random unintelligent monster appropriate for dungeon level
+**Pit, Monster**: Roll for random unintelligent monster appropriate for dungeon level
 
-**Pit, Spiked, Poison**:Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death
+**Pit, Spiked, Poison**: Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death
 
-**Pit, Flooding**:Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
+**Pit, Flooding**: Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Monster**:Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_). Roll for random unintelligent monster appropriate for dungeon level
+**Pit, Locking, Monster**: Requires magic to escape, or an outside character to Force Door (2 in 6 plus Strength _Bonus_). Roll for random unintelligent monster appropriate for dungeon level
 
-**Pit, Locking, Flooding**:Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
+**Pit, Locking, Flooding**: Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (must hit AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Spiked, Poison, Locking, Flooding**:Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death. Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out)
+**Pit, Spiked, Poison, Locking, Flooding**: Spikes do 1d6 damage in addition to fall damage. If the save for half fall damage is failed, victim must then save vs. death. Requires magic to escape, or an outside character to Force Door (2in6 plus Strength _Bonus_). Torrent forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out)
 
-**Pit, Locking, Crushing**:Requires magic to escape, or an outside character to Force Door (2i n 6 plus Strength _Bonus_). Walls start crushing in 1d3 rounds, requires save vs. death each round thereafter
+**Pit, Locking, Crushing**: Requires magic to escape, or an outside character to Force Door (2i n 6 plus Strength _Bonus_). Walls start crushing in 1d3 rounds, requires save vs. death each round thereafter
 
 #### Shooting Traps
 
@@ -985,113 +985,113 @@ The basic shooting trap attacks as a 3 Hit Die monster and fires the listed numb
 
 **Arrows (1d6)**: Attacks as 3HD monster, 1d6 damage each
 
-**Spears (1d6)**:Attacks as 3HD monster, damage 1d6 each
+**Spears (1d6)**: Attacks as 3HD monster, damage 1d6 each
 
-**Arrows (1d6), Weak Poison**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
+**Arrows (1d6), Weak Poison**: Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
 
-**Spears (1d6), Accurate**:Attacks as **6HD** monster, 1d6 damage each
+**Spears (1d6), Accurate**: Attacks as **6HD** monster, 1d6 damage each
 
-**Darts (2d6)**:Attacks as a 3 HD monster, 1d4 damage each
+**Darts (2d6)**: Attacks as a 3 HD monster, 1d4 damage each
 
-**Spears, Weak Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
+**Spears, Weak Poison (1d6)**: Attacks as 3HD monster, 1d6 damage each, plus save vs. death at +4 bonus
 
-**Arrows, Poison (1d6)**:Attacks as 3HD monster, 1d6 damage each, plus save vs. death
+**Arrows, Poison (1d6)**: Attacks as 3HD monster, 1d6 damage each, plus save vs. death
 
-**Spears, Very Accurate (1d6)**:Attacks as**9HD**monster, damage 1d6 each
+**Spears, Very Accurate (1d6)**: Attacks as**9HD**monster, damage 1d6 each
 
-**Darts, Poison (2d6)**:Attacks as a 3 HD monster**,**1d4 damage each, plus save vs. death
+**Darts, Poison (2d6)**: Attacks as a 3 HD monster**,**1d4 damage each, plus save vs. death
 
-**Spears, Accurate, Poison (1d6)**:Attacks as 6HD monster, 1d6 damage each, plus save vs. death
+**Spears, Accurate, Poison (1d6)**: Attacks as 6HD monster, 1d6 damage each, plus save vs. death
 
 #### Slashing Traps
 
 Slashing traps typically come out of cunningly concealed panels in the walls or ceiling.
 
-**Pendulum**:A poleaxe springs from the ceiling, attacking the triggering character only as a 3 HD monster for 2d6 damage
+**Pendulum**: A poleaxe springs from the ceiling, attacking the triggering character only as a 3 HD monster for 2d6 damage
 
-**Scything Blade**:A Scythe springs out of the wall or other object, attacking as a 3 HD monster. It strikes up to three characters for 2d6 damage
+**Scything Blade**: A Scythe springs out of the wall or other object, attacking as a 3 HD monster. It strikes up to three characters for 2d6 damage
 
-**Wall Spikes**:Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes. They strike as a 6 HD creature for 1d6 damage
+**Wall Spikes**: Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes. They strike as a 6 HD creature for 1d6 damage
 
-**Door, Poison Needle**:A poison needle jabs out and quickly retracts from doorknob or other protrusion. Character must save vs. death at +4 bonus. Note: Plate gauntlets are either open or leather on the inner side, and are no protection against this trap
+**Door, Poison Needle**: A poison needle jabs out and quickly retracts from doorknob or other protrusion. Character must save vs. death at +4 bonus. Note: Plate gauntlets are either open or leather on the inner side, and are no protection against this trap
 
-**Poison Scythe**:A Scythe springs out of the wall or other object, attacking as a 9HD monster. It strikes up to three characters for 2d6 damage and they must save vs death
+**Poison Scythe**: A Scythe springs out of the wall or other object, attacking as a 9HD monster. It strikes up to three characters for 2d6 damage and they must save vs death
 
-**Wall Spikes, Poison**:Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes and they must save vs death
+**Wall Spikes, Poison**: Spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search. When triggers, anyone within 5\' of the wall is attacked by 1d3 protruding spikes and they must save vs death
 
 #### Clubbing Traps
 
 Clubbing traps are concealed within the architectural elements of the structure.
 
-**Ball Trap**:Countless steel balls drop to the floor, the sound of which triggers a check for nearby monsters. Anyone moving through the area must save vs. stone or fall and be stunned for 1d3 rounds. It takes 1d6 rounds for the balls to dissipate, ending the effect
+**Ball Trap**: Countless steel balls drop to the floor, the sound of which triggers a check for nearby monsters. Anyone moving through the area must save vs. stone or fall and be stunned for 1d3 rounds. It takes 1d6 rounds for the balls to dissipate, ending the effect
 
-**Royal Statue**:A statue of a king or other nobility swings at the character with its scepter, attacking as a 6 HD monster for 2d6 damage
+**Royal Statue**: A statue of a king or other nobility swings at the character with its scepter, attacking as a 6 HD monster for 2d6 damage
 
-**Block, Swinging**:A large stone block swings down from the ceiling in an arc that effect a 20 foot-long area, those in the area suffer 4d6 damage and can save vs. stone for half
+**Block, Swinging**: A large stone block swings down from the ceiling in an arc that effect a 20 foot-long area, those in the area suffer 4d6 damage and can save vs. stone for half
 
-**Block, Falling**:A large stone block falls from ceiling in 5×10 foot area causing 6d6 damage, those caught can make a save vs. stone for half
+**Block, Falling**: A large stone block falls from ceiling in 5×10 foot area causing 6d6 damage, those caught can make a save vs. stone for half
 
-**Block, Falling, Spiked**:A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can make a save vs. stone for half
+**Block, Falling, Spiked**: A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can make a save vs. stone for half
 
-**Block, Falling, Spiked, Poison**:A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can save vs. stone for half. The spikes are coated in poison and all those in the area must also save vs. death.
+**Block, Falling, Spiked, Poison**: A large spiked stone block falls from ceiling in 5×10 foot area causing 10d6 damage, those caught can save vs. stone for half. The spikes are coated in poison and all those in the area must also save vs. death.
 
 #### Crushing Traps
 
 Crushing traps, like clubbing traps, are concealed within the architectural elements of the structure
 
-**Door, Falling**:This heavy reinforced door springs off of its hinges landing in 5×10 foot area when the character attempts to open it. It inflicts 2d6 damage; targets can save vs. stone for half
+**Door, Falling**: This heavy reinforced door springs off of its hinges landing in 5×10 foot area when the character attempts to open it. It inflicts 2d6 damage; targets can save vs. stone for half
 
-**Rolling Rock**:A 8' diameter boulder is released down the passage moving at 9" (45') per round; those struck take 4d6 damage and can save vs. stone for half. The boulder comes to rest, blocking the passageway, and can be moved by a party of 4 working in unison.
+**Rolling Rock**: A 8' diameter boulder is released down the passage moving at 9" (45') per round; those struck take 4d6 damage and can save vs. stone for half. The boulder comes to rest, blocking the passageway, and can be moved by a party of 4 working in unison.
 
-**Collapsing Column**:A non-load bearing column breaks apart with the sections falling in a 10×10 foot area causing 4d6 damage, characters can save vs. stone for half
+**Collapsing Column**: A non-load bearing column breaks apart with the sections falling in a 10×10 foot area causing 4d6 damage, characters can save vs. stone for half
 
-**Collapsing Wall**:The outer layer of blocks on this wall collapse in 10\' long area causing 8d6 damage, those affected can save vs. stone for half.
+**Collapsing Wall**: The outer layer of blocks on this wall collapse in 10\' long area causing 8d6 damage, those affected can save vs. stone for half.
 
-**Compacting Room**:The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. The walls will close in 1d6+1 rounds causing 12d6 damage before retracting. Victims can save vs. death for half damage.
+**Compacting Room**: The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. The walls will close in 1d6+1 rounds causing 12d6 damage before retracting. Victims can save vs. death for half damage.
 
-**Crushing Wall**:This solid outer section of wall 20\' wide smashes forward on trigger inflicting 16d6 damage and then retracts. Targets can save vs death for half
+**Crushing Wall**: This solid outer section of wall 20\' wide smashes forward on trigger inflicting 16d6 damage and then retracts. Targets can save vs death for half
 
 #### Confining Traps
 
 Confining traps are typically normal appearing rooms that restrict movement. The Judge should familiarize themselves with the rules for Forcing Doors, Swimming, etc.
 
-**Net**:A net with hooks and bells drops from the ceiling, landing in 10' × 20' area, entangling those beneath, the sound of which triggers a check for nearby monsters. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this role. Finally, check for nearby monsters when net falls.
+**Net**: A net with hooks and bells drops from the ceiling, landing in 10' × 20' area, entangling those beneath, the sound of which triggers a check for nearby monsters. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this role. Finally, check for nearby monsters when net falls.
 
-**Portcullis**:An iron gate falls behind party and blocks the passage, the sound of which triggers a check for nearby monsters. The bars may be forced as locked door (base 2 in 6, with a --2)
+**Portcullis**: An iron gate falls behind party and blocks the passage, the sound of which triggers a check for nearby monsters. The bars may be forced as locked door (base 2 in 6, with a --2)
 
-**Watery Room**:The floor of the room is flooded with least 10\' deep.
+**Watery Room**: The floor of the room is flooded with least 10\' deep.
 
-**Spinning Wall**:A section of wall up to 20' in length spins in place, depositing the victims in area on adjacent side. It cannot be triggered from the other side.
+**Spinning Wall**: A section of wall up to 20' in length spins in place, depositing the victims in area on adjacent side. It cannot be triggered from the other side.
 
-**Flooding Room**:The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. Once sealed, the room floods with water in 1d6 rounds. Once flooded, attempt to open the door attempts are at --2
+**Flooding Room**: The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. Once sealed, the room floods with water in 1d6 rounds. Once flooded, attempt to open the door attempts are at --2
 
-**Dropping Ceiling**:The entire stone ceiling drops on the room when triggered inflicting 12d6 damage to the occupants, who can save vs. death for half). Passage through the room is then blocked.
+**Dropping Ceiling**: The entire stone ceiling drops on the room when triggered inflicting 12d6 damage to the occupants, who can save vs. death for half). Passage through the room is then blocked.
 
 #### Gas Traps
 
 The basic gas trap covers a 20 × 20\' area with a cracking sound and distinct smell. When triggered characters can make a save vs. stone, allowing them to immediately flee the affected area. Those in the area must save vs. breath each round to avoid the effect of the gas. The gas clears after one hour.
 
-**Gas, Obscuring**:A hazy gas fills the area imposing a --4 to attacks
+**Gas, Obscuring**: A hazy gas fills the area imposing a --4 to attacks
 
-**Gas, Sickness**:This sulfurous smelling gas causes the victims to lose 1d6 points of Strength for one hour unless a save vs. breath is made.
+**Gas, Sickness**: This sulfurous smelling gas causes the victims to lose 1d6 points of Strength for one hour unless a save vs. breath is made.
 
-**Gas, Blinding**:This apple scented gas inflicts blindness for one hour
+**Gas, Blinding**: This apple scented gas inflicts blindness for one hour
 
-**Gas, Poison**:This bitter almond scented gas forces the victims to save vs. death with a +4 bonus
+**Gas, Poison**: This bitter almond scented gas forces the victims to save vs. death with a +4 bonus
 
 **Gas, Corroding**: This ammonia smelling gas will rust any metal items in the area. Each item must succeed a save vs. stone or it falls to pieces. Magic items get +2 bonus for each magic plus or ability.
 
-**Gas, Insanity**:This fruity smelling gas causes the victim to become permanently insane unless a save vs. breath is successful. Those affected are equally likely to attack or flee from allies in any given encounter. A _remove curse_spell will lift the affliction.
+**Gas, Insanity**: This fruity smelling gas causes the victim to become permanently insane unless a save vs. breath is successful. Those affected are equally likely to attack or flee from allies in any given encounter. A _remove curse_spell will lift the affliction.
 
 #### Energy/Magic Traps
 
 While these traps may make use of magical effects, they are triggered and detected in the same manner as other traps. Some mechanical interface activates the magic, which is undetectable until that time.
 
-**Boiling Oil**:Boiling oil dumps into a 10' radius area inflicting 2d6 points of fire damage. The targets can make a save vs. breath for half damage.
+**Boiling Oil**: Boiling oil dumps into a 10' radius area inflicting 2d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
-**Fire Vent**:Flames belch out into a 10' radius inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
+**Fire Vent**: Flames belch out into a 10' radius inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
-**Acid Vent**:Acid dumps into a 10' radius area inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
+**Acid Vent**: Acid dumps into a 10' radius area inflicting 4d6 points of fire damage. The targets can make a save vs. breath for half damage.
 
 **Spells**: These traps work as under their spell description at the lowest level required to cast. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
 
