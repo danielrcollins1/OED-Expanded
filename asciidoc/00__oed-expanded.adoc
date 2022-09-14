@@ -1,0 +1,27 @@
+= Original Edition Delta
+
+include::01__what-is-oed.adoc[]
+
+include::02__core-mechanic.adoc[]
+
+include::03__characters.adoc[]
+
+include::04__equipment.adoc[]
+
+include::05__gameplay.adoc[]
+
+include::06__spells.adoc[]
+
+include::07__npc.adoc[]
+
+include::08__rewards.adoc[]
+
+include::09__monsters.adoc[]
+
+include::10__traps.adoc[]
+
+include::11__resources.adoc[]
+
+include::12__appendix_a-monster_stat_summary.adoc[]
+
+include::13__appendix_b-additional_material.adoc[]

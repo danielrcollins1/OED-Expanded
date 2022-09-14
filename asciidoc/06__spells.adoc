@@ -1,0 +1,107 @@
+== Spells
+
+OED makes the below spells available to the Wizard class.
+Spell attributes and effects have been standardized and are available in the http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854[OED Book of Spells].
+
+[cols="1,1",frame=none,grid=none]
+|===
+a|=== Level 1
+
+. Charm Person
+. Detect Magic
+. Hold Portal
+. Light
+. Magic Missile
+. Protection from Evil
+. Read Languages
+. Read Magic
+. Shield
+. Sleep
+
+a|=== Level 2
+
+. Continuing Light
+. Darkness
+. Detect Evil
+. Detect Invisibility
+. Invisibility
+. Knock
+. Levitate
+. Locate Object
+. Magic Mouth
+. Mirror Image
+. Phantasmal Force
+. Pyrotechnics
+. Read Minds
+. Strength
+. Web
+. Wizard Lock
+
+a|=== Level 3
+
+. Clairaudience
+. Clairvoyance
+. Dispel Magic
+. Fireball
+. Fly
+. Haste
+. Hold Person
+. Infravision
+. Invisibility Sphere
+. Lightning Bolt
+. Protection from Missiles
+. Protective Sphere
+. Rope Trick
+. Slow
+. Suggestion
+. Water Breathing
+
+a|=== Level 4
+
+. Charm Monster
+. Confusion
+. Dimension Door
+. Extend Spell
+. Fear
+. Hallucinatory Terrain
+. Ice Storm
+. Plant Growth
+. Polymorph Other
+. Polymorph Self
+. Remove Curse
+. Wall of Fire
+. Wall of Ice
+. Wizard Eye
+
+a|=== Level 5
+
+. Animal Growth
+. Animate Dead
+. Cloudkill
+. Conjure Elemental
+. Contact Other Plane
+. Feeblemind
+. Hold Monster
+. Magic Jar
+. Passwall
+. Telekinesis
+. Teleport
+. Transmute Rock to Mud
+. Wall of Iron
+. Wall of Stone
+
+a|=== Level 6
+
+. Anti-magic Sphere
+. Control Weather
+. Death Spell
+. Disintegrate
+. Geas
+. Invisible Stalker
+. Legend Lore
+. Lower Water
+. Move Earth
+. Project Image
+. Reincarnate
+. Stone to Flesh
+|===
