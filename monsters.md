@@ -129,8 +129,7 @@ level (presuming a traditional party of 4)
 For a wandering monster encounter, cut the above number in half.
 
 For a more detailed breakdown of this formula and approach, see:
-[*Underworld Overhaul, Pt. 4: Monster Numbers
-Appearing*](https://deltasdnd.blogspot.com/2018/05/underworld-overhaul-pt-4-monster.html)
+[Underworld Overhaul, Pt. 4: Monster Numbers Appearing](https://deltasdnd.blogspot.com/2018/05/underworld-overhaul-pt-4-monster.html)
 
 ## Monster Equivalent Hit Dice
 
@@ -316,6 +315,5 @@ indicates The EHD for this creature is highly situational.
   -----------------------------------------------------------------------------
 
 For a more detailed list of appropriate monsters and Equivalent Hit
-Dice, consult the [*OED Monster
-Determination*](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)
+Dice, consult the [OED Monster Determination](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)
 sheet.
