@@ -1,4 +1,4 @@
-# Original Edition Delta Expanded Index
+# Original Edition Delta Expanded
 
 1. [Introduction](introduction.md)
 2. [Core Mechanic](core-mechanic.md)
