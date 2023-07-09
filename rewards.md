@@ -54,8 +54,7 @@ The table below dictates the type of treasure present.
 40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp
 each.\
 \*\*\* Magic items can be generated using the tables in Vol II page 23,
-or [**The Magic
-Table**](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
+or [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/).
 
 **Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
 charges when found. Staves can have a maximum of 40 charges and have
@@ -88,5 +87,4 @@ poison or suffer a mishap. If they cannot afford the rolled cost, they
 also suffer a mishap. Mishaps can include; tavern brawls, jailed, a
 tattoo, hangovers, or anything that could jump-start an adventure.
 
-For more ideas see: [*Jeff Rients'
-Carousing*](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
+For more ideas see: [Jeff Rients' Carousing](http://jrients.blogspot.com/2008/12/party-like-its-999.html).
