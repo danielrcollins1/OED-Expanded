@@ -11,4 +11,3 @@
 9. [Resources](resources.md)
 
 [Appendix: Additional Material](x-additional-material.md)
-
