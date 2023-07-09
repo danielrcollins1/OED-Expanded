@@ -29,8 +29,7 @@ Adventuring)
 ### Scale, Movement, and Time
 
 **Scale**: OED uses the below scale for dungeon combat. For battlefield
-scale see [*Book of
-War.*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461)
+scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461).
 
   Unit          Scale
   ------------- -------------------
@@ -257,8 +256,7 @@ the completion of current combat/activity.
 
 OED makes the below spells available to the Wizard class. Spell
 attributes and effects have been standardized and are available in the
-[*OED Book of
-Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
+[OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 
   ------------------------------------------------------------------------
   **Level 1**            **Level 2**             **Level 3**
