@@ -6,8 +6,7 @@ Judges
 ## Arcana Obscura
 
 Below is a summary of Cleric, Druid, and Magic User spells not included
-in [*OED Book of
-Spells*](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
+in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 They can be used for GMs who wish to include other kinds of
 spell-casters, or diversify their villains.
 
@@ -289,8 +288,8 @@ spell-casters, or diversify their villains.
   7       Level Drain     Touch      Instant         This spell will drain the target of 1d6 levels.
   --------------------------------------------------------------------------------------------------------------------
 
-For even more spells, a GM can reference the [*Wizard's Spell
-Compendium*](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
+For even more spells, a GM can reference the 
+[Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
 ## Castle Construction

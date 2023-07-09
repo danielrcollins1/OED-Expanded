@@ -47,8 +47,8 @@ separate skill categories with this streamlining.
 
 ## How Accurate Is It?
 
-In 2018 we learned that the [*pre-publication
-draft*](http://playingattheworld.blogspot.com/2018/09/why-did-armor-class-descend-from-9-to-2.html)
+In 2018 we learned that the [pre-publication
+draft](http://playingattheworld.blogspot.com/2018/09/why-did-armor-class-descend-from-9-to-2.html)
 of the original D&D rules used no combat tables, and was instead based
 on a simple formula equivalent to the one we have here. You\'ll see a
 link from that site back to our blog, where we deduced this fact a
@@ -59,5 +59,5 @@ example, with attacks, the results are identical to Original D&D at 1st
 level, and grow a bit more generous with advancing levels. Likewise, for
 thief skills (assuming a 1 or 2 point Dexterity bonus), results are
 identical to OD&D at 1st level, and then fall slightly behind at higher
-levels. For a more detailed statistical analysis, [*please visit our
-blog*](http://deltasdnd.blogspot.com/2018/02/target-20-system-accuracy.html).
+levels. For a more detailed statistical analysis, [please visit our
+blog](http://deltasdnd.blogspot.com/2018/02/target-20-system-accuracy.html).

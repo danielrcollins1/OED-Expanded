@@ -51,8 +51,8 @@ limit.
 encumbrance permitting.
 
 **Spellbooks**: Randomly generate a Wizard's spellbook using the table
-on Supplement 1 page 8, or use the [*Wizard Spellbook
-Generator*](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html).
+on Supplement 1 page 8, or use the 
+[Wizard Spellbook Generator](http://deltasdnd.blogspot.com/2017/07/saturday-software-wizard-spellbook.html).
 Generally, give the maximum number of low level spells, the minimum
 number of high level spells, and extrapolate in between (See Spells
 above)
