@@ -31,7 +31,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 *Constitution*: Hit Die Rolls\
 *Charisma*: Reaction Rolls
 
-(\*) For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.
+(\*) For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.  All PCs are presumed literate in their starting languages.
 
 *Experience Points*: In OED, ability scores do not affect XP earned.
 
@@ -42,18 +42,18 @@ In OED the modifiers from your ability scores affect the attributes listed below
 ### Humans
 
 **Starting Languages**: Common\
-**Class Options**: Can be a member of any class, and advance to unlimited level.
+**Class Options**: Can be a member of any class, and advance to an unlimited level.
 
 ### Dwarves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework)\
-**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin\
+**Starting Languages**: Common, Dwarf\
 **Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th)
 
 ### Elves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands)\
-**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll\
+**Starting Languages**: Common, Elf\
 **Class Options**: Fighter 4th (5th with STR 17, 6th with STR 18), Thief Unlimited, Wizard 8th (9th with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
 
 ### Halflings
