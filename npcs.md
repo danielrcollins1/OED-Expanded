@@ -82,7 +82,7 @@ the cost and time.
 
 **Offers and Shares**: The default rate for a Hireling is 100sp plus a
 "half share" of the treasure (and XP) split. The NPC will accept this
-offer based on the outcome of a reaction roll (2d6+Cha Mod ≥ 9). The
+offer based on the outcome of a reaction roll (2d6 + Cha Mod >= 9). The
 roll can be modified by the quality of the offer.
 
 ### Specialists

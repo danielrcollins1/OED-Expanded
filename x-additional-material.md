@@ -361,7 +361,7 @@ level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced
 to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
 
-An Example Notation for a Cleric 10: "Turn Undead: HD= d6+5; 2d6
+An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6
 creatures, destroy 6HD or below."
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell
@@ -372,10 +372,10 @@ brandish their holy symbol with a free hand.
 Cleric spells in Vol 1.
 
 **Learning Spells**: Should the Cleric encounter a new spell, it will
-require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day
+require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day
 per spell level (3 tries per spell)
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell
+**Magic Item Creation**: Takes 1 day and 100 sp per spell
 level/charge/use and the ability to cast the relevant spell(s). The DM
 will secretly roll a 1 in 20 chance for a mishap/cursed item.
 

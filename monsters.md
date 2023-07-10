@@ -11,7 +11,7 @@ used to calculate combat abilities.
 value that takes into account their special abilities and relative
 power. This is used to determine monster encounters and XP rewards.
 
-**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC ≥
+**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC >=
 20. Monsters get a single attack per round unless otherwise noted.
 
 **Monster Damage**: Monster damage is determined on a 1d6, unless
