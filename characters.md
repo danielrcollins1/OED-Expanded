@@ -8,19 +8,30 @@ Prior to the selection of character race and class, it is necessary to determine
 
 Select one ability score to generate 2d6+6, the rest will be generated 3d6 in order.
 
+|Score   |Modifier|
+|---|---|
+|0-2       |-3 |
+|3-5       |-2 |
+|6-8  | -1 | 
+|9-12 | 0 |
+|13-15 | +1 |
+|16-18 | +2 |
+|19-21 | +3 |
+|22-24 | +4 |
+|Every 3  | (+1) |
+
 ### Effects
 
 In OED the modifiers from your ability scores affect the attributes listed below.
 
-*Strength*: Melee Attacks and Melee Damage\
-*Intelligence*: Secret Door and Trap Detection (\*)\
+*Strength*: Melee Attacks and Melee Damage                                  
+*Intelligence*: Additional Languages (\*)\
 *Wisdom*: Saves vs. Mental Attacks\
 *Dexterity*: Missile Attacks and Armor Class\
 *Constitution*: Hit Die Rolls\
 *Charisma*: Reaction Rolls
 
-(\*) For each point above 10, able to learn one additional language. Can
-select at a later time.
+(\*) For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.
 
 *Experience Points*: In OED, ability scores do not affect XP earned.
 
