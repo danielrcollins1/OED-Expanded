@@ -12,12 +12,12 @@ Select one ability score to generate 2d6+6, the rest will be generated 3d6 in or
 
 In OED the modifiers from your ability scores affect the attributes listed below.
 
-*Strength*: Melee Attacks and Melee Damage\
-*Intelligence*: Secret Door and Trap Detection (\*)\
-*Wisdom*: Saves vs. Mental Attacks\
-*Dexterity*: Missile Attacks and Armor Class\
-*Constitution*: Hit Die Rolls\
-*Charisma*: Reaction Rolls
+- *Strength*: Melee Attacks and Melee Damage
+- *Intelligence*: Secret Door and Trap Detection (\*)
+- *Wisdom*: Saves vs. Mental Attacks
+- *Dexterity*: Missile Attacks and Armor Class
+- *Constitution*: Hit Die Rolls
+- *Charisma*: Reaction Rolls
 
 (\*) For each point above 10, able to learn one additional language. Can
 select at a later time.
@@ -121,7 +121,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Climb and Detect Noise**: Thieves gain a +1 in 6 to Detect Noise and Climb. This bonus increases at level 4, 8, 12, 16, etc.
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier >= 20. Three tries per target (when applicable)
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable)
 
 -   *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
 -   *Move Silently*: The likelihood of moving with absolute silence.
@@ -159,11 +159,11 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier >= 20. Requires 1 day per spell level (3 tries per spell)
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier >= 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier >= 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.\
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.

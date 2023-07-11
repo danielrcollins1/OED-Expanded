@@ -372,7 +372,7 @@ brandish their holy symbol with a free hand.
 Cleric spells in Vol 1.
 
 **Learning Spells**: Should the Cleric encounter a new spell, it will
-require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day
+require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day
 per spell level (3 tries per spell)
 
 **Magic Item Creation**: Takes 1 day and 100 sp per spell
