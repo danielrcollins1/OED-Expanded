@@ -97,7 +97,7 @@ If thou must...
 **Weapons**: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the "club" type)
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
-  |------- |------------ |-------- |-------- |-----------------------------------------------|
+  |:------ |:----------- |:------- |:------- |:----------------------------------------------|
   |1       |0            |1d6      |+0       |Turn Undead|
   |2       |1,500        |2d6      |+1       |Spells: 1|
   |3       |3,000        |3d6      |+2       |Spells: 2|
@@ -174,6 +174,59 @@ The Judge may choose to allow a Staff to attack from the second rank (permitting
 
 When a character reaches or goes below 0 hit points, the character has suffered a grievous wound and must roll on the tables below. Once for location, and again for severity.
 
+|**d%**|**Location**          | Severity Row|
+|:-----|:---------------------|:-----------:|
+|01-02 |Foot                  |A
+|03-07 |Shin                  |A
+|08-10 |Knee                  |A
+|11-20 |Thigh                 |A
+|21-22 |Groin|B
+|23-33 |Gut  |C
+|34-40 |Hip                   |A
+|41-50 |Shoulder              |A
+|51-70 |Chest|D
+|71-73 |Hand                  |A
+|74-78 |Lower Arm             |A
+|79-81 |Elbow                 |A
+|82-91 |Upper Arm             |A
+|92-93 |Neck  |E
+|94-96 |Face  |F
+|97-00 |Head  |G
+
+|**Severity d8**|**1-4**                                      |**5-7**                               |**8**               |
+|:---------------|:---------------------------------            |:--------------------------------------|:--------------------|
+|**A**          |Broken (will heal in 1d4+2 weeks             |Maimed (Can only be healed magically) |Severed             |
+|**B**          |Broken and Stunned for 1 round               |Maimed and Unconscious                |Severed and Unconscious|
+|**C**          |Broken and Bleeding, death in d6 rounds\*    |Maimed and Internal Bleeding death in d3 rounds\*|Severed and Death in d6 rounds\*|
+|**D**          |Broken and Broken Ribs, -2 to hit and damage |Maimed and Punctured Lung, -4 to hit and damage|Severed and Death in d6 rounds\*|
+|**E**          |Broken and Death in d6 rounds\*              |Maimed and Dead  |Death in d6 rounds\* |Severed and Dead|
+|**F**          |Broken and Unconscious                       |Maimed and Death in d6 rounds\*        |Severed and Dead                |
+|**G**          |Broken and Unconscious                       |Maimed and Death in d6 rounds\*        |Severed and Dead                |
+
+*unless they receive appropriate care/magical healing.
+
+## Language and Literacy
+The original game presumes a binary approach to languages.  The below is intended to add some granularity to how languages are handled while still fitting into the base rules.
+
+Familiarity with a spoken language is broken into three levels.
+
+**Basic**: You know words for basic concepts (food, shelter, surrender, help, etc.)
+
+**Proficient**: You can easily carry on a conversation in this language, albeit with an accent.
+
+**Fluent**: You can pass as a native speaker
+- Every creature is Fluent in their native language and Proficient in their other starting languages.
+- When a creature is literate in a language, it is at the same level of familiarity as their speaking ability.
+- All Characters are presumed to be literate in their starting languages.  It is left to the Judge to decide the literacy and languages of creatures types in general.
+
+In place of the standard 1 extra “language” per point of Intelligence above 10, grant 2 “language points” which can be spent on basic familiarity with a new language and/or improve a known language one step. 
+
+Should a creature find themselves immersed in a new language (and have no spare language slots/points) they can pick up the language for “free” with the following considerations.  
+- They can only have 1 such language at a time.
+- It takes a week to gain Basic familiarity, a Month for Literacy, and a Season for Proficiency
+- You can never become a Fluent speaker in this manner.
+- You will lose this language if you leave immersion for a Season	or more (the Judge may allow you to “pick it up” again at an accelerated rate)
+
 ## Tournaments and Contests
 
 ### Archery
@@ -207,9 +260,8 @@ damage is non-lethal (0 HP only results in a Knock out). The event ends
 when one side is entirely down or surrenders. This can also be resolved
 quickly using Book of War.
 
-#### Unarmed Attacks
+## War Machine, Book of
 
-When striking without a weapon (including strikes with just a
-gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1
-(+Str *Bonus*) points of damage. An unarmored Fighter or Thief can punch
-twice per round against a single target.
+The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia.  As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating.  
+To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating.  The force with the highest result wins.
+For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the Rules Cyclopedia.
