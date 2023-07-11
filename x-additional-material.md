@@ -149,6 +149,24 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 |**2nd Split**|1 HD, 1d3 damage|2HD, 1d6+2 damage|
 |**3rd Split**|N/A|1 HD, 1d6 damage|
 
+## Equipment Options
+### Non-Proficiency
+**Using prohibited Armor**: Double encumbrance and halve bonus
+**Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step
+
+### Helmets
+Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult at the table.
+
+**Option 1**: A helmet gives a 1 point bonus to AC (up to AC 7). If a suit of heavy armor is worn, then a helmet is also required or else a 1 point penalty to AC is applied.
+
+**Option 2**: A worn helmet will negate critical hits, rendering it a normal hit.
+
+### Shields
+In addition to the normal bonus, any time you take damage that would reduce you to 0 HP or below, you can opt instead to sacrifice your shield, to stay at 1 HP.  The shield is shattered and must be discarded.  
+*Note: At Judge’s discretion, magic shields instead lose one plus or ability permanently instead.*
+
+### Wizard Staff
+The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat)
 
 
 
