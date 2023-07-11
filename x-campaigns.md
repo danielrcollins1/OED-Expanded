@@ -8,176 +8,92 @@ When designing a dungeon from scratch, it should consist of several levels.  Eac
 
 We will start by designing one of these levels/areas.  A starting dungeon area should have 3-18 rooms of varying sizes.  Ultimately, the limit is the size of your graph paper or canvas.
 
-    • Take your paper and sketch out a number of rooms across the surface.  These rooms can be standard rectangular constructed rooms, irregular shaped natural caves and tunnels, or a mix. 
-    • Next, designate a room to be the main entrance to this area.  
-    • Mark another area to be an exit to different level or area.
-    • In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is hidden or a secret door.
-    • Now, connect your rooms with hallways.  Keep in mind they aren’t simply connected all in a line.  For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected.  Again, there is a 50/50 chance that such a connection is concealed.
-    • Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Trick Door (one way, portcullis, false door, etc.)
-    • Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
-    • Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this dungeon further.
+- Take your paper and sketch out a number of rooms across the surface.  These rooms can be standard rectangular constructed rooms, irregular shaped natural caves and tunnels, or a mix. 
+- Next, designate a room to be the main entrance to this area.  
+- Mark another area to be an exit to different level or area.
+- In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is hidden or a secret door.
+- Now, connect your rooms with hallways.  Keep in mind they aren’t simply connected all in a line.  For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected.  Again, there is a 50/50 chance that such a connection is concealed.
+- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Trick Door (one way, portcullis, false door, etc.)
+- Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
+- Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this dungeon further.
 
 At this point, you may wish to take your sketch and clean it up/redraw it.  For tips on map drawing, check out: https://dysonlogos.blog/maps/tutorials-help/.  But you don’t need to, your map does not need to be an artist rendering, it can look like a basic flow or org chart with squares to represent rooms and lines for hallways, with descriptive text conveying the size and layout.
 
 With your map finalized; each room and location should be given a number designation that you can reference when you create your map key.  This key will list the contents of the room; be it treasure, traps, monsters, etc. as well as notes about important details.
 
 Consider having 3 such levels or areas completed before play.  When combining levels consider:
-    • Lower levels may connect directly outside via concealed passages or guarded entrances
-    • A level may go down to two different unconnected levels (possibly to reconnect further down)
-    • A level may go down to a much lower level, skipping a number of levels in between
+- Lower levels may connect directly outside via concealed passages or guarded entrances
+- A level may go down to two different unconnected levels (possibly to reconnect further down)
+- A level may go down to a much lower level, skipping a number of levels in between
 
 
-## Populate the Dungeon
+### Populate the Dungeon
 We will now add features to our map.  Follow the steps below, and mark the features down alongside your map, keyed to the given room (see template below)
 
-Step 1: Place one or two treasures in rooms on the first few levels on the dungeon, examples include:
-    • One moderate magic item such as a Sword +1 or Boots of Elven Kind
-    • A chest of 1000 silvers pieces and pair of 500 sp gems.
-    • A cache of Jewels and Artwork valued at 2000 silver.
+**Step 1**: Place one or two treasures in rooms on the first few levels on the dungeon, examples include:
+- One moderate magic item such as a Sword +1 or Boots of Elven Kind
+- A chest of 1000 silvers pieces and pair of 500 sp gems.
+- A cache of Jewels and Artwork valued at 2000 silver.
 We will use rumors of these items later when generating our settlement as a call to adventure.
 
-Step 2: For each room on the map, roll a d6 with a 1 indicating that a trap is present.  Generate the trap using the guidelines above (see Traps )
+**Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present.  Generate the trap using the guidelines above (see Traps)
 
-Step 3: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present.  Generate monsters appropriate for the intended level of the dungeon area. (see Monsters)
+**Step 3**: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present.  Generate monsters appropriate for the intended level of the dungeon area. (see Monsters)
 Monsters can be randomly selected from those of the appropriate threat level, or selected by the Judge to match the theme of the area or previous monster types.  
 
-Step 4: Any room with a monster has a 3 in 6 chance for a treasure.  Generate a treasure appropriate to the intended level of the dungeon area (see Rewards).
+**Step 4**: Any room with a monster has a 3 in 6 chance for a treasure.  Generate a treasure appropriate to the intended level of the dungeon area (see Rewards).
 
-Step 5: For any room without a monster, there is a 1 in 6 chance that a (hidden) treasure is present.  Again, generate a treasure appropriate to the intended level of the dungeon area (see Rewards)
+**Step 5**: For any room *without* a monster, there is a 1 in 6 chance that a (hidden) treasure is present.  Again, generate a treasure appropriate to the intended level of the dungeon area (see Rewards)
 
-Step 6: Create a list of 6 possible random encounters. Options 1-4 should match the creatures found in nearby rooms.  Entries 5-6 should be special: A leader, an NPC, an entirely different monster type, etc.
+**Step 6**: Create a list of 6 possible random encounters. Options 1-4 should match the creatures found in nearby rooms.  Entries 5-6 should be special: A leader, an NPC, an entirely different monster type, etc.
 
-Updating the Dungeon: When an area of the dungeon is cleared of threats, there is a 1 in 6 chance per day that a group of 1HD creatures or other scavengers will fill the void.  Once a “season” the Judge should re-populate the vacated areas with appropriate strength monsters as for a new dungeon.
+**Updating the Dungeon**: When an area of the dungeon is cleared of threats, there is a 1 in 6 chance per day that a group of 1HD creatures or other scavengers will fill the void.  Once a “season” the Judge should re-populate the vacated areas with appropriate strength monsters as for a new dungeon.
 
-Adding Details
+#### Adding Details
 Now that you have a collection of rooms and their adventuring contents, it is time to flesh out the room descriptions.  The room contents (traps, treasure, monsters) serve as a starting point.  In general, a lair is going to have at least a rest area and a waste area.  For intelligent inhabitants, consider some of the below uses for the rooms.
 	
 	Galley/Kitchen		Living Quarters			Store Rooms	Guard Posts
-	Prisoner Area		Area of Worship/Tribute	Boss Room	Treasure Room
+	Prisoner Area		Area of Worship/Tribute		Boss Room	Treasure Room
 
 Once you know what is in a room and decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements).  
 For rooms with doors, which ones can lock?  How sturdy are they?  Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
 
-
-
-
-
-Final Pass
+#### Final Pass
 With all that done, take a moment to mentally walk through your dungeon; both as a would-be adventurer and as one of the occupants.  Does the placement of traps, hazards, etc. make sense?  Can wandering monsters move about?  Do you like the layout of the rooms, hallways, entrances, exits, etc.?
 If not, move things around.  You don’t have to wait to the end to change anything.  If a result comes up and you don’t care for it, do something else.
 
-Dungeon Key
-Name of Dungeon
-Summary and Level
-
-
-Wandering Encounters
-d6
-Encounter
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-
-Background
-Basic overview of the dungeon; construction, denizens, purpose, etc.
-
-Room Key
-1. Description/Contents
-
-Monster Name (#app): AC #, MV ##, HD #, Atk #, Dmg #d#.
-
-2. Description/Contents
-
-Trap Name: Description Trigger, Attack/Save, Damage/Effect.  
-
-3. Description/Contents
-
-Treasure: Value, Description, Notes.
-
-
-
-
-
-
-
-
-Notes
-Anything else of note about the dungeon or its inhabitants
-
-
-
-
-
-
-
-Design a Settlement
+## Design a Settlement
 A settlement is a good second campaign item to work on.  This first settlement is where your characters will buy supplies, rest, and collect rumors and hirelings.  The first thing to determine when creating a settlement from scratch is its size.  This will help define the population and features. For your initial settlement, it is recommended to start with a Village.  Otherwise, you can select the size or determine it randomly with a 2d6 roll.
 
-2d6
-Size
-Max Pop
-Market Cap
-# of Hirelings
-NPC Level
-Sphere of Influence
-2-5
-Hamlet
-400
-50 sp 
-3
-1
-N/A
-6-7
-Village
-900
-150 sp 
-7
-3
-N/A
-8-9
-Town
-6,500
-1,500 sp
-50
-7
-Secures its Hex
-10-11
-City
-60,000
-25,000 sp
-400
-13
-Secures Adjacent Hexes
-12
-Capital
-None
-None
-Endless
-13+
-Secures 2 Hex Radius
+|**2d6**  |**Size**|**Max Pop**|**Market Cap**|**\# of Hirelings**|**NPC Level**|**Sphere of Influence**|
+|---------|--------|-----------|--------------|-------------------|-------------|-----------------------|
+|**2-5**  |Hamlet  |400        |50 sp         |3                  |1            |N/A                    |
+|**6-7**  |Village |900        |150 sp        |7                  |3            |N/A                    |
+|**8-9**  |Town    |6,500      |1,500 sp      |50                 |7            |Secures its Hex        |
+|**10-11**|City    |60,000     |25,000 sp     |400                |13           |Secures Adjacent Hexes |
+|**12**   |Capital |None       |None          |Endless            |13+          |Secures 2 Hex Radius   |
 
-Hamlet: Small groupings of buildings consisting of mostly interrelated families. They are typically centered around one economic activity.  It is unlikely to have any stone structures.
-Village: Larger and more spread out, usually with at least one central stone building such as a temple or fortification.  They will often have a formally recognized authority figure.
-Town: These larger communities still cluster around a single central market or “downtown”.  In addition to leaders, they will have a small-dedicated watch or garrison.
-City: A city will have multiple civic centers, often separated by district and purpose (residential, commercial, etc.).   They will almost always have walls, at least around their core.  The values listed here are for the city proper; they are often surrounded by outlying villages and communities of their own.
-Capital: Much like a city, but larger, and likely the center of power (political or mercantile) for a region. 
+**Hamlet**: Small groupings of buildings consisting of mostly interrelated families. They are typically centered around one economic activity.  It is unlikely to have any stone structures.
 
-Max Pop: This is the maximum number of people found in the community proper.  You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed.
-Market Cap: Items below this price can be readily found for sale in the community.  Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
-# of Hirelings: This is the number of available hirelings per season in the area. 
-NPC level: This is the highest level of NPCs one is likely to encounter.  Folks above this level may be present, but they are special individuals, like adventurers or authority figures for example.
-Sphere of Influence:  How much of the surrounding land the settlement able to keep peaceful and under control.  The populations of these areas are generally safe from monster and attacks. 
+**Village**: Larger and more spread out, usually with at least one central stone building such as a temple or fortification.  They will often have a formally recognized authority figure.
 
-Populate the Settlement
+**Town**: These larger communities still cluster around a single central market or “downtown”.  In addition to leaders, they will have a small-dedicated watch or garrison.
+
+**City**: A city will have multiple civic centers, often separated by district and purpose (residential, commercial, etc.).   They will almost always have walls, at least around their core.  The values listed here are for the city proper; they are often surrounded by outlying villages and communities of their own.
+
+**Capital**: Much like a city, but larger, and likely the center of power (political or mercantile) for a region. 
+
+**Max Pop**: This is the maximum number of people found in the community proper.  You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed.
+
+**Market Cap**: Items below this price can be readily found for sale in the community.  Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
+
+**/# of Hirelings**: This is the number of available hirelings per season in the area. 
+
+**NPC level**: This is the highest level of NPCs one is likely to encounter.  Folks above this level may be present, but they are special individuals, like adventurers or authority figures for example.
+
+**Sphere of Influence**:  How much of the surrounding land the settlement able to keep peaceful and under control.  The populations of these areas are generally safe from monster and attacks. 
+
+### Populate the Settlement
 While a settlement is composed of hundreds or thousands of individuals; in practice, you just need to focus on folks the PCs are likely to interact with.  You can create and develop others in response to play.
     • Who is in charge (an elder, mayor, council, lord, hierophant, etc.)
     • Where do they buy weapons/armor (a simple blacksmith, a dedicated weapon smith, a dwarf)
@@ -186,116 +102,32 @@ While a settlement is composed of hundreds or thousands of individuals; in pract
     • Where do they rest (at the tavern, a separate inn, boarding house, unoccupied home)
     • Is there anyone in town who can help identify magic items, brew potions, or provide scrolls
 
-Map Out the Settlement
+### Map Out the Settlement
 You will want at least a basic map of the settlement for your and the players’ reference.  Again, this does not need to be an artistic endeavor.  It is enough to mark some lines for major roads in and through the settlement, location of the civic center, and the establishments you defined above.  You will also want to sketch in any bodies of water or other geographic features such as woods, hills, etc.  Finally, make a mark or notes on anything of interest on the outskirts; groves, abandoned structures, notable beings.
 For Cities and Capitals, it is often enough to know the main roads, gates, major locations and buildings (such as the ruler’s keep, major temple, markets, etc.) as well as a rough idea of the “districts”.  
 
-Details
-With the basics of the settlement established, it is a good time to generate a collection of Hirelings and Rumors.  You may also stat up any town guard and proprietors of the major establishments your PC’s are likely to interact with, using the guidelines below.
-Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards.  Most other townsfolk and specialists will be zero level.
+### Details
+With the basics of the settlement established, it is a good time to generate a collection of Hirelings and Rumors.  
+You may also stat up any town guard, proprietors of the major establishments with whom your PC’s are likely to interact, and make a notable NPC or two (rulers, crazed hermits, etc.) of higher level. (see NPCs).
+Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards.  Most other townsfolk and specialists will be zero level.  
 
-Race: 1-3 (Human), 4 (Halfling), 5 (Dwarf), 6 (Elf)
-	Class: 1-3 (Fighter), 4-5 (Thief), 6 (Wizard – roll again if Elf)
-	Alignment: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
-	Ability Scores: 3d6 in order if Zero level and +2 to one score of choice (max 18), if 1st level.
-	Hit Points: By class, or 1d6 if Zero level. Reroll any 1s and 2s if first level.
+**Rumors**
+You can make up rumors based on the work you have done already, or randomly create some (see Rumors), When starting out, it is probably best to keep your rumors true.
 
-You can even make a notable NPC or two (rulers, crazed hermits, etc.) of higher level (see NPCs above).  
-
-Rumors
-You can make up rumors based on the work you have done already, or randomly create some: 
-Veracity: 1-2 = True, 3-4 = Mostly True, 5-6 = Mostly False
-	When starting out, it is probably best to keep your rumors true.
-
-Topic: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules Lore
-Dungeon Location: The first few of these should be related to the treasure you placed in the main dungeon and stories about the monsters within.  Afterward you can randomly determine the dungeon level and expand the topics. 
-
-Wilderness/Other Location: Choose a detail about a neighboring settlement, forest, lair, or hex (if you have one).  This can be a further call to action, hints about wandering monsters, local politics, etc.
-
-Rules Lore: This is a chance to introduce some aspects of play that may not be obvious to the players.  “The Witch at the edge of the wood can brew you a potion if you bring her a sample”, “Consuming Belladonna will prevent the curse of becoming a wolf”, etc. 
-
-Finishing up
+### Finishing up
 Finally, sprinkle in some details about the settlement like you did for the dungeon.  What are the sights and sounds one is greeted by.  How do they make their living? What do the locals think of Dwarves or Wizards?  Does the community harbor any secrets?
-Settlement Key
-Name of Settlement/Size
-Max Pop, Market Cap, # of Hirelings, NPC Level  
-Local Terrain type
 
-
-Merchants and Resources
-
-
-
-
-
-
-
-
-
-
-
-Hirelings
-
-Rumors
-1
-
-
-1
-
-2
-
-
-2
-
-3
-
-
-3
-
-4
-
-
-4
-
-5
-
-
-5
-
-6
-
-
-6
-
-
-
-Notes
-Design the Wilderness
+## Design the Wilderness
 Now that you have an adventuring location and a home base, it is time to fill in the areas around them.  
 The first step is to draw out the wilderness; this is done on a series of 6 miles wide hexagons.  Hexagons are a useful way to abstract terrain and measure distances, by having a uniform distance between center points.  Specifically a 6-mile hex is advantageous because it has a 7-mile “diagonal”, and 3 mile “radius” which equates to the sight-line distance for a human sized character to the horizon in an open field.  Finally, it serves to break the traveling day into manageable segments.
 
-To begin laying out your wilderness, start with a “Plains” hex, “P”, in the center of your space (marked with a 0 in the image.)  Working your way around, using the center hex as your reference terrain, roll 2d6 on the table below.  The result will be the terrain type of the new hex.  When generating additional terrain, always work out from the existing terrain type in the “middle” of the new area.  This will create natural “clumps” of terrain like forests.
+To begin laying out your wilderness, start with a “Plains” hex, “P”, in the center of your space. Using the center hex as your reference terrain, roll 2d6 on the table below.  The result will be the terrain type of the new hex.  Start at the top and continue around clockwise. When generating additional terrain, always work out from the existing terrain type in the “middle” of the new area.  This will create natural “clumps” of terrain like forests.
 
-2d6
-Terrain
-
-2d6
-Terrain
-2
-Dry “D” (-1 to next roll)
-
-8-9
-Plains “P” 
-3
-Hills “H” 
-
-10-11
-Trees “T”
-4-7
-Same as Reference Hex 
-
-12
-Wetlands “W” (+1 to next roll) 
+|**2d6**|**Terrain**              ||**2d6**|**Terrain**                   |
+|:-------|:-------------------------|---|:-------|:------------------------------|
+|2      |Dry “D” (-1 to next roll)||8-9    |Plains “P”                    |
+|3      |Hills “H”                ||10-11  |Trees “T”                     |
+|4-7    |Same as Reference Hex    ||12     |Wetlands “W” (+1 to next roll)|
 
 Remember, this is only the main type of terrain in the hex, a plains hex will have small wooded areas, a dry hex will have small ponds, a forested hex can also be hilly or have a bog, etc.
 
@@ -306,110 +138,63 @@ Depending on the size of the wilderness you create, you may wish to number the h
 
 The final steps are to place your starting settlement in the original plains hex, and then place your starting dungeon in an adjacent or nearby hex.  That is enough to get started.  When you are ready, you can populate the other hexes with content.
 
-The World Beyond
+### The World Beyond
 It would take tremendous work to define an entire region or continent via Hex generation.  As you move beyond your starting region, it is recommended that you instead sketch out the major geographical features at that larger scale (mountain ranges, coasts, deserts, etc.) and zoom back in with hexes on any area in which play settles.  
 
-
-
-Populate the Surrounding Hexes
+### Populate the Surrounding Hexes
 Now that you have your starting terrain, a settlement, and a dungeon, it is time to place major features in the remaining hexes. The below simulates a borderlands of civilization where adventure happens.
 
 There is a 1 in 20 chance that a hex has a major occupant, with the type determined on a d6 below:
-	1-3: Major Dungeon (Multiple levels and areas as described above)
-	4-5: Large Settlement (Town or larger as described above)
-	6:     Stronghold (See below)
+- 1-3: Major Dungeon (Multiple levels and areas as described above)
+- 4-5: Large Settlement (Town or larger as described above)
+- 6:   Stronghold (See below)
 
-Remember, at this scale we are mainly concerned with showing major features.  These hexes can be riddled with villages, caves, ruins, monster lairs, bandit camps, etc. The Judge should feel free to drop in 2 other small settlements nearby and more features (such as additional dungeons) as needed.  
+Remember, at this scale we are mainly concerned with showing major features.  These hexes can be riddled with hamlets, caves, ruins, monster lairs, bandit camps, etc. The Judge should feel free to drop in 2 other small settlements nearby and more features (such as additional dungeons) as needed.  
 
-Additional Features
-Barriers: In a given hex, there is a 10% chance of a ravine, river, or other moderate barrier.
-Hills and Peaks: If a Hill hex is likewise surrounded by other Hill hexes, consider making the middle hex a (lonely) Mountain hex or prominent peak.
-Mountains: In Mountain hexes, there is a 10% chance for a pass, and 1% chance for a volcano.
-Rivers: Only the largest of rivers would be visible at this scale.  Something the size of the Colorado would be a thin line, and only one as vast as the Mississippi would be notable. The Judge should assume that any settlement or stronghold is likely near a river or sufficient body of water.  They should thoughtfully place any major rivers, flowing from highlands to wetlands or the coast.
-Roads:  Much like rivers, only the most major of highways would be marked on such a map.  The Judge should be free to presume that any settlements or strongholds have roads or paths connecting them, barring some obstacle such as hills, mountains, or monster infested lands.
+#### Additional Features
+**Barriers**: In a given hex, there is a 10% chance of a ravine, river, or other moderate barrier.
 
-Strongholds
+**Hills and Peaks**: If a Hill hex is likewise surrounded by other Hill hexes, consider making the middle hex a (lonely) Mountain hex or prominent peak.
+
+**Mountains**: In Mountain hexes, there is a 10% chance for a pass, and 1% chance for a volcano.
+
+**Rivers**: Only the largest of rivers would be visible at this scale.  Something the size of the Colorado would be a thin line, and only one as vast as the Mississippi would be notable. The Judge should assume that any settlement or stronghold is likely near a river or sufficient body of water.  They should thoughtfully place any major rivers, flowing from highlands to wetlands or the coast.
+
+**Roads**:  Much like rivers, only the most major of highways would be marked on such a map.  The Judge should be free to presume that any settlements or strongholds have roads or paths connecting them, barring some obstacle such as hills, mountains, or monster infested lands.
+
+### Strongholds
 A Stronghold is a special kind of settlement, typically established by high level NPCs.  It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc.  Like Towns, they secure they Hex in which they are located.  A stronghold is defined by its occupant(s), which are generated using the rules for NPCs of level 9+1d6 (or use the quick list below)
 
-d6
-Stronghold Occupant
-1
-Fighter 11: S 18 D 11  C 13  I 10  W 11  X 12; HP 82; Iron Will, Great Fortitude; Chain +1 Sword +2, Bow +1
-2
-Wizard 12: S 10 D 11 C 12  I 18  W 13  X 12; HP 37; Spells; Wand of Fear, Broom of Flying, Wand of Lightning  
-3
-Thief 15: S 13  D 18 C 12  I 11  W 12 X 13; HP 51; Backstab x5; Leather +2, Sword +2, Ring of Protection; Elven Boots
-4
-Fighter 14: S 21 D 12  C 14  I 10  W 11  X 13; AC  HP 97; Iron Will, Grt Fort, Ex Str; Plate +2 Sword +2, Bow +1
-5
-Wizard 15: S 10 D 12 C 13  I 18  W 13  X 12; HP 65; Spells; Ring of Protection, Wand of Fireball, Staff of Power  
-6
-Thief 10: S 11  D 18 C 10  I 11  W 12 X 12; HP 41; Backstab x4; Leather +1, Sword +2, Ring of Protection
+|**d6**|**Stronghold Occupant**                                                                                           |
+|:-----|:-----------------------------------------------------------------------------------------------------------------|
+|**1** |Fighter 11: S 18 D 10 C 13 I 8 W 11 X 10; HP 82; Iron Will, Great Fortitude; Chain +1 Sword +2, Bow +1            |
+|**2** |Wizard 12: S 8 D 11 C 12 I 18 W 11 X 10; HP 37; Spells; Wand of Fear, Broom of Flying, Wand of Lightning          |
+|**3** |Thief 15: S 10 D 18 C 10 I 10 W 11 X 12; HP 51; Backstab x5; Leather +2, Sword +2, Ring of Protection; Elven Boots|
+|**4** |Fighter 14: S 21 D 10 C 13 I 8 W 11 X 11; AC HP 97; Iron Will, Grt Fort, Ex Str; Plate +2 Sword +2, Bow +1        |
+|**5** |Wizard 15: S 8 D 11 C 13 I 18 W 11 X 10; HP 55; Spells; Ring of Protection, Wand of Fireball, Staff of Power      |
+|**6** |Thief 10: S 10 D 18 C 10 I 10 W 11 X 10; HP 41; Backstab x4; Leather +1, Sword +2, Ring of Protection             |
 
-    • Thieves: On a d6, 1-3 is a Human, 4 is a Dwarf, 5 is a Halfling, and 6 is an Elf (Wizard level of 1d6)
-    • Alignment: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
-    • Strongholds will also have an apprentice, or guardian beast, of EHD equal to ½ the owner’s level.
-    • Strongholds will be protected by 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms.  For every 30 soldiers there is also a sergeant of 4th level
-Wilderness Encounters
+- Thieves: On a d6, 1-3 is a Human, 4 is a Dwarf, 5 is a Halfling, and 6 is an Elf (Wizard level of 1d6)
+- Alignment: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
+- Strongholds will also have an apprentice, or guardian beast, of EHD equal to ½ the owner’s level.
+- Strongholds will be protected by 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms.  For every 30 soldiers there is also a sergeant of 4th level
+
+### Wilderness Encounters
 The process for stocking wilderness is similar to that of the dungeon.  You can create a single table for the whole region or have a table for the forest, one for the hills, etc.  
 
 First, determine the threat rank of the area.  You can presume that any “settled” hex (one that is secured or controlled) and those adjacent are equivalent to “level 1” of a dungeon.  For each hex beyond that, increase the level.  For areas that cover multiple hexes, you can take the lowest or the average value since the threat rank tables have overlap built in (the wilderness in unpredictable!).
 
 To determine the nature of the encounter, first roll a d6 and consult the result against the number of hexes from civilization.  This will give you the “Threat” rank (I – VI) of the creature.
 
-Hexes from Civilization
-d6 Result
-
-
-1
-1-4
-5
-6
-
-
-
-2
-1-2
-3-4
-5
-6
-
-
-3-4
-1
-2
-3-4
-5
-6
-
-5-7
-
-1
-2
-3-4
-5
-6
-8-10
-
-
-1
-2
-3-4
-5-6
-11+
-
-
-
-1
-2
-3-6
-Threat Rank
-I
-II
-III
-IV
-V
-VI
+|**Hexes from Civilization**|**d6 Result**|      |       |      |     |      |||**Threat Rank**|**Monster (Equivalent)<br>Hit Dice**|
+|:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|---|---|:---------------|:------------------------------------|
+|1                      |1-4          |5     |6      |      |     |      |||**I**          |1 HD                                |
+|2                      |1-2          |3-4   |5      |6     |     |      |||**II**         |2 HD                                |
+|3-4                    |1            |2     |3-4    |5     |6    |      |||**III**        |3-4 HD                              |
+|5-7                    |             |1     |2      |3-4   |5    |6     |||**IV**         |5-7 HD                              |
+|8-10                   |             |      |1      |2     |3-4  |5-6   |||**V**          |8-10 HD                             |
+|11                     |             |      |       |1     |2    |3-6   |||**VI**         |11+ HD                              |
+|**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|||               |                                    |
 
 Next, determine the type of creature encountered.  This is done with a d6 as shown below:
 	1: Animal Type		2-3: Humanoid Type	4-6: Monster Type
@@ -418,85 +203,15 @@ Finally, once you know the general category of creature and the (Equivalent) Hit
 
 You will repeat the process until you have a filled out encounter chart (typically 6 entries to start).  You may wish to pick creatures along a theme, allowing that first determination to set the tone for the region.  You may also want to reserve one entry for pitfalls, man-traps, or other tricks/phenomena. 
 
-Number Appearing and % in Lair
+#### Number Appearing and % in Lair
 When stocking a wilderness, use the number appearing and guidelines in volume 2 or in OED Monster Database.  The numbers of creatures in the wilds are not constrained by the limits of dungeon corridors.  
 The “% in lair” statistic is rolled when the encounter comes up.  This will indicate that the party has encountered the lair of such creatures (camp, hut, cave, etc.)  Note on the map for future development.
 
-Adjustment and Final Touches
+### Adjustment and Final Touches
 As with designing a dungeon, you should feel free to ignore, reroll, or just change anything along the way that does not fit, or to make room for a better idea.  Want a forest near your dungeon?  Just add it.
 Want your Stronghold ruled by an Elf Lord, Orc Bandit King, Vampire Queen, etc?. The sky is the limit.
 
-Hex Paper:  If you don’t have hex paper you can use squares/graph paper.  Assume a 5mi square with a 7 mile diagonal, “averaging out” to 6 miles; allowing you to use these procedures (give or take).
-Wilderness Key
-Name of Region
-Summary 
-
-
-
-Hex Key
-Settlement Name/Summary
-Size, Resources
-Stronghold Name/Summary
-Ruler, Guardian, Guards
-Dungeon Name/Summary
-Theme, Level, Source (Book/Page)
-
-
-
-
-
-
-
-Encounter Tables
-Area Name
-Area Name
-Area Name
-d6
-Encounter
-d6
-Encounter
-d6
-Encounter
-1
-Creature, # App, HD, %lair
-1
-Creature, # App, HD, %lair
-1
-Creature, # App, HD, %lair
-2
-
-2
-
-2
-
-3
-
-3
-
-3
-
-4
-
-4
-
-4
-
-5
-
-5
-
-5
-
-6
-
-6
-
-6
-
-
-Notes
-Anything else of note about the area or its politics
-
+**Hex Paper**:  If you don’t have hex paper you can use squares/graph paper.  Assume a 5mi square with a 7 mile diagonal, “averaging out” to 6 miles; allowing you to use these procedures (give or take).
 
 Wilderness Exploration
 Trips to explore or travel through the wilderness can be abstracted using the below procedures.
