@@ -52,6 +52,8 @@ equivalent to Leather armor on top of naturally tough skin (+3 AC).
 **Horses and Mounts**: Non-Warhorses are unusable in combat, near to fire or
 smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads)
 
+**Mental Attacks**: Undead, golems, slimes, plants, and other non-intelligent creatures are generally immune to such effects, unless specifically targeting that type. 
+
 **Slimes**: Successful attacks by these creatures will cause metal to
 corrode instantly. Metal weapons used against them will corrode on a
 successful attack. Wood is consumed at too slow a rate to affect combat.
@@ -88,28 +90,18 @@ present (ex: distant monster noise).
 
 ## Monster Determination
 
-To determine the type of monster encountered, roll a d6 and consult the
-result against the level of the dungeon (depth) in question. This will
-give you the "Threat" rank (I -- VI) of the monster.
+To determine the type of monster encountered, roll a d6 and consult the result against the level of the dungeon (depth) in question. This will give you the "Threat Rank+ (I - VI) of the monster, which you can then look up the appropriate (Equivalent) Hit Die range.
 
-  ---------------------------------------------------------------------------------
-  **Dungeon Level        **d6 Result**                                     
-  Depth**                                                                  
-  ---------------------- ------------- -------- --------- -------- ------- --------
-  1                      1-4           5        6                          
+|**Dungeon Level Depth**|**d6 Result**|      |       |      |     |      |||**Threat Rank**|**Monster (Equivalent)<br>Hit Dice**|
+|:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|---|---|:---------------|:------------------------------------|
+|1                      |1-4          |5     |6      |      |     |      |||**I**          |1 HD                                |
+|2                      |1-2          |3-4   |5      |6     |     |      |||**II**         |2 HD                                |
+|3-4                    |1            |2     |3-4    |5     |6    |      |||**III**        |3-4 HD                              |
+|5-7                    |             |1     |2      |3-4   |5    |6     |||**IV**         |5-7 HD                              |
+|8-10                   |             |      |1      |2     |3-4  |5-6   |||**V**          |8-10 HD                             |
+|11                     |             |      |       |1     |2    |3-6   |||**VI**         |11+ HD                              |
+|**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|||               |                                    |
 
-  2                      1-2           3-4      5         6                
-
-  3-4                    1             2        3-4       5        6       
-
-  5-7                                  1        2         3-4      5       6
-
-  8-10                                          1         2        3-4     5-6
-
-  11+                                                     1        2       3-6
-
-  **Threat Rank**        **I**         **II**   **III**   **IV**   **V**   **VI**
-  ---------------------------------------------------------------------------------
 
 ## Number Appearing
 
