@@ -30,26 +30,33 @@ select at a later time.
 
 ### Humans
 
-**Starting Languages**: Common\
+**Starting Languages**: Common
+
 **Class Options**: Can be a member of any class, and advance to unlimited level.
 
 ### Dwarves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework)\
-**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin\
-**Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th)
+**Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
+
+**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin.
+
+**Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th).
 
 ### Elves
 
-**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands)\
-**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll\
+**Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
+
+**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll.
+
 **Class Options**: Fighter 4th (5th with STR 17, 6th with STR 18), Thief Unlimited, Wizard 8th (9th with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
 
 ### Halflings
 
-**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.\
-**Languages**: Common, Halfling\
-**Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard 4th)
+**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
+
+**Languages**: Common, Halfling.
+
+**Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard 4th).
 
 ## Class
 
@@ -59,9 +66,9 @@ When determining HP at first level, reroll 1s and 2s.
 
 ### Fighters
 
-**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
+**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields.
 
-**Weapons**: All (Light, Medium, Heavy, Ranged)
+**Weapons**: All (Light, Medium, Heavy, Ranged).
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |-------------------------------|
@@ -97,9 +104,9 @@ When determining HP at first level, reroll 1s and 2s.
 
 ### Thieves
 
-**Armor**: Light (Leather) Armor
+**Armor**: Light (Leather) Armor.
 
-**Weapons**: Light Weapons plus Sword, Sling, and Light Crossbow
+**Weapons**: Light Weapons plus Sword, Sling, and Light Crossbow.
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |--------------------------------------------------|
@@ -121,19 +128,19 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Climb and Detect Noise**: Thieves gain a +1 in 6 to Detect Noise and Climb. This bonus increases at level 4, 8, 12, 16, etc.
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable)
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable).
 
--   *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
--   *Move Silently*: The likelihood of moving with absolute silence.
--   *Open Locks*: For small, discreet, single mechanical locking mechanisms. On a natural one - the lock must be forced open - a very time consuming process.
--   *Pick Pockets*: Can also be used for acts of sleight of hand.
--   *Remove Traps*: For small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
+- *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
+- *Move Silently*: The likelihood of moving with absolute silence.
+- *Open Locks*: For small, discreet, single mechanical locking mechanisms. On a natural one - the lock must be forced open - a very time consuming process.
+- *Pick Pockets*: Can also be used for acts of sleight of hand.
+- *Remove Traps*: For small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
 
 ### Wizards
 
-**Armor**: None
+**Armor**: None.
 
-**Weapons**: Daggers and Staff only
+**Weapons**: Daggers and Staff only.
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
   |------- |------------ |-------- |-------- |-----------------------------------------------|
@@ -159,18 +166,20 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.\
+**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
+
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
 
-**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.\
+**Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
+
 *Note*: Elves begin play as a member of the Wizard class and one other without needing to meet the above requirements.
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
@@ -190,6 +199,6 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 OED features 3 alignment options:
 
--   *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
--   *Neutral* beings seek a balance, or are simply disinterested.
--   *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
+- *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
+- *Neutral* beings seek a balance, or are simply disinterested.
+- *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
