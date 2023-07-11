@@ -73,98 +73,64 @@ For even more spells, a GM can reference the
 [Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
-## Castle Construction
+## Class Abilities
+### Fighter Feats (New)
+**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling.  It does not take a share of treasure, but does gain XP and HD (as Fighter). 
 
-When the time comes for a PC or party to establish their own stronghold,
-they can construct a basic keep that is able to control 1 hex worth of
-territory for a cost of 80,000 silver. Such a Keep requires 282 weeks
-(5.4 years) to build. They can quadruple the price to reduce the build
-time by the same factor.
+**Blind Fighting**:  Starting at 8th level, you do not suffer penalties to melee combat against unseen opponents (invisibility, darkness, etc.) 
 
-For basic gameplay, the Judge can presume that such a Keep can sustain
-itself so far as staff, and basic soldiers under most circumstances. If
-the PCs wish to explore the hiring of specialists or other economic
-actives, there is a list of specialists, siege weaponry, etc. in Volume
-III. (and perhaps a future expansion to this document)
+**Pugilist**:  You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage.  On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move /act) for 1 round.
 
-If other sorts of construction are desired, one can take the square root
-of the price found in Vol III (or the historical price in shillings x3)
-as the number of weeks to build. Each multiplied cost factor divides
-time by a like amount, up to quadruple cost/speed.
+### Unarmed Attacks
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 (+Str Bonus) points of damage.  An unarmored Fighter or Thief can punch twice per round against a single target.  
+
+### War Magic
+In order to bridge the gap between dungeon and field combat, spell-casters of 10th level can gain access to War Magic as a class ability.  This ability increases the range of spells by a factor of 4 (1” on the table equates to 20 feet).  For more details on field combat, reference OED Book of War.
+
 
 ## Clerics
 
 If thou must...
 
-*Armor*: Light (Leather), Medium (Chain), Heavy (Plate), Shields
+**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
 
-*Weapons*: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the
-"club" type)
+**Weapons**: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the "club" type)
 
-  --------------------------------------------------------------------------------------
-  Level   XP           HP      To Hit   Class Abilities
-  ------- ------------ ------- -------- ------------------------------------------------
-  1       0            1d6     +0       Turn Undead
-
-  2       1,500        2d6     +1       Spells: 1
-
-  3       3,000        3d6     +2       Spells: 2
-
-  4       6,000        4d6     +2       Spells: 2 1; Potion & Scroll Creation
-
-  5       12,000       5d6     +3       Spells: 2 2
-
-  6       25,000       6d6     +4       Spells: 2 2 1 1
-
-  7       50,000       7d6     +4       Spells: 2 2 2 1 1
-
-  8       100,000      8d6     +5       Spells: 2 2 2 2 2; Wands/Staves & Weapon
-                                        Creation
-
-  9       200,000      8d6+1   +6       Spells: 3 3 3 2 2
-
-  10      300,000      8d6+2   +6       Spells: 3 3 3 3 3
-
-  11      400,000      8d6+3   +7       Spells: 4 4 4 3 3
-
-  12      500,000      8d6+4   +8       Spells: 4 4 4 4 4 1; All Other Magic Item
-                                        Creation
-
-  13+     (+100,000)   (+1)    (+2/3)   Spells: Alternate +1 spells of levels 1-3, then
-                                        +1 spells of levels 4-6
-  --------------------------------------------------------------------------------------
-
-**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel
-the Undead. When doing so, the player rolls 1d6 + (Cleric Level -- 5),
-with the result being the highest Hit Die of Undead affected. Up to 2d6
-such creatures are affected (lowest Hit Die first). If the Cleric's
-level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced
-to 0 HP instead. Such an ability works to a range of 60', once per day
+  |Level   |XP           |HP       |To Hit   |Class Abilities|
+  |------- |------------ |-------- |-------- |-----------------------------------------------|
+  |1       |0            |1d6      |+0       |Turn Undead|
+  |2       |1,500        |2d6      |+1       |Spells: 1|
+  |3       |3,000        |3d6      |+2       |Spells: 2|
+  |4       |6,000        |4d6      |+2       |Spells: 2 1; Potion and Scroll Creation|
+  |5       |12,000       |5d6      |+3       |Spells: 2 2|
+  |6       |25,000       |6d6      |+4       |Spells: 2 2 1 1|
+  |7       |50,000       |7d6      |+4       |Spells: 2 2 2 1 1|
+  |8       |100,000      |8d6      |+5       |Spells: 2 2 2 2 2; Magic Wands/Staves & Weapon Creation|
+  |9       |200,000      |9d6      |+6       |Spells: 3 3 3 2 2|
+  |10      |300,000      |10d6     |+6       |Spells: 3 3 3 3 3|
+  |11      |400,000      |11d6     |+7       |Spells: 4 4 4 3 3|
+  |12      |500,000      |11d6+1   |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
+  |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
+  
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -- 5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
 
-An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6
-creatures, destroy 6HD or below."
+An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
 
-**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell
-can be prepared at a time (no duplicates). To cast a spell a Cleric must
-brandish their holy symbol with a free hand.
+**Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be prepared at a time (no duplicates). To cast a spell a Cleric must brandish their holy symbol with a free hand.
 
-**Spells known**: Clerics start with knowledge of all the standard
-Cleric spells in Vol 1.
+**Spells known**: Clerics start with knowledge of all the standard Cleric spells in Vol 1.
 
-**Learning Spells**: Should the Cleric encounter a new spell, it will
-require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day
-per spell level (3 tries per spell)
+**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day per spell level (3 tries per spell)
 
-**Magic Item Creation**: Takes 1 day and 100 sp per spell
-level/charge/use and the ability to cast the relevant spell(s). The DM
-will secretly roll a 1 in 20 chance for a mishap/cursed item.
+**Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
+
+
+
 
 ## Grievous Wounds
 
-When a character reaches or goes below 0 hit points, the character has
-suffered a grievous wound and must roll on the tables below. Once for
-location, and again for severity.
+When a character reaches or goes below 0 hit points, the character has suffered a grievous wound and must roll on the tables below. Once for location, and again for severity.
 
 ## Tournaments and Contests
 
