@@ -121,186 +121,88 @@ For a more detailed breakdown of this formula and approach, see:
 
 ## Monster Equivalent Hit Dice
 
-This is a measure of monster threat that can be slotted into monster
-determination for a more accurate distribution of challenges. An \*
-indicates The EHD for this creature is highly situational.
+This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) for a more accurate distribution of challenges. An \*indicates The EHD for this creature is highly situational.
+
+|**Monster**            |**EHD**|**Monster**            |**EHD**|**Monster**            |**EHD**|
+|:----------------------|:-----:|:----------------------|:-----:|:----------------------|:-----:|
+|Rat                    |0      |Swordsman              |3      |Giant Rhinoceros Beetle|10     |
+|Aquatic Elf            |1      |Wereboar               |3      |Minotaur Lizard        |10     |
+|Bandit                 |1      |Werewolf               |3      |Morkoth                |10     |
+|Berserker              |1      |Wight                  |3      |Small Air Elemental    |10     |
+|Brigand                |1      |Centaur                |4      |Triton                 |10\*   |
+|Buccaneer              |1      |Floating Eye           |4      |Fire Giant             |11     |
+|Dervish                |1      |Gelatinous Cube        |4      |Giant Fish             |11     |
+|Dwarf                  |1      |Giant Crab             |4      |Giant Shark            |11     |
+|Elf                    |1      |Giant Sea Spider       |4      |Giant Squid            |11     |
+|Giant Centipede        |1      |Giant Warrior Ant      |4      |Gorgon                 |11     |
+|Giant Fire Beetle      |1      |Giant Wasp             |4      |Guardian Naga          |11     |
+|Giant Rat              |1      |Gray Ooze              |4      |Magician               |11     |
+|Giant Sea Horse        |1      |Harpy                  |4      |Medusa                 |11     |
+|Gnome                  |1      |Hell Hound             |4      |White Dragon           |11     |
+|Goblin                 |1      |Hero                   |4      |Black Dragon           |12     |
+|Hobgoblin              |1      |Ochre Jelly            |4\*    |Cloud Giant            |12     |
+|Homunculus             |1      |Ogre                   |4      |Ettin                  |12     |
+|Jackal                 |1      |Seer                   |4      |Trapper                |12     |
+|Kobold                 |1      |Wraith                 |4      |Umber Hulk             |12     |
+|Leprechaun             |1      |Dryad                  |5      |Black Pudding          |13\*   |
+|Light Horse            |1      |Gargoyle               |5      |Fire Lizard            |13     |
+|Merman                 |1      |Giant Boring Beetle    |5      |Catoblepas             |14     |
+|Nixie                  |1      |Giant Crocodile        |5      |Efreeti                |14     |
+|Nomad                  |1      |Giant Octopus          |5      |Enchanter              |14     |
+|Orc                    |1      |Giant Poisonous Snake  |5      |Green Dragon           |14     |
+|Piercer                |1      |Lion                   |5      |Medium Roc             |14     |
+|Pirate                 |1      |Portugese Man-Of-War   |5      |Blue Dragon            |15     |
+|Pixie                  |1      |Rust Monster           |5\*    |Flesh Golem            |15     |
+|Skeleton               |1      |Small Roc              |5      |Small Fire Elemental   |15     |
+|Stirge                 |1      |Swashbuckler           |5      |Small Water Elemental  |15     |
+|Veteran                |1      |Weretiger              |5      |Water Naga             |15     |
+|Wolf                   |1      |White Ape              |5      |Mastodon               |16     |
+|Caveman                |2      |Bear                   |6      |Mind Flayer            |16     |
+|Crocodile              |2      |Cockatrice             |6      |Storm Giant            |17     |
+|Dire Wolf              |2      |Conjurer               |6      |Ten-Headed Hydra       |17     |
+|Dolphin                |2      |Displacer Beast        |6      |Warlock                |17     |
+|Draft Horse            |2      |Ghast                  |6      |Balrog                 |18     |
+|Giant Bombardier Beetle|2      |Giant Constrictor Snake|6      |Medium Air Elemental   |18     |
+|Giant Eel              |2      |Giant Spider           |6      |Ogre Mage              |18     |
+|Giant Frog             |2      |Giant Stag Beetle      |6      |Roper                  |18     |
+|Giant Hog              |2      |Minotaur               |6      |Shambling Mound        |18     |
+|Giant Lamprey          |2      |Mummy                  |6      |Small Earth Elemental  |18     |
+|Giant Leech            |2      |Myrmidon               |6      |Small Sea Monster      |18     |
+|Giant Lizard           |2      |Owl Bear               |6      |Tyranosaurus Rex       |18     |
+|Giant Tick             |2      |Pungi Ray              |6      |Basilisk               |20     |
+|Giant Worker Ant       |2      |Unicorn                |6      |Giant Manta Ray        |20     |
+|Gnoll                  |2      |Champion               |7      |Medium Fire Elemental  |20     |
+|Ixitxachitl            |2      |Djinni                 |7      |Medium Water Elemental |20     |
+|Large Spider           |2      |Lammasu                |7\*    |Red Dragon             |20     |
+|Lizard Man             |2      |Sabre-Tooth Tiger      |7      |Sorcerer               |20     |
+|Locathah               |2      |Theurgist              |7      |Will-O-Wisp            |20     |
+|Medium                 |2      |Werebear               |7      |Large Air Elemental    |22     |
+|Medium Horse           |2      |Wind Walker            |7      |Purple Worm            |22     |
+|Mule                   |2      |Yeti                   |7      |Spirit Naga            |22     |
+|Pegasus                |2      |Giant Slug             |8      |Large Roc              |24     |
+|Ram                    |2      |Griffon                |8      |Necromancer            |24     |
+|Sahuagin               |2      |Hill Giant             |8      |Dragon Turtle          |25     |
+|Troglodyte             |2      |Invisible Stalker      |8      |Treant                 |25     |
+|Warrior                |2      |Phase Spider           |8      |Vampire                |25\*   |
+|Weed Eel               |2      |Six-Headed Hydra       |8      |Medium Earth Elemental |26     |
+|Wererat                |2      |Slithering Tracker     |8      |Wizard                 |26     |
+|Yellow Mold            |2\*    |Spectre                |8      |Masher                 |28     |
+|Zombie                 |2      |Superhero              |8      |Large Fire Elemental   |33     |
+|Blink Dog              |3      |Thaumaturgist          |8      |Large Water Elemental  |33     |
+|Boar                   |3      |Troll                  |8      |Medium Sea Monster     |33     |
+|Bugbear                |3      |Carrion Crawler        |9      |Gold Dragon            |35\*   |
+|Bull                   |3      |Giant Scorpion         |9      |Large Earth Elemental  |36     |
+|Doppleganger           |3      |Giant Sea Snake        |9      |Lich                   |40\*   |
+|Ghoul                  |3      |Lord                   |9      |Whale                  |40     |
+|Giant Toad             |3      |Lurker Above           |9      |Large Sea Monster      |45     |
+|Giant Weasel           |3      |Manticore              |9      |Titan                  |50\*   |
+|Green Slime            |3\*    |Salamander             |9      |Rakshasa               |55     |
+|Heavy Horse            |3      |Stone Giant            |9      |Stone Golem            |55\*   |
+|Hippogriff             |3      |Wyvern                 |9      |Beholder               |60\*   |
+|Huge Spider            |3      |Animated Tree          |10     |Iron Golem             |140\*  |
+|Shadow                 |3      |Chimera                |10     |                       |       |
+|Shrieker               |3      |Frost Giant            |10     |                       |       |
 
-  -----------------------------------------------------------------------------
-  Monster             EHD   Monster             EHD   Monster             EHD
-  ------------------- ----- ------------------- ----- ------------------- -----
-  Rat                 0     Stirge              1     Warrior             2
-
-  Aquatic Elf         1     Veteran             1     Weed Eel            2
-
-  Bandit              1     Wolf                1     Wererat             2
-
-  Berserker           1     Caveman             2     Yellow Mold         2
-
-  Brigand             1     Crocodile           2     Zombie              2
-
-  Buccaneer           1     Dire Wolf           2     Blink Dog           3
-
-  Dervish             1     Dolphin             2     Boar                3
-
-  Dwarf               1     Draft Horse         2     Bugbear             3
-
-  Elf                 1     Giant Bombardier    2     Bull                3
-                            Beetle                                        
-
-  Giant Centipede     1     Giant Eel           2     Doppleganger        3
-
-  Giant Fire Beetle   1     Giant Frog          2     Ghoul               3
-
-  Giant Rat           1     Giant Hog           2     Giant Toad          3
-
-  Giant Sea Horse     1     Giant Lamprey       2     Giant Weasel        3
-
-  Gnome               1     Giant Leech         2     Green Slime         3
-
-  Goblin              1     Giant Lizard        2     Heavy Horse         3
-
-  Hobgoblin           1     Giant Tick          2     Hippogriff          3
-
-  Homunculus          1     Giant Worker Ant    2     Huge Spider         3
-
-  Jackal              1     Gnoll               2     Shadow              3
-
-  Kobold              1     Ixitxachitl         2     Shrieker            3
-
-  Leprechaun          1     Large Spider        2     Swordsman           3
-
-  Light Horse         1     Lizard Man          2     Wereboar            3
-
-  Merman              1     Locathah            2     Werewolf            3
-
-  Nixie               1     Medium              2     Wight               3
-
-  Nomad               1     Medium Horse        2     Centaur             4
-
-  Orc                 1     Mule                2     Floating Eye        4
-
-  Piercer             1     Pegasus             2     Gelatinous Cube     4
-
-  Pirate              1     Ram                 2     Giant Crab          4
-
-  Pixie               1     Sahuagin            2     Giant Sea Spider    4
-
-  Skeleton            1     Troglodyte          2     Giant Warrior Ant   4
-  -----------------------------------------------------------------------------
-
-  -----------------------------------------------------------------------------
-  Monster             EHD   Monster             EHD   Monster             EHD
-  ------------------- ----- ------------------- ----- ------------------- -----
-  Giant Wasp          4     Phase Spider        8     Small Water         15
-                                                      Elemental           
-
-  Gray Ooze           4     Six-Headed Hydra    8     Water Naga          15
-
-  Harpy               4     Slithering Tracker  8     Mastodon            16
-
-  Hell Hound          4     Spectre             8     Mind Flayer         16
-
-  Hero                4     Superhero           8     Storm Giant         17
-
-  Ochre Jelly         4     Thaumaturgist       8     Ten-Headed Hydra    17
-
-  Ogre                4     Troll               8     Warlock             17
-
-  Seer                4     Carrion Crawler     9     Balrog              18
-
-  Wraith              4     Giant Scorpion      9     Medium Air          18
-                                                      Elemental           
-
-  Dryad               5     Giant Sea Snake     9     Ogre Mage           18
-
-  Gargoyle            5     Lord                9     Roper               18
-
-  Giant Boring Beetle 5     Lurker Above        9     Shambling Mound     18
-
-  Giant Crocodile     5     Manticore           9     Small Earth         18
-                                                      Elemental           
-
-  Giant Octopus       5     Salamander          9     Small Sea Monster   18
-
-  Giant Poisonous     5     Stone Giant         9     Tyranosaurus Rex    18
-  Snake                                                                   
-
-  Lion                5     Wyvern              9     Basilisk            20
-
-  Portugese           5     Animated Tree       10    Giant Manta Ray     20
-  Man-Of-War                                                              
-
-  Rust Monster        5     Chimera             10    Medium Fire         20
-                                                      Elemental           
-
-  Small Roc           5     Frost Giant         10    Medium Water        20
-                                                      Elemental           
-
-  Swashbuckler        5     Giant Rhinoceros    10    Red Dragon          20
-                            Beetle                                        
-
-  Weretiger           5     Minotaur Lizard     10    Sorcerer            20
-
-  White Ape           5     Morkoth             10    Will-O-Wisp         20
-
-  Bear                6     Small Air Elemental 10    Large Air Elemental 22
-
-  Cockatrice          6     Triton              10    Purple Worm         22
-
-  Conjurer            6     Fire Giant          11    Spirit Naga         22
-
-  Displacer Beast     6     Giant Fish          11    Large Roc           24
-
-  Ghast               6     Giant Shark         11    Necromancer         24
-
-  Giant Constrictor   6     Giant Squid         11    Dragon Turtle       25
-  Snake                                                                   
-
-  Giant Spider        6     Gorgon              11    Treant              25
-
-  Giant Stag Beetle   6     Guardian Naga       11    Vampire             25
-
-  Minotaur            6     Magician            11    Medium Earth        26
-                                                      Elemental           
-
-  Mummy               6     Medusa              11    Wizard              26
-
-  Myrmidon            6     White Dragon        11    Masher              28
-
-  Owl Bear            6     Black Dragon        12    Large Fire          33
-                                                      Elemental           
-
-  Pungi Ray           6     Cloud Giant         12    Large Water         33
-                                                      Elemental           
-
-  Unicorn             6     Ettin               12    Medium Sea Monster  33
-
-  Champion            7     Trapper             12    Gold Dragon         35
-
-  Djinni              7     Umber Hulk          12    Large Earth         36
-                                                      Elemental           
-
-  Lammasu             7     Black Pudding       13    Lich                40
-
-  Sabre-Tooth Tiger   7     Fire Lizard         13    Whale               40
-
-  Theurgist           7     Catoblepas          14    Large Sea Monster   45
-
-  Werebear            7     Efreeti             14    Titan               50
-
-  Wind Walker         7     Enchanter           14    Rakshasa            55
-
-  Yeti                7     Green Dragon        14    Stone Golem         55
-
-  Giant Slug          8     Medium Roc          14    Beholder            60
-
-  Griffon             8     Blue Dragon         15    Iron Golem          140
-
-  Hill Giant          8     Flesh Golem         15                        
-
-  Invisible Stalker   8     Small Fire          15                        
-                            Elemental                                     
-  -----------------------------------------------------------------------------
 
 For a more detailed list of appropriate monsters and Equivalent Hit
 Dice, consult the [OED Monster Determination](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)
