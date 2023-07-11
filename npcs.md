@@ -106,19 +106,13 @@ checks which are resolved by a roll of 2d6 and compared against the below table.
 
 ### Morale Triggers
 
-In combat, a 1/3 loss of forces will trigger a morale check. Other
-triggers include: death of leader, when left alone, and when ordered
-into a dangerous situation.
+In combat, a 1/3 loss of forces will trigger a morale check. Other triggers include: death of leader, when left alone, and when ordered into an obvious/immediately deadly situation.
 
 ## Rumors
 
-**Procuring Rumors**: Characters can "buy" rumors at character creation
-or throughout gameplay. The cost is 1d6x10 sp, which represents buying
-drinks for locals, bribing guards, and buying odds and ends from
-traveling merchants.
+**Procuring Rumors**: Characters can "buy" rumors at character creation or throughout gameplay. The cost is 1d6x10 sp, which represents buying drinks for locals, bribing guards, and buying odds and ends from traveling merchants.
 
-**Generating Rumors**: Rumor can be generated with a series of d6 rolls
-as shown below.
+**Generating Rumors**: Rumor can be generated with a series of d6 rolls as shown below.
 
 *Veracity*: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
 
