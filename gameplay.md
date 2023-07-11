@@ -36,7 +36,7 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 |1" on table |  5 feet or 1"pace" |
 
 **Movement**: All player races move at a rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is
-triple (180'), sustainable for a 1 Con Bonus minutes. A full sprint would be (240'), sustainable for 1 plus Con bonus rounds. Walking is half (30').
+triple (180'), sustainable for a 1 Con *Bonus* minutes. A full sprint would be (240'), sustainable for 1 plus Con *Bonus* rounds. Walking is half (30').
 
 **Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
@@ -51,35 +51,21 @@ darkness clearly out to ½ the specified distance (30') and dimly out to
 the full listed distance (60'). It is spoiled when looking directly at a
 torch/fire source.
 
-**Darkness/Blindness**: []{#anchor}Creatures unable to see suffer a -4
-penalty to AC and melee attacks. They cannot make ranged attacks (see
+**Darkness/Blindness**: Creatures unable to see suffer a -4 penalty to AC and melee attacks. They cannot make ranged attacks (see
 errant shots below), move at half speed, and suffer -1 to morale.
 
 ### Adventuring Tasks
 
-In OED a number of tasks are resolved with a d6 roll. The chance for
-success is listed as X in6, and can be modified a number of "pips"
+In OED a number of tasks are resolved with a d6 roll. The chance for success is listed as X in6, and can be modified a number of "pips"
 (numbers) up or down by circumstance or race/class ability.
-
-  -------------------------------------------------------------------------
-  Task        Chance   Modifiers
-  ----------- -------- ----------------------------------------------------
-  Climbing    2 in 6   \+ Dexterity *Bonus*; Encumbrance Level (0-3); +2
-                       for using a rope.
-
-  Detection   2 in 6   \+ Intelligence *Bonus*
-
-  Doff Armor  3 in 6   Chance per round, Leather and Chain Only
-
-  Force a     2 in 6   \+ Strength *Bonus*: Locks/Bars -2, Reinforced Gates
-  Door                 -4, Solid Metal -6
-
-  Swimming    2 in 6\* \+ Strength *Bonus*; -# of Stone Stone carried; +/-
-                       1 for water conditions
-
-  Tracking    4 in     +/- 1 small or large parties, inclement weather, and
-              6\*\*    the like
-  -------------------------------------------------------------------------
+|Task|        Chance   |Modifiers/Notes|
+|:----------- |:--------:| :----------------------------------------------------|
+|Climbing    |2 in 6   |\+ Dexterity *Bonus*; Encumbrance Level (0-3); +2 for using a rope.|
+|Detection   |2 in 6   |\+ Intelligence *Bonus*|
+|Doff Armor  |3 in 6   |Chance per round, Leather and Chain Only|
+|Force a Door|2 in 6   |\+ Strength *Bonus*: Locks/Bars -2, Reinforced Gates -4, Solid Metal -6|
+|Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone Stone carried; +/-1 for water conditions|
+|Tracking    |4 in 6\**|+/- 1 small or large parties, inclement weather, and the like|
 
 \*Fighters and Thieves gain a +2 as noted in their class description,
 for a base 4 in 6 chance.
@@ -207,9 +193,9 @@ to attack rolls.
     AC.
 -   Attacker is silent or unseen: +4 to hit
 -   Target is stunned, stationary: +4 to hit
--   Target is helpless:+6 to Ranged attacks; Automatic Melee attacks for
+-   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
     full damage
--   Target has no Helmet:1 in 6 chance attack is to the head vs AC 9
+-   Target has no Helmet: 1 in 6 chance attack is to the head vs AC 9
     (humanoids only)
 
 **Shots at Groups**: When firing at a specific individual in a crowd, if
@@ -251,70 +237,45 @@ OED makes the below spells available to the Wizard class. Spell
 attributes and effects have been standardized and are available in the
 [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 
-  ------------------------------------------------------------------------
-  **Level 1**            **Level 2**             **Level 3**
-  ---------------------- ----------------------- -------------------------
-  1\. Charm Person       1\. Continuing Light    1\. Clairaudience
+| **Level 1**               | **Level 2**                | **Level 3**                   |
+| :------------------------- | :-------------------------- | :----------------------------- |
+| 1\. Charm Person          | 1\. Continuing Light       | 1\. Clairaudience             |
+| 2\. Detect Magic          | 2\. Darkness               | 2\. Clairvoyance              |
+| 3\. Hold Portal           | 3\. Detect Evil            | 3\. Dispel Magic              |
+| 4\. Light                 | 4\. Detect Invisibility    | 4\. Fireball                  |
+| 5\. Magic Missile         | 5\. Invisibility           | 5\. Fly                       |
+| 6\. Protection from Evil  | 6\. Knock                  | 6\. Haste                     |
+| 7\. Read Languages        | 7\. Levitate               | 7\. Hold Person               |
+| 8\. Read Magic            | 8\. Locate Object          | 8\. Infravision               |
+| 9\. Shield                | 9\. Magic Mouth            | 9\. Invisibility Sphere       |
+| 10\. Sleep                | 10\. Mirror Image          | 10\. Lightning Bolt           |
+|                           | 11\. Phantasmal Force      | 11\. Protection from Missiles |
+|                           | 12\. Pyrotechnics          | 12\. Protective Sphere        |
+|                           | 13\. Read Minds            | 13\. Rope Trick               |
+|                           | 14\. Strength              | 14\. Slow                     |
+|                           | 15\. Web                   | 15\. Suggestion               |
+|                           | 16\. Wizard Lock           | 16\. Water Breathing          |
 
-  2\. Detect Magic       2\. Darkness            2\. Clairvoyance
 
-  3\. Hold Portal        3\. Detect Evil         3.Dispel Magic
+                      
+| **Level 4**               | **Level 5**                | **Level 6**                   |
+| :------------------------- | :-------------------------- | :----------------------------- |  
+| 1\. Charm Monster         | 1\. Animal Growth          | 1\. Antimagic Sphere          |
+| 2\. Confusion             | 2\. Animate Dead           | 2\. Control Weather           |
+| 3\. Dimension Door        | 3\. Cloudkill              | 3\. Death Spell               |
+| 4\. Extend Spell          | 4\. Conjure Elemental      | 4\. Disintegrate              |
+| 5\. Fear                  | 5\. Contact Other Plane    | 5\. Geas                      |
+| 6\. Hallucinatory Terrain | 6\. Feeblemind             | 6\. Invisible Stalker         |
+| 7\. Ice Storm             | 7\. Hold Monster           | 7\. Legend Lore               |
+| 8\. Plant Growth          | 8\. Magic Jar              | 8\. Lower Water               |
+| 9\. Polymorph Other       | 9\. Passwall               | 9\. Move Earth                |
+| 10\. Polymorph Self       | 10\. Telekinesis           | 10\. Project Image            |
+| 11\. Remove Curse         | 11\. Teleport              | 11\. Reincarnate              |
+| 12\. Wall of Fire         | 12\. Transmute Rock to Mud | 12\. Stone to Flesh           |
+| 13\. Wall of Ice          | 13\. Wall of Iron          |                               |
+| 14\. Wizard Eye           | 14\. Wall of Stone         |                               |
 
-  4\. Light              4\. Detect Invisibility 4\. Fireball
-
-  5\. Magic Missile      5\. Invisibility        5\. Fly
-
-  6\. Protection from    6\. Knock               6\. Haste
-  Evil                                           
-
-  7\. Read Languages     7\. Levitate            7\. Hold Person
-
-  8\. Read Magic         8\. Locate Object       8\. Infravision
-
-  9\. Shield             9\. Magic Mouth         9\. Invisibility Sphere
-
-  10\. Sleep             10\. Mirror Image       10\. Lightning Bolt
-
-                         11\. Phantasmal Force   11\. Protection from
-                                                 Missiles
-
-                         12\. Pyrotechnics       12\. Protective Sphere
-
-                         13\. Read Minds         13\. Rope Trick
-
-                         14\. Strength           14\. Slow
-
-                         16\. Wizard Lock        16\. Water Breathing
-
-  **Level 4**            **Level 5**             **Level 6**
-
-  1\. Charm Monster      1\. Animal Growth       1\. Antimagic Sphere
-
-  2\. Confusion          2\. Animate Dead        2\. Control Weather
-
-  3\. Dimension Door     3\. Cloudkill           3\. Death Spell
-
-  4\. Extend Spell       4\. Conjure Elemental   4\. Disintegrate
-
-  5\. Fear               5\. Contact Other Plane 5\. Geas
-
-  6\. Hallucinatory      6\. Feeblemind          6\. Invisible Stalker
-  Terrain                                        
-
-  7\. Ice Storm          7\. Hold Monster        7\. Legend Lore
-
-  8\. Plant Growth       8\. Magic Jar           8\. Lower Water
-
-  9\. Polymorph Other    9\. Passwall            9\. Move Earth
-
-  10\. Polymorph Self    10\. Telekinesis        10\. Project Image
-
-  11\. Remove Curse      11\. Teleport           11\. Reincarnate
-
-  12\. Wall of Fire      12\. Transmute Rock to  12\. Stone to Flesh
-                         Mud                     
-
-  13\. Wall of Ice       13\. Wall of Iron       
-
-  14\. Wizard Eye        14\. Wall of Stone      
-  ------------------------------------------------------------------------
+- Spells generally need line-of-sight to their target point. All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage#type spells). 
+- Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
+- “Man-size” creatures are those of 1 HD (base, without class levels).
+- Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
