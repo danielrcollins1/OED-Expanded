@@ -1,4 +1,4 @@
-# Appendix: Additional Material
+# Appendix A: Additional Material
 
 The below additions are not offically part of OED but may be useful to
 Judges
