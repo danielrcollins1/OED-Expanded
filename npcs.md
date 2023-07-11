@@ -68,44 +68,28 @@ Each additional "hit" for a given item type indicates an additional +1 bonus, do
 
 ## Hirelings
 
-**Posting Advertisements**: Every 100sp spent on posts/agents will
-attract 1d3 first level recruits within 1d6 days. The maximum number of
-potential recruits is equal to 1% of the settlements population
-(approximately 3 such folks in a typical hamlet). Populations will
-refresh once per season. Calls to far, elf, or dwarf lands will multiply
-the cost and time.
+**Posting Advertisements**: Every 100sp spent on posts/agents will attract 1d3 first level recruits within 1d6 days. The maximum number of potential recruits is equal to 1% of the settlements population (approximately 3 such folks in a typical hamlet). Populations will
+refresh once per season. Calls to far, elf, or dwarf lands will multiply the cost and time.
 
-**Offers and Shares**: The default rate for a Hireling is 100sp plus a
-"half share" of the treasure (and XP) split. The NPC will accept this
-offer based on the outcome of a reaction roll (2d6 + Cha Mod >= 9). The
-roll can be modified by the quality of the offer.
+**Offers and Shares**: The default rate for a Hireling is 100sp plus a "half share" of the treasure (and XP) split. The NPC will accept this offer based on the outcome of a reaction roll (2d6 + Cha Mod >= 9). The roll can be modified by the quality of the offer.
 
 ### Specialists
 
-Various specialists can be hired, typically for the rate of 10sp per
-day. These will often be zero level characters (see above) and they will
-not enter dungeons or hazardous areas.
+Various specialists can be hired, typically for the rate of 10sp per day. These will often be zero level characters (see above) and they will not enter dungeons or hazardous areas.
 
 #### Sage
 
-A sage can Identify the properties of magic items. The process takes one
-day and will reveal a single property or command word per instance. A
-sage can also do research on behalf of the party at a cost of 10sp per
-day, using the guidelines below:
+A sage can Identify the properties of magic items. The process takes one day and will reveal a single property or command word per instance. A sage can also do research on behalf of the party at a cost of 10sp per day, using the guidelines below:
 
-  ------------------------- ---------------------- -----------------------
-  Judge knows the answer:   General Topic = d6     Specific Topic = d6
-                            hours                  days
-
-  Judge needs to Invent     General Topic = d6     Specific Topic = d6
-  Info:                     days                   weeks
-  ------------------------- ---------------------- -----------------------
+| |Judge knows the answer| Judge needs to invent the answer |  
+|--- |---                   |---|
+|General Topic| d6 hours | d6 days | 
+|Specific Topic| d6 days | d6 weeks |
+  
 
 #### Alchemist
 
-Alchemists can provide potions of healing and mithridate (neutralize
-poison) at the listed prices, taking a week to produce one dose. They
-may also be able to brew other potions if given a sample.
+Alchemists can provide potions of healing and mithridate (neutralize poison) at the listed prices, taking a week to produce one dose. They may also be able to brew other potions if given a sample.
 
 ## Reaction/Morale Checks
 
