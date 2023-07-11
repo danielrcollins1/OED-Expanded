@@ -72,7 +72,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
 
-**Weapons**: All (Light, Medium, Heavy, Ranged)
+**Weapons**: All (Light, Medium, Heavy)
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |-------------------------------|
