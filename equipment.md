@@ -24,23 +24,17 @@ equivalent to the historical unit. Characters can carry a number of
 stone equal to their Strength. A character's encumbrance affects their
 movement rate as shown below. This encumbrance level also functions as a
 modifier to some rolls.
-
-  -----------------------------------------------------------------------
-  Encumbrance Level Stone Carried           Effect
-  ----------------- ----------------------- -----------------------------
-  Level 0           up to 1/3 Strength      Full Movement Rate: 12"(60')
-
-  Level 1           up to 2/3 Strength      Movement Reduced 1/3: 9"(45')
-
-  Level 2           up to Strength Score    Movement Reduced 1/2 :
-                                            6"(30')
-
-  Level 3           up to 2x Strength Score Movement Reduced to 0
-  -----------------------------------------------------------------------
+  
+|Encumbrance Level|Stone Carried|Effect|
+|:---|:---|:---|
+|Level 0|up to 1/3 Strength Score|Full Movement Rate: 12"(60')|
+|Level 1|up to 2/3 Strength Score|Movement Reduced 1/3: 9"(45')|
+|Level 2|up to Strength Score|Movement Reduced 1/2 :6"(30')|
+|Level 3|up to 1.5x Strength Score|Movement Reduced to 0|
 
 ## Weapons
 
-Weapons in OED fall into 4 types, Light, Medium, Heavy, and Ammo.
+Weapons in OED fall into 3 categories, Light, Medium, and Heavy.  
 
 Weapons have 5 main properties.
 
@@ -51,82 +45,43 @@ Weapons have 5 main properties.
 **Axes**: +2 to hit targets in Medium/Heavy armor, or creatures with a
 tough hide (AC 5 or better)
 
-**Clubs**: +4 to hit targets in Heavy armor, or creatures with a very
+**Club**: +4 to hit targets in Heavy armor, or creatures with a very
 tough hide (AC 3 or better)
 
 **Ranged/Thrown**: -1 to Hit per 10', See also Firing at a Crowd below.
 
-  ---------------------------------------------------------------------------------
-  Weapon        Category   Cost     Damage   Stone   Properties
-                           (SP)                      
-  ------------- ---------- -------- -------- ------- ------------------------------
-  Cudgle        Light      \--      1d6      1/3     Thrown 60'; not a "Club" type
-                                                     weapon
+|Weapon|Category|Cost (SP)|Damage|Stone|Properties|
+|:----|:---|:---|---|---|:---|
+|Club (Crude)|Light|\--|1d6|1/3|Thrown 60'; not a "Club" type weapon|
+|Dagger|Light|3|1d4|1/3|"Sword"; Thrown 60'|
+|Dagger (silver)|Light|30|1d4|1/3|"Sword"; Thrown 60'|
+|Spear         |Light      |1        |1d6      |1/3     |"Spear"; Thrown 60'|
+|Hand Axe      |Light      |3        |1d6      |1/3     |"Axe"; Thrown 60'|
+|Mace          |Light      |5        |1d6      |1/3     |"Club"; Thrown 60'|
+|Hammer        |Light      |5        |1d6      |1/3     |"Club"; Thrown 60'|
+|Military Pick |Light      |5        |1d6      |1/3     |"Club"; Thrown 60'|
+|Staff         |Medium     |1        |1d6      |1       |Two Hands needed to attack|
+|Sword         |Medium     |10       |1d8      |1       |"Sword"|
+|Polearm       |Medium     |7        |1d8      |1       |"Spear"; Two Handed|
+|Battle Axe    |Medium     |7        |1d8      |1       |"Axe"|
+|Morning Star  |Medium     |6       |1d8      |1       |"Club"|
+|2H Sword      |Heavy      |15       |1d10     |1       |"Sword"|
+|Lance         |Heavy      |4        |1d8      |1       |"Spear"; x2 Damage on Charging Mount|
+|Pike          |Heavy      |5        |1d8      |1       |"Spear"; x2 Damage when set vs charge|
+|Halberd       |Heavy      |7        |1d10     |1       |"Axe"|
+|Flail         |Heavy      |8        |1d8      |1       |Ignore Target Shield Bonus|
+|Sling         |Light      |1        |\--      |\--     |Fire every other round; Range 60'|
+|Light Crossbow |        Light |     |15       |\--      |1/3     |Fire every other round; Range 95'|
+|Heavy Crossbow  | Heavy    |  25    |   \--     | 1     |  Fire every other round; Range 120'|
+|Short Bow     |Medium     |25       |\--      |1/3     |Range 75'|
+|Long Bow      |Heavy      |40       |\--      |1/3     |Range 105'|
+|Composite Bow |Heavy      |50       |\--      |1/3     |Range 90'|
+|Sling Bullets |N/A Ammo|       \--      |1d4      |\1/3     |Qty 10|
+|Arrows        |N/A Ammo|       5        |1d6      |1/3     |Qty 20|
+|Arrow (silver) |N/A Ammo|      5        |1d6      |\--     |One Arrow|
+|Quarrels      |N/A Ammo|       5        |1d6      |1/3     |Qty 30|
+|Quiver/Case   |N/A Gear|       5        |\--     |\--     |Holds 20 Quarrels/30 Arrows/10 Bullets|
 
-  Dagger        Light      3        1d4      1/3     "Sword"; Thrown 60'
-
-  Dagger        Light      30       1d4      1/3     "Sword"; Thrown 60'
-  (silver)                                           
-
-  Spear         Light      1        1d6      1/3     "Spear"; Thrown 60'
-
-  Hand Axe      Light      3        1d6      1/3     "Axe"; Thrown 60'
-
-  Mace          Light      5        1d6      1/3     "Club"; Thrown 60'
-
-  Hammer        Light      5        1d6      1/3     "Club"; Thrown 60'
-
-  Military Pick Light      5        1d6      1/3     "Club"; Thrown 60'
-
-  Staff         Medium     1        1d6      1       Two Hands needed to attack
-
-  Sword         Medium     10       1d8      1       "Sword"
-
-  Polearm       Medium     7        1d8      1       "Spear"; Two Handed
-
-  Battle Axe    Medium     7        1d8      1       "Axe"
-
-  Morning Star  Medium     6        1d8      1       "Club"
-
-  2H Sword      Heavy      15       1d10     1       "Sword"
-
-  Lance         Heavy      4        1d8      1       "Spear"; x2 Damage on Charging
-                                                     Mount
-
-  Pike          Heavy      5        1d8      1       "Spear"; x2 Damage when set vs
-                                                     charge
-
-  Halberd       Heavy      7        1d10     1       "Axe"
-
-  Flail         Heavy      8        1d8      1       Ignore Target Shield Bonus
-
-  Sling         Light      1        \--      \--     Fire every other round; Range
-                                                     60'
-
-  Light         Light      15       \--      1/3     Fire every other round; Range
-  Crossbow                                           95'
-
-  Heavy X-bow   Heavy      25       \--      1       Fire every other round; Range
-                                                     120'
-
-  Short Bow     Medium     25       \--      1/3     Range 75'
-
-  Long Bow      Heavy      40       \--      1/3     Range 105'
-
-  Composite Bow Heavy      50       \--      1/3     Range 90'
-
-  Sling Bullets Ammo       \--      1d4      1/3     Qty 10
-
-  Arrows        Ammo       5        1d6      1/3     Qty 20
-
-  Arrow         Ammo       5        1d6      \--     One Arrow
-  (silver)                                           
-
-  Quarrels      Ammo       5        1d6      1/3     Qty 30
-
-  Quiver/Case   N/A        5        \--      \--     Holds 20 Quarrels/30 Arrows/10
-                                                     Bullets
-  ---------------------------------------------------------------------------------
 
 ## Gear
 
