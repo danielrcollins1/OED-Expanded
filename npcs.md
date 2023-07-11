@@ -83,8 +83,8 @@ A sage can Identify the properties of magic items. The process takes one day and
 
 | |Judge knows the answer| Judge needs to invent the answer |  
 |--- |---                   |---|
-|General Topic| d6 hours | d6 days | 
-|Specific Topic| d6 days | d6 weeks |
+|**General Topic**| d6 hours | d6 days | 
+|**Specific Topic**| d6 days | d6 weeks |
   
 
 #### Alchemist
@@ -94,16 +94,15 @@ Alchemists can provide potions of healing and mithridate (neutralize poison) at 
 ## Reaction/Morale Checks
 
 Hirelings, NPCs, and Monsters will be called on to make reaction/morale
-checks which are resolved by a roll of 2d6 + NPC Level/HD and compare
-against the below table.
+checks which are resolved by a roll of 2d6 and compared against the below table.  For Morale checks the Judge may add the creature's HD or Level as a modifier.
 
-  **Result**   **Reaction**               **Morale**
-  ------------ -------------------------- --------------------
-  2            May Attack                 Surrender
-  3-5          Hostile Reaction           Flee
-  6-8          Uncertain, Can Try Again   Withdraw
-  9-11         Accepts Offer              Fight On
-  12           Enthusiastic               Fight to the Death
+|2d6 Result|Reaction|Morale (+ HD)|
+|:---|:---|:---|
+|  2            |May Attack                | Surrender |
+ | 3-5          |Hostile Reaction          | Flee |
+ | 6-8          |Uncertain, Can Try Again  | Withdraw |
+ | 9-11        | Accepts Offer             | Fight On |
+|  12 |          Enthusiastic |              Fight to the Death |
 
 ### Morale Triggers
 
