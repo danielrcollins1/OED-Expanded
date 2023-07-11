@@ -13,69 +13,34 @@ level of the dungeon (depth) in question. This will give you the
 
 Finally roll a d12 and match the result to the given Threat rank.
 
-  ---------------------------------------------------------------------------------
-  **Dungeon Level        **d6 Result**                                     
-  Depth**                                                                  
-  ---------------------- ------------- -------- --------- -------- ------- --------
-  1                      1-4           5        6                          
 
-  2                      1-2           3-4      5         6                
+|**Dungeon Level Depth**|**d6 Result**|      |       |      |     |      |
+|:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|
+|1                      |1-4          |5     |6      |      |     |      |
+|2                      |1-2          |3-4   |5      |6     |     |      |
+|3-4                    |1            |2     |3-4    |5     |6    |      |
+|5-7                    |             |1     |2      |3-4   |5    |6     |
+|8-10                   |             |      |1      |2     |3-4  |5-6   |
+|11                     |             |      |       |1     |2    |3-6   |
+|**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|
 
-  3-4                    1             2        3-4       5        6       
 
-  5-7                                  1        2         3-4      5       6
+|       |**Trap by Threat Rank**|                   |                         |                         |                           |                                     |
+|-------|-----------------------|-------------------|-------------------------|-------------------------|---------------------------|-------------------------------------|
+|**d12**|**I**                  |**II**             |**III**                  |**IV**                   |**V**                      |**VI**                               |
+|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked – Poison     |Pit; Locking, - Monster    |Pit; Spiked, Poison, Locked, Flooding|
+|**2**  |Pit; Open – Spiked     |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
+|**3**  |Darts (1d3)            |Arrows (1d6)       |Arrows (1d6); Weak Poison|Darts (2d6)              |Arrows (1d6); Poison       |Darts (2d6); Poison                  |
+|**4**  |Arrows (1d3)           |Spears (1d6)       |Spears (1d6); Accurate   |Spears (1d6); Weak Poison|Spears (1d6); Very Accurate|Spears (1d6); Accurate, Poison       |
+|**5**  |Pendulum               |Scything Blade     |Wall Spikes              |Door; Poison Needle      |Poison Scythe              |Wall Spikes; Poison                  |
+|**6**  |Ball Trap              |Royal Statue       |Block; Swinging          |Block; Falling           |Block; Falling, Spiked     |Block; falling, Spiked, Poison       |
+|**7**  |Door; Falling          |Rolling Rock       |Collapsing Column        |Collapsing Wall          |Compacting Room            |Crushing Wall                        |
+|**8**  |Net                    |Portcullis         |Watery Room              |Spinning Wall            |Flooding Room              |Dropping Ceiling                     |
+|**9**  |Gas; Obscuring         |Gas; Sickening     |Gas; Blinding            |Gas; Poisonous           |Gas; Corroding             |Gas; Insanity                        |
+|**10** |Boiling Oil            |Acid Vent          |_Fear_                   |_Wall of Fire/Ice_       |_Conjure Elemental_        |_Symbol_                             |
+|**11** |_Wizard Lock_          |_Phantasmal Forces_|_Fireball_               |_Confusion_              |_Teleport_                 |_Death Spell_                        |
+|**12** |_Magic Mouth_          |_Fire Vent_        |_Lightning Bolt_         |_Polymorph_              |_Wall of Stone/Iron_       |_Reverse Gravity_                    |
 
-  8-10                                          1         2        3-4     5-6
-
-  11+                                                     1        2       3-6
-
-  **Threat Rank**        **I**         **II**   **III**   **IV**   **V**   **VI**
-  ---------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------
-  d12   I           II           III          IV           V            VI
-  ----- ----------- ------------ ------------ ------------ ------------ -----------------
-  1     Pit,        Pit, Locking Pit, Spiked  Pit, Spiked  Pit,         Pit, Spiked,
-        Covered                               -- Poison    Locking, -   Poison, Locked,
-                                                           Monster      Flooding
-
-  2     Pit, Open   Pit, Watery  Pit, Monster Pit,         Pit,         Pit, Locking,
-        -- Spiked                             Flooding     Locking,     Crushing
-                                                           Flooding     
-
-  3     Darts 1d3   Arrows 1d6   Arrows, Weak Darts 2d6    Arrows,      Darts, Poison 2d6
-                                 Poison 1d6                Poison 1d6   
-
-  4     Arrows 1d3  Spears 1d6   Spears,      Spears, Weak Spears, Very Spears, Accurate,
-                                 Accurate 1d6 Poison 1d6   Accurate 1d6 Poison 1d6
-
-  5     Pendulum    Scything     Wall Spikes  Door, Poison Poison       Wall Spikes,
-                    Blade                     Needle       Scythe       Poison
-
-  6     Ball Trap   Royal Statue Block,       Block,       Block,       Block, falling,
-                                 Swinging     Falling      Falling,     Spiked, Poison
-                                                           Spiked       
-
-  7     Door,       Rolling Rock Collapsing   Collapsing   Compacting   Crushing Wall
-        Falling                  Collumn      Wall         Room         
-
-  8     Net         Portcullis   Watery Room  Spinning     Flooding     Dropping Ceiling
-                                              Wall         Room         
-
-  9     Gas,        Gas,         Gas,         Gas,         Gas,         Gas, Insanity
-        Obscuring   Sickening    Blinding     Poisonous    Corroding    
-
-  10    Boiling Oil Acid Vent    Fear         Wall of      Conjure      Symbol
-                                              Fire/Ice     Elemental    
-
-  11    Wizard Lock Phantasmal   Fireball     Confusion    Teleport     Death Spell
-                    Forces                                              
-
-  12    Magic Mouth Fire Vent    Lightning    Polymorph    Wall of      Reverse Gravity
-                                 Bolt                      Stone/Iron   
-  ---------------------------------------------------------------------------------------
-
-  : Traps by Threat Rank
 
 ## Trap Descriptions
 
