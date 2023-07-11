@@ -17,8 +17,7 @@ power. This is used to determine monster encounters and XP rewards.
 **Monster Damage**: Monster damage is determined on a 1d6, unless
 otherwise noted.
 
-**Monster Strength**: If necessary, you can assume a Monster's Strength
-modifier is equal to ½ its Hit Die.
+**Monster Strength**: If necessary, you can assume a Monster's Strengthmodifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 2 or 3 for quardrapeds, etc)
 
 **Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it
 is capable of harming creatures that normally require +1 magic weapon to
@@ -50,8 +49,8 @@ to Morale in full daylight.
 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is
 equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
-**Horses**: Non-Warhorses are unusable in combat, near to fire or
-smells, etc. (auto-fail morale)
+**Horses and Mounts**: Non-Warhorses are unusable in combat, near to fire or
+smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads)
 
 **Slimes**: Successful attacks by these creatures will cause metal to
 corrode instantly. Metal weapons used against them will corrode on a
