@@ -126,6 +126,30 @@ An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, des
 **Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 
+## Creatures
+### Familiars
+A Familiar is a spirit that takes on the form of a small animal to provide magical knowledge to a mortal. In practice, they function as a special sort of “hireling” for magic users. Statistics are the same as the animal form except
+
+**Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic)
+
+**Intelligence**: 2d6+6
+
+**Saves**: as owner
+
+**Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can 	understand the familiar. 
+When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
+
+### Slime Splitting
+Assume that slimes are roughly spherical, and their hit dice are proportional to their volume, but their damage output is proportional to their surface area. Assume that the splitting stops at 1 HD. 
+
+||Ochre Jelly|Black Pudding|
+|:---|:---|:---|
+|**Start**|5HD, 1d6 damage|10HD, 3d6 damage|
+|**1st Split**|2HD, 1d4 damage|5 HD, 2d6 damage|
+|**2nd Split**|1 HD, 1d3 damage|2HD, 1d6+2 damage|
+|**3rd Split**|N/A|1 HD, 1d6 damage|
+
+
 
 
 ## Grievous Wounds
