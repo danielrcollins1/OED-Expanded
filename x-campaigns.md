@@ -365,50 +365,42 @@ There are countless types of vessels across history for use in a game world.  Ju
 
 **Oared, Large**:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  Ex: Large Galley/Trireme
 
-**Oared, Medium**: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Ex: Small Galley/Dromon
+**Oared, Medium**: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Ex: Longship
 
-**Oared, Small**: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Ex: Longship 
+**Oared, Small**: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Ex: Small Galley/Dromon
 
 **Sailed, Large**: These multi-masted vessels are capable of safely traversing the open ocean between continents. However, they are unable to traverse all but the largest rivers. Ex: Galleon
 
-**Sailed, Medium**: Possessing one or two masts, they are suitable for travel on inland seas or island hopping. Ex: Caravel/Warhship.
+**Sailed, Medium**: Possessing one or two masts, they are suitable for travel on inland seas or island hopping. Ex: Caravel/Large Merchant Ship.
 
-**Sailed, Small**: Single-masted, these vessels typically hug the coasts and traverse rivers. Ex Kogge/Merchant Ship.
+**Sailed, Small**: Single-masted, these vessels typically hug the coasts and traverse rivers. Ex Kogge/Small Merchant Ship.
 
-double check stats vs cost vs name vs original price list
-Come back to this table......
-Vessel			Distance (miles)	Tactical					Capacity/	Cost (sp) 
-Type	Dimensions	per 12 hrs	Speed		Aboard			Weapons	Avg HP	
-Oared 	 L 120’-160’; 	Oars 30		Oars*: 50’/rd 	20 Crew, 50 Warriors	150 tons/	30,000 
-Large	 W 20’-30’	Sail 50		Sail: 30’/rd	100 Rowers		Fore/Aft		160 HP	
-Oared	 L 75’-100’	Oars 30		Oars*: 40’/rd	15 Crew, 30 Warriors	100 tons		20,000
-Medium	 W 15’-20’	Sail 75		Sail: 50’/rd	60 Rowers				100 HP	
-Oared	 L 30’-60’; 	Oars 30		Oars*: 40’/rd	10 Crew, 20 Warriors	50 Tons		10,000
-Small	 W 10’-15’	Sail 60		Sail: 40’/rd	50 Rowers		Fore		60 HP	
-Sailed 	 L 100’-130’	Sail 75 		Sail: 50’/rd	20 Crew, 50 Warriors	400 tons/	40,000
-Large	 W 25’-30’								Fore/Aft		140 HP	
-Sailed	 L 50’-80’; 	Sail 60 		Sail: 40’/rd	20 Crew			200 Tons/	20,000
-Medium	 W 15’-25’								Fore		85 HP	
-Sailed	 L 25’-40’; 	Sail 60 		Sail: 40’/rd	15 Crew			50 Tons		5,000
-Small	 W 10’-15’										45 HP	
+|**Vessel Type**|**Dimensions**     |**Travel Speed***|**Tactical Speed**|**Aboard**                      |**Capacity**|**Weapons**|**Cost (sp)**|**HP (avg)**|
+|---------------|-------------------|------------------|-----------------------|--------------------------------|------------|-----------|-------------|------------|
+|Oared, Large   |L 120-160’, W 20-30’|O: 30, S: 50      |O: 50’, S: 30’         |20 crew, 50 Warriors, 100 Rowers|150 tons    |Fore/Aft   |30000        |160         |
+|Oared, Med     |L 75-100’, W 15-20’ |O: 30, S: 75      |O: 40’, S: 50’         |15 Crew, 30 Warriors, 60 Rowers |100 Tons    |           |20000        |100         |
+|Oared, Small   |L 30-60’, W 10-15’  |O: 30, S: 60      |O: 40’, S: 40’         |10 Crew, 20 Warriors, 50 Rowers |50 Tons     |Fore       |10000        |60          |
+|Sail, Large    |L 100-130’, W 25-30’|S: 75             |S: 50’                 |20 Crew, 50 Warriors            |400 Tons    |Fore/Aft   |40000        |140         |
+|Sail, Med      |L 50-80’, W 15-25’  |S: 60             |S: 40’                 |20 Crew                         |200 Tons    |Fore       |20000        |85          |
+|Sail, Small    |L 25-40’, W 10-15’  |S: 60             |S: 40’                 |15 Crew                         |50 Tons     |           |5000         |45          |
 
-*See: Ancient Sailing | Ancient Ports - Ports Antiques (ancientportsantiques.com)*  
+\*See: [Ancient Sailing | Ancient Ports - Ports Antiques](ancientportsantiques.com)  
 
 **Dimensions**: This is the range of Keel length and Beam width that typifies this sort of vessel. 
 
-**Distance per 12 hours**: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
+**Travel Speed**: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
 *Note: Ships propelled by Oar can not travel at night as they must land in order to rest and feed the rowers.  Likewise, ships not in open water (rivers, shallows, or hugging coasts) may not travel at night.*
 
 **Tactical Speed**:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)
-*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but unable to travel by oar afterwards.*
+*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but will be unable to travel by oar afterwards.*
 
 **Aboard**: This is the standard deployment of operating personnel on the vessel, including weapon crews.
 
-**Capacity**:  Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers (1 passenger depletes 1 ton).  This is equal to the vessels cost divide by 100 in tons; half again for oared vessels.
+**Capacity**:  Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers measured in long tons (1 passenger depletes 1 ton).  This is equal to the vessels cost divided by 100 in tons; half again for oared vessels.
 
-**Weapons**: These are the locations of shipboard weapons in the standard build out.  The weapon, ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
+**Weapons**: These are the locations of shipboard weapons in the standard build out.  The weapon(s), ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
 
-**Cost**: The cost of the vessel, it does not cover the cost of a crew, provisions, ammunition, documents, etc.  Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
+**Cost**: The cost of the vessel, it does not cover the cost of upkeep (crew, provisions, ammunition, documents, etc).  Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
 
 **Average Hit Points**:  Ships have a number of hit points equal to their (keel) length plus (beam) width.
 
