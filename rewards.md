@@ -23,37 +23,25 @@ present.
 
 The table below dictates the type of treasure present.
 
-  --------------------------------------------------------------------------
-  Dungeon      Copper     Silver        Gems and/or            Magic\*\*\*
-  Level                   (50%)\*       Jewelry\*\*            
-  ------------ ---------- ------------- ---------------------- -------------
-  1            d6 x 100   d6 x 10       5% each for d6 of      5%
-                                        either                 
+|Type		|Chance		|Quantity*			|Value (sp)		|
+|:--- |:---:|:---|:---|
+|Copper		|1 in 6		|2d6 x 50 x dungeon level		|N/A|				
+|Silver		|1 in 6		|2d6 x 20 x dungeon level		|N/A|	
+|Gold		|1 in 6		|2d6 x 5 x dungeon level		|N/A|
+|Gems		|1 in 6		|d6 x dungeon level		|d6 x 20|
+|Jewelry		|1 in 6		|1				|3d6 x 50 x level|
+|Magic		|2 in 6		|1				|**|
 
-  2-3          d6 x 200   d6 x 100      10% each for d6 of     5%
-                                        either                 
+*Boost: For each treasure type present, there is a 2 in 6 chance for an increased yeild as showb below.
 
-  4-5          d6 x 1,000 d6 x 200      20% each for d6 of     10%
-                                        either                 
+|Type		|Boost Die shows a 1	|Boost Die shows a 2|		
+|:---   |:---                 |:---               |
+|Coins	|Double Amount		|Increase denomination: cp → sp → ep → gp → pp|
+|Gems		|Double Amount		|Double Value|
+|Jewelry		|+1 in Quantity		|Double Value|
+|Magic		|+1 in Quantity		|+1 in Quantity|
 
-  6-7          d6 x 2,000 d6 x 500      30% each for d6 of     15%
-                                        either                 
-
-  8-9          d6 x 5,000 d6 x 1,000    40% each for d6 of     20%
-                                        either                 
-
-  10-12        d6 x 5,000 d6 x 2,000    50% each for d6 of     25%
-                                        either                 
-
-  13+          d6 x       d6 x 5,000    50% each for d6 of     30%
-               10,000                   either                 
-  --------------------------------------------------------------------------
-
-\* There is a 10% chance the coinage is in gold\
-\*\* Gems and Jewelry can be generated using the tables in Vol II page
-40. Average value for gems is 501 sp each, and for jewelry is 3,410 sp
-each.\
-\*\*\* Magic items can be generated using the tables in Vol II page 23,
+*Magic items can be generated using the tables in Vol II page 23,
 or [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/).
 
 **Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
