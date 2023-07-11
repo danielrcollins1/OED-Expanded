@@ -9,14 +9,13 @@ Adventuring)
 **Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC >= 20
 
 **Saving Throws**: d20 + Level + Save Mod >= 20
-
-  *Save Type*   *Save Mod*
-  ------------- ------------
-  Spells        +0
-  Breath        +1
-  Stone         +2
-  Wands         +3
-  Death         +4
+|Save Type|Save Mod|
+|:---|:---:|
+|Spells    |    +0|
+|Breath    |    +1|
+|Stone      |   +2|
+|Wands      |   +3|
+|Death      |   +4|
 
 **Ability Checks**: d20 + Level + Modifier >= 20
 
@@ -30,22 +29,16 @@ Adventuring)
 
 **Scale**: OED uses the below scale for dungeon combat. For battlefield
 scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461).
+|Unit |Scale|
+|:---|:---|
+|1 round     |  10 seconds |
+|1 turn      |  1 minute |
+|1" on table |  5 feet or 1"pace" |
 
-  Unit          Scale
-  ------------- -------------------
-  1 round       10 seconds
-  1 turn        1 minute
-  1' on table   5 feet or 1"pace"
+**Movement**: All player races move at a rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is
+triple (180'), sustainable for a 1 Con Bonus minutes. A full sprint would be (240'), sustainable for 1 plus Con bonus rounds. Walking is half (30').
 
-**Movement**: All player races move at a rate of 60' per round,
-equivalent to a light jog. A fast jog is double this (120'), a run is
-double again (240', sustainable for a few minutes), and a full sprint
-would be 300' sustainable for but a round. Walking is half (30').
-
-**Time**: Assume that the amount of time spent searching and exploring
-is analogous to actual time spent. This will result in checking for
-wandering monsters every 15 minutes of real time, adding a check for
-long searches (such as for secret doors, etc.).
+**Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
 ### Light and Vision
 
