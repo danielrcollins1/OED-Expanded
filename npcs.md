@@ -26,12 +26,12 @@ Scores are generated via 3d6 in order. They have 1d6 Hit Points. Their
 attack and saves bonuses are +0. They can make use of up to 3 weapons
 (ex: Sling, Sword, Pike). They possess -1,000 xp.
 
-**Advancing to 1**^**st**^**Level**: When earning 1000xp, to arrive at
+**Advancing to 1st Level**: When earning 1000xp, to arrive at
 0xp, the character can enter one of the three basic classes. Entry to a
 class presumes they have undergone one of the following: An act of
 combat for Fighter, an act of larceny for a Thief, learning the Read
 Magic spell for Wizard. Entry into the Fighter class grants +1HP, entry
-into the Wizard class removes 1 HP (minimum 1).
+into the Wizard class removes 1 HP.  Characters graduating to 1st level should have 3HP minimum. 
 
 ## Higher Level Characters
 
@@ -57,19 +57,14 @@ Generally, give the maximum number of low level spells, the minimum
 number of high level spells, and extrapolate in between (See Spells
 above)
 
-**Magic Items**: For *every* level of the character's highest class;
-roll a d6 for *each* of the below magic item categories. A result of 1
-awards that magic item. Ex. a 6^th^ level character would a d6 six times
-to see if they get a Sword or Wand, then a d6 six more times for Armor
-or Scroll, and so on.
+**Magic Items**: For *every* level of the character's highest class; roll a d6 for *each* of the below magic item categories. A result of 1 awards that magic item. Ex. a 6th level character would roll a d6 six times to see if they get a Sword or Wand, then a d6 six more times for Armor or Scroll, and so on.
 
 -   Sword or Wand
 -   Armor or Scroll
 -   Potion
 -   Weapon, Ring, or Misc. (roll 1d3 to determine which it is)
 
-Each additional "hit" for a given item type indicates an additional +1
-bonus, dosage, or ability.
+Each additional "hit" for a given item type indicates an additional +1 bonus, dosage, or ability.
 
 ## Hirelings
 
