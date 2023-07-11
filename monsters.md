@@ -105,17 +105,14 @@ To determine the type of monster encountered, roll a d6 and consult the result a
 
 ## Number Appearing
 
-When stocking a dungeon, the numbers of monsters appearing dependent on
-the relation between the Equivalent Hit Die of the creature and dungeon
-level (presuming a traditional party of 4)
-
-  EHD vs Dungeon Level           No of monsters appearing
-  ------------------------------ --------------------------
-  Dungeon is greater by 3 or     (1d4+1)\*3 (11)
-  Dungeon is greater by 1 or 2   (1d4+1)\*2 (7)
-  Equal                          1d4+1 (4)
-  EHD is greater by 1 or 2       (1d4+1)/2 (2)
-  EHD is greater by 3 or more    (1d4+1)/3 (1)
+When stocking a dungeon, the numbers of monsters appearing dependent on the relation between the Equivalent Hit Die of the creature and dungeon level (presuming a traditional party of 4)
+|EHD vs Dungeon Level|No of monsters appearing|
+|:-------------------|:-----------------------|
+|Dungeon level is greater by 3 or    | (1d4+1) or ~2 3/4 party size |
+|Dungeon level is greater by 1 or 2  | (1d4+1) or ~ 1 3/4 party size|
+|Dungeon level and EHD are equal     | 1d4+1 or equal to party size |
+|EHD is greater by 1 or 2      | (1d4+1) or 1/2 party size    |
+|EHD is greater by 3 or more   | (1d4+1) or 1/4 party size    |
 
 For a wandering monster encounter, cut the above number in half.
 
