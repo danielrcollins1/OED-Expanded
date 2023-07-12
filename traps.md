@@ -4,14 +4,13 @@ When stocking a dungeon, there is a 1 in 6 chance for a room to have a
 trap.
 
 Searching has a base 2 in 6 chance to spot a trap, and there is a base 2
-in 6 chance (per creature) to trigger a trap. The judge may rule that a
-trap resets in 1d6 turns
+in 6 chance (per creature) to trigger a trap. The Judge may rule that a trap resets in 1d6 rounds, turns, hours, etc. as appropriate.
 
 When a trap is indicated, roll a d6 and consult the result against the
 level of the dungeon (depth) in question. This will give you the
-"Threat" rank (I -- VI) of the trap.
+"Threat Rank" (I -- VI) of the trap.
 
-Finally roll a d12 and match the result to the given Threat rank.
+Finally roll a d12 and match the result to the given Threat Rank.
 
 
 |**Dungeon Level Depth**|**d6 Result**|      |       |      |     |      |
@@ -45,22 +44,22 @@ Finally roll a d12 and match the result to the given Threat rank.
 ## Trap Descriptions
 
 ### Pit Traps
-The basic pit is a 10’×10’×10'  hole hidden by a cover unless noted. When triggered, victims get saves vs. stone or fall in (generally affecting two characters) resulting in 1d6 points of falling damage (save again for half).  The cover will reset in 1d6 turns unless noted.  For deeper dungeon levels (where the dungeon level is greater than trap rank), add 10' to pit depth (+1d6 damage) per level difference. 
+The basic pit is a 10’×10’×10'  hole hidden by a cover unless noted. When triggered, victims must save vs. stone or fall in (generally affecting two characters). This results in 1d6 points of falling damage (save again for half). The Judge should familiarize themselves with the rules for Forcing Doors, Swimming, etc.  For deeper dungeon levels (where the dungeon level is greater than trap rank), add 10' to pit depth (+1d6 damage) per level difference. 
 Optionally, convert any pit to a chute to a lower level.
 
 **Pit**: As described above, victims must save vs. stone to avoid falling damage as described above.
 
-**Pit; Locking**: This pit has a lid that closes behind the victims.  The mechanisim can not be opened from inside without magic.  Someone outside must force the cover: Force Door (2 in6 plus Strength Bonus).
+**Pit; Locking**: This pit has a lid that closes behind the victims.  The mechanisim can not be opened from inside without magic.  Someone outside must force the cover: Force Door (2 in 6 + Strength Bonus).
 
-**Pit; Spiked**: The spikes at the bottom do and additional  1d6 damage on top of the  fall damage.
+**Pit; Spiked**: The spikes at the bottom do and additional 1d6 damage on top of the  fall damage.
 
 **Pit; Spiked**, Poison: The Spikes do 1d6 damage in addition to fall damage and are coverd with poison. If the save for half fall damage is failed, the victim must then save vs. death.
 
-**Pit; Locking, Monster**: This pit has a lid that closes behind the victims.  The mechanisim can not be opened from inside without magic.  Someone outside must force the cover: Force Door (2 in6 plus Strength Bonus). Roll for a random unintelligent monster appropriate for dungeon level living within.
+**Pit; Locking, Monster**: This pit has a lid that closes behind the victims.  The mechanisim can not be opened from inside without magic.  Someone outside must force the cover: Force Door (2 in 6 + Strength Bonus). Roll for a random unintelligent monster appropriate for dungeon level living within.
 
-**Pit; Spiked, Poison, Locking, Flooding**:  Fall damage, 1d6 damage from spikes, which are covered in poison.  Tf the save for half fall damage is failed, victim must then save vs. death.  The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2in6 plus Strength Bonus). A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
+**Pit; Spiked, Poison, Locking, Flooding**:  Fall damage, 1d6 damage from spikes, which are covered in poison.  Tf the save for half fall damage is failed, victim must then save vs. death.  The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2 in 6 + Strength Bonus). A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
 
-**Pit; Open, Spiked**: This pit is not covered, so PCs will not fall into it accidentally unless running, pushed, etc.; The spikes at the bottom do and additional  1d6 damage on top of the  fall damage.
+**Pit; Open, Spiked**: This pit is not covered, so PCs will not fall into it accidentally unless running, pushed, etc.; The spikes at the bottom do and additional 1d6 damage on top of the fall damage.
 
 **Pit; Watery**: This pit is near filled with water or some other mundane liquid.  Victims must succeed a swim check to stay afloat.  Failure by 2 pips results in sinking/drowning.
 
@@ -68,9 +67,9 @@ Optionally, convert any pit to a chute to a lower level.
 
 **Pit; Flooding**: A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
 
-**Pit; Locking, Flooding**:  The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2in6 plus Strength Bonus). A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
+**Pit; Locking, Flooding**:  The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2 in 6 + Strength Bonus). A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
 
-**Pit; Locking, Crushing**: The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2in6 plus Strength Bonus). The walls start crushing in 1d3 rounds, which then requires a save vs. death each round thereafter.
+**Pit; Locking, Crushing**: The pit lid closes behind the victim, and can not be opened from within, except with magic.  An outside character must Force Door (2 in 6 + Strength Bonus). The walls start crushing in 1d3 rounds, which then requires a save vs. death each round thereafter.
 
 ### Shooting Traps
 The basic shooting trap attacks as a 3 HD monster (+3 to hit), firing the listed number of projectiles from concealed holes.  Targets are determined randomly from creatures in the trigger zone.  On a roll of 1, the Judge may decide the trap is out of ammo.
@@ -113,7 +112,7 @@ Slashing traps typically come out of cunningly concealed panels in the walls, fl
 
 **Poison Scythe**: A Scythe springs out of the wall or other object, attacking at +9.  It strikes up to three characters for 2d6 damage and they must then save vs death.
 
-**Wall Spikes; Poison**: Spikes spring from holes in the walls.  If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a  +2 to search.  When triggered, anyone within 5' of the wall is attacked by 1d3 protruding spikes at +6 for 1d6 damage, and they must save vs death.
+**Wall Spikes; Poison**: Spikes spring from holes in the walls.  If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to search.  When triggered, anyone within 5' of the wall is attacked by 1d3 protruding spikes at +6 for 1d6 damage, and they must save vs death.
 
 
 ### Clubbing and Crushing Traps
