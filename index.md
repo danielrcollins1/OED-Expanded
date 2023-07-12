@@ -9,5 +9,5 @@
 7. [Monsters](monsters.md)
 8. [Traps](traps.md)
 9. [Resources](resources.md)
-
-[Appendix: Additional Material](x-additional-material.md)
+A. [Appendix A: Additional Material](x-additional-material.md)
+B. [Appendix B: Campaigns](x-campaigns.md)
