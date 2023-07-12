@@ -3,7 +3,7 @@
 It is recommended that the Judge keep a short roster of basic NPC info
 (names, stats, personality).
 
-NPC types can be generate randomly below.
+NPC types can be generated randomly below.
 
 **Ability Scores**: As below based on level.
 
@@ -45,7 +45,7 @@ order.
 for all their levels at the time of generation, then progress normally.
 
 **Languages**: Give one extra language per level up to Intelligence
-limit.
+Bonus.
 
 **Equipment**: Can select any mundane bit of gear to carry on person,
 encumbrance permitting.
@@ -71,7 +71,7 @@ Each additional "hit" for a given item type indicates an additional +1 bonus, do
 **Posting Advertisements**: Every 100sp spent on posts/agents will attract 1d3 first level recruits within 1d6 days. The maximum number of potential recruits is equal to 1% of the settlements population (approximately 3 such folks in a typical hamlet). Populations will
 refresh once per season. Calls to far, elf, or dwarf lands will multiply the cost and time.
 
-**Offers and Shares**: The default rate for a Hireling is 100sp plus a "half share" of the treasure (and XP) split. The NPC will accept this offer based on the outcome of a reaction roll (2d6 + Cha Mod >= 9). The roll can be modified by the quality of the offer.
+**Offers and Shares**: The default rate for a Hireling is 100sp plus a "half share" of the treasure (and XP) split. The NPC will accept this offer based on the outcome of a reaction roll (2d6 + Cha Mod $\geq$ 9). The roll can be modified by the quality of the offer.
 
 ### Specialists
 
@@ -112,7 +112,7 @@ In combat, a 1/3 loss of forces will trigger a morale check. Other triggers incl
 
 **Procuring Rumors**: Characters can "buy" rumors at character creation or throughout gameplay. The cost is 1d6x10 sp, which represents buying drinks for locals, bribing guards, and buying odds and ends from traveling merchants.
 
-**Generating Rumors**: Rumor can be generated with a series of d6 rolls as shown below.
+**Generating Rumors**: Rumors can be generated with a series of d6 rolls as shown below.
 
 *Veracity*: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
 
