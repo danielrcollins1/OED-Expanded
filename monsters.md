@@ -11,7 +11,7 @@ used to calculate combat abilities.
 value that takes into account their special abilities and relative
 power. This is used to determine monster encounters and XP rewards.
 
-**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC >=
+**Attacks**: Monster attacks are resolved by d20 + Hit Die + Target AC $\geq$
 20. Monsters get a single attack per round unless otherwise noted.
 
 **Monster Damage**: Monster damage is determined on a 1d6, unless
@@ -90,7 +90,7 @@ present (ex: distant monster noise).
 
 ## Monster Determination
 
-To determine the type of monster encountered, roll a d6 and consult the result against the level of the dungeon (depth) in question. This will give you the "Threat Rank+ (I - VI) of the monster, which you can then look up the appropriate (Equivalent) Hit Die range.
+To determine the type of monster encountered, roll a d6 and consult the result against the level of the dungeon (depth) in question. This will give you the "Threat Rank" (I - VI) of the monster, which you can then look up the appropriate (Equivalent) Hit Die range.
 
 |**Dungeon Level Depth**|**d6 Result**|      |       |      |     |      |||**Threat Rank**|**Monster (Equivalent)<br>Hit Dice**|
 |:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|---|---|:---------------|:------------------------------------|
@@ -105,7 +105,7 @@ To determine the type of monster encountered, roll a d6 and consult the result a
 
 ## Number Appearing
 
-When stocking a dungeon, the numbers of monsters appearing dependent on the relation between the Equivalent Hit Die of the creature and dungeon level (presuming a traditional party of 4)
+When stocking a dungeon, the numbers of monsters appearing is dependent on the relation between the Equivalent Hit Die of the creature and dungeon level/depth (presuming a traditional party of 4)
 |EHD vs Dungeon Level|No of monsters appearing|
 |:-------------------|:-----------------------|
 |Dungeon level is greater by 3 or    | (1d4+1) or ~2 3/4 party size |
