@@ -13,7 +13,7 @@ shillings x3 for SP value.
 
 **Treasure Hordes**: The Judge should place one or two "big hauls" on
 the first few levels of the dungeon, such as a magic item or gems &
-jewels. These hauls serve as a "call to action" for starting parties.
+jewels. These hauls serve as a source of rumors and a "call to action" for starting parties.
 
 For any empty rooms in a dungeon, there is a 1 in 6 chance that a
 (hidden) treasure is present.
@@ -32,7 +32,7 @@ The table below dictates the type of treasure present.
 |Jewelry		|1 in 6		|1				|3d6 x 50 x level|
 |Magic		|2 in 6		|1				|**|
 
-*Boost: For each treasure type present, there is a 2 in 6 chance for an increased yeild as showb below.
+\***Boost**: For each treasure type present, there is a 2 in 6 chance for an increased yeild as shown below.
 
 |Type		|Boost Die shows a 1	|Boost Die shows a 2|		
 |:---   |:---                 |:---               |
@@ -41,18 +41,18 @@ The table below dictates the type of treasure present.
 |Jewelry		|+1 in Quantity		|Double Value|
 |Magic		|+1 in Quantity		|+1 in Quantity|
 
-*Magic items can be generated using the tables in Vol II page 23,
+\**Magic items can be generated using the tables in Vol II page 23,
 or [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/).
 
 **Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
 charges when found. Staves can have a maximum of 40 charges and have
 d20+20 charges when found.
 
-**Magic Item Saves**: Grant a +2 bonus to saves and rolls to resist harm
+**Magic Item Saves**: Possess a +2 bonus to saves and rolls to resist harm
 for each plus or special ability.
 
 **Intelligent Swords**: When in conflict; d20 + (Character Intelligence
-& Charisma) - (Sword Ego & Intelligence) + Wound Modifier >= 20. 
+& Charisma) - (Sword Ego & Intelligence) + Wound Modifier $\geq$ 20. 
  
 *Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5
 
@@ -61,7 +61,7 @@ for each plus or special ability.
 ## Experience Points
 
 In OED, characters gain Experience Points for the recovery of treasure,
-defeat of monsters, and carousing. *Ability Scores (Prime Requisites) do
+defeat of monsters, and carousing. *Ability Scores/Prime Requisites do
 not modify XP earned*.
 
 **XP for Treasure**: Character's earn 1 Experience Point for each Silver
@@ -70,7 +70,7 @@ Piece value of coin, gems, jewelry they return to civilization.
 **XP for Monsters**: The base XP for monsters is equal to 100 x
 (Equivalent) Hit Dice (see Monsters below)
 
-**XP for Carousing**: When in town, players can spend d6x 100sp to
+**XP for Carousing**: When in town, players can spend d6x 100sp per week to
 carouse, gaining an amount of xp equal to the coin spent (this amount
 can be adjusted based on the size of the community). They must save vs
 poison or suffer a mishap. If they cannot afford the rolled cost, they
