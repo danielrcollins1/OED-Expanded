@@ -41,7 +41,7 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 ### Humans
 
-**Starting Languages**: Common\
+**Starting Languages**: Common (in OED common is considered the standard Human tounge of the region)\
 **Class Options**: Can be a member of any class, and advance to an unlimited level.
 
 ### Dwarves
