@@ -25,15 +25,15 @@ Select one ability score to generate 2d6+6, the rest will be generated 3d6 in or
 In OED the modifiers from your ability scores affect the attributes listed below.
 
 **Strength**: Melee Attacks and Melee Damage                                  
-**Intelligence**: Additional Languages (\*)\
+**Intelligence**: Additional Languages \*\
 **Wisdom**: Saves vs. Mental Attacks\
 **Dexterity**: Missile Attacks and Armor Class\
 **Constitution**: Hit Die Rolls\
 **Charisma**: Reaction Rolls
 
-(\*) For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.  All PCs are presumed literate in their starting languages.
+\* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.  All PCs are presumed literate in their starting languages.
 
-*Experience Points*: In OED, ability scores do not affect XP earned.
+**Experience Points**: In OED, ability scores do not affect XP earned.
 
 ## Race
 
