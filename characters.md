@@ -31,13 +31,15 @@ In OED the modifiers from your ability scores affect the attributes listed below
 **Constitution**: Hit Die Rolls\
 **Charisma**: Reaction Rolls
 
-\* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time.  All PCs are presumed literate in their starting languages.
+\* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time. 
 
 **Experience Points**: In OED, ability scores do not affect XP earned.
 
 ## Race
 
-**Note**: in OED all PC races move at a base speed of 12" (60') per round.
+**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
+
+**Languages**: All Intellegent races are presumed to have thier own langage.  Alignment languages are not used, but factions may have "secret" languages.  All PCs are presumed to be literate in their starting languages.
 
 ### Humans
 
@@ -66,12 +68,11 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
 
-When determining HP at first level, reroll 1s and 2s.
+**Starting Hit Points**: When determining HP at first level, reroll 1s and 2s.
 
 ### Fighters
 
-**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
-
+**Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields\
 **Weapons**: All (Light, Medium, Heavy)
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
@@ -92,7 +93,6 @@ When determining HP at first level, reroll 1s and 2s.
 **Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
-
 1.  *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
@@ -108,8 +108,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 ### Thieves
 
-**Armor**: Light (Leather) Armor
-
+**Armor**: Light (Leather) Armor\
 **Weapons**: Light Weapons plus Sword, Sling, and Light Crossbow
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
@@ -132,8 +131,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Climb and Detect Noise**: Thieves gain a +1 in 6 to Detect Noise and Climb. This bonus increases at level 4, 8, 12, 16, etc.
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier >= 20. Three tries per target (when applicable)
-
+**Thief Skills**: d20 + Thief Level + Dex Modifier $\geq$ 20. Three tries per target (when applicable)
 -   *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
 -   *Move Silently*: The likelihood of moving with absolute silence.
 -   *Open Locks*: For small, discreet, single mechanical locking mechanisms. On a natural one - the lock must be forced open - a very time consuming process.
@@ -142,8 +140,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 ### Wizards
 
-**Armor**: None
-
+**Armor**: None\
 **Weapons**: Daggers and Staff only
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
@@ -170,13 +167,14 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
 
-**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier >= 20. Requires 1 day per spell level (3 tries per spell)
+**Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier $\geq$ 20. Requires 1 day per spell level (3 tries per spell)
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier >= 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier $\geq$ 20. Access to a library or other resources grant a +4 to the roll
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier >= 20. Access to a library or other resources grant a +4 to the roll
+**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier $\geq$ 20. Access to a library or other resources grant a +4 to the roll
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.\
+**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s).\
+*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.\
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ### Multi Classing
