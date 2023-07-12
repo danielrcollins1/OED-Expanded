@@ -20,7 +20,7 @@ Select one ability score to generate 2d6+6, the rest will be generated 3d6 in or
 |22-24 | +4 |
 |Every 3  | (+1) |
 
-### Effects
+### Modifiers
 
 In OED the modifiers from your ability scores affect the attributes listed below.
 
