@@ -1,6 +1,6 @@
 # Appendix B: Campaign Material
 
-The below is not parrt of OED but is intended as starter guidelines to create an initial dungeon, settlement, and wilderness.  The best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
+The below is not part of OED but is intended as starter guidelines to create an initial dungeon, settlement, and wilderness as well as other non-dungeon topics.   However, the best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
 
 ## Design a Dungeon
 
@@ -11,7 +11,7 @@ We will start by designing one of these levels/areas.  A starting dungeon area s
 - Take your paper and sketch out a number of rooms across the surface.  These rooms can be standard rectangular constructed rooms, irregular shaped natural caves and tunnels, or a mix. 
 - Next, designate a room to be the main entrance to this area.  
 - Mark another area to be an exit to different level or area.
-- In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is hidden or a secret door.
+- In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is a hidden or a secret door.
 - Now, connect your rooms with hallways.  Keep in mind they aren’t simply connected all in a line.  For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected.  Again, there is a 50/50 chance that such a connection is concealed.
 - Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Trick Door (one way, portcullis, false door, etc.)
 - Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
@@ -34,6 +34,7 @@ We will now add features to our map.  Follow the steps below, and mark the featu
 - One moderate magic item such as a Sword +1 or Boots of Elven Kind
 - A chest of 1000 silvers pieces and pair of 500 sp gems.
 - A cache of Jewels and Artwork valued at 2000 silver.
+
 We will use rumors of these items later when generating our settlement as a call to adventure.
 
 **Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present.  Generate the trap using the guidelines above (see Traps)
@@ -83,6 +84,7 @@ A settlement is a good second campaign item to work on.  This first settlement i
 
 **Capital**: Much like a city, but larger, and likely the center of power (political or mercantile) for a region. 
 
+
 **Max Pop**: This is the maximum number of people found in the community proper.  You can presume that 20% of this number are in a condition to take up arms as zero level NPCs when needed.
 
 **Market Cap**: Items below this price can be readily found for sale in the community.  Above this level assume there is a base 10% chance and/or 1d6 weeks to procure. 
@@ -91,10 +93,10 @@ A settlement is a good second campaign item to work on.  This first settlement i
 
 **NPC level**: This is the highest level of NPCs one is likely to encounter.  Folks above this level may be present, but they are special individuals, like adventurers or authority figures for example.
 
-**Sphere of Influence**:  How much of the surrounding land the settlement able to keep peaceful and under control.  The populations of these areas are generally safe from monster and attacks. 
+**Sphere of Influence**:  How much of the surrounding land the settlement is able to keep peaceful and under control.  The populations of these areas are generally safe from monster and attacks (random encounters). 
 
 ### Populate the Settlement
-While a settlement is composed of hundreds or thousands of individuals; in practice, you just need to focus on folks the PCs are likely to interact with.  You can create and develop others in response to play.
+While a settlement is composed of dozens or thousands of individuals; in practice, you just need to focus on folks the PCs are likely to interact with.  You can create and develop others in response to play.
 - Who is in charge (an elder, mayor, council, lord, hierophant, etc.)
 - Where do they buy weapons/armor (a simple blacksmith, a dedicated weapon smith, a dwarf)
 - Where do they get common goods and supplies (at the inn, dedicated provisioner, open market)
@@ -112,16 +114,16 @@ You may also stat up any town guard, proprietors of the major establishments wit
 Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards.  Most other townsfolk and specialists will be zero level.  
 
 **Rumors**
-You can make up rumors based on the work you have done already, or randomly create some (see Rumors), When starting out, it is probably best to keep your rumors true.
+You can make up rumors based on the work you have done already, or randomly create some (see Rumors). When starting out, it is probably best to keep your rumors true.
 
 ### Finishing up
 Finally, sprinkle in some details about the settlement like you did for the dungeon.  What are the sights and sounds one is greeted by.  How do they make their living? What do the locals think of Dwarves or Wizards?  Does the community harbor any secrets?
 
 ## Design the Wilderness
 Now that you have an adventuring location and a home base, it is time to fill in the areas around them.  
-The first step is to draw out the wilderness; this is done on a series of 6 miles wide hexagons.  Hexagons are a useful way to abstract terrain and measure distances, by having a uniform distance between center points.  Specifically a 6-mile hex is advantageous because it has a 7-mile “diagonal”, and 3 mile “radius” which equates to the sight-line distance for a human sized character to the horizon in an open field.  Finally, it serves to break the traveling day into manageable segments.
+The first step is to draw out the wilderness; this is often done on a series of 6 mile wide hexagons.  Hexagons are a useful way to abstract terrain and measure distances, by having a uniform distance between center points.  Specifically a 6-mile hex is advantageous because it has a 7-mile “diagonal”, and 3 mile “radius” which equates to the sight-line distance for a human sized character to the horizon in an open field.  Finally, it serves to break the traveling day into manageable segments.
 
-To begin laying out your wilderness, start with a “Plains” hex, “P”, in the center of your space. Using the center hex as your reference terrain, roll 2d6 on the table below.  The result will be the terrain type of the new hex.  Start at the top and continue around clockwise. When generating additional terrain, always work out from the existing terrain type in the “middle” of the new area.  This will create natural “clumps” of terrain like forests.
+To begin laying out your wilderness, start with a “Plains” hex, “P”, in the center of your space. Using the center hex as your reference terrain, roll 2d6 on the table below.  The result will be the terrain type of the new hex.  Start at the top and continue around clockwise. When generating additional terrain, always work out from the existing terrain type, setting the new “center” hex as the refence hex.  This will create natural “clumps” of terrain like forests.
 
 |**2d6**|**Terrain**              ||**2d6**|**Terrain**                   |
 |:-------|:-------------------------|---|:-------|:------------------------------|
@@ -138,7 +140,7 @@ Depending on the size of the wilderness you create, you may wish to number the h
 
 The final steps are to place your starting settlement in the original plains hex, and then place your starting dungeon in an adjacent or nearby hex.  That is enough to get started.  When you are ready, you can populate the other hexes with content.
 
-### The World Beyond
+#### The World Beyond
 It would take tremendous work to define an entire region or continent via Hex generation.  As you move beyond your starting region, it is recommended that you instead sketch out the major geographical features at that larger scale (mountain ranges, coasts, deserts, etc.) and zoom back in with hexes on any area in which play settles.  
 
 ### Populate the Surrounding Hexes
@@ -163,7 +165,7 @@ Remember, at this scale we are mainly concerned with showing major features.  Th
 **Roads**:  Much like rivers, only the most major of highways would be marked on such a map.  The Judge should be free to presume that any settlements or strongholds have roads or paths connecting them, barring some obstacle such as hills, mountains, or monster infested lands.
 
 #### Quick Start
-if you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guiline to fill in your hex paper.  You can even take a map of your own home town and work outward from there, swapping in well known locations for settlements and monster lairs.
+if you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper.  You can even take a map of your own home town and work outward from there, swapping in well known locations for settlements and monster lairs.
 
 ### Strongholds
 A Stronghold is a special kind of settlement, typically established by high level NPCs.  It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc.  Like Towns, they secure they Hex in which they are located.  A stronghold is defined by its occupant(s), which are generated using the rules for NPCs of level 9+1d6 (or use the quick list below)
@@ -200,14 +202,15 @@ To determine the nature of the encounter, first roll a d6 and consult the result
 |**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|||               |                                    |
 
 Next, determine the type of creature encountered.  This is done with a d6 as shown below:
-	1: Animal Type		2-3: Humanoid Type	4-6: Monster Type
 
-Finally, once you know the general category of creature and the (Equivalent) Hit Die range, select or otherwise determine the one you wish to use (see appendix A or Vol II), adding it to your encounter table, taking care to note the “number appearing” and “percent in lair” values.
+ 	1: Animal Type		2-3: Humanoid Type	4-6: Monster Type
+
+Finally, once you know the general category of creature and the (Equivalent) Hit Die range, select or otherwise determine the one you wish to use (see [OED Monster Matrix](http://www.oedgames.com/addons/houserules/OED-MonsterMatrix.pdf) or Vol II), adding it to your encounter table, taking care to note the “number appearing” and “percent in lair” values.
 
 You will repeat the process until you have a filled out encounter chart (typically 6 entries to start).  You may wish to pick creatures along a theme, allowing that first determination to set the tone for the region.  You may also want to reserve one entry for pitfalls, man-traps, or other tricks/phenomena. 
 
 #### Number Appearing and % in Lair
-When stocking a wilderness, use the number appearing and guidelines in volume 2 or in OED Monster Database.  The numbers of creatures in the wilds are not constrained by the limits of dungeon corridors.  
+When stocking a wilderness, use the number appearing and guidelines in volume 2 or in [OED Monster Database](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv).  The numbers of creatures in the wilds are not constrained by the limits of dungeon corridors.  
 The “% in lair” statistic is rolled when the encounter comes up.  This will indicate that the party has encountered the lair of such creatures (camp, hut, cave, etc.)  Note on the map for future development.
 
 ### Adjustment and Final Touches
@@ -220,7 +223,7 @@ Want your Stronghold ruled by an Elf Lord, Orc Bandit King, Vampire Queen, etc?.
 Trips to explore or travel through the wilderness can be abstracted using the below procedures.
 
 ### Movement
-Movement across the wilderness is measured in move points per day.  A typical creature has 3 movement points, double for flying creatures.  For other creature types, divide their movement rate in feet by 20 (or movement in table inches by 4).  Groups of 100+ suffer a -1 penalty; groups of 1000+ a -2 penalty to their base move points (to a minimum of 1). This abstraction assumes daylight travel, along with occasional breaks, foraging, investigation, and trailblazing.
+Movement across the wilderness is measured in move points per day.  A typical creature has 3 movement points, double for flying creatures. This abstraction assumes daylight travel, along with occasional breaks, foraging, investigation, and trailblazing. For other creature types, divide their movement rate in feet by 20 (or movement in table inches by 4).  Groups of 100+ suffer a -1 penalty; groups of 1000+ a suffer -2 penalty to their base move points (to a minimum of 1). 
 
 ### Terrain Difficulty
 Each terrain type has a difficulty factor associated with it, this value represents the number of movement points needed to cross the terrain type, the chance (in 6) of an encounter, and the chance
@@ -260,14 +263,14 @@ A tried and true way to determine the weather at any given time in game is to lo
 | 4-6  |Cloudy: (no modifiers)|
 | 6*   |Precipitation: ½ Movement/Flight, -4 penalty to missile attacks, composite bows can not fire.  +1 chance to get lost. 
 
-\* 1in6 chance to be Stormy: No ranged attacks, -1 to Morale, Creatures must shelter or risk exposure/damage.
+	* 1 in 6 chance to be Stormy: No ranged attacks, -1 to Morale, Creatures must shelter or risk exposure/damage.
 		
 For added variety, the Judge can opt to have a 1 in 6 chance of a change in weather to come through in at a given point in the day (morning, afternoon, evening, or night).  This can also include warmer or colder than normal temperatures.
 
 #### Exposure
 Characters and creatures are presumed to be adequately dressed or acclimated to the weather (including armor, etc.).  If they are inappropriately garbed for the temperature (too hot or too cold) they take damage as below (the Judge may increment the damage for more extreme situations)
 
-**Extreme Temperatures**: Once you have suffered 1 hour of exposure, you have a 50% chance each minute to suffer 1 point of damage (1d3 if exacerbating the situation).  You also suffer 1d6 damage per hour and must additionally save vs death or suffer -1d6 Strength.
+**Extreme Temperatures**: You suffer 1d6 damage per hour and must additionally save vs death or suffer -1d6 Strength.
 
 #### Night/Darkness
 Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
@@ -275,7 +278,7 @@ Creatures suffer the same penalties they do in darkness (movement, attack, moral
 #### Resources 
 The above rules assume groups are carrying food and water for their journey, supplemented with light foraging.  If a party runs out of resources, they suffer the effects below. 
 
-**Lack of Water**: Once you have gone 24 hours without water, you have a 50% chance each hour to suffer 1 point of damage (1d3 is engaging in strenuous activity).  You also suffer 1d6 damage per day without water and must additionally save vs death or suffer -1d6 Strength.
+**Lack of Water**: You suffer 1d6 damage per day without water and must additionally save vs death or suffer -1d6 Strength.
 
 **Lack of Food**: You have a 50% chance each day without food to suffer 1 point of damage (1d3 if engaging in strenuous activity).  You also suffer 1d6 damage per week without food and must additionally save vs death or suffer -1d6 Strength.
 
@@ -318,10 +321,10 @@ A Stronghold is protected by a compliment of 3d6x10 1HD warriors, half outfitted
 
 The stronghold comes with an unerringly loyal “Major Domo” or similar NPC who manages the daily affairs, allowing the PC to continue adventuring.
 
-It is recommended the PC spend at minimum 1 week in his Stronghold per season to maintain a good relationship with his folk, and thereby receive the above benefits.
+It is recommended the PC spend at minimum 1 week in their Stronghold per season to maintain a good relationship with the folk, and thereby receive the above benefits.
 
 ### Managing the Stronghold
-For basic gameplay, the Judge can presume that such a Stronghold can sustain itself with regard to staffing, resources, and security under most circumstances.  If the PCs wish to explore the hiring of specialists or other economic actives, there is a list of specialists, siege weaponry, etc. in Volume III. 
+For basic gameplay, the Judge can presume that such a Stronghold can sustain itself with regard to staffing, resources, and security under most circumstances as part of the PC's monthly upkeep costs.  If the PCs wish to explore the hiring of specialists or other economic actives, there is a list of specialists, siege weaponry, etc. in Volume III. 
 
 For variety, the Judge can roll 2d6 on the table below once per season to determine special happenings
 
@@ -336,7 +339,7 @@ For variety, the Judge can roll 2d6 on the table below once per season to determ
 ### Combat and Sieges
 **Armor Class**: The structure by itself is a large, immobile target.  When Armor Class is called for, use 20.
 
-**HP/Damage**:  Break structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 30. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
+**HP/Damage**:  Divvy structures into 20’ sections to adjudicate attacks.  Stone buildings and walls have 100 hp, while wooden ones have 30. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.)  The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
 
 **Supplies**: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
 
@@ -363,17 +366,17 @@ There are myriad factors to consider regarding watercraft and travel.  Presented
 ### Types of Vessels
 There are countless types of vessels across history for use in a game world.  Just as the various types of weapons and armor are abstracted down to a few types, vessels are presented by the types below.
 
-**Oared, Large**:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  Ex: Large Galley/Trireme
+**Oared, Large**:  Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts.  They also possess a set of sails.  *Ex: Large Galley/Trireme*
 
-**Oared, Medium**: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. Ex: Longship
+**Oared, Medium**: Propelled primarily by a single large row of oars, they are built for speed.  They likewise typically only hug the coasts or island hop.  They also possess a sails. *Ex: Longship*
 
-**Oared, Small**: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails.  Ex: Small Galley/Dromon
+**Oared, Small**: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop.  They also possess a set of sails. *Ex: Small Galley/Dromon*
 
-**Sailed, Large**: These multi-masted vessels are capable of safely traversing the open ocean between continents. However, they are unable to traverse all but the largest rivers. Ex: Galleon
+**Sailed, Large**: These multi-masted vessels are capable of safely traversing the open ocean between continents. However, they are unable to traverse all but the largest rivers. *Ex: Galleon*
 
-**Sailed, Medium**: Possessing one or two masts, they are suitable for travel on inland seas or island hopping. Ex: Caravel/Large Merchant Ship.
+**Sailed, Medium**: Possessing one or two masts, they are suitable for travel on inland seas or island hopping. *Ex: Caravel/Large Merchant Ship*
 
-**Sailed, Small**: Single-masted, these vessels typically hug the coasts and traverse rivers. Ex Kogge/Small Merchant Ship.
+**Sailed, Small**: Single-masted, these vessels typically hug the coasts and traverse rivers. *Ex: Kogge/Small Merchant Ship*
 
 |**Vessel Type**|**Dimensions**     |**Travel Speed***|**Tactical Speed**|**Aboard**                      |**Capacity**|**Weapons**|**Cost (sp)**|**HP (avg)**|
 |---------------|-------------------|------------------|-----------------------|--------------------------------|------------|-----------|-------------|------------|
@@ -388,10 +391,10 @@ There are countless types of vessels across history for use in a game world.  Ju
 
 **Dimensions**: This is the range of Keel length and Beam width that typifies this sort of vessel. 
 
-**Travel Speed**: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)
+**Travel Speed**: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out.  The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.)\
 *Note: Ships propelled by Oar can not travel at night as they must land in order to rest and feed the rowers.  Likewise, ships not in open water (rivers, shallows, or hugging coasts) may not travel at night.*
 
-**Tactical Speed**:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)
+**Tactical Speed**:  This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below)\
 *Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew.  They can continue for up to another 10 minutes, but will be unable to travel by oar afterwards.*
 
 **Aboard**: This is the standard deployment of operating personnel on the vessel, including weapon crews.
@@ -451,7 +454,7 @@ When an attack roll is called for a ship’s weapon, use the attack bonus of the
 
 **Catapult**: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet).   It inflicts 4d6 damage to a ship and creatures within a 10’ radius.    It can be fired once every 6 rounds and requires a crew of 6.
 
-**Ramming**: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10).  The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram.  Creatures aboard rammed ship must make a save vs stone or suffer 1d6 damage.  
+**Ramming**: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10).  The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram.  Creatures aboard the rammed ship must make a save vs stone or suffer 1d6 damage.  
 
 **Sheering Oars**: Vessels with oars will have them sheared off when colliding with another vessel along the given side.  When this occurs, the vessel’s oared movement rate will be reduced by half.  Rowers on the given side will take 2d6 damage, save vs stone for half.  Sheering the remaining side will render the ship unable to move.
 
