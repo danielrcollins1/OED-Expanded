@@ -12,4 +12,4 @@
 
 A. [Appendix A: Additional Material](x-additional-material.md)
 
-B. [Appendix B: Campaigns](x-campaigns.md)
+B. [Appendix B: Campaign Material](x-campaign-material.md)
