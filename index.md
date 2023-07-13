@@ -15,5 +15,4 @@ A. [Appendix A: Additional Material](x-additional-material.md)
 
 B. [Appendix B: Campaign Material](x-campaign-material.md)
 
-For the latest release of this material in PDF format, see [Github](https://github.com/danielrcollins1/OED-Expanded/releases/latest). 
-
+For a PDF document of this material, see our latest release on [Github](https://github.com/danielrcollins1/OED-Expanded/releases/latest). 
