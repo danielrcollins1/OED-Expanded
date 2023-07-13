@@ -8,7 +8,19 @@ Prior to the selection of character race and class, it is necessary to determine
 
 Select one ability score to generate 2d6+6, the rest will be generated 3d6 in order.
 
-### Effects
+|Score   |Modifier|
+|---|---|
+|0-2       |-3 |
+|3-5       |-2 |
+|6-8  | -1 | 
+|9-12 | 0 |
+|13-15 | +1 |
+|16-18 | +2 |
+|19-21 | +3 |
+|22-24 | +4 |
+|Every 3  | (+1) |
+
+### Modifiers
 
 In OED the modifiers from your ability scores affect the attributes listed below.
 
@@ -19,26 +31,27 @@ In OED the modifiers from your ability scores affect the attributes listed below
 - *Constitution*: Hit Die Rolls
 - *Charisma*: Reaction Rolls
 
-(\*) For each point above 10, able to learn one additional language. Can
-select at a later time.
+\* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time. 
 
-*Experience Points*: In OED, ability scores do not affect XP earned.
+**Experience Points**: In OED, ability scores do not affect XP earned.
 
 ## Race
 
-**Note**: in OED all PC races move at a base speed of 12" (60') per round.
+**Movement**: In OED all PC races move at a base speed of 12" (60') per round.
+
+**Languages**: All Intellegent races are presumed to have thier own langage.  Alignment languages are not used, but factions may have "secret" languages.  All PCs are presumed to be literate in their starting languages.
 
 ### Humans
 
-**Starting Languages**: Common
+**Starting Languages**: Common (in OED common is considered the standard Human tounge of the region). 
 
-**Class Options**: Can be a member of any class, and advance to unlimited level.
+**Class Options**: Can be a member of any class, and advance to an unlimited level.
 
 ### Dwarves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Starting Languages**: Common, Dwarf, Gnome, Kobold, Goblin.
+**Starting Languages**: Common, Dwarf.
 
 **Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th).
 
@@ -46,7 +59,7 @@ select at a later time.
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Starting Languages**: Common, Elf, Orc, Hobgoblin, Gnoll.
+**Starting Languages**: Common, Elf.
 
 **Class Options**: Fighter 4th (5th with STR 17, 6th with STR 18), Thief Unlimited, Wizard 8th (9th with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
 
@@ -62,13 +75,13 @@ select at a later time.
 
 OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
 
-When determining HP at first level, reroll 1s and 2s.
+**Starting Hit Points**: When determining HP at first level, reroll 1s and 2s.
 
 ### Fighters
 
 **Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields.
 
-**Weapons**: All (Light, Medium, Heavy, Ranged).
+**Weapons**: All (Light, Medium, Heavy).
 
   |Level   |XP           |HP     |To Hit   |Class Abilities|
   |------- |------------ |------ |-------- |-------------------------------|
@@ -88,7 +101,6 @@ When determining HP at first level, reroll 1s and 2s.
 **Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
-
 1.  *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
@@ -140,7 +152,7 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Armor**: None.
 
-**Weapons**: Daggers and Staff only.
+**Weapons**: Dagger and Staff only.
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
   |------- |------------ |-------- |-------- |-----------------------------------------------|
@@ -172,7 +184,9 @@ When determining HP at first level, reroll 1s and 2s.
 
 **Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
-**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). Note: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
+**Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
+
+*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
 
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 

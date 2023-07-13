@@ -2,7 +2,7 @@
 
 ## What is OED?
 
-OED is a short set of house rules for Original D&D (1974 edition).
+OED (Original Edition Delta) is a short set of house rules for Original D&D (1974 edition).
 
 Many of us find the original game the purest, most playable, most DM-friendly version, but it does have some gaps and confusing points. OED clarifies and streamlines various topics to make these rules more approachable to the modern gamer.
 
