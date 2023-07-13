@@ -88,7 +88,6 @@ A sage can Identify the properties of magic items. The process takes one day and
 |--- |---                   |---|
 |**General Topic**| d6 hours | d6 days | 
 |**Specific Topic**| d6 days | d6 weeks |
-  
 
 #### Alchemist
 
@@ -117,12 +116,12 @@ In combat, a 1/3 loss of forces will trigger a morale check. Other triggers incl
 
 **Generating Rumors**: Rumors can be generated with a series of d6 rolls as shown below.
 
-*Veracity*: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False
+*Veracity*: 1-2 = True, 3-4 = Mostly True, 5 = Mostly False, 6 = False.
 
 *Topic*: 1-3 = Dungeon Location, 4-5 = Wilderness Location, 6 = Rules
-Lore
+Lore.
 
--   *Dungeon Location*: Choose a level of the current dungeon
+-   *Dungeon Location*: Choose a level of the current dungeon.
 -   *Wilderness Location*: Choose a location in a neighboring hex (d6),
     lair, new dungeon, etc.
 -   *Rules Lore*: How to cure Mummy Rot, Wandering Monsters in Area,

@@ -2,7 +2,7 @@
 
 The core mechanic of OED is the Target 20 roll as summarized below. Some
 game actions are resolved on an X in 6 chance using a d6 (see
-Adventuring)
+Adventuring).
 
 **Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC ≥ 20
 
@@ -18,11 +18,11 @@ Adventuring)
 |Wands      |   +3|
 |Death      |   +4|
 
-**Ability Checks**: d20 + Level + Modifier ≥ 20
+**Ability Checks**: d20 + Level + Modifier ≥ 20.
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20.
 
-**Learn/Research Spell**: d20 + Wizard Level + Int Modifier ≥ 20
+**Learn/Research Spell**: d20 + Wizard Level + Int Modifier ≥ 20.
 
 ## Adventuring
 
@@ -30,6 +30,7 @@ Adventuring)
 
 **Scale**: OED uses the below scale for dungeon combat. For battlefield
 scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-war/11207461).
+
 |Unit |Scale|
 |:---|:---|
 |1 round     |  10 seconds |
@@ -47,12 +48,12 @@ light out to 60'. In dim light one can make out basic shapes and/or
 glowing eyes.
 
 **Infravision**: Infravision allows one to see (most) creatures in
-darkness clearly out to ½ the specified distance (30') and dimly out to
+darkness clearly out to 1/2 the specified distance (30') and dimly out to
 the full listed distance (60'). It is spoiled when looking directly at a
 torch/fire source.
 
-**Darkness/Blindness**: Creatures unable to see suffer a -4 penalty to AC and melee attacks. They cannot make ranged attacks (see
-errant shots below), move at half speed, and suffer -1 to morale.
+**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They cannot make ranged attacks (see
+errant shots below), move at half speed, and suffer –1 to morale.
 
 ### Adventuring Tasks
 
@@ -67,10 +68,10 @@ In OED a number of tasks are resolved with a d6 roll. The chance for success is 
 |Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone Stone carried; +/-1 for water conditions|
 |Tracking    |4 in 6\**|+/- 1 small or large parties, inclement weather, and the like|
 
-\*Fighters and Thieves gain a +2 as noted in their class description,
+\* Fighters and Thieves gain a +2 as noted in their class description,
 for a base 4 in 6 chance.
 
-\*\*Fighters with the Tracking feat only
+\*\* Fighters with the Tracking feat only
 
 **Climbing**: When climbing you move at half speed on a successful
 check. A failed check is stalled movement. If you fail the roll by 2
@@ -108,11 +109,12 @@ allow some form of saving throw to either negate the effect or result in
 half effect/damage.
 
 **Diseases**: When exposed to a disease hazard, a Save vs Breath will
-avoid Strength damage for the day. Recovery requires bed rest.\
-- *Rat Plague*: -1d12 Strength per day. Recover 3 Strength per week of rest\
-- *Tick Fever*: -1d6 Strength per week. Recover 1 Strength per week of rest\
-- *Leech Fever*: -1 Strength per day. Recover 3 Strength per week of rest\
-- *Mummy Rot*: -1 Strength per day. Recovery (See Magic Diseases below)
+avoid Strength damage for the day. Recovery requires bed rest.
+
+- *Rat Plague*: –1d12 Strength per day. Recover 3 Strength per week of rest.
+- *Tick Fever*: –1d6 Strength per week. Recover 1 Strength per week of rest.
+- *Leech Fever*: –1 Strength per day. Recover 3 Strength per week of rest.
+- *Mummy Rot*: –1 Strength per day. Recovery (See Magic Diseases below).
 
 **Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot
 can be removed via the Remove Curse spell in place of the Remove Disease
@@ -182,15 +184,15 @@ to attack rolls.
 
 -   Attacks to the target's rear: +2 to hit & To hit roll ignores shield
     AC.
--   Attacker is silent or unseen: +4 to hit
--   Target is stunned, stationary: +4 to hit
+-   Attacker is silent or unseen: +4 to hit.
+-   Target is stunned, stationary: +4 to hit.
 -   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
-    full damage
+    full damage.
 -   Target has no Helmet: 1 in 6 chance attack is to the head vs AC 9
-    (humanoids only)
+    (humanoids only).
 
 **Shots at Groups**: When firing at a specific individual in a crowd, if
-the attack roll (d20+To Hit+Dex Modifier+Range/Attack Modifiers; but
+the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 *not* AC) is less than 10, it misses the (man-size) target.
 
 An "**errant shot**" is triggered if that attack roll is between 10 and
@@ -204,7 +206,7 @@ attack is resolved by d20 + AC ≥ 20. Range penalties are ignored.
 
 ### Death and Healing
 
-**Zero Hit Point**s: When a character reaches or goes below 0 hit
+**Zero Hit Points**: When a character reaches or goes below 0 hit
 points, they must immediately make a Save vs Death. Failure means the
 character is Dead. Success results in the character stabilizing at 0HP,
 waking in 1d6 turns, in an incapacitated state. Any healing (returning
@@ -227,6 +229,7 @@ the completion of current combat/activity.
 OED makes the below spells available to the Wizard class. Spell
 attributes and effects have been standardized and are available in the
 [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
+
 |**Level 1**              |**Level 2**               |**Level 3**                  |
 |:------------------------|:-------------------------|:----------------------------|
 |1\. Charm Person         |1\. Continuing Light      |1\. Clairaudience            |

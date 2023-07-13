@@ -32,7 +32,7 @@ The table below dictates the type of treasure present.
 |Jewelry		|1 in 6		|1				|3d6 x 50 x level|
 |Magic		|2 in 6		|1				|**|
 
-\***Boost**: For each treasure type present, there is a 2 in 6 chance for an increased yeild as shown below.
+\* **Boost**: For each treasure type present, there is a 2 in 6 chance for an increased yeild as shown below.
 
 |Type		|Boost Die shows a 1	|Boost Die shows a 2|		
 |:---   |:---                 |:---               |
@@ -41,7 +41,7 @@ The table below dictates the type of treasure present.
 |Jewelry		|+1 in Quantity		|Double Value|
 |Magic		|+1 in Quantity		|+1 in Quantity|
 
-\**Magic items can be generated using the tables in Vol II page 23,
+\** Magic items can be generated using the tables in Vol II page 23,
 or [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/).
 
 **Wands/Staves**: Wands can hold a maximum of 20 charges and have d10+10
@@ -52,7 +52,7 @@ d20+20 charges when found.
 for each plus or special ability.
 
 **Intelligent Swords**: When in conflict; d20 + (Character Intelligence
-+ Charisma) - (Sword Ego & Intelligence) + Wound Modifier ≥ 20. 
++ Charisma) – (Sword Ego & Intelligence) + Wound Modifier ≥ 20. 
  
 *Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5.
 

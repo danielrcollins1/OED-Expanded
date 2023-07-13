@@ -17,7 +17,7 @@ power. This is used to determine monster encounters and XP rewards.
 **Monster Damage**: Monster damage is determined on a 1d6, unless
 otherwise noted.
 
-**Monster Strength**: If necessary, you can assume a Monster's Strengthmodifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 2 or 3 for quardrapeds, etc)
+**Monster Strength**: If necessary, you can assume a Monster's Strengthmodifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 2 or 3 for quardrapeds, etc).
 
 **Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it
 is capable of harming creatures that normally require +1 magic weapon to
@@ -50,7 +50,7 @@ to Morale in full daylight.
 equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
 **Horses and Mounts**: Non-Warhorses are unusable in combat, near to fire or
-smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads)
+smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads).
 
 **Mental Attacks**: Undead, golems, slimes, plants, and other non-intelligent creatures are generally immune to such effects, unless specifically targeting that type. 
 
@@ -61,17 +61,17 @@ successful attack. Wood is consumed at too slow a rate to affect combat.
 **Undead**: Undead are (mostly) immune to backstabs, critical hits,
 death effects, and mental attacks.
 
-**Skeletons**: Skeletons are 1 Hit Die monsters
+**Skeletons**: Skeletons are 1 Hit Die monsters.
 
 **Vampires**: Vampires can summon 1d10 Rats (AC 7, Mv 75', HD 1/6 (1HP),
-Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6)
+Att +0, Dmg 1) or 3d6 Wolves (AC 7, Mv 90', HD 2+2, Att +1, Dmg 1d6).
 
-**Zombies**: Zombies are 2 Hit Die monsters
+**Zombies**: Zombies are 2 Hit Die monsters.
 
 ## Monster Placement
 
 Within the dungeon, there is a 2 in 6 chance a monster is present in any
-unallocated space (See Monster Determination below)
+unallocated space (See Monster Determination below).
 
 ## Wandering Monsters
 
@@ -106,6 +106,7 @@ To determine the type of monster encountered, roll a d6 and consult the result a
 ## Number Appearing
 
 When stocking a dungeon, the numbers of monsters appearing is dependent on the relation between the Equivalent Hit Die of the creature and dungeon level/depth (presuming a traditional party of 4)
+
 |EHD vs Dungeon Level|No of monsters appearing|
 |:-------------------|:-----------------------|
 |Dungeon level is greater by 3 or    | (1d4+1) or ~2 3/4 party size |
@@ -121,7 +122,7 @@ For a more detailed breakdown of this formula and approach, see:
 
 ## Monster Equivalent Hit Dice
 
-This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) for a more accurate distribution of challenges. An \*indicates The EHD for this creature is highly situational.
+This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) for a more accurate distribution of challenges. 
 
 |**Monster**            |**EHD**|**Monster**            |**EHD**|**Monster**            |**EHD**|
 |:----------------------|:-----:|:----------------------|:-----:|:----------------------|:-----:|
@@ -203,6 +204,7 @@ This is a measure of monster threat that can be slotted into monster determinati
 |Shadow                 |3      |Chimera                |10     |                       |       |
 |Shrieker               |3      |Frost Giant            |10     |                       |       |
 
+\* Indicates The EHD for this creature is highly situational.
 
 For a more detailed list of appropriate monsters and Equivalent Hit
 Dice, consult the [OED Monster Determination](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)

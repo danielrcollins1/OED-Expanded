@@ -10,13 +10,13 @@ in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edit
 They can be used for GMs who wish to include other kinds of spell-casters, or diversify their villains.
 
 |Level    |Name                     |Range    |Duration      |Description |
-|:-------:|:------------------------|:--------|:-------------|:---------------|
-|1        |Cause Light Wounds       |Touch    |Instantaneous |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.|
-|1        |Cure Light Wounds        |Touch    |Instantaneous |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
+|1        |Cause Light Wounds       |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.|
+|1        |Cure Light Wounds        |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  |
 |1        |Detect Good              |6"       |12 Turns      |The caster can sense the presence of good within creatures, objects, and locations. Stronger good will radiate more intensely.  |
 |1        |Hold Undead              |12"      |6 Turns       |This spell causes Undead creatures to be frozen in place. It affects 2d6 HD worth of Undead with 4HD or less, lowest HD creatures are affected first.  |
-|1        |Purify Food & Water      |6"       |Instantaneous |This spell will transmute enough food and water for 12 people from spoiled and/or poisoned to a consumable state.|
-|1        |Putrefy Food & Water     |6"       |Instantaneous |This spell will spoil and taint enough food and water for 12 people, rendering it unsafe for consumption. |
+|1        |Purify Food & Water      |6"       |Instant       |This spell will transmute enough food and water for 12 people from spoiled and/or poisoned to a consumable state.|
+|1        |Putrefy Food & Water     |6"       |Instant       |This spell will spoil and taint enough food and water for 12 people, rendering it unsafe for consumption. |
 |1        |Ventriloquism            |6’’      |3 Turns (C)   |Allows the caster to cause a familiar sound, equivalent intensity to a human voice, to emanate from any location in range. The sound can move to a new location in range once per round. Concentration is required throughout the spell's duration.|
 |1        |Predict Weather          |Personal |Instant       |You are able to forecast the natural weather in the local area with 100% accuracy for the next 12 hours.  |
 |1        |Locate Animals           |24"      |3 Turns       |The caster senses the direction of a well-known or clearly visualized animal. The caster can search for general animals such as a bear, dog, or snake, in which case he or she locates the nearest one of its type. Attempting to find a specific animal requires an accurate mental image.|
@@ -32,26 +32,26 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |2        |Warp Wood                |6”       |Instant       |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers to swell and warp becoming useless.|
 |3        |Cause Disease            |Touch    |Permanent     |The target's Constitution drops to 1. The target remains in this state until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
 |3        |Continual Darkness       |12"      |1 Week        |This spell extinguishes all light sources in range (12" radius globe), up to large campfire size, and dispels any magic light spells. Further, it prevents re-ignition of any light sources during the duration, save for a Continual Light spell, or similar effect.  |
-|3        |Cure Disease             |Touch    |Instantaneous |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy is a Curse).   |
+|3        |Cure Disease             |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy is a Curse).   |
 |3        |Prayer                   |12"      |6 Turns       |This spell places a Hex on creatures in the area (2" radius globe). The targets suffer a -2 to all Saves.  |
 |3        |Speak with Dead          |6"       |6 Turns       |This spell allows the caster to ask 3 questions of the departed spirit of a recently dead body. The age of the body that can be questioned is determined by the caster level. Caster level 1+ = 1 day / level; Caster level 10+ = 1 week / level; Caster level 20 = No Limit. |
 |3        |Explosive Runes          |Touch    |1 Week        |These visible, hand written, runes can be placed on a surface in order to trap it. When passed over they explode in a 2” radius sphere causing 4d6 fire damage. The runes can be discovered by searching, and may be removed by the caster when desired or Dispel Magic. |
 |3        |Protection from Fire     |Touch    |6 Turns       |This spell wards all creatures in the area (2" radius globe) from the effects of normal fire. The subjects gain a +4 bonus to saves against magical fire, such as from spells and dragon’s breath, etc. |
 |3        |Hold Animal              |12"      |6 Turns       |One or more animals the size of a Polar Bear or smaller are frozen in place. The caster can opt to target a single person (save vs. paralysis at –3 penalty), or up to four (at normal saves). |
-|4        |Create Water             |6"       |Instantaneous |The caster creates a day's mass of potable water, the amount conjured is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.|
-|4        |Neutralize Poison        |Touch    |Instantaneous |This spell instantly renders poison in an object or affecting a creature inert. |
-|4        |Cure Serious Wounds      |Touch    |Instantaneous |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target. |
-|4        |Cause Serious Wounds     |Touch    |Instantaneous |By placing their hand on the intended creature's body, this spell instantly inflicts 2d6+2 HP of damage to the target.|
+|4        |Create Water             |6"       |Instant     |The caster creates a day's mass of potable water, the amount conjured is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.|
+|4        |Neutralize Poison        |Touch    |Instant     |This spell instantly renders poison in an object or affecting a creature inert. |
+|4        |Cure Serious Wounds      |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target. |
+|4        |Cause Serious Wounds     |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly inflicts 2d6+2 HP of damage to the target.|
 |4        |Speak with Plants        |6"       |6 Turns       |The caster can converse with plants as they would another person and understand their replies. Further, the plants will obey the commands of the caster, parting to allow passage, inhibiting the movement of opponents, etc.|
 |4        |Turn Sticks to Snakes    |12"      |6 Turns       |The caster can turn a number of sticks in the area into snakes that perform actions as he commands. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
 |4        |Protection from Lightning|Touch    |12 Turns      |This spell wards all creatures in the area (2" radius globe) against lightning and electricity. Electricity that does 1 die of damage is ignored, and they receive a +4 bonus to saves against magical lightning and electricity, such as from spells and dragon’s breath, etc.  |
 |5        |Commune                  |Personal |6 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will answer factually and has near complete knowledge (On a d20, a roll of 20 means the entity does not know while a roll of 1 means the entity is mistaken.) Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The DM may rule that frequent castings may be less effective.  |
-|5        |Create Food              |6"       |Instantaneous |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
+|5        |Create Food              |6"       |Instant       |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
 |5        |Dispel Evil (Good)       |12"      |6 Turns       |This spell drives off undead and summoned/extraplanar creatures, causing them to flee for 6 Turns. |
-|5        |Finger of Death          |12"      |Instantaneous |This spell will reduce a living creature of 8HD or less to 0HP unless a Save vs Death is made. |
+|5        |Finger of Death          |12"      |Instant       |This spell will reduce a living creature of 8HD or less to 0HP unless a Save vs Death is made. |
 |5        |Insect Plague            |24"      |12 Turns ( C )|The caster conjures up a vast cloud of insects taking up a 12" by 12" square that can be directed where needed within range. The cloud can obscure vision, disrupt concentration, and cause creatures of less than 4 HD to flee. Concentration is required on rounds that the user is moving the cloud.  |
 |5        |Quest                    |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The DM should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
-|5        |Raise Dead               |Touch    |Instantaneous |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level. The creature must succeed at a Constitution check in order to come back to life, at which point is has 1 HP. The DM may rule that repeated castings on the same creature are less effective.|
+|5        |Raise Dead               |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level. The creature must succeed at a Constitution check in order to come back to life, at which point is has 1 HP. The DM may rule that repeated castings on the same creature are less effective.|
 |6        |Repulsion                |Personal |6 Turns       |This spell causes living creatures within 12” to withdraw beyond the range of the spell by the safest means possible. If trapped or cornered, creatures will cower.  |
 |6        |Animate Objects          |6”       |6 Turns       |This spell can animate an object up to twice the size of a man, two man-sized objects, or 2d6 smaller objects that act on behalf of the caster. A single large object attacks as a 16HD creature, two man size objects would attack as 8HD creatures, smaller objects attack as 2HD creatures. -Items made of Stone or Metal would have an AC of 1, movement of 3”, and attack every other round for 2d6 damage. -Objects made of Wood or Hide would have an AC of 5, movement of 9”, and attack every round. -Objects of Fragile materials would have an AC of 9, movement of 15” and attack every round. -Items like rugs or tapestries, may blind, trip, or bind targets instead of inflicting damage at DMs discretion.|
 |6        |Find the Path            |Personal |6 Turns (C)   |The caster senses the most direct, safest physical route to a specified location (not object or creature) indicating at time the exact path to follow. Where a danger can not be bypassed the caster receives an intense sensation warning them of the type of threat. In addition, the caster is able to negate a Maze spell in a single turn after employing the spell, and immune to further Maze spells for the duration. Concentration is required throughout the spell's duration. |
@@ -68,25 +68,27 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |7        |Slay Living              |Touch    |Instant       |This spell will reduce living creatures to 0HP.   |
 |7        |Level Drain              |Touch    |Instant       |This spell will drain the target of 1d6 levels.  |
 
-
 For even more spells, a GM can reference the 
 [Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
 ## Class Abilities
+
 ### Fighter Feats (New)
-**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling.  It does not take a share of treasure, but does gain XP and HD (as Fighter). 
 
-**Blind Fighting**:  Starting at 8th level, you do not suffer penalties to melee combat against unseen opponents (invisibility, darkness, etc.) 
+**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but does gain XP and HD (as Fighter). 
 
-**Pugilist**:  You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage.  On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move /act) for 1 round.
+**Blind Fighting**: Starting at 8th level, you do not suffer penalties to melee combat against unseen opponents (invisibility, darkness, etc.) 
+
+**Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move /act) for 1 round.
 
 ### Unarmed Attacks
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 (+Str Bonus) points of damage.  An unarmored Fighter or Thief can punch twice per round against a single target.  
+
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 (+Str Bonus) points of damage. An unarmored Fighter or Thief can punch twice per round against a single target. 
 
 ### War Magic
-In order to bridge the gap between dungeon and field combat, spell-casters of 10th level can gain access to War Magic as a class ability.  This ability increases the range of spells by a factor of 4 (1” on the table equates to 20 feet).  For more details on field combat, reference OED Book of War.
 
+In order to bridge the gap between dungeon and field combat, spell-casters of 10th level can gain access to War Magic as a class ability. This ability increases the range of spells by a factor of 4 (1” on the table equates to 20 feet). For more details on field combat, reference OED Book of War.
 
 ## Clerics
 
@@ -125,21 +127,23 @@ An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, des
 
 **Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
-
 ## Creatures
+
 ### Familiars
-A Familiar is a spirit that takes on the form of a small animal to provide magical knowledge to a mortal. In practice, they function as a special sort of “hireling” for magic users. Statistics are the same as the animal form except
 
-**Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic)
+A Familiar is a spirit that takes on the form of a small animal to provide magical knowledge to a mortal. In practice, they function as a special sort of “hireling” for magic users. Statistics are the same as the animal form except:
 
-**Intelligence**: 2d6+6
+**Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic).
 
-**Saves**: as owner
+**Intelligence**: 2d6+6.
+
+**Saves**: As owner.
 
 **Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can 	understand the familiar. 
 When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
 
 ### Slime Splitting
+
 Assume that slimes are roughly spherical, and their hit dice are proportional to their volume, but their damage output is proportional to their surface area. Assume that the splitting stops at 1 HD. 
 
 ||Ochre Jelly|Black Pudding|
@@ -150,11 +154,14 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 |**3rd Split**|N/A|1 HD, 1d6 damage|
 
 ## Equipment Options
+
 ### Non-Proficiency
+
 **Using prohibited Armor**: Double encumbrance and halve bonus
 **Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step
 
 ### Helmets
+
 Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult at the table.
 
 **Option 1**: A helmet gives a 1 point bonus to AC (up to AC 7). If a suit of heavy armor is worn, then a helmet is also required or else a 1 point penalty to AC is applied.
@@ -162,11 +169,14 @@ Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult a
 **Option 2**: A worn helmet will negate critical hits, rendering it a normal hit.
 
 ### Shields
-In addition to the normal bonus, any time you take damage that would reduce you to 0 HP or below, you can opt instead to sacrifice your shield, to stay at 1 HP.  The shield is shattered and must be discarded.  
-*Note: At Judge’s discretion, magic shields instead lose one plus or ability permanently instead.*
+
+In addition to the normal bonus, any time you take damage that would reduce you to 0 HP or below, you can opt instead to sacrifice your shield, to stay at 1 HP. The shield is shattered and must be discarded. 
+
+* Note: At Judge’s discretion, magic shields instead lose one plus or ability permanently instead.*
 
 ### Wizard Staff
-The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat)
+
+The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat).
 
 ## Grievous Wounds
 
@@ -204,26 +214,28 @@ When a character reaches or goes below 0 hit points, the character has suffered 
 *unless they receive appropriate care/magical healing.
 
 ## Language and Literacy
-The original game presumes a binary approach to languages.  The below is intended to add some granularity to how languages are handled while still fitting into the base rules.
+
+The original game presumes a binary approach to languages. The below is intended to add some granularity to how languages are handled while still fitting into the base rules.
 
 Familiarity with a spoken language is broken into three levels.
 
-**Basic**: You know words for basic concepts (food, shelter, surrender, help, etc.)
+**Basic**: You know words for basic concepts (food, shelter, surrender, help, etc.).
 
 **Proficient**: You can easily carry on a conversation in this language, albeit with an accent.
 
 **Fluent**: You can pass as a native speaker
 - Every creature is Fluent in their native language and Proficient in their other starting languages.
 - When a creature is literate in a language, it is at the same level of familiarity as their speaking ability.
-- All Characters are presumed to be literate in their starting languages.  It is left to the Judge to decide the literacy and languages of creatures types in general.
+- All Characters are presumed to be literate in their starting languages. It is left to the Judge to decide the literacy and languages of creatures types in general.
 
 In place of the standard 1 extra “language” per point of Intelligence above 10, grant 2 “language points” which can be spent on basic familiarity with a new language and/or improve a known language one step. 
 
-Should a creature find themselves immersed in a new language (and have no spare language slots/points) they can pick up the language for “free” with the following considerations.  
+Should a creature find themselves immersed in a new language (and have no spare language slots/points) they can pick up the language for “free” with the following considerations. 
+
 - They can only have 1 such language at a time.
-- It takes a week to gain Basic familiarity, a Month for Literacy, and a Season for Proficiency
+- It takes a week to gain Basic familiarity, a Month for Literacy, and a Season for Proficiency.
 - You can never become a Fluent speaker in this manner.
-- You will lose this language if you leave immersion for a Season	or more (the Judge may allow you to “pick it up” again at an accelerated rate)
+- You will lose this language if you leave immersion for a Season or more (the Judge may allow you to “pick it up” again at an accelerated rate).
 
 ## Tournaments and Contests
 
@@ -260,6 +272,8 @@ quickly using Book of War.
 
 ## War Machine, Book of
 
-The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia.  As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating.  
-To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating.  The force with the highest result wins.
-For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the Rules Cyclopedia.
+The War Machine is a system of game rules designed to resolve large battles released in the Rules Cyclopedia. As an alternative to the complex calculations presented in those rules, one can use the point cost values of units as presented in OED Book of War as the Battle Rating. 
+
+To determine the outcome of the engagement, each side of engagement rolls a d% and adds this to their Battle Rating. The force with the highest result wins.
+
+For a list of conditions that can modify Battle Rating (ratio of troops numbers, environmental and terrain factors, etc.) see chapter 9 of the _Rules Cyclopedia_.

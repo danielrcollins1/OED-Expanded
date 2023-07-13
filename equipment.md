@@ -14,8 +14,8 @@ becomes Gold and so on.
 in shillings and multiply by 3 for SP cost.
 
 **Monthly Upkeep**: Equal to 1% of current XP (of highest class) in
-Silver Pieces, minimum 20sp. Paid monthly. If unpaid, the character
-suffers -10% to Attack rolls and HP, cumulative per month.
+Silver Pieces, minimum 20 sp. Paid monthly. If unpaid, the character
+suffers –10% to Attack rolls and HP, cumulative per month.
 
 ## Encumbrance
 
@@ -25,12 +25,12 @@ stone equal to their Strength. A character's encumbrance affects their
 movement rate as shown below. This encumbrance level also functions as a
 modifier to some rolls (see Adventuring Tasks).
   
-|Encumbrance Level|Stone Carried|Effect|
+|Level|Stone Carried|Effect|
 |:---|:---|:---|
-|Level 0|up to 1/3 Strength Score|Full Movement Rate: 12" (60')|
-|Level 1|up to 2/3 Strength Score|Movement Reduced 1/3: 9" (45')|
-|Level 2|up to Strength Score|Movement Reduced 1/2 :6" (30')|
-|Level 3|up to 1.5x Strength Score|Movement Reduced to 0|
+|Level 0|Up to 1/3 Strength Score|Full Movement Rate: 12" (60')|
+|Level 1|Up to 2/3 Strength Score|Movement Reduced 1/3: 9" (45')|
+|Level 2|Up to Strength Score|Movement Reduced 1/2 :6" (30')|
+|Level 3|Up to 1.5x Strength Score|Movement Reduced to 0|
 
 ## Weapons
 
@@ -38,15 +38,15 @@ Weapons in OED fall into 3 categories, Light, Medium, and Heavy.
 
 Weapons have 5 main properties.
 
-**Sword**: Can be drawn and used in a single round.\
-**Spear**: Can be used to attack from the 2^nd^ rank (+5') reach)\
-**Axe**: +2 to hit targets in Medium/Heavy armor, or creatures with a
-tough hide (AC 5 or better)\
-**Club**: +4 to hit targets in Heavy armor, or creatures with a very
-tough hide (AC 3 or better)\
-**Ranged/Thrown**: -1 to Hit per 10', See also Firing at a Crowd below.
+- **Sword**: Can be drawn and used in a single round.
+- **Spear**: Can be used to attack from the 2^nd^ rank (+5') reach)
+- **Axe**: +2 to hit targets in Medium/Heavy armor, or creatures with a
+tough hide (AC 5 or better)
+- **Club**: +4 to hit targets in Heavy armor, or creatures with a very
+tough hide (AC 3 or better)
+- **Ranged/Thrown**: -1 to Hit per 10', See also Firing at a Crowd below.
 
-|**Weapon**     |**Category**|**Cost (SP)**|**Damage**|**Stone**|**Properties**                        |
+|**Weapon**     |**Category**|**Cost (SP)**|**Damage**|**Weight**|**Properties**                        |
 |:--------------|:-----------|:------------|:---------|:--------|:-------------------------------------|
 |Crude Club     |Light       |\--          |1d6       |1/3      |Thrown 60’; not a “Club” type weapon  |
 |Dagger         |Light       |3            |1d4       |1/3      |“Sword”; Thrown 60’                   |
@@ -80,7 +80,7 @@ tough hide (AC 3 or better)\
 
 
 ## Gear
-|**Item**             |**Cost (SP)**|**Encumbrance**|**Notes**                                                                  |
+|**Item**             |**Cost (SP)**|**Weight**|**Notes**                                                                  |
 |:--------------------|:------------|:--------------|:--------------------------------------------------------------------------|
 |Coins (1000)         |Varies       |1              |When in an appropriate container                                           |
 |10’ Pole             |1            |1              |                                                                           |
@@ -134,14 +134,14 @@ Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy
 (Plate), and Shields. Leather and Chain armor takes 1 minute to put on,
 Plate takes 10 minutes and requires assistance.
 
-|Item                   |Cost (SP)  | AC          | Stone|
+|Item                   |Cost (SP)  | AC          | Weight|
 |:----------------------|:----------|:-----------:|:----:|
 | Unarmored             | \--       |  9          |   \--|
 | Leather (Light)       | 15        |   7         |     1|
 |  Chain Mail (Medium)  | 50        |   5         |     2|
 |  Plate Mail (Heavy)   | 200       |   3         |     4|
 |  Shield               | 10        |  -1         |     1|
-|  Helmet (Heavy)       |10         | \*See Below |   1/3|
+|  Helmet (Heavy)       |10         | \*          |   1/3|
 
-\***Helmets**: if a helmet is *not* worn, 1 in 6 attacks are against the
+\* **Helmets**: If a helmet is *not* worn, 1 in 6 attacks are against the
 head at AC 9.

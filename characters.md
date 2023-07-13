@@ -8,6 +8,17 @@ Prior to the selection of character race and class, it is necessary to determine
 
 Select one ability score to generate 2d6+6, the rest will be generated 3d6 in order.
 
+### Modifiers
+
+In OED the modifiers from your ability scores affect the attributes listed below.
+
+- *Strength*: Melee Attacks and Melee Damage
+- *Intelligence*: Secret Door and Trap Detection (\*)
+- *Wisdom*: Saves vs. Mental Attacks
+- *Dexterity*: Missile Attacks and Armor Class
+- *Constitution*: Hit Die Rolls
+- *Charisma*: Reaction Rolls
+
 |Score   |Modifier|
 |---|---|
 |0-2       |-3 |
@@ -19,17 +30,6 @@ Select one ability score to generate 2d6+6, the rest will be generated 3d6 in or
 |19-21 | +3 |
 |22-24 | +4 |
 |Every 3  | (+1) |
-
-### Modifiers
-
-In OED the modifiers from your ability scores affect the attributes listed below.
-
-- *Strength*: Melee Attacks and Melee Damage
-- *Intelligence*: Secret Door and Trap Detection (\*)
-- *Wisdom*: Saves vs. Mental Attacks
-- *Dexterity*: Missile Attacks and Armor Class
-- *Constitution*: Hit Die Rolls
-- *Charisma*: Reaction Rolls
 
 \* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time. 
 
@@ -101,6 +101,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 **Sweep Attacks**: Fighters can melee attack a number of 1 HD opponents equal to their level in one round.
 
 **Feats**: Fighters can select one feat at level 4 and every 4th level thereafter from the list below.
+
 1.  *Berserking*: Gain +4 levels (increasing To Hit, Saves, Hit Die/HP - Average 20 hp) for the duration of melee combat; afterward save vs. breath or lose this ability for the day.
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
