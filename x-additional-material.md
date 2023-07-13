@@ -168,8 +168,6 @@ In addition to the normal bonus, any time you take damage that would reduce you 
 ### Wizard Staff
 The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat)
 
-
-
 ## Grievous Wounds
 
 When a character reaches or goes below 0 hit points, the character has suffered a grievous wound and must roll on the tables below. Once for location, and again for severity.

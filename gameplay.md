@@ -4,11 +4,12 @@ The core mechanic of OED is the Target 20 roll as summarized below. Some
 game actions are resolved on an X in 6 chance using a d6 (see
 Adventuring)
 
-**Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC $\geq$ 20
+**Melee Attacks**: d20 + Attack Bonus + Str Modifier + Target AC ≥ 20
 
-**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC $\geq$ 20
+**Ranged Attacks**: d20 + Attack Bonus + Dex Modifier + Target AC ≥ 20
 
-**Saving Throws**: d20 + Level + Save Mod $\geq$ 20
+**Saving Throws**: d20 + Level + Save Mod ≥ 20
+
 |Save Type|Save Mod|
 |:---|:---:|
 |Spells    |    +0|
@@ -17,11 +18,11 @@ Adventuring)
 |Wands      |   +3|
 |Death      |   +4|
 
-**Ability Checks**: d20 + Level + Modifier $\geq$ 20
+**Ability Checks**: d20 + Level + Modifier ≥ 20
 
-**Thief Skills**: d20 + Thief Level + Dex Modifier $\geq$ 20
+**Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20
 
-**Learn/Research Spell**: d20 + Wizard Level + Int Modifier $\geq$ 20
+**Learn/Research Spell**: d20 + Wizard Level + Int Modifier ≥ 20
 
 ## Adventuring
 
@@ -56,6 +57,7 @@ errant shots below), move at half speed, and suffer -1 to morale.
 ### Adventuring Tasks
 
 In OED a number of tasks are resolved with a d6 roll. The chance for success is listed as X in 6, and can be modified a number of "pips" (numbers) up or down by circumstance or race/class ability.
+
 |Task|        Chance   |Modifiers/Notes|
 |:----------- |:--------:| :----------------------------------------------------|
 |Climbing    |2 in 6   |\+ Dexterity *Bonus*; - Encumbrance Level (0-3); +2 for using a rope.|
@@ -198,7 +200,7 @@ has 10 men, then a roll of 0-9 indicates an errant shot.
 
 **Errant Shots**: When making a ranged attack to hit any target in a
 crowd (or on a fumbled attack against a specific target in a crowd), the
-attack is resolved by d20 + AC $\geq$ 20. Range penalties are ignored.
+attack is resolved by d20 + AC ≥ 20. Range penalties are ignored.
 
 ### Death and Healing
 

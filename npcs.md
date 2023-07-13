@@ -71,7 +71,10 @@ Each additional "hit" for a given item type indicates an additional +1 bonus, do
 **Posting Advertisements**: Every 100sp spent on posts/agents will attract 1d3 first level recruits within 1d6 days. The maximum number of potential recruits is equal to 1% of the settlements population (approximately 3 such folks in a typical hamlet). Populations will
 refresh once per season. Calls to far, elf, or dwarf lands will multiply the cost and time.
 
-**Offers and Shares**: The default rate for a Hireling is 100sp plus a "half share" of the treasure (and XP) split. The NPC will accept this offer based on the outcome of a reaction roll (2d6 + Cha Mod $\geq$ 9). The roll can be modified by the quality of the offer.
+**Offers and Shares**: The default rate for a Hireling is 100sp plus a
+"half share" of the treasure (and XP) split. The NPC will accept this
+offer based on the outcome of a reaction roll (2d6 + Cha Mod ≥ 9). The
+roll can be modified by the quality of the offer.
 
 ### Specialists
 

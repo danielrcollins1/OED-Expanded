@@ -52,11 +52,9 @@ d20+20 charges when found.
 for each plus or special ability.
 
 **Intelligent Swords**: When in conflict; d20 + (Character Intelligence
-& Charisma) - (Sword Ego & Intelligence) + Wound Modifier $\geq$ 20. 
++ Charisma) - (Sword Ego & Intelligence) + Wound Modifier ≥ 20. 
  
-*Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5
-
-
+*Wound Modifier*: Full HP = +15, Half or more = +10, Less than Half = +5.
 
 ## Experience Points
 
