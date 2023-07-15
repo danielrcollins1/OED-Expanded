@@ -6,7 +6,7 @@ Prior to the selection of character race and class, it is necessary to determine
 
 ### Generation
 
-Select one ability score to generate 2d6+6, the rest will be generated 3d6 in order.
+Roll abilities 3d6 in order, than add 2 points as desired (max 18). 
 
 ### Modifiers
 

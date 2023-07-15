@@ -35,11 +35,8 @@ into the Wizard class removes 1 HP.  Characters graduating to 1st level should h
 
 ## Higher Level Characters
 
-**Ability Scores**: For characters levels 1 -3, generate scores normally
-(2d6+6 for one, 3d6 in order for the rest). Levels 4-7, generate two
-scores via 2d6+6, 3d6 in order for the rest. Level 8 or greater:
-Generate one score via 2d4+10, two more via 2d6+6, and the rest 3d6 in
-order.
+**Ability Scores**: Roll 3d6 in order, then add points as desired 
+equal to the starting level + 1 (max 18 in any score).
 
 **Hit Points**: High-level characters re-roll Hit Point rolls of 1 or 2
 for all their levels at the time of generation, then progress normally.
