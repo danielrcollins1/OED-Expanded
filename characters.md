@@ -45,19 +45,19 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th).
+**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
 
 ### Elves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Class Options**: Fighter 4th (5th with STR 17, 6th with STR 18), Thief Unlimited, Wizard 8th (9th with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
+**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and one other class.
 
 ### Halflings
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard 4th).
+**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
 
 ## Class
 
