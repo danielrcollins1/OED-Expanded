@@ -171,13 +171,10 @@ at its back, but does suffer the penalty for attacks to the rear.
 without turning their back on the enemy, preventing an attack against
 the rear flank.
 
-**Natural 1**: A roll of 1 on a d20 counts as a -10. On attack rolls,
-the Judge rolls a d20 with the following results: 1 = Hit Self, 2 = Hit
-Ally, 3 = Slip & Fall, 4 = Damage Weapon, 5 = Drop Weapon, 6+ = No
-Fumble.
-
-**Natural 20**: A roll of 20 counts as a 30. On attacks rolls, roll
-damage twice with all bonuses included.
+**Critical Hits**: In most cases, a natural 1 is an automatic miss, 
+and 20 an automatic hit (DM rules on impossible cases). 
+The former may give a chance for a fumble; the latter does double damage 
+(roll twice with bonuses).
 
 **Combat Modifiers**: The following situational modifiers may be added
 to attack rolls.
@@ -195,14 +192,9 @@ to attack rolls.
 the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 *not* AC) is less than 10, it misses the (man-size) target.
 
-An "**errant shot**" is triggered if that attack roll is between 10 and
-10 minus the number of creatures in the group. Ex: If the target is in a
-squad of 5 other men, an errant shot occurs on 5-9. If the target group
-has 10 men, then a roll of 0-9 indicates an errant shot.
-
-**Errant Shots**: When making a ranged attack to hit any target in a
-crowd (or on a fumbled attack against a specific target in a crowd), the
-attack is resolved by d20 + AC ≥ 20. Range penalties are ignored.
+**Errant Shots**: Ranged attack rolls below 10 miss the target, 
+but may hit another nearby. Errant, fumbled, or random attacks into groups 
+are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
 **Grappling**: Roll a melee attack, then opposed Strength checks 
 (d6 + Str bonus; half HD for monsters). Success means the target is immobilized, 
