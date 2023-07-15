@@ -204,6 +204,10 @@ has 10 men, then a roll of 0-9 indicates an errant shot.
 crowd (or on a fumbled attack against a specific target in a crowd), the
 attack is resolved by d20 + AC ≥ 20. Range penalties are ignored.
 
+**Grappling**: Roll a melee attack, then opposed Strength checks 
+(d6 + Str bonus; half HD for monsters). Success means the target is immobilized, 
+or pushed up to ten feet, until they win a Strength check on their turn.
+
 ### Death and Healing
 
 **Zero Hit Points**: When a character reaches or goes below 0 hit
