@@ -13,7 +13,7 @@ Select one ability score to generate 2d6+6, the rest will be generated 3d6 in or
 In OED the modifiers from your ability scores affect the attributes listed below.
 
 - *Strength*: Melee Attacks and Melee Damage
-- *Intelligence*: Secret Door and Trap Detection (\*)
+- *Intelligence*: Secret Door and Trap Detection
 - *Wisdom*: Saves vs. Mental Attacks
 - *Dexterity*: Missile Attacks and Armor Class
 - *Constitution*: Hit Die Rolls
@@ -31,19 +31,13 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |22-24 | +4 |
 |Every 3  | (+1) |
 
-\* For each point of Intelligence above 10, character is able to learn one additional language, which can be selected at a later time. 
-
 **Experience Points**: In OED, ability scores do not affect XP earned.
 
 ## Race
 
 **Movement**: In OED all PC races move at a base speed of 12" (60') per round.
 
-**Languages**: All Intellegent races are presumed to have thier own langage.  Alignment languages are not used, but factions may have "secret" languages.  All PCs are presumed to be literate in their starting languages.
-
 ### Humans
-
-**Starting Languages**: Common (in OED common is considered the standard Human tounge of the region). 
 
 **Class Options**: Can be a member of any class, and advance to an unlimited level.
 
@@ -51,23 +45,17 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Starting Languages**: Common, Dwarf.
-
 **Class Options**: Fighter 6th (7th with STR 17, 8th with STR 18), Thief Unlimited, (NPCs/Optional Wizard 4th).
 
 ### Elves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Starting Languages**: Common, Elf.
-
 **Class Options**: Fighter 4th (5th with STR 17, 6th with STR 18), Thief Unlimited, Wizard 8th (9th with INT 18), Elves start as a member of BOTH the Wizard class and one other class.
 
 ### Halflings
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
-
-**Languages**: Common, Halfling.
 
 **Class Options**: Fighter 4, Thief Unlimited, (NPCs/Optional Wizard 4th).
 
@@ -217,3 +205,9 @@ OED features 3 alignment options:
 - *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
 - *Neutral* beings seek a balance, or are simply disinterested.
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
+
+## Languages
+
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, by Intelligence, at start or later. Alignment/divisional languages must be bought this same way.
+
+The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. Common represents the standard Human tounge of the region. Note that alignment/divisional are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. PCs are assumed to be literate in any known languages.
