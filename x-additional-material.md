@@ -78,7 +78,7 @@ using the above spells as a guideline for streamlining the entry.
 
 **Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but does gain XP and HD (as Fighter). 
 
-**Blind Fighting**: Starting at 8th level, you do not suffer penalties to melee combat against unseen opponents (invisibility, darkness, etc.) 
+**Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
 
 **Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move /act) for 1 round.
 
