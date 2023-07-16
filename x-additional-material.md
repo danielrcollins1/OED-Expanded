@@ -9,7 +9,7 @@ Below is a summary of Cleric, Druid, and Magic User spells not included
 in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 They can be used for GMs who wish to include other kinds of spell-casters, or diversify their villains.
 
-|Level    |Name                     |Range    |Duration      |Description |
+|Level 1   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |1        |Cause Light Wounds       |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.|
 |1        |Cure Light Wounds        |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  |
@@ -21,6 +21,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |1        |Predict Weather          |Personal |Instant       |You are able to forecast the natural weather in the local area with 100% accuracy for the next 12 hours.  |
 |1        |Locate Animals           |24"      |3 Turns       |The caster senses the direction of a well-known or clearly visualized animal. The caster can search for general animals such as a bear, dog, or snake, in which case he or she locates the nearest one of its type. Attempting to find a specific animal requires an accurate mental image.|
 |1        |Faerie Fire              |12"      |6 Turns       |This spell causes any creatures in a 2” radius globe to be illuminated as if by torchlight, they then remain so illuminated for the duration of the spell.|
+
+|Level 2   |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |2        |Bless                    |Touch    |6 Turns       |This spell bolsters the resolve of all creatures in the area (2" radius globe). The subjects gain a +2 to morale and +2 to attack rolls.  |
 |2        |Blight                   |Touch    |6 Turns       |This spell saps the resolve of all creatures in the area (2" radius globe). The targets suffer a -2 to morale and -2 to attack rolls.  |
 |2        |Find Traps               |6"       |3 Turns       |The caster will become aware of the presence of mechanical or magical traps.  |
@@ -30,6 +33,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |2        |Obscurement              |12"      |3 Turns       |A mist forms within a 2” radius globe that obscures all forms of vision within the area.|
 |2        |Heat Metal               |3”       |3 Turns       |This spell will cause a volume of metal equivalent to 1 suit of plate, 2 shirts of chain, or 6 shields/weapons to become hot to the touch. This will inflict 1d6 points of heat/fire damage per round of contact. Targets can attempt to drop/remove items immediately to avoid damage.  |
 |2        |Warp Wood                |6”       |Instant       |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers to swell and warp becoming useless.|
+
+|Level 3  |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |3        |Cause Disease            |Touch    |Permanent     |The target's Constitution drops to 1. The target remains in this state until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
 |3        |Continual Darkness       |12"      |1 Week        |This spell extinguishes all light sources in range (12" radius globe), up to large campfire size, and dispels any magic light spells. Further, it prevents re-ignition of any light sources during the duration, save for a Continual Light spell, or similar effect.  |
 |3        |Cure Disease             |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy is a Curse).   |
@@ -38,6 +44,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |3        |Explosive Runes          |Touch    |1 Week        |These visible, hand written, runes can be placed on a surface in order to trap it. When passed over they explode in a 2” radius sphere causing 4d6 fire damage. The runes can be discovered by searching, and may be removed by the caster when desired or Dispel Magic. |
 |3        |Protection from Fire     |Touch    |6 Turns       |This spell wards all creatures in the area (2" radius globe) from the effects of normal fire. The subjects gain a +4 bonus to saves against magical fire, such as from spells and dragon’s breath, etc. |
 |3        |Hold Animal              |12"      |6 Turns       |One or more animals the size of a Polar Bear or smaller are frozen in place. The caster can opt to target a single person (save vs. paralysis at –3 penalty), or up to four (at normal saves). |
+
+|Level 4   |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |4        |Create Water             |6"       |Instant     |The caster creates a day's mass of potable water, the amount conjured is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.|
 |4        |Neutralize Poison        |Touch    |Instant     |This spell instantly renders poison in an object or affecting a creature inert. |
 |4        |Cure Serious Wounds      |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target. |
@@ -45,6 +54,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |4        |Speak with Plants        |6"       |6 Turns       |The caster can converse with plants as they would another person and understand their replies. Further, the plants will obey the commands of the caster, parting to allow passage, inhibiting the movement of opponents, etc.|
 |4        |Turn Sticks to Snakes    |12"      |6 Turns       |The caster can turn a number of sticks in the area into snakes that perform actions as he commands. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
 |4        |Protection from Lightning|Touch    |12 Turns      |This spell wards all creatures in the area (2" radius globe) against lightning and electricity. Electricity that does 1 die of damage is ignored, and they receive a +4 bonus to saves against magical lightning and electricity, such as from spells and dragon’s breath, etc.  |
+
+|Level 5   |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |5        |Commune                  |Personal |6 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will answer factually and has near complete knowledge (On a d20, a roll of 20 means the entity does not know while a roll of 1 means the entity is mistaken.) Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The DM may rule that frequent castings may be less effective.  |
 |5        |Create Food              |6"       |Instant       |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
 |5        |Dispel Evil (Good)       |12"      |6 Turns       |This spell drives off undead and summoned/extraplanar creatures, causing them to flee for 6 Turns. |
@@ -52,6 +64,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |5        |Insect Plague            |24"      |12 Turns ( C )|The caster conjures up a vast cloud of insects taking up a 12" by 12" square that can be directed where needed within range. The cloud can obscure vision, disrupt concentration, and cause creatures of less than 4 HD to flee. Concentration is required on rounds that the user is moving the cloud.  |
 |5        |Quest                    |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The DM should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
 |5        |Raise Dead               |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level. The creature must succeed at a Constitution check in order to come back to life, at which point is has 1 HP. The DM may rule that repeated castings on the same creature are less effective.|
+
+|Level 6   |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |6        |Repulsion                |Personal |6 Turns       |This spell causes living creatures within 12” to withdraw beyond the range of the spell by the safest means possible. If trapped or cornered, creatures will cower.  |
 |6        |Animate Objects          |6”       |6 Turns       |This spell can animate an object up to twice the size of a man, two man-sized objects, or 2d6 smaller objects that act on behalf of the caster. A single large object attacks as a 16HD creature, two man size objects would attack as 8HD creatures, smaller objects attack as 2HD creatures. -Items made of Stone or Metal would have an AC of 1, movement of 3”, and attack every other round for 2d6 damage. -Objects made of Wood or Hide would have an AC of 5, movement of 9”, and attack every round. -Objects of Fragile materials would have an AC of 9, movement of 15” and attack every round. -Items like rugs or tapestries, may blind, trip, or bind targets instead of inflicting damage at DMs discretion.|
 |6        |Find the Path            |Personal |6 Turns (C)   |The caster senses the most direct, safest physical route to a specified location (not object or creature) indicating at time the exact path to follow. Where a danger can not be bypassed the caster receives an intense sensation warning them of the type of threat. In addition, the caster is able to negate a Maze spell in a single turn after employing the spell, and immune to further Maze spells for the duration. Concentration is required throughout the spell's duration. |
@@ -59,6 +74,9 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |6        |Word of Recall           |Personal |Instant       |This spell instantly transports the caster to a sanctuary they prepare ahead of time with no chance of mishap. To prepare a sanctuary, the caster must spend a day in the location attuning to it. |
 |6        |Speak with Monsters      |Touch    |12 turns      |This spell allows the target to speak with any creature as they would another person and understand their replies, even those that are not typically able to communicate via language. |
 |6        |Conjure Animals          |6’’      |12 turns      |This spell allows the caster to conjure 2 large animals (elephant, hippo, rhino, etc. ~8HD AC 3), 3 medium sized animals (lions, tigers, bears, etc. ~ 5HD AC 5) or six small ones (wolves, wild dogs, lynx, etc. ~2HD AC 7). The animals so brought will obey the caster. |
+
+|Level 7    |Name                     |Range    |Duration      |Description |
+|:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |7        |Earthquake               |12”      |1 turn        |This spell causes the ground to shake in a 6” by 6” area. This shaking will cause even sturdy stone to collapse (palisades, an earth rampart, a portion of a cliff, etc.) Creatures in the area have a 1 in 6 chance to fall into cracks in the earth as they appear, suffering 1d6 damage per round.   |
 |7        |Aerial Servant           |6’’      |Permanent     |This spell conjures an Aerial Servant (an extraplanar creature) in order to retrieve an object or creature the caster desires. The creature avoids combat, instead using its stealth, strength, and speed to grab its prey by surprise and whisk it back to the caster. It cannot be dispelled, although it can be driven off in combat. Treat the servant as a 16HD (strength 36) and AC 2, it is silent and invisible, flies at a speed of 72”. If frustrated from its purpose the Aerial Servant will turn to its sender, attacking them. The spell ends when the servant retrieves the object or is killed. |
 |7        |Wind Walk                |Personal |1 day (c)     |When uttered, this spell causes the caster and adjacent creatures to become insubstantial and cloudlike. In this form they fly as directed by the caster at a speed of 48”. The caster must maintain concentration for the duration of the spell. |
@@ -193,15 +211,7 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 
 Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult at the table.
 
-**Option 1**: A helmet gives a 1 point bonus to AC (up to AC 7). If a suit of heavy armor is worn, then a helmet is also required or else a 1 point penalty to AC is applied.
-
-**Option 2**: A worn helmet will negate critical hits, rendering it a normal hit.
-
-### Shields
-
-In addition to the normal bonus, any time you take damage that would reduce you to 0 HP or below, you can opt instead to sacrifice your shield, to stay at 1 HP. The shield is shattered and must be discarded. 
-
-* Note: At Judge’s discretion, magic shields instead lose one plus or ability permanently instead.*
+**Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
 
 ### Wizard Staff
 
