@@ -217,6 +217,9 @@ Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult a
 
 The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat).
 
+### Upkeep Costs ###
+Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 to become a 9th level Wizard, etc.
+
 ## Grievous Wounds
 
 When a character reaches or goes below 0 hit points, the character has suffered a grievous wound and must roll on the tables below. Once for location, and again for severity.
