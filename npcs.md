@@ -38,11 +38,8 @@ into the Wizard class removes 1 HP.  Characters graduating to 1st level should h
 **Ability Scores**: Roll 3d6 in order, then add points as desired 
 equal to the starting level + 2 (max 18 in any score).
 
-**Hit Points**: High-level characters re-roll Hit Point rolls of 1 or 2
-for all their levels at the time of generation, then progress normally.
-
-**Languages**: Give one extra language per level up to Intelligence
-Bonus.
+**Hit Points**: High-level characters re-roll results below 3 on any hit dice
+at the time of generation, then progress normally.
 
 **Equipment**: Can select any mundane bit of gear to carry on person,
 encumbrance permitting.
