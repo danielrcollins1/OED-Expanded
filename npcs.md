@@ -36,7 +36,7 @@ into the Wizard class removes 1 HP.  Characters graduating to 1st level should h
 ## Higher Level Characters
 
 **Ability Scores**: Roll 3d6 in order, then add points as desired 
-equal to the starting level + 1 (max 18 in any score).
+equal to the starting level + 2 (max 18 in any score).
 
 **Hit Points**: High-level characters re-roll Hit Point rolls of 1 or 2
 for all their levels at the time of generation, then progress normally.
