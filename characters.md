@@ -6,7 +6,7 @@ Prior to the selection of character race and class, it is necessary to determine
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 2 points to any scores as desired (max 18). 
+Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
 
 ### Modifiers
 
@@ -20,16 +20,16 @@ In OED the modifiers from your ability scores affect the attributes listed below
 - *Charisma*: Reaction Rolls
 
 |Score   |Modifier|
-|---|---|
-|0-2       |-3 |
-|3-5       |-2 |
-|6-8  | -1 | 
-|9-12 | 0 |
-|13-15 | +1 |
-|16-18 | +2 |
-|19-21 | +3 |
-|22-24 | +4 |
-|Every 3  | (+1) |
+|--------|---|
+|0-2     |-3 |
+|3-5     |-2 |
+|6-8     |-1 | 
+|9-12    | 0 |
+|13-15   |+1 |
+|16-18   |+2 |
+|19-21   |+3 |
+|22-24   |+4 |
+|Every 3 |(+1) |
 
 **Experience Points**: In OED, ability scores do not affect XP earned.
 
