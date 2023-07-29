@@ -192,13 +192,12 @@ to attack rolls.
 the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 *not* AC) is less than 10, it misses the (man-size) target.
 
-**Errant Shots**: Ranged attack rolls below 10 miss the target, 
+**Errant Shots**: Ranged attack rolls (as above) below 10 miss the target, 
 but may hit another nearby. Errant, fumbled, or random attacks into groups 
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, then opposed Strength checks 
-(d6 + Str bonus; half HD for monsters). Success means the target is immobilized, 
-or pushed up to ten feet, until they win a Strength check on their turn.
+**Grappling**: Roll a melee attack, if succesful, then opposed Strength checks 
+(d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
 
 ### Death and Healing
 
@@ -244,8 +243,10 @@ attributes and effects have been standardized and are available in the
 |                         |14\. Strength             |14\. Slow                    |
 |                         |15\. Web                  |15\. Suggestion              |
 |                         |16\. Wizard Lock          |16\. Water Breathing         |
-|                         |                          |                             |
+
+
 |**Level 4**              |**Level 5**               |**Level 6**                  |
+|:------------------------|:-------------------------|:----------------------------|
 |1\. Charm Monster        |1\. Animal Growth         |1\. Antimagic Sphere         |
 |2\. Confusion            |2\. Animate Dead          |2\. Control Weather          |
 |3\. Dimension Door       |3\. Cloudkill             |3\. Death Spell              |
@@ -261,7 +262,8 @@ attributes and effects have been standardized and are available in the
 |13\. Wall of Ice         |13\. Wall of Iron         |                             |
 |14\. Wizard Eye          |14\. Wall of Stone        |                             |
 
-- Spells generally need line-of-sight to their target point. All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells). 
+- Spells generally need line-of-sight to their target point.
+- All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells). 
 - Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
 - “Man-size” creatures are those of 1 HD (base, without class levels).
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.

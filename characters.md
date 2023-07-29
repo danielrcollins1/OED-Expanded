@@ -6,7 +6,7 @@ Prior to the selection of character race and class, it is necessary to determine
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 3 points as desired (max 18). 
+Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
 
 ### Modifiers
 
@@ -32,6 +32,24 @@ In OED the modifiers from your ability scores affect the attributes listed below
 |Every 3 |(+1) |
 
 **Experience Points**: In OED, ability scores do not affect XP earned.
+
+## Languages
+
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
+
+**Common**:Common represents the standard Human language of the region. 
+
+**Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
+
+ 
+## Alignment
+
+OED features 3 alignment options:
+
+- *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
+- *Neutral* beings seek a balance, or are simply disinterested.
+- *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
+
 
 ## Race
 
@@ -198,16 +216,4 @@ The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 -   Fighter/Wizards may cast spells so long as they only wield 1 handed melee weapon, and have a free hand.
 -   Thief skills can only be used in Light (Leather) armor.
 
-## Alignment
 
-OED features 3 alignment options:
-
-- *Lawful* beings want civilization peaceful and expanding; they take prisoners, pay taxes, obey the king.
-- *Neutral* beings seek a balance, or are simply disinterested.
-- *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
-
-## Languages
-
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, by Intelligence, at start or later. Alignment/divisional languages must be bought this same way.
-
-The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures. Common represents the standard Human language of the region. Note that alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. PCs are assumed to be literate in any known languages.

@@ -19,15 +19,19 @@ otherwise noted.
 
 **Monster Strength**: If necessary, you can assume a Monster's Strengthmodifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 2 or 3 for quardrapeds, etc).
 
-**Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it
-is capable of harming creatures that normally require +1 magic weapon to
-hit.
+**Gaze Attacks**: Creatures facing beings with Gaze Attacks must make a
+Save each round unless precautions are taken.
+
+**Grab/Grappling**: Roll a melee attack, if succesful, then opposed Strength checks (d6 + 1/2 HD vs d6 + Target Strength Bonus). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet. The target must win a Strength check on their turn to break free.
 
 **Languages**: It is assumed than an intelligent creature has a base 1
 in 6 chance to speak common.
 
-**Gaze Attacks**: Creatures facing beings with Gaze Attacks must make a
-Save each round unless precautions are taken.
+**Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it
+is capable of harming creatures that normally require +1 magic weapon to
+hit.
+
+**Mental Attacks**: Undead, golems, slimes, plants, and other non-intelligent creatures are generally immune to such effects, unless specifically targeting that type.
 
 **Chimera/Gorgons**: Each round roll a 2d6, a result of 7+ means the
 creature will use its breath weapon. It can use its breath weapon a
@@ -51,8 +55,6 @@ equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
 **Horses and Mounts**: Non-Warhorses are unusable in combat, near to fire or
 smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads).
-
-**Mental Attacks**: Undead, golems, slimes, plants, and other non-intelligent creatures are generally immune to such effects, unless specifically targeting that type. 
 
 **Slimes**: Successful attacks by these creatures will cause metal to
 corrode instantly. Metal weapons used against them will corrode on a
