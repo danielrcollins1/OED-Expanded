@@ -12,7 +12,7 @@
 10. [Resources](resources.md)
 
 A. [Appendix A: Additional Material](x-additional-material.md)
-
 B. [Appendix B: Campaign Material](x-campaign-material.md)
+[Endnotes](x-endnotes.md)
 
 For a PDF document of this material, see our latest release on [Github](https://github.com/danielrcollins1/OED-Expanded/releases/latest). 
