@@ -53,8 +53,10 @@ to Morale in full daylight.
 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is
 equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
-**Horses and Mounts**: Non-Warhorses are unusable in combat, near to fire or
-smells, etc. (auto-fail morale).  Mounts can carry up to 1/2 their listed Max Load with no movement penalty (see equipment). Above this amount, they move at 1/2 speed.  Max load is about 40% of the creature's weight (less for creature not used to carry/haul loads).
+**Horses and Mounts**: Only warhorses are usable near combat, fire, smells, etc. (others auto-fail morale). 
+The normal load value indicates the maximum load carried at full-speed;
+up to double this amount can be carried at half-speed.
+The normal load values are set at 1/3 of the equine's body weight.
 
 **Slimes**: Successful attacks by these creatures will cause metal to
 corrode instantly. Metal weapons used against them will corrode on a
