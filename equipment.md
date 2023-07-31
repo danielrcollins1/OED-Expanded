@@ -110,7 +110,7 @@ tough hide (AC 3 or better)
 |Mule                 |20           |\--            |AC 7, MV 12, HD 2+1, normal load 20 stone, will go in dungeons             |
 |Draft Horse          |30           |\--            |AC 7, MV 12, HD 2+1, normal load 40 stone                                  |
 |Light Horse          |40           |\--            |AC 7, MV 24, HD 2, normal load 20 stone                                    |
-|Warhorse (Medium)    |100          |\--            |AC 7, MV 18, HD 2+1, normal load 30, used to fire/combat                   |
+|Warhorse (Medium)    |100          |\--            |AC 7, MV 18, HD 2+1, normal load 30 stone, used to fire/combat             |
 |Warhorse (Heavy)     |200          |\--            |AC 7, MV 12, HD 3, normal load 40 stone, used to fire/combat               |
 |Saddle               |25           |1              |                                                                           |
 |Saddlebags           |10           |\--            |Holds 3 stone                                                              |
