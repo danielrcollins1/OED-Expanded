@@ -101,8 +101,6 @@ tough hide (AC 3 or better)
 |Holy Symbol (Wood)   |2            |\--            |                                                                           |
 |Holy Symbol (Silver) |25           |\--            |                                                                           |
 |Holy Water (Vial)    |25           |\--            |                                                                           |
-|Spellbook            |50           |1/3            |Blank; Rugged; Can hold 1 level worth of spells.                           |
-|Thieves Tools        |25           |1/3            |Needed to Open Lock and Remove Traps                                       |
 |Wolfsbane (Bunch)    |10           |\--            |Wards vs Lycanthropes (Must save vs Breath to attack)                      |
 |Belladona (Bunch)    |10           |\--            |Lycanthropy cure, consume just after infection (save vs poison to work)    |
 |Garlic (Head)        |5            |\--            |Wards vs Vampires (Must save vs Breath to attack)                          |
@@ -122,6 +120,7 @@ tough hide (AC 3 or better)
 |Post for Hirelings   |100          |\--            |Attracts 1d3 potential recruits of 1st-level(see Hirelings)                |
 |Potion of Healing    |200          |\--            |Heals 1d6+1 HP                                                             |
 |Potion of Mithridate |1,000        |\--            |Neutralizes Poison in imbiber                                              |
+|Spellbook (Blank)    |100          |1              |Large; can hold up to 12 spells.                                           |
 |Small Boat           |100          |\--            |10 – 20’ long, 4 occupants plus 1 ton, sail or oar                         |
 |Room & Board (week)  |15           |\--            |Communal space and meals                                                   |
 |Sage or Specialist   |10           |\--            |Per Day Rate                                                               |
