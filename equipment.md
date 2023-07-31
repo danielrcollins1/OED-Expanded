@@ -107,11 +107,11 @@ tough hide (AC 3 or better)
 |Belladona (Bunch)    |10           |\--            |Lycanthropy cure, consume just after infection (save vs poison to work)    |
 |Garlic (Head)        |5            |\--            |Wards vs Vampires (Must save vs Breath to attack)                          |
 |Wine (Quart)         |1            |\--            |Account for weight in wineskin                                             |
-|Mule                 |20           |\--            |AC 7, Mv 60’, HD 2+1, carry 24 stone, will go in dungeons                  |
-|Draft Horse          |30           |\--            |AC 7, Mv 60’, HD 2+1, carry 48 stone                                       |
-|Light Horse          |40           |\--            |AC 7, Mv 120’, HD 2, carry 24 stone                                        |
-|Warhorse (Medium)    |100          |\--            |AC 7, Mv 90’, HD 2+1, carry 36 stone, used to fire/combat                  |
-|Warhorse (Heavy)     |200          |\--            |AC 7, Mv 60’, HD 3, 48carry stone, used to fire/combat                     |
+|Mule                 |20           |\--            |AC 7, MV 12, HD 2+1, normal load 20 stone, will go in dungeons             |
+|Draft Horse          |30           |\--            |AC 7, MV 12, HD 2+1, normal load 40 stone                                  |
+|Light Horse          |40           |\--            |AC 7, MV 24, HD 2, normal load 20 stone                                    |
+|Warhorse (Medium)    |100          |\--            |AC 7, MV 18, HD 2+1, normal load 30, used to fire/combat                   |
+|Warhorse (Heavy)     |200          |\--            |AC 7, MV 12, HD 3, normal load 40 stone, used to fire/combat               |
 |Saddle               |25           |1              |                                                                           |
 |Saddlebags           |10           |\--            |Holds 3 stone                                                              |
 |Barding              |150          |6              |Horse armor, gives +4 AC bonus                                             |
