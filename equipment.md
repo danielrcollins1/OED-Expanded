@@ -30,7 +30,7 @@ modifier to some rolls (see Adventuring Tasks).
 |Level 0|Up to 1/3 Strength Score|Full Movement Rate: 12" (60')|
 |Level 1|Up to 2/3 Strength Score|Movement Reduced 1/3: 9" (45')|
 |Level 2|Up to Strength Score|Movement Reduced 1/2 :6" (30')|
-|Level 3|Up to 1.5x Strength Score|Movement Reduced to 0|
+|Level 3|Up to 2x Strength Score|Movement Reduced to 3" (15')|
 
 ## Weapons
 
@@ -48,19 +48,19 @@ tough hide (AC 3 or better)
 
 |**Weapon**     |**Category**|**Cost (SP)**|**Damage**|**Weight**|**Properties**                        |
 |:--------------|:-----------|:------------|:---------|:--------|:-------------------------------------|
+|Dagger         |Light       |3            |1d4       |1/12     |“Sword”; Thrown 60’                   |
+|Dagger (silver)|Light       |30           |1d4       |1/12     |“Sword”; Thrown 60’                   |
 |Crude Club     |Light       |\--          |1d6       |1/3      |Thrown 60’; not a “Club” type weapon  |
-|Dagger         |Light       |3            |1d4       |1/3      |“Sword”; Thrown 60’                   |
-|Dagger (silver)|Light       |30           |1d4       |1/3      |“Sword”; Thrown 60’                   |
 |Spear          |Light       |1            |1d6       |1/3      |“Spear”; Thrown 60’                   |
 |Hand Axe       |Light       |3            |1d6       |1/3      |“Axe”; Thrown 60’                     |
 |Mace           |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
 |Hammer         |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
 |Military Pick  |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
-|Staff          |Medium      |1            |1d6       |1        |Two Hands needed to attack            |
-|Sword          |Medium      |10           |1d8       |1        |“Sword”                               |
-|Polearm        |Medium      |7            |1d8       |1        |“Spear”; Two Handed                   |
-|Battle Axe     |Medium      |7            |1d8       |1        |“Axe”                                 |
-|Morning Star   |Medium      |6            |1d8       |1        |“Club”                                |
+|Staff          |Medium      |1            |1d6       |1/3      |Two Hands needed to attack            |
+|Sword          |Medium      |10           |1d8       |1/3      |“Sword”                               |
+|Polearm        |Medium      |7            |1d8       |1/3      |“Spear”; Two Handed                   |
+|Battle Axe     |Medium      |7            |1d8       |1/3      |“Axe”                                 |
+|Morning Star   |Medium      |6            |1d8       |1/3      |“Club”                                |
 |2H Sword       |Heavy       |15           |1d10      |1        |“Sword”                               |
 |Lance          |Heavy       |4            |1d8       |1        |“Spear”; x2 Damage on Charging Mount  |
 |Pike           |Heavy       |5            |1d8       |1        |“Spear”; x2 Damage when set vs charge |
@@ -68,7 +68,7 @@ tough hide (AC 3 or better)
 |Flail          |Heavy       |8            |1d8       |1        |“Club”; Ignore Target Shield Bonus    |
 |Sling          |Light       |1            |\--       |\--      |Fire every other round; Range 60’     |
 |Light Crossbow |Light       |15           |\--       |1/3      |Fire every other round; Range 95’     |
-|Heavy X-bow    |Heavy       |25           |\--       |1        |Fire every other round; Range 120’    |
+|Heavy X-bow    |Heavy       |25           |\--       |1/3      |Fire every other round; Range 120’    |
 |Short Bow      |Medium      |25           |\--       |1/3      |Range 75’                             |
 |Long Bow       |Heavy       |40           |\--       |1/3      |Range 105’                            |
 |Composite Bow  |Heavy       |50           |\--       |1/3      |Range 90’                             |
@@ -90,9 +90,9 @@ tough hide (AC 3 or better)
 |Small Sack           |1            |\--            |Holds 1/3 Stone                                                            |
 |Large Sack           |2            |\--            |Holds 2 Stone                                                              |
 |Leather Back Pack    |5            |1/3            |Holds 3 Stone                                                              |
-|Water/Wine Skin      |1            |1/3            |Encumbrance = when full                                                    |
-|Iron Rations (Dry)   |15           |1              |1 weeks food for 1 person, resists spoilage                                |
-|Rations (Fresh)      |5            |1              |1 weeks food for 1 person                                                  |
+|Water/Wine Skin      |1            |1/3            |Holds a half-gallon (full weight shown)                                    |
+|Rations              |5            |1              |Food for 1 person-week (e.g., salt pork or fish, tack, cheese)             |
+|Iron Rations         |15           |1              |Canned food for 1 person-week (must be bought from Dwarves)                |
 |Lantern              |10           |1/3            |Good light 30’, dim light 60’ radius, 4 hours per flask.                   |
 |Lantern Oil (Flask)  |2            |1/3            |Is not flammable but can ignite flammable items.                           |
 |3 Stakes & Mallet    |3            |1/3            |                                                                           |
@@ -104,25 +104,25 @@ tough hide (AC 3 or better)
 |Spellbook            |50           |1/3            |Blank; Rugged; Can hold 1 level worth of spells.                           |
 |Thieves Tools        |25           |1/3            |Needed to Open Lock and Remove Traps                                       |
 |Wolfsbane (Bunch)    |10           |\--            |Wards vs Lycanthropes (Must save vs Breath to attack)                      |
-|Belladona (Bunch)    |10           |\--            |Lycanthropy cure, consume just after infection (Save vs poison for success)|
+|Belladona (Bunch)    |10           |\--            |Lycanthropy cure, consume just after infection (save vs poison to work)    |
 |Garlic (Head)        |5            |\--            |Wards vs Vampires (Must save vs Breath to attack)                          |
-|Wine (Quart)         |1            |1/3            |                                                                           |
+|Wine (Quart)         |1            |\--            |Account for weight in wineskin                                             |
 |Mule                 |20           |\--            |AC 7, Mv 60’, HD 2+1, carry 24 stone, will go in dungeons                  |
 |Draft Horse          |30           |\--            |AC 7, Mv 60’, HD 2+1, carry 48 stone                                       |
 |Light Horse          |40           |\--            |AC 7, Mv 120’, HD 2, carry 24 stone                                        |
 |Warhorse (Medium)    |100          |\--            |AC 7, Mv 90’, HD 2+1, carry 36 stone, used to fire/combat                  |
 |Warhorse (Heavy)     |200          |\--            |AC 7, Mv 60’, HD 3, 48carry stone, used to fire/combat                     |
-|Saddle               |25           |2              |                                                                           |
+|Saddle               |25           |1              |                                                                           |
 |Saddlebags           |10           |\--            |Holds 3 stone                                                              |
-|Horse Armor          |150          |4              |AC 5                                                                       |
-|Cart                 |100          |\--            |2 Wheels, can hold 2000 pounds,                                            |
-|Wagon                |200          |\--            |4 Wheels, can hold up to 4000 pounds                                       |
-|Raft                 |40           |\--            |1-2 occupants plus 800 pounds, drifts with current                         |
+|Barding              |150          |6              |Horse armor, gives +4 AC bonus                                             |
+|Cart                 |100          |\--            |2 Wheels, can hold 1 ton                                                   |
+|Wagon                |200          |\--            |4 Wheels, can hold 2 tons                                                  |
+|Raft                 |40           |\--            |1-2 occupants plus 60 stone, drifts with current                           |
 |Rumors               |d6x10        |\--            |via rounds of drinks/bribes; generated by GM.                              |
-|Post for Hirelings   |100          |\--            |Attracts 1d3 1<sup>st</sup> level potential recruits (see Hirelings)       |
+|Post for Hirelings   |100          |\--            |Attracts 1d3 potential recruits of 1st-level(see Hirelings)                |
 |Potion of Healing    |200          |\--            |Heals 1d6+1 HP                                                             |
 |Potion of Mithridate |1,000        |\--            |Neutralizes Poison in imbiber                                              |
-|Small Boat           |100          |\--            |10 – 20’ long, 4 occupants plus 2000 pounds, sail or oar                   |
+|Small Boat           |100          |\--            |10 – 20’ long, 4 occupants plus 1 ton, sail or oar                         |
 |Room & Board (week)  |15           |\--            |Communal space and meals                                                   |
 |Sage or Specialist   |10           |\--            |Per Day Rate                                                               |
 |Monthly Upkeep       |Varies       |\--            |1% of XP in SP (min 20) per month or -10% to Attack/HP                     |
@@ -138,10 +138,9 @@ Plate takes 10 minutes and requires assistance.
 |:----------------------|:----------|:-----------:|:----:|
 | Unarmored             | \--       |  9          |   \--|
 | Leather (Light)       | 15        |   7         |     1|
-|  Chain Mail (Medium)  | 50        |   5         |     2|
-|  Plate Mail (Heavy)   | 200       |   3         |     4|
-|  Shield               | 10        |  -1         |     1|
-|  Helmet (Heavy)       |10         | \*          |   1/3|
+| Chain Mail (Medium)   | 50        |   5         |     2|
+| Plate Mail (Heavy)    | 200       |   3         |     4|
+| Shield                | 10        |  -1         |     1|
+| Helmet                |10         | \*          |   1/3|
 
-\* **Helmets**: If a helmet is *not* worn, 1 in 6 attacks are against the
-head at AC 9.
+\* **Helmets**: A helmet gives a 50% chance (3-in-6) to neutralize a critical hit, turning it into a normal hit instead.
