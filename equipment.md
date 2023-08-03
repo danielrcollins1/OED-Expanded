@@ -78,8 +78,8 @@ tough hide (AC 3 or better)
 |Quarrels       |N/A: Ammo   |5            |1d6       |1/3      |Qty 30                                |
 |Quiver/Case    |N/A: Gear   |5            |\--       |\--      |Holds 30 Quarrels/20 Arrows/10 Bullets|
 
-
 ## Gear
+
 |**Item**             |**Cost (SP)**|**Weight**     |**Notes**                                                                  |
 |:--------------------|:------------|:--------------|:--------------------------------------------------------------------------|
 |Coins (1000)         |Varies       |1              |When in an appropriate container                                           |
