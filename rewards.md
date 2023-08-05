@@ -28,7 +28,7 @@ The table below dictates the type of treasure present.
 |Copper		|1 in 6		|2d6 x 50 x dungeon level		|N/A|				
 |Silver		|1 in 6		|2d6 x 20 x dungeon level		|N/A|	
 |Gold		|1 in 6		|2d6 x 5 x dungeon level		|N/A|
-|Gems		|1 in 6		|d6 x dungeon level		|d6 x 20|
+|Gems		|1 in 6		|d6 x dungeon level		|d6 x 20 each|
 |Jewelry		|1 in 6		|1				|3d6 x 50 x level|
 |Magic		|2 in 6		|1				|**|
 
