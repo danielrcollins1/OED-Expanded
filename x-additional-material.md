@@ -92,9 +92,13 @@ using the above spells as a guideline for streamlining the entry.
 
 ## Class Abilities
 
+### Subdual Attacks
+
+Blunt, wooden weapons can optionally be used to attack for nonlethal damage (knockout at 0 hit points); damage from critical hits becomes lethal (regardless of user intent).
+
 ### Unarmed Attacks
 
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus.
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack.
 
 ### Fighter Feats (New)
 
@@ -244,36 +248,33 @@ Should a creature find themselves immersed in a new language (and have no spare 
 
 ## Tournaments and Contests
 
+### Jousting
+
+In a proper tournament joust, riders must wear plate armor and shield
+with no enchantments. They make use of blunted lances (subdual damage).
+
+Each ride, the participants roll their standard melee attack. On a hit,
+the target must save vs stone. If the save is successful, the attacker's
+lance breaks. If the save fails, the target is unhorsed. 
+Participants take rides until one is unhorsed.
+
+### Melee
+
+Up to 50 participants per side line up across a field in equal armor, 
+no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal;
+the event ends when one side is entirely down or surrenders. 
+This can also be resolved quickly using Book of War.
+
 ### Archery
 
 Each participant gets to take 6 shots at a dish sized target 30 feet
 away backed by an earthen "butt". The target itself is AC 10, and some
 targets will have inner rings of AC 5 and AC 0. Each hit on the target
 scores 1 point. Inner rings are worth 2 or 3 points respectively. A
-critical failure misses the butt entirely and may result in penalties.
+critical failure misses the butt entirely.
 
 In head-to-head competition, participants alternate shots. On a critical
 hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
-
-### Jousting (Simplified)
-
-In a proper tournament joust, riders must wear plate armor and shield
-with no enchantments. They make use of blunted lances (no double damage
-from a charging mount). Participants take rides until one is unhorsed,
-or breaks three lances.
-
-Each ride, the participants roll their standard melee attack. On a hit,
-the target must save vs stone. If the save is successful, the attacker's
-lance breaks. If the save fails, the target is unhorsed. If the save is
-a critical failure, the target also takes lance damage.
-
-### Melee Rumble
-
-Up to 50 participants per side line up across a field in equal armor,
-blunt clubs, and no enchantments. Melee proceeds as normal, but the
-damage is non-lethal (0 HP only results in a Knock out). The event ends
-when one side is entirely down or surrenders. This can also be resolved
-quickly using Book of War.
 
 ## War Machine, Book of
 
