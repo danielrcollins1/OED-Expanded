@@ -189,8 +189,6 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
-
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
