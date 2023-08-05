@@ -1,4 +1,4 @@
-# Endnotes
+# Design Notes
 
 This section gives references, citations, and justifications for OED rules. We do the research so you don't have to.
 
