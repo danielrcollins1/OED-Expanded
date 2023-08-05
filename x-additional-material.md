@@ -94,11 +94,7 @@ using the above spells as a guideline for streamlining the entry.
 
 ### Unarmed Attacks
 
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 (+Str Bonus) points of damage. An unarmored Fighter or Thief can punch twice per round against a single target. 
-
-### War Magic
-
-In order to bridge the gap between dungeon and field combat, spell-casters of 10th level can gain access to War Magic as a class ability. This ability increases the range of spells by a factor of 4 (1” on the table equates to 20 feet). For more details on field combat, reference OED Book of War.
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus.
 
 ### Fighter Feats (New)
 
@@ -106,7 +102,7 @@ In order to bridge the gap between dungeon and field combat, spell-casters of 10
 
 **Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
 
-**Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move /act) for 1 round.
+**Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage, plus your full Strength bonus. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move/act) for 1 round.
 
 ## Clerics
 
@@ -157,7 +153,7 @@ A Familiar is a spirit that takes on the form of a small animal to provide magic
 
 **Saves**: As owner.
 
-**Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can 	understand the familiar. 
+**Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can understand the familiar. 
 When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
 
 ### Slime Splitting
@@ -175,18 +171,14 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 
 ### Non-Proficiency
 
-**Using prohibited Armor**: Double encumbrance and halve bonus
-**Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step
+**Using prohibited Armor**: Double encumbrance, halve bonus, negate any Thief or Wizard abilities.
+**Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step.
 
 ### Helmets
 
-Alternatives rules for helmets, should tracking 1 in 6 attacks prove difficult at the table.
+Alternatives rules for helmets, in case the save vs. criticals is undesirable:
 
 **Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
-
-### Wizard Staff
-
-The Judge may choose to allow a Staff to attack from the second rank (permitting a wizard who is out of spells to participate more safely in combat).
 
 ### Upkeep Costs ###
 Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 to become a 9th level Wizard, etc.
