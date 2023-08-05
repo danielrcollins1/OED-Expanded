@@ -92,10 +92,6 @@ using the above spells as a guideline for streamlining the entry.
 
 ## Class Abilities
 
-### Subdual Attacks
-
-Blunt, wooden weapons can optionally be used to attack for nonlethal damage (knockout at 0 hit points); damage from critical hits becomes lethal (regardless of user intent).
-
 ### Unarmed Attacks
 
 When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack.
@@ -141,7 +137,7 @@ An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, des
 
 **Spells known**: Clerics start with knowledge of all the standard Cleric spells in Vol 1.
 
-**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day per spell level (3 tries per spell)
+**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
 **Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
@@ -176,6 +172,7 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 ### Non-Proficiency
 
 **Using prohibited Armor**: Double encumbrance, halve bonus, negate any Thief or Wizard abilities.
+
 **Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step.
 
 ### Helmets
