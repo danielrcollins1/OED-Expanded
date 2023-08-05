@@ -199,6 +199,8 @@ are assessed with a raw d20 roll that ignores attacker skill and range modifiers
 **Grappling**: Roll a melee attack, if succesful, then opposed Strength checks 
 (d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
 
+**Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage (knockout at 0 hit points); damage from critical hits becomes lethal (regardless of user intent).
+
 ### Death and Healing
 
 **Zero Hit Points**: When a character reaches or goes below 0 hit
