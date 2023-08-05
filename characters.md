@@ -193,9 +193,9 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
-*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
-
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
+
+*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
 
 ### Multi Classing
 
