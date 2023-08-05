@@ -177,7 +177,7 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 
 ### Helmets
 
-Alternatives rules for helmets, in case the save vs. criticals is undesirable:
+Alternatives rule for helmets, in case the save vs. criticals is undesirable:
 
 **Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
 
