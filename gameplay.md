@@ -229,7 +229,7 @@ attributes and effects have been standardized and are available in the
 
 |**Level 1**              |**Level 2**               |**Level 3**                  |
 |:------------------------|:-------------------------|:----------------------------|
-|1\. Charm Person         |1\. Continuing Light      |1\. Clairaudience            |
+|1\. Charm Person         |1\. Continual Light       |1\. Clairaudience            |
 |2\. Detect Magic         |2\. Darkness              |2\. Clairvoyance             |
 |3\. Hold Portal          |3\. Detect Evil           |3\. Dispel Magic             |
 |4\. Light                |4\. Detect Invisibility   |4\. Fireball                 |
