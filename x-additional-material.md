@@ -37,7 +37,7 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 |Level 3  |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |3        |Cause Disease            |Touch    |Permanent     |When this spell is cast the target becomes diseased, losing 1d6 Strength immediatly.  Each week the target must make a save vs breath or lose another 1d6 Strength.  This remains the case until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
-|3        |Continual Darkness       |60'      |1 Week        |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light spells. Further, it prevents re-ignition of any light sources during the duration, save for a Continual Light spell, or similar effect.  |
+|3        |Continuing Darkness       |60'      |1 Week        |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light spells. Further, it prevents re-ignition of any light sources during the duration, save for a Continual Light spell, or similar effect.  |
 |3        |Cure Disease             |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy is a Curse).   |
 |3        |Prayer                   |60'      |6 Turns       |This spell places a Hex on creatures in the area (10' radius globe). The targets suffer a -2 to all Saves.  |
 |3        |Speak with Dead          |30'       |6 Turns       |This spell allows the caster to ask 3 questions of the departed spirit of a recently dead body. The age of the body that can be questioned is determined by the caster level. Caster level 1+ = 1 day / level; Caster level 10+ = 1 week / level; Caster level 20 = No Limit. |
@@ -94,7 +94,7 @@ using the above spells as a guideline for streamlining the entry.
 
 ### Unarmed Attacks
 
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack.
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack (Target unconcious at 0HP, crits = lethal damage).
 
 ### Fighter Feats (New)
 
@@ -245,6 +245,17 @@ Should a creature find themselves immersed in a new language (and have no spare 
 
 ## Tournaments and Contests
 
+### Archery
+
+Each participant gets to take 6 shots at a dish sized target 30 feet
+away backed by an earthen "butt". The target itself is AC 10, and some
+targets will have inner rings of AC 5 and AC 0. Each hit on the target
+scores 1 point. Inner rings are worth 2 or 3 points respectively. A
+critical failure misses the butt entirely.
+
+In head-to-head competition, participants alternate shots. On a critical
+hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
+
 ### Jousting
 
 In a proper tournament joust, riders must wear plate armor and shield
@@ -262,16 +273,6 @@ no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal;
 the event ends when one side is entirely down or surrenders. 
 This can also be resolved quickly using Book of War.
 
-### Archery
-
-Each participant gets to take 6 shots at a dish sized target 30 feet
-away backed by an earthen "butt". The target itself is AC 10, and some
-targets will have inner rings of AC 5 and AC 0. Each hit on the target
-scores 1 point. Inner rings are worth 2 or 3 points respectively. A
-critical failure misses the butt entirely.
-
-In head-to-head competition, participants alternate shots. On a critical
-hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
 
 ## War Machine, Book of
 
