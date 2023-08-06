@@ -212,15 +212,15 @@ First, determine the threat rank of the area. You can presume that any “settle
 
 To determine the nature of the encounter, first roll a d6 and consult the result against the number of hexes from civilization. This will give you the “Threat” rank (I – VI) of the creature.
 
-|**Hexes from Civilization**|**d6 Result**|      |       |      |     |      |||**Threat Rank**|**Monster (Equivalent)<br>Hit Dice**|
-|:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|---|---|:---------------|:------------------------------------|
-|1                      |1-4          |5     |6      |      |     |      |||**I**          |1 HD                                |
-|2                      |1-2          |3-4   |5      |6     |     |      |||**II**         |2 HD                                |
-|3-4                    |1            |2     |3-4    |5     |6    |      |||**III**        |3-4 HD                              |
-|5-7                    |             |1     |2      |3-4   |5    |6     |||**IV**         |5-7 HD                              |
-|8-10                   |             |      |1      |2     |3-4  |5-6   |||**V**          |8-10 HD                             |
-|11                     |             |      |       |1     |2    |3-6   |||**VI**         |11+ HD                              |
-|**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|||               |                                    |
+|**Hexes from Civilization**|**d6 Result**|      |       |      |     |      ||**Threat Rank**|**Monster (Equivalent)<br>Hit Dice**|
+|:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|---|:---------------|:------------------------------------|
+|1                      |1-4          |5     |6      |      |     |      ||**I**          |1 HD                                |
+|2                      |1-2          |3-4   |5      |6     |     |      ||**II**         |2 HD                                |
+|3-4                    |1            |2     |3-4    |5     |6    |      ||**III**        |3-4 HD                              |
+|5-7                    |             |1     |2      |3-4   |5    |6     ||**IV**         |5-7 HD                              |
+|8-10                   |             |      |1      |2     |3-4  |5-6   ||**V**          |8-10 HD                             |
+|11                     |             |      |       |1     |2    |3-6   ||**VI**         |11+ HD                              |
+|**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**||               |                                    |
 
 Next, determine the type of creature encountered. This is done with a d6 as shown below:
 
@@ -302,10 +302,6 @@ Characters and creatures are presumed to be adequately dressed or acclimated to 
 
 **Extreme Temperatures**: You suffer 1d6 damage per hour and must additionally save vs death or suffer -1d6 Strength.
 
-#### Night/Darkness
-
-Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
-
 #### Resources
 
 The above rules assume groups are carrying food and water for their journey, supplemented with light foraging. If a party runs out of resources, they suffer the effects below.
@@ -314,18 +310,10 @@ The above rules assume groups are carrying food and water for their journey, sup
 
 **Lack of Food**: You have a 50% chance each day without food to suffer 1 point of damage (1d3 if engaging in strenuous activity). You also suffer 1d6 damage per week without food and must additionally save vs death or suffer -1d6 Strength.
 
-### Longer Journeys
+#### Night/Darkness
 
-Perhaps you wish to abstract a long journey, instead of engaging in exploration. For each 100 miles of travel, roll on the table below, modified by the Difficulty Factor of the worst terrain encountered on the route. Allow the party to make decisions/take mitigating actions between each roll (effects are cumulative). 
+Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
 
-|2d6	|Outcome| 
-|:---|:-------------------------------------------|
-|3-4	|Safe: Arrive 1 day early, no ill effects|
-|5-7	|Safe: Arrive on time, no ill effects|
-|8	|Delayed: Arrive 1d3 days behind|
-|7	|Costly: Each traveler loses d6x 10 x Hit Die Silver Pieces|
-|8-13	|Bloodied: Each traveler loses one-quarter total HP|
-|14-15	|Exposure: Each traveler loses one-half total HP. Save vs Death or lose 1d6 Strength|
 
 ## Bases and Stongholds
 
@@ -373,154 +361,3 @@ For variety, the Judge can roll 2d6 on the table below once per season to determ
 |9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration|
 |12	|Boon: Title of Nobility, Magic Item, Special Allies, etc.|
 
-### Combat and Sieges
-
-**Armor Class**: The structure by itself is a large, immobile target. When Armor Class is called for, use 20.
-
-**HP/Damage**: Divvy structures into 20’ sections to adjudicate attacks. Stone buildings and walls have 100 hp, while wooden ones have 30. When reduced to 0, that particular section of the structure is comprised (walls a breached, towers collapse, gates are opened, etc.) The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a structure based on the attack type and building material(s). 
-
-**Supplies**: When in doubt, assume a stronghold has enough resources to survive a siege for 2d6 months.
-
-**Siege Weapons and Attacks**: When an attack roll is called for a siege weapon, use the attack bonus of the person manning the weapon (crew, captian, PC, etc.) Presume a +0 to hit in most cases.
-
-|Weapon		|Cost (sp)	|Rate of Attack	|Damage	|Range|
-|:---|:---|:---|:---|:---|
-|Ballista 	|100 		|1/3 rounds	|2d6 		|1500'| 
-|Battering Ram 	|100		|1/2 rounds	|2d6 		|0|
-|Catapult	|200 		|1/6 rounds	|4d6 		|500’ to 1000'| 
-|Trebuchet 	|400 		|1/10 rounds	|6d6 		|500’ to 1500'| 
-
-**Ballista**: This bolt thrower has a 180* firing arc at a range of 1500 feet (-1 to hit for every 100 feet). It inflicts 1d6 damage against a structure and creatures in a 10 foot line. It can be fired once every 3 rounds and requires a crew of 4.
-
-**Battering Ram**: This is a stout 10’ log, often capped with metal, used to bash against a door. It weighs 400 pounds and requires 10 average strength creatures to operate. The crew can charge once every other round.
-
-**Catapult**: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet). It inflicts 4d6 damage to a structure and creatures within a 10’ radius. It can be fired once every 6 rounds and requires a crew of 6.
-
-**Trebuchet**: This large mechanical sling can hurl rocks, irons balls, or junk in a 90* arc to ranges between 500 and 1,500 feet (-1 to hit for every 100 feet). It inflicts 6d6 damage to a structure and creatures within a 10’ radius. It can be fired once per minute and requires a crew of 10.
-
-## Nautical Adventuring
-
-There are myriad factors to consider regarding watercraft and travel. Presented below is a simplified approach to allow manageable adventures and combats at sea.
-
-### Types of Vessels
-
-There are countless types of vessels across history for use in a game world. Just as the various types of weapons and armor are abstracted down to a few types, vessels are presented by the types below.
-
-**Oared, Large**: Propelled primarily with multiple rows of oars, they are able to travel in the open water of inland seas; otherwise, they must hug the coasts. They also possess a set of sails. *Ex: Large Galley/Trireme*.
-
-**Oared, Medium**: Propelled primarily by a single large row of oars, they are built for speed. They likewise typically only hug the coasts or island hop. They also possess a sails. *Ex: Longship*.
-
-**Oared, Small**: Propelled primarily by a single row of oars, they typically only hug the coasts or island hop. They also possess a set of sails. *Ex: Small Galley/Dromon*.
-
-**Sailed, Large**: These multi-masted vessels are capable of safely traversing the open ocean between continents. However, they are unable to traverse all but the largest rivers. *Ex: Galleon*.
-
-**Sailed, Medium**: Possessing one or two masts, they are suitable for travel on inland seas or island hopping. *Ex: Caravel/Large Merchant Ship*.
-
-**Sailed, Small**: Single-masted, these vessels typically hug the coasts and traverse rivers. *Ex: Kogge/Small Merchant Ship*.
-
-|**Vessel Type**|**Dimensions**     |**Travel Speed***|**Tactical Speed**|**Aboard**                      |**Capacity**|**Weapons**|**Cost (sp)**|**HP (avg)**|
-|---------------|-------------------|------------------|-----------------------|--------------------------------|------------|-----------|-------------|------------|
-|Oared, Large   |L 120-160’, W 20-30’|O: 30, S: 50      |O: 50’, S: 30’         |20 crew, 50 Warriors, 100 Rowers|150 tons    |Fore/Aft   |30000        |160         |
-|Oared, Med     |L 75-100’, W 15-20’ |O: 30, S: 75      |O: 40’, S: 50’         |15 Crew, 30 Warriors, 60 Rowers |100 Tons    |           |20000        |100         |
-|Oared, Small   |L 30-60’, W 10-15’  |O: 30, S: 60      |O: 40’, S: 40’         |10 Crew, 20 Warriors, 50 Rowers |50 Tons     |Fore       |10000        |60          |
-|Sail, Large    |L 100-130’, W 25-30’|S: 75             |S: 50’                 |20 Crew, 50 Warriors            |400 Tons    |Fore/Aft   |40000        |140         |
-|Sail, Med      |L 50-80’, W 15-25’  |S: 60             |S: 40’                 |20 Crew                         |200 Tons    |Fore       |20000        |85          |
-|Sail, Small    |L 25-40’, W 10-15’  |S: 60             |S: 40’                 |15 Crew                         |50 Tons     |           |5000         |45    
-
-\* See: [Ancient Sailing | Ancient Ports - Ports Antiques](ancientportsantiques.com) 
-
-**Dimensions**: This is the range of Keel length and Beam width that typifies this sort of vessel. 
-
-**Travel Speed**: This is the average amount of open water the vessel can traverse in a 12 hour “day”, it presumes that wind, water, and other factors average out. The Judge may apply modifiers (+/- 30%) based on conditions (storm season, currents, shoals, crew status, captain skill, ship condition, etc.).
-
-*Note: Ships propelled by Oar can not travel at night as they must land in order to rest and feed the rowers. Likewise, ships not in open water (rivers, shallows, or hugging coasts) may not travel at night.*
-
-**Tactical Speed**: This is the base speed, per 10 second round, that the vessel can travel in combat or other tactical situations (See below).
-
-*Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew. They can continue for up to another 10 minutes, but will be unable to travel by oar afterwards.*
-
-**Aboard**: This is the standard deployment of operating personnel on the vessel, including weapon crews.
-
-**Capacity**: Once the space for crew, soldiers, weapons, and provisions is accounted, this is the amount of space available for additional cargo, goods, and passengers measured in long tons (1 passenger depletes 1 ton). This is equal to the vessels cost divided by 100 in tons; half again for oared vessels.
-
-**Weapons**: These are the locations of shipboard weapons in the standard build out. The weapon(s), ammo, and crew are accounted for in the Cargo and Crew values. See below for weapon types.
-
-**Cost**: The cost of the vessel, it does not cover the cost of upkeep (crew, provisions, ammunition, documents, etc). Support Costs for Rowers is 1 SP per month, Crew cost 10 SP, Warriors are 2 SP (as men at arms).
-
-**Average Hit Points**: Ships have a number of hit points equal to their (keel) length plus (beam) width.
-
-### Ship to Ship Engagements
-
-Once ships are in range of siege weapons (about 1,500 feet apart), combat and movement can begin to tracked in a manner similar to characters (or as forces per OED Book of War). 
-
-#### Ship Characteristics
-
-**Armor Class**: Attacks against a ship itself by adjacent creatures are targeting a large, relatively immobile target. When an Armor Class is called for, use AC 20.
-
-**HP/Damage**: The Judge is encouraged to use common sense about what sorts of attacks will inflict damage against a vessel. When reduced to 0, the ship has sustained enough damage be dead in the water and will begin to sink.
-
-**Speed**: During engagements, vessels use the tactical speed listed above, with modifications due to wind and weather (see below). Oared Vessels can travel at double the listed speed for 10 minutes without exhausting the crew. They can continue for up to another 10 minutes, but unable to travel by oar afterwards.
-
-**Turning**: Oared vessels can turn 45* every 200’ traversed on a grid (60*/240’: if using hexes); Sailing vessels can turn 45* every 340’ traversed on a grid. (60*/440’: if using hexes).
-
-### Wind and Weather
-
-When dealing with voyages (as above) we can average out the effect of wind, sea, and other factors. For ships maneuvering around one another for combat; we must know the conditions of the “battlefield”. 
-
-#### Determine Weather and Wind
-
-Determine the weather at the time of the engagement, followed by the wind strength. 
-
-|d6	|Weather (Wind d6)|
-|:---|:---------------------------------------------------|
-|1-3	|Clear (d6; 1 = Calm, 2-5 = Light Breeze, 6 = Windy)|
-|4-5	|Cloudy (d6: 1-4 = Light Breeze, 5-6 = Windy) |
-|6	|Precipitation: 1 in 6 chance to be Stormy* (d6: 1-2 = Light Breeze, 3-6 = Windy)|
-	
-\* Stormy (always Gale force winds)
-
-#### Wind Adjustments to Sailing Speed
-
-As mentioned above, vessels have a base speed for tactical movement. Tactical sailing speed is modified by the direction of the wind, relative to the vessel’s prow as noted below.
-
-- In **Calm** winds, Vessels cannot move under sail power.
-- In a **Light Breeze**, sailing vessels speed is reduced by 25%
-- In **Windy** conditions sailings vessles speed is normal.
-- In a **Gale**, ships make no progress, they must hunker down and go where the winds/currents take them. Galleys have 1 in 6 chance per hour to take on water. If this happens 3 times, the ship begins to sink. 
-
-##### Wind Directon and Sailing Speed 
-
-Use a d8 to determine the cardinal direction of the wind 1 = North, working clockwise. 
-
-- Sailing in the same direction as the wind (within 45*): No special effect, use the listed speed.
-- Sailing perpendicular to the wind (within 45*): Reduce speed by 25%.
-- Sailing against the wind (within 45*): Reduce speed by 50%.
-- Oared speed is not impacted by wind direction.
-
-### Ship Weapons & Attacks
-
-When an attack roll is called for a ship’s weapon, use the attack bonus of the person manning the weapon (crew, captian, PC, etc.) Presume a +0 to hit in most cases.
-
-**Ballista**: This bolt thrower has a 180* firing arc and a range of 1500 feet (-1 to hit for every 100 feet). It inflicts 2d6 damage against a ship and creatures in a 10 foot line. It can fire once every 3 rounds and requires a crew of 4.
-
-**Catapult**: This weapon can hurl rocks, iron balls, or junk in a 90* arc to ranges between 500 and 1,000feet (-1 to hit for every 100 feet). It inflicts 4d6 damage to a ship and creatures within a 10’ radius. It can be fired once every 6 rounds and requires a crew of 6.
-
-**Ramming**: When one ship rams a target, the target will lose 10-60% of its maximum HP (1d6x10). The ramming ship suffers damage equal to half this amount, unless is it outfitted with a ram. Creatures aboard the rammed ship must make a save vs stone or suffer 1d6 damage. 
-
-**Sheering Oars**: Vessels with oars will have them sheared off when colliding with another vessel along the given side. When this occurs, the vessel’s oared movement rate will be reduced by half. Rowers on the given side will take 2d6 damage, save vs stone for half. Sheering the remaining side will render the ship unable to move.
-
-### Boarding & Combat 
-
-Barring the effect of the highest level spells, siege weapons, or other special abilities; combat between ship’s occupants can commence when they are within 100’ to 150’ feet of one another (common missile range). 
-
-**Grapple Lines**: Creatures on a ship can attempt to toss grapple lines in preparation to board a ship. Treat tossing a grapple line as a thrown weapon attack against AC 9. Defenders can cut or loosen a grapple with an appropriate attack or ability check. Once 3 grapple points are in place, the target is considered grappled and the ship can be boarded. Both ships are assumed to be un-moving once in a grapple.
-
-**Crew vs Crew**: Once ships are grappled or otherwise in contact, combat is resolved normally and character scale with appropriate checks and modifiers for cover, climbing, swimming, etc. Ships can be captured when the morale of the crew or the captain fails.
-
-## Exploration and Encounters at Sea
-
-As it has been previously suggested, a Judge should thoughtfully place large bodies of water (and mountains) as natural boundaries for campaigns. It is likewise suggested that when a campaign turns to the open sea, that a Judge use consideration in placing new land masses (populating them as they would a Wilderness).
-
-When traversing rivers and coasts, you can use the same encounter rules that you would for the prevailing terrain of the nearby land, particularly when making landfall. By contrast, the open seas are vast, and as such, you should consider making a single encounter check per day and night. These encounter tables can include standard aquatic monsters, great sea monsters, friendly and hostile vessels, and the occasional mysterious island! 
-
-Keep in mind that on a clear open sea, parties may spot one another at a distances of near 12 miles.
