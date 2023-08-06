@@ -1,6 +1,6 @@
 # Appendix B: Campaign Material
 
-The below is not part of OED but is intended as starter guidelines to create an initial dungeon, settlement, and wilderness as well as other non-dungeon topics. However, the best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
+The below is not part of OED but was written as a "missing manal" to create an initial dungeon, settlement, and wilderness as well as other non-dungeon topics. The best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
 
 ## Design a Dungeon
 
@@ -13,7 +13,7 @@ We will start by designing one of these levels/areas. A starting dungeon area sh
 - Mark another area to be an exit to different level or area.
 - In addition to the main entrance and exit, an area should have an additional entrance/exit about every 6 rooms. There is a 50/50 chance that such a point of egress is a hidden or a secret door.
 - Now, connect your rooms with hallways. Keep in mind they aren’t simply connected all in a line. For every 10 rooms or so consider adding an additional crossover between rooms that are not yet connected. Again, there is a 50/50 chance that such a connection is concealed.
-- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Trick Door (one way, portcullis, false door, etc.)
+- Place doors in rooms and between majors spaces. On a d6: 1-3 is a normal door; 4 is a Concealed Door; 5 is a Locked Door; 6 is a Open Doorway (optional: additional 1 in 6 for a tick door: one way, portcullis, false door, etc.)
 - Consider adding: changes in elevation, water, and/or a rift or barrier to rooms or halls.
 - Leave yourself a space to hide a secret exit to even deeper levels should you want to expand this dungeon further.
 
@@ -39,14 +39,14 @@ We will now add features to our map. Follow the steps below, and mark the featur
 
 We will use rumors of these items later when generating our settlement as a call to adventure.
 
-**Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present. Generate the trap using the guidelines above (see Traps)
+**Step 2**: For each room on the map, roll a d6 with a 1 indicating that a trap is present. Generate the trap using the OED Traps guidelines.
 
-**Step 3**: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present. Generate monsters appropriate for the intended level of the dungeon area. (see Monsters)
+**Step 3**: For rooms without a trap, roll a d6 with a 1 or 2 indicating there are monsters present. Generate monsters appropriate for the intended level of the dungeon area. (see OED Expanded Monster guidlines)
 Monsters can be randomly selected from those of the appropriate threat level, or selected by the Judge to match the theme of the area or previous monster types. 
 
-**Step 4**: Any room with a monster has a 3 in 6 chance for a treasure. Generate a treasure appropriate to the intended level of the dungeon area (see Rewards).
+**Step 4**: Any room with a monster has a 3 in 6 chance for a treasure. Generate a treasure appropriate to the intended level of the dungeon area (see OED Expanded Rewards guidelines).
 
-**Step 5**: For any room *without* a monster, there is a 1 in 6 chance that a (hidden) treasure is present. Again, generate a treasure appropriate to the intended level of the dungeon area (see Rewards)
+**Step 5**: For any room *without* a monster, there is a 1 in 6 chance that a (hidden) treasure is present. Again, generate a treasure appropriate to the intended level of the dungeon area.
 
 **Step 6**: Create a list of 6 possible random encounters. Options 1-4 should match the creatures found in nearby rooms. Entries 5-6 should be special: A leader, an NPC, an entirely different monster type, etc.
 
@@ -65,7 +65,7 @@ Now that you have a collection of rooms and their adventuring contents, it is ti
 - Chief's Room
 - Treasure Room
 
-Once you know what is in a room and decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements). 
+Once you know what is in a room and decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements). If you need ideas, there is a world of random generators out there to spark the imagination.
 
 For rooms with doors, which ones can lock? How sturdy are they? Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
 
@@ -103,7 +103,7 @@ A settlement is a good second campaign item to work on. This first settlement is
 
 **NPC level**: This is the highest level of NPCs one is likely to encounter. Folks above this level may be present, but they are special individuals, like adventurers or authority figures for example.
 
-**Sphere of Influence**: How much of the surrounding land the settlement is able to keep peaceful and under control. The populations of these areas are generally safe from monster and attacks (random encounters). 
+**Sphere of Influence**: How much of the surrounding land the settlement is able to keep peaceful and under control, expressed in 6 miles hexes (see below). The populations of these areas are generally safe from monsters and attacks (random encounters). 
 
 ### Populate the Settlement
 
@@ -185,7 +185,7 @@ Remember, at this scale we are mainly concerned with showing major features. The
 
 #### Quick Start
 
-if you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations for settlements and monster lairs.
+if you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations (school, downtown, shopping center) for settlements and monster lairs.
 
 ### Strongholds
 
@@ -287,12 +287,12 @@ Each terrain type has a difficulty factor associated with it, this value represe
 A tried and true way to determine the weather at any given time in game is to look out the window and use the prevailing conditions you see. Or you can use the below table.
 	
 |d6	|Weather Result and Effects|
-|:------|:-------------------------------------------------------|
+|------|:-------------------------------------------------------|
 | 1-3 |Clear: (Orcs, Goblins, etc. suffer daylight penalties)|
 | 4-5 |Cloudy: (no modifiers)|
 | 6* |Precipitation: ½ Movement/Flight, -4 penalty to missile attacks, composite bows can not fire. +1 chance to get lost.|
 
-/* 1 in 6 chance to be Stormy: No ranged attacks, -1 to Morale, Creatures must shelter or risk exposure/damage.
+*1 in 6 chance to be Stormy: No ranged attacks, -1 to Morale, Creatures must shelter or risk exposure/damage.
 		
 For added variety, the Judge can opt to have a 1 in 6 chance of a change in weather to come through in at a given point in the day (morning, afternoon, evening, or night). This can also include warmer or colder than normal temperatures.
 
