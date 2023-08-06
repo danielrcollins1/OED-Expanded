@@ -52,8 +52,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |4        |Cause Serious Wounds     |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly inflicts 2d6+2 HP of damage to the target.  Sapping the target's Vigor. |
 |4        |Cure Serious Wounds      |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target.  Restoring the targets Vigor. |
 |4        |Speak with Plants        |30'       |6 Turns       |The caster can converse with plants as they would another person and understand their replies. Further, the plants will obey the commands of the caster, parting to allow passage, inhibiting the movement of opponents, etc.|
-|4        |Turn Sticks to Snakes    |60'      |6 Turns       |The caster can turn a number of sticks in a 10
- radius globe into snakes that perform actions as they command. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
+|4        |Turn Sticks to Snakes    |60'      |6 Turns       |The caster can turn a number of sticks in a 10' radius globe into snakes that perform actions as they command. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
 |4        |Protection from Lightning|Touch    |12 Turns      |This spell wards all creatures in the area (10' radius globe) against lightning and electricity. Electricity that does 1 die of damage is ignored, and they receive a +4 bonus to saves against magical lightning and electricity, such as from spells and dragon’s breath, etc.  |
 
 |Level 5   |Name                     |Range    |Duration      |Description |
@@ -97,9 +96,9 @@ using the above spells as a guideline for streamlining the entry.
 
 When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack (Target unconcious at 0HP, crits = lethal damage).
 
-### Fighter Feats (New)
+### Fighter Feats
 
-**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but does gain XP and HD (as Fighter). 
+**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
 
 **Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
 
@@ -129,7 +128,7 @@ If thou must...
   |12      |500,000      |11d6+1   |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
   |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
   
-**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -- 5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
 
 An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
@@ -150,12 +149,11 @@ A Familiar is a spirit that takes on the form of a small animal to provide magic
 
 **Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic).
 
-**Intelligence**: 2d6+6.
+**Intelligence**: d6+12.
 
 **Saves**: As owner.
 
-**Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can understand the familiar. 
-When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
+**Languages**: Understands/Speaks Owner's racial language + bonus languages, per Int score. Only the Magic User can understand the familiar. When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
 
 ### Slime Splitting
 
@@ -178,12 +176,12 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 
 ### Helmets
 
-Alternatives rule for helmets, in case the save vs. criticals is undesirable:
+Alternative rule for helmets, in case the save vs. criticals is undesirable:
 
 **Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
 
 ### Upkeep Costs ###
-Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 to become a 9th level Wizard, etc.
+Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 SP to become a 9th level Wizard, etc.
 
 ## Grievous Wounds
 
