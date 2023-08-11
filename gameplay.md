@@ -194,7 +194,7 @@ the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, if succesful, then roll oppsed Grapple (Strength) checks 
+**Grappling**: Roll a melee attack, if succesful, then roll opposed Grapple (Strength) checks 
 (d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
 
 **Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
