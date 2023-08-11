@@ -24,6 +24,8 @@ equivalent to the historical unit. Characters can carry a number of
 stone equal to their Strength. A character's encumbrance affects their
 movement rate as shown below. This encumbrance level also functions as a
 modifier to some rolls (see Adventuring Tasks).
+
+For items that do not have a Stone value listed, the Judge is encouraged to enforce common sense, such as limiting the PC to total of 20 for any such items.
   
 |Level|Stone Carried|Effect|
 |:---|:---|:---|
@@ -46,16 +48,16 @@ tough hide (AC 5 or better)
 tough hide (AC 3 or better)
 - **Ranged/Thrown**: -1 to Hit per 10', See also Firing at a Crowd below.
 
-|**Weapon**     |**Category**|**Cost (SP)**|**Damage**|**Weight**|**Properties**                        |
+|**Weapon**     |**Category**|**Cost (SP)**|**Damage**|**Stone**|**Properties**                        |
 |:--------------|:-----------|:------------|:---------|:--------|:-------------------------------------|
-|Dagger         |Light       |3            |1d4       |1/12     |“Sword”; Thrown 60’                   |
-|Dagger (silver)|Light       |30           |1d4       |1/12     |“Sword”; Thrown 60’                   |
+|Dagger         |Light       |3            |1d4       |1/12     |“Sword”; "Thrown" 60’                   |
+|Dagger (silver)|Light       |30           |1d4       |1/12     |“Sword”; "Thrown" 60’                   |
 |Crude Club     |Light       |\--          |1d6       |1/3      |Thrown 60’; not a “Club” type weapon  |
-|Spear          |Light       |1            |1d6       |1/3      |“Spear”; Thrown 60’                   |
-|Hand Axe       |Light       |3            |1d6       |1/3      |“Axe”; Thrown 60’                     |
-|Mace           |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
-|Hammer         |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
-|Military Pick  |Light       |5            |1d6       |1/3      |“Club”; Thrown 60’                    |
+|Spear          |Light       |1            |1d6       |1/3      |“Spear”; "Thrown" 60’                   |
+|Hand Axe       |Light       |3            |1d6       |1/3      |“Axe”; "Thrown" 60’                     |
+|Mace           |Light       |5            |1d6       |1/3      |“Club”; "Thrown" 60’                    |
+|Hammer         |Light       |5            |1d6       |1/3      |“Club”; "Thrown" 60’                    |
+|Military Pick  |Light       |5            |1d6       |1/3      |“Club”; "Thrown" 60’                    |
 |Staff          |Medium      |1            |1d6       |1/3      |Two Hands needed to attack            |
 |Sword          |Medium      |10           |1d8       |1/3      |“Sword”                               |
 |Polearm        |Medium      |7            |1d8       |1/3      |“Spear”; Two Handed                   |
@@ -66,12 +68,12 @@ tough hide (AC 3 or better)
 |Pike           |Heavy       |5            |1d8       |1        |“Spear”; x2 Damage when set vs charge |
 |Halberd        |Heavy       |7            |1d10      |1        |“Axe”                                 |
 |Flail          |Heavy       |8            |1d8       |1        |“Club”; Ignore Target Shield Bonus    |
-|Sling          |Light       |1            |\--       |\--      |Fire every other round; Range 60’     |
-|Light Crossbow |Light       |15           |\--       |1/3      |Fire every other round; Range 95’     |
-|Heavy X-bow    |Heavy       |25           |\--       |1/3      |Fire every other round; Range 120’    |
-|Short Bow      |Medium      |25           |\--       |1/3      |Range 75’                             |
-|Long Bow       |Heavy       |40           |\--       |1/3      |Range 105’                            |
-|Composite Bow  |Heavy       |50           |\--       |1/3      |Range 90’                             |
+|Sling          |Light       |1            |\--       |\--      |Fire every other round; "Ranged" 60’     |
+|Light Crossbow |Light       |15           |\--       |1/3      |Fire every other round; "Ranged" 95’     |
+|Heavy X-bow    |Heavy       |25           |\--       |1/3      |Fire every other round; "Ranged" 120’    |
+|Short Bow      |Medium      |25           |\--       |1/3      |"Ranged" 75’                             |
+|Long Bow       |Heavy       |40           |\--       |1/3      |"Ranged" 105’                            |
+|Composite Bow  |Heavy       |50           |\--       |1/3      |"Ranged" 90’                             |
 |Sling Bullets  |N/A: Ammo   |\--          |1d4       |1/3      |Qty 10                                |
 |Arrows         |N/A: Ammo   |5            |1d6       |1/3      |Qty 20                                |
 |Arrow (silver) |N/A: Ammo   |5            |1d6       |\--      |One Arrow                             |
@@ -80,7 +82,7 @@ tough hide (AC 3 or better)
 
 ## Gear
 
-|**Item**             |**Cost (SP)**|**Weight**     |**Notes**                                                                  |
+|**Item**             |**Cost (SP)**|**Stone**     |**Notes**                                                                  |
 |:--------------------|:------------|:--------------|:--------------------------------------------------------------------------|
 |Coins (1000)         |Varies       |1              |When in an appropriate container                                           |
 |10’ Pole             |1            |1              |                                                                           |
@@ -129,11 +131,9 @@ tough hide (AC 3 or better)
 
 ## Armor
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy
-(Plate), and Shields. Leather and Chain armor takes 1 minute to put on,
-Plate takes 10 minutes and requires assistance.
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level or Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
 
-|Item                   |Cost (SP)  | AC          | Weight|
+|Item                   |Cost (SP)  | AC          | Stone|
 |:----------------------|:----------|:-----------:|:----:|
 | Unarmored             | \--       |  9          |   \--|
 | Leather (Light)       | 15        |   7         |     1|

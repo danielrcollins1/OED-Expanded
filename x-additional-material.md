@@ -7,13 +7,13 @@ Judges
 
 Below is a summary of Cleric, Druid, and Magic User spells not included
 in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
-They can be used for GMs who wish to include other kinds of spell-casters, or diversify their villains.
+They can be used for Judges who wish to include other kinds of spell-casters, or diversify their villains.
 
 |Level 1   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|1        |Cause Light Wounds       |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.|
-|1        |Cure Light Wounds        |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  |
-|1        |Detect Good              |15'       |12 Turns      |The caster can sense the presence of good within creatures, objects, and locations. Stronger good will radiate more intensely.  |
+|1        |Cause Light Wounds       |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.  Sapping the target's Vigor.  |
+|1        |Cure Light Wounds        |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  Restoring the target's Vigor.  |
+|1        |Detect Good              |15'       |12 Turns      |The caster can sense the presence of beneficial intent within creatures, objects, and locations. Stronger good will radiate more intensely.  |
 |1        |Hold Undead              |60'      |6 Turns       |This spell causes Undead creatures within a 10' radius sphere to be frozen in place. It affects 2d6 HD worth of Undead with 4HD or less, lowest HD creatures are affected first.  |
 |1        |Purify Food & Water      |30'       |Instant       |This spell will transmute enough food and water for 12 people from spoiled and/or poisoned to a consumable state.|
 |1        |Putrefy Food & Water     |30'       |Instant       |This spell will spoil and taint enough food and water for 12 people, rendering it unsafe for consumption. |
@@ -24,85 +24,81 @@ They can be used for GMs who wish to include other kinds of spell-casters, or di
 
 |Level 2   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|2        |Bless                    |Touch    |6 Turns       |This spell bolsters the resolve of all creatures in the area (10' radius globe). The subjects gain a +2 to morale and +2 to attack rolls.  |
-|2        |Blight                   |Touch    |6 Turns       |This spell saps the resolve of all creatures in the area (10' radius globe). The targets suffer a -2 to morale and -2 to attack rolls.  |
+|2        |Bless                    |Touch    |6 Turns       |This spell bolsters the resolve of all creatures in the area (10' radius globe). The subjects gain a +1 to morale and +2 to attack rolls.  |
+|2        |Blight                   |Touch    |6 Turns       |This spell saps the resolve of all creatures in the area (10' radius globe). The targets suffer a -1 to morale and -2 to attack rolls.  |
 |2        |Find Traps               |30'       |3 Turns       |The caster will become aware of the presence of mechanical or magical traps.  |
 |2        |Silence 15' Radius       |120'      |12 Turns      |One focus Creature or Object and everything nearby (10' radius globe) will be prevented from emanating sound. Creatures within the sphere can hear themselves and one another. The sound dampening will end for any recipient if they move over 10' from the focus.  |
 |2        |Snake Charm              |30'       |1 Day         |The caster is able to charm and command 1 HD worth of snake(s) per caster level. |
-|2        |Speak with Animals       |30'       |6 Turns       |The caster can converse with animals as they would another person and understand their replies. Further, the animal is positively disposed towards the caster and party.  |
+|2        |Speak with Animals       |30'       |6 Turns       |The caster can converse with animals as they would another person and understand their replies. Further, the animal initial reacts towards the caster as if succeeding on morale/reaction check.  |
 |2        |Obscurement              |60'      |3 Turns       |A mist forms within a 10' radius globe that obscures all forms of vision within the area.|
-|2        |Heat Metal               |15'       |3 Turns       |This spell will cause a volume of metal equivalent to 1 suit of plate, 2 shirts of chain, or 6 shields/weapons to become hot to the touch. This will inflict 1d6 points of heat/fire damage per round of contact. Targets can attempt to drop/remove items immediately to avoid damage.  |
-|2        |Warp Wood                |30'       |Instant       |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers to swell and warp becoming useless.|
+|2        |Heat Metal               |15'       |3 Turns       |This spell will cause a volume of metal equivalent to 1 suit of plate, 2 shirts of chain, or 6 shields/weapons/helms (withing a 10' radius globe) to become hot to the touch. Crearures in conact with any number of such items will suffer 1d6 points of heat/fire damage per round of contact. Targets can attempt to drop/remove items to avoid further damage.  |
+|2        |Warp Wood                |30'       |Instant       |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers (within a 10' radius globe) to swell and warp becoming useless.|
 
 |Level 3  |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|3        |Cause Disease            |Touch    |Permanent     |When this spell is cast the target becomes diseased, losing 1d6 Strength immediatly.  Each week the target must make a save vs breath or lose another 1d6 Strength.  This remains the case until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
-|3        |Continual Darkness       |60'      |1 Week        |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light spells. Further, it prevents re-ignition of any light sources during the duration, save for a Continual Light spell, or similar effect.  |
-|3        |Cure Disease             |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy is a Curse).   |
+|3        |Cause Disease            |Touch    |Permanent     |When this spell is cast the target becomes diseased, losing 1d6 Strength immediately.  Each week the target must make a save vs breath or lose another 1d6 Strength.  This remains the case until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
+|3        |Continuing Darkness       |60'      |1 Week        |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light sources. Further, it prevents re-ignition of any light sources during the duration, save for a Continual (Continuing) Light spell, or similar effect.  |
+|3        |Cure Disease             |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly cures any form of disease (Lycanthropy and Mummy Rot are Curses).   |
 |3        |Prayer                   |60'      |6 Turns       |This spell places a Hex on creatures in the area (10' radius globe). The targets suffer a -2 to all Saves.  |
 |3        |Speak with Dead          |30'       |6 Turns       |This spell allows the caster to ask 3 questions of the departed spirit of a recently dead body. The age of the body that can be questioned is determined by the caster level. Caster level 1+ = 1 day / level; Caster level 10+ = 1 week / level; Caster level 20 = No Limit. |
-|3        |Explosive Runes          |Touch    |1 Week        |These visible, hand written, runes can be placed on a surface in order to trap it. When passed over they explode in a 10' radius sphere causing 4d6 fire damage. The runes can be discovered by searching, and may be removed by the caster when desired or Dispel Magic. |
+|3        |Explosive Runes          |Touch    |1 Week        |These visible, hand written, runes can be placed on a surface in order to trap it. When passed over they explode in a 10' radius sphere causing 4d6 fire damage. Concealed runes can be discovered by searching, and may be removed by the caster when desired or Dispel Magic. |
 |3        |Protection from Fire     |Touch    |6 Turns       |This spell wards all creatures in the area (10' radius globe) from the effects of normal fire and heat. The subjects gain a +4 bonus to saves against magical fire, such as from spells and dragon’s breath, etc. |
-|3        |Hold Animal              |60'      |6 Turns       |One or more animals in a 10' radius golbe the size of a Polar Bear or smaller are frozen in place. The caster can opt to target a single animal (save at –2 penalty), or up to four (at normal saves). |
+|3        |Hold Animal              |60'      |6 Turns       |One or more animals in a 10' radius golbe the size of a Polar Bear or smaller are frozen in place. The caster can opt to target a single animal (save vs Stone at –2 penalty), or up to four total (at normal saves). |
 
 |Level 4   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |4        |Create Water             |30'       |Instant     |The caster creates a day's mass of potable water, the amount conjured is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.|
-|4        |Neutralize Poison        |Touch    |Instant     |This spell instantly renders poison in an object or affecting a creature inert. |
-|4        |Cure Serious Wounds      |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target. |
-|4        |Cause Serious Wounds     |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly inflicts 2d6+2 HP of damage to the target.|
+|4        |Neutralize Poison        |Touch    |Instant     |This spell instantly renders poison in an object or affected creature inert. |
+|4        |Cause Serious Wounds     |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly inflicts 2d6+2 HP of damage to the target.  Sapping the target's Vigor. |
+|4        |Cure Serious Wounds      |Touch    |Instant     |By placing their hand on the intended creature's body, this spell instantly restores 2d6+2 HP to the target.  Restoring the targets Vigor. |
 |4        |Speak with Plants        |30'       |6 Turns       |The caster can converse with plants as they would another person and understand their replies. Further, the plants will obey the commands of the caster, parting to allow passage, inhibiting the movement of opponents, etc.|
-|4        |Turn Sticks to Snakes    |60'      |6 Turns       |The caster can turn a number of sticks in the area into snakes that perform actions as he commands. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
+|4        |Turn Sticks to Snakes    |60'      |6 Turns       |The caster can turn a number of sticks in a 10' radius globe into snakes that perform actions as they command. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
 |4        |Protection from Lightning|Touch    |12 Turns      |This spell wards all creatures in the area (10' radius globe) against lightning and electricity. Electricity that does 1 die of damage is ignored, and they receive a +4 bonus to saves against magical lightning and electricity, such as from spells and dragon’s breath, etc.  |
 
 |Level 5   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|5        |Commune                  |Personal |6 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will answer factually and has near complete knowledge (On a d20, a roll of 20 means the entity does not know while a roll of 1 means the entity is mistaken.) Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The DM may rule that frequent castings may be less effective.  |
+|5        |Commune                  |Personal |3 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will always answer truthfully, or respond that is does not know.  The entity has a 2 in 6 chance of knowing the answer.  Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The Judge may rule that frequent castings may be less effective.  |
 |5        |Create Food              |30'       |Instant       |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
-|5        |Dispel Evil (Good)       |60'      |6 Turns       |This spell drives off undead and summoned creatures of 6HD or less within range, causing them to withdraw for 6 Turns. |
+|5        |Dispel Evil (Good)       |30'      |6 Turns       |This spell drives off undead and summoned creatures of 8HD or less within range, causing them to withdraw for 6 Turns. |
 |5        |Finger of Death          |60'      |Instant       |This spell will reduce a living creature of 8HD or less to 0HP unless a Save vs Death is made. |
-|5        |Insect Plague            |120'      |12 Turns ( C )|The caster conjures up a vast cloud of insects taking up a 60' by 60' square that can be directed where needed within range. The cloud can obscure vision, disrupt concentration, and cause creatures of less than 4 HD to flee. Concentration is required on rounds that the user is moving the cloud.  |
-|5        |Quest                    |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The DM should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
-|5        |Raise Dead               |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level.  The creature must succeed at a Save vs Death in order to come back to life, at which point is has 1 HP.  The DM may rule that repeated castings on the same creature are less effective.|
+|5        |Insect Plague            |240'      |12 Turns ( C )|The caster conjures up a vast cloud of insects taking up a 60' by 60' square that can be directed where needed within range. The cloud can obscure vision, disrupt concentration, and cause creatures of less than 4 HD to flee. Concentration is required on rounds that the user is moving the cloud.  |
+|5        |Quest                    |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The Judge should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
+|5        |Raise Dead               |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level.  The creature must succeed at a Save vs Death in order to come back to life, at which point is has 1 HP.  The Judge may rule that repeated castings on the same creature are less effective.|
 
 |Level 6   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|6        |Repulsion                |Personal |6 Turns       |This spell causes selected creatures and objects surrounding the caster to be withdraw beyond the range of the spell by the safest means possible. Inanimate objects will move at a rate of 30’ per round.  If trapped or cornered, creatures will cower.   |
-|6        |Animate Objects          |30'      |6 Turns       |This spell can animate an object up to twice the size of a man (16HD), two man-sized objects (8HD each), or 2d6 smaller objects (2 HD each) that act on behalf of the caster.  Items made of Stone or Metal would have an AC of 3, movement of 30'.  -Objects made of Wood or Hide would have an AC of 5, movement of 45'.  -Objects of Fragile materials would have an AC of 7, movement of 60'.  -Items like rugs or tapestries, may blind, trip, or bind targets instead of inflicting damage at Judges discretion.|
-|6        |Find the Path            |Personal |6 Turns (C)   |The caster senses the most direct, safest physical route to a specified location, indicating the exact path to follow.  Where a danger can not be bypassed the caster receives an intense sensation warning them of the type of threat. |
+|6        |Repulsion                |Personal |6 Turns       |This spell causes selected creatures and objects surrounding the caster to withdraw from the caster by the safest means possible. Inanimate objects will move at a rate of 30’ per round.  If trapped or cornered, creatures will cower.   |
+|6        |Animate Objects          |30'      |6 Turns       |This spell can animate an object up to twice the size of a man (16HD), two man-sized objects (8HD each), or 2d6 smaller objects (2 HD each) that act on behalf of the caster as a creature of the given HD.  Items made of Stone or Metal would have an AC of 3, movement of 30'.  -Objects made of Wood or Hide would have an AC of 5, movement of 45'.  -Objects of Fragile materials would have an AC of 7, movement of 60'.  -Items like rugs or tapestries, may blind, trip, or bind targets instead of inflicting damage at Judge's discretion.|
+|6        |Find the Path            |Personal |12 Turns (C)   |The caster senses the most direct, safest physical route to a specified location, indicating the exact path to follow.  Where a danger can not be bypassed the caster receives an intense sensation warning them of the type of threat. |
 |6        |Blade Barrier            |30'      |12 turns      |An immobile area of mystic whirling blades, up to 20' in diameter and height, springs into existence. Creatures in or passing through the barrier suffer 1d6 damage per caster level for each round in the barrier. |
-|6        |Word of Recall           |Personal |Instant       |This spell instantly transports the caster to a sanctuary they prepare ahead of time with no chance of mishap. To prepare a sanctuary, the caster must spend a day in the location attuning to it. |
+|6        |Word of Recall           |Personal |Instant       |This spell instantly transports the caster to a sanctuary they prepare ahead of time with no chance of mishap. To prepare a sanctuary, the caster must spend a day in meditation at the location. |
 |6        |Speak with Monsters      |Touch    |12 turns      |This spell allows the target to speak with any creature as they would another person and understand their replies, even those that are not typically able to communicate via language. |
 |6        |Conjure Animals          |30'      |12 turns      |This spell allows the caster to conjure a number of (real world) animals whose total HD do not excede twice the caster’s level.  The animals so brought will obey the caster’s basic commands. |
 
 |Level 7    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
-|7        |Earthquake               |60'      |1 turn        |This spell causes the ground to shake in a 40' by 40' area. This shaking will cause even sturdy stone to collapse (palisades, an earth rampart, a portion of a cliff, etc.) Creatures in the area have a 1 in 6 chance to fall into cracks in the earth as they appear, suffering 1d6 damage per round.   |
-|7        |Aerial Servant           |30'      |Permanent     |This spell conjures an Aerial Servant (an extraplanar creature) in order to retrieve an object or creature the caster desires. The creature avoids combat, instead using its stealth, strength, and speed to grab its prey by surprise and whisk it back to the caster. It cannot be dispelled, although it can be driven off in combat. Treat the servant as a 16HD (strength 36) and AC 2, it is silent and invisible, flies at a speed of 360'. If frustrated from its purpose the Aerial Servant will turn on its sender, attacking them. The spell ends when the servant retrieves the object or is killed. |
-|7        |Wind Walk                |Personal |1 day (c)     |When uttered, this spell causes the caster and adjacent creatures to become insubstantial and cloudlike. In this form they fly as directed by the caster at a speed of 240'. The caster must maintain concentration for the duration of the spell. |
-|7        |Holy Word                |120'      |6 Turns       |The pronouncement of this spell will affect creatures in a 20' by 20' area up to 12HD. Up to 4HD: Death 5 – 8HD: frozen in place (as hold person) 8 -12 HD: deafened  |
-|7        |Raise Dead Fully         |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level. The creature must succeed at a Constitution check in order to come back to life, at which point it is at full HP. The DM may rule that repeated castings on the same creature are less effective.   |
-|7        |Restoration              |Touch    |Instant       |This spell will restore levels drained from the target, such as those caused by undead. The target will regain 1d6 levels of lost energy. Note a creature can only gain the benefit of this spell once per week. |
-|7        |Slay Living              |Touch    |Instant       |This spell will reduce living creatures to 0HP.   |
+|7        |Earthquake               |1 mile    |1 turn        |This spell causes the ground to shake in a 40' by 40' area. This shaking will cause even sturdy stone to collapse (palisades, an earth rampart, a portion of a cliff, etc.) Creatures in the area have a 1 in 6 chance to fall into cracks in the earth as they appear, suffering 1d6 damage per round.   |
+|7        |Aerial Servant           |30'      |Permanent     |This spell conjures an Aerial Servant (an extraplanar creature) in order to retrieve an object or creature the caster desires. The creature avoids combat, instead using its stealth, strength, and speed to grab its prey by surprise and whisk it back to the caster. It cannot be dispelled, although it can be driven off in combat. Treat the servant as a 16HD and AC 2. It is silent and invisible, flies at a speed of 360'. If frustrated from its purpose the Aerial Servant will turn on its sender, attacking them. The spell ends when the servant retrieves the object or is killed. |
+|7        |Wind Walk                |Personal |1 day (c)     |When uttered, this spell causes the caster and adjacent creatures to become insubstantial and cloudlike. In this form they fly as directed by the caster at a speed of 360'. The caster must maintain concentration for the duration of the spell. |
+|7        |Holy Word                |120'      |6 Turns       |The pronouncement of this spell will affect creatures in a 20' by 20' area up to 12HD. Up to 4HD: Reduce to 0 Hp, 5 – 8HD: frozen in place (as hold person), 9 -12 HD: deafened  |
+|7        |Raise Dead Fully         |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 week per caster level. The creature must succeed at a Save vs Death in order to come back to life, at which point it is at full HP. The Judge may rule that repeated castings on the same creature are less effective.   |
+|7        |Restoration              |Touch    |Instant       |This spell will restore 1 level drained from the target, such as those caused by undead. The targets' XP will be set to the midpoint of the restored level.  Note the caster must Save vs Death or be incapacitated for 24 hours. |
+|7        |Slay Living              |Touch    |Instant       |This spell will reduce a living creature to 0HP.   |
 |7        |Level Drain              |Touch    |Instant       |This spell will drain the target of 1 level, placing them at the midway point of experience points.  |
 
-For even more spells, a GM can reference the 
+For even more spells, a Judge can reference the 
 [Wizard's Spell Compendium](https://www.drivethrurpg.com/product/17468/Wizards-Spell-Compendium-Vol-1-2e),
 using the above spells as a guideline for streamlining the entry.
 
 ## Class Abilities
 
-### Subdual Attacks
-
-Blunt, wooden weapons can optionally be used to attack for nonlethal damage (knockout at 0 hit points); damage from critical hits becomes lethal (regardless of user intent).
-
 ### Unarmed Attacks
 
-When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack.
+When striking without a weapon (including strikes with just a gauntlet/brass knuckles), the character suffers a -4 to hit and deals 1 point of damage, plus half the Strength bonus, as a subdual attack (Target unconcious at 0HP, crits = lethal damage).
 
-### Fighter Feats (New)
+### Fighter Feats
 
-**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but does gain XP and HD (as Fighter). 
+**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
 
 **Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
 
@@ -132,7 +128,7 @@ If thou must...
   |12      |500,000      |11d6+1   |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
   |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
   
-**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -- 5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
+**Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
 
 An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
@@ -141,9 +137,9 @@ An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, des
 
 **Spells known**: Clerics start with knowledge of all the standard Cleric spells in Vol 1.
 
-**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier >= 20. Requires 1 day per spell level (3 tries per spell)
+**Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
-**Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
+**Magic Item Creation**: Takes 1 day and 100 sp per spell level/charge/use and the ability to cast the relevant spell(s). The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
 ## Creatures
 
@@ -153,12 +149,11 @@ A Familiar is a spirit that takes on the form of a small animal to provide magic
 
 **Alignment**: d6; 1 (Lawful), 2-3 (Neutral), 4-6 (Chaotic).
 
-**Intelligence**: 2d6+6.
+**Intelligence**: d6+12.
 
 **Saves**: As owner.
 
-**Languages**: Understands/Speaks Common + bonus languages, per Int score. Only the Magic User can understand the familiar. 
-When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
+**Languages**: Understands/Speaks Owner's racial language + bonus languages, per Int score. Only the Magic User can understand the familiar. When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
 
 ### Slime Splitting
 
@@ -176,16 +171,17 @@ Assume that slimes are roughly spherical, and their hit dice are proportional to
 ### Non-Proficiency
 
 **Using prohibited Armor**: Double encumbrance, halve bonus, negate any Thief or Wizard abilities.
+
 **Using prohibited Weapons**: -4 to hit and reduce damage die by 1 step.
 
 ### Helmets
 
-Alternatives rules for helmets, in case the save vs. criticals is undesirable:
+Alternative rule for helmets, in case the save vs. criticals is undesirable:
 
 **Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
 
 ### Upkeep Costs ###
-Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 to become a 9th level Wizard, etc.
+Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 SP to become a 9th level Wizard, etc.
 
 ## Grievous Wounds
 
@@ -248,6 +244,17 @@ Should a creature find themselves immersed in a new language (and have no spare 
 
 ## Tournaments and Contests
 
+### Archery
+
+Each participant gets to take 6 shots at a dish sized target 30 feet
+away backed by an earthen "butt". The target itself is AC 10, and some
+targets will have inner rings of AC 5 and AC 0. Each hit on the target
+scores 1 point. Inner rings are worth 2 or 3 points respectively. A
+critical failure misses the butt entirely.
+
+In head-to-head competition, participants alternate shots. On a critical
+hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
+
 ### Jousting
 
 In a proper tournament joust, riders must wear plate armor and shield
@@ -265,16 +272,6 @@ no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal;
 the event ends when one side is entirely down or surrenders. 
 This can also be resolved quickly using Book of War.
 
-### Archery
-
-Each participant gets to take 6 shots at a dish sized target 30 feet
-away backed by an earthen "butt". The target itself is AC 10, and some
-targets will have inner rings of AC 5 and AC 0. Each hit on the target
-scores 1 point. Inner rings are worth 2 or 3 points respectively. A
-critical failure misses the butt entirely.
-
-In head-to-head competition, participants alternate shots. On a critical
-hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
 
 ## War Machine, Book of
 

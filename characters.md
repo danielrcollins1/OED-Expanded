@@ -149,11 +149,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Thief Skills**: d20 + Thief Level + Dex Modifier ≥ 20. Three tries per target (when applicable).
 
-- *Hide in Shadows*: The chance to remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
-- *Move Silently*: The likelihood of moving with absolute silence.
-- *Open Locks*: For small, discreet, single mechanical locking mechanisms. On a natural one - the lock must be forced open - a very time consuming process.
-- *Pick Pockets*: Can also be used for acts of sleight of hand.
-- *Remove Traps*: For small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
+- *Hide in Shadows*: A Thief can remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
+- *Move Silently*: The likelihood of the Thief moving with absolute silence.
+- *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1 - the lock must be forced open - a very time consuming process.
+- *Pick Pockets*: Can also be used to allow the Thief to perform acts of sleight of hand.
+- *Remove Traps*: Making use of materials at hand, the thief can neutralize small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
 
 ### Wizards
 
@@ -189,13 +189,11 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
 
-**Spell Research**: Requires 1 week per spell level and a roll of d20 + Wizard Level + Int Modifier ≥ 20. Access to a library or other resources grant a +4 to the roll.
-
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
-*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
-
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
+
+*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
 
 ### Multi Classing
 

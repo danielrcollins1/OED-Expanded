@@ -92,7 +92,7 @@ Alchemists can provide potions of healing and mithridate (neutralize poison) at 
 Hirelings, NPCs, and Monsters will be called on to make reaction/morale
 checks which are resolved by a roll of 2d6 and compared against the below table.  For Morale checks the Judge may add the creature's HD or Level as a modifier.
 
-|2d6 Result|Reaction|Morale (+ HD)|
+|2d6 Result|Reaction|Morale|
 |:---|:---|:---|
 |  2            |May Attack                | Surrender |
  | 3-5          |Hostile Reaction          | Flee |

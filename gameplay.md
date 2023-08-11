@@ -65,7 +65,7 @@ In OED a number of tasks are resolved with a d6 roll. The chance for success is 
 |Detection   |2 in 6   |\+ Intelligence *Bonus*|
 |Doff Armor  |3 in 6   |Chance per round, Leather and Chain Only|
 |Force a Door|2 in 6   |\+ Strength *Bonus*: Locks/Bars -2, Reinforced Gates -4, Solid Metal -6|
-|Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone Stone carried; +/-1 for water conditions|
+|Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone carried; +/-1 for water conditions|
 |Tracking    |4 in 6\**|+/- 1 small or large parties, inclement weather, and the like|
 
 \* Fighters and Thieves gain a +2 as noted in their class description,
@@ -185,24 +185,24 @@ to attack rolls.
 -   Target is stunned, stationary: +4 to hit.
 -   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
     full damage.
--   Target has no Helmet: 1 in 6 chance attack is to the head vs AC 9
-    (humanoids only).
 
 **Shots at Groups**: When firing at a specific individual in a crowd, if
 the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
 *not* AC) is less than 10, it misses the (man-size) target.
 
 **Errant Shots**: Ranged attack rolls (as above) below 10 miss the target, 
-but may hit another nearby. Errant, fumbled, or random attacks into groups 
+but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
 are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, if succesful, then opposed Strength checks 
+**Grappling**: Roll a melee attack, if succesful, then roll oppsed Grapple (Strength) checks 
 (d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
+
+**Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
 
 ### Death and Healing
 
-**Zero Hit Points**: When a character reaches or goes below 0 hit
-points, they must immediately make a Save vs Death. Failure means the
+**Zero Hit Points**: When a character reaches or goes below 0 Hit
+Points, they must immediately make a Save vs Death. Failure means the
 character is Dead. Success results in the character stabilizing at 0HP,
 waking in 1d6 turns, in an incapacitated state. Any healing (returning
 the character to 1 HP) will restore normal activity.
@@ -227,7 +227,7 @@ attributes and effects have been standardized and are available in the
 
 |**Level 1**              |**Level 2**               |**Level 3**                  |
 |:------------------------|:-------------------------|:----------------------------|
-|1\. Charm Person         |1\. Continuing Light      |1\. Clairaudience            |
+|1\. Charm Person         |1\. Continual Light       |1\. Clairaudience            |
 |2\. Detect Magic         |2\. Darkness              |2\. Clairvoyance             |
 |3\. Hold Portal          |3\. Detect Evil           |3\. Dispel Magic             |
 |4\. Light                |4\. Detect Invisibility   |4\. Fireball                 |

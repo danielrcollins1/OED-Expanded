@@ -13,7 +13,7 @@ level of the dungeon (depth) in question. This will give you the
 Finally roll a d12 and match the result to the given Threat Rank.
 
 
-|**Dungeon Level Depth**|**d6 Result**|      |       |      |     |      |
+|**Dungeon Depth**|**d6 Result**|      |       |      |     |      |
 |:----------------------|:-----------:|:----:|:-----:|:----:|:---:|:----:|
 |1                      |1-4          |5     |6      |      |     |      |
 |2                      |1-2          |3-4   |5      |6     |     |      |
@@ -25,10 +25,10 @@ Finally roll a d12 and match the result to the given Threat Rank.
 
 
 |       |**Trap by Threat Rank**|                   |                         |                         |                           |                                     |
-|-------|-----------------------|-------------------|-------------------------|-------------------------|---------------------------|-------------------------------------|
+|-------|:-----------------------|-------------------|-------------------------|-------------------------|---------------------------|-------------------------------------|
 |**d12**|**I**                  |**II**             |**III**                  |**IV**                   |**V**                      |**VI**                               |
-|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked – Poison     |Pit; Locking, - Monster    |Pit; Spiked, Poison, Locked, Flooding|
-|**2**  |Pit; Open – Spiked     |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
+|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked, Poison     |Pit; Locking, - Monster    |Pit; Spiked, Poison, Locked, Flooding|
+|**2**  |Pit; Open, Spiked     |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
 |**3**  |Darts (1d3)            |Arrows (1d6)       |Arrows (1d6); Weak Poison|Darts (2d6)              |Arrows (1d6); Poison       |Darts (2d6); Poison                  |
 |**4**  |Arrows (1d3)           |Spears (1d6)       |Spears (1d6); Accurate   |Spears (1d6); Weak Poison|Spears (1d6); Very Accurate|Spears (1d6); Accurate, Poison       |
 |**5**  |Pendulum               |Scything Blade     |Wall Spikes              |Door; Poison Needle      |Poison Scythe              |Wall Spikes; Poison                  |
