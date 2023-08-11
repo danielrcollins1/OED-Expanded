@@ -13,6 +13,6 @@
 
 - [Appendix A: Additional Material](x-additional-material.md)
 - [Appendix B: Campaign Material](x-campaign-material.md)
-- [Endnotes](x-endnotes.md)
+- [Design Notes](x-design-notes.md)
 
 For a PDF document of this material, see our latest release on [Github](https://github.com/danielrcollins1/OED-Expanded/releases/latest). 
