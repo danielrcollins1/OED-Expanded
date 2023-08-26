@@ -1,7 +1,26 @@
 # Appendix A: Additional Material
 
-The below additions are not offically part of OED but may be useful to
-Judges
+The below additions are not offically part of OED but may be useful to Judges.
+
+## Spell Duration Limits
+
+While it's traditional to have some spells without durations (or listed as permanent or "until dispelled"), 
+for world-building purposes we usually interpret all spells as having some limited duration.
+In general, we assume the following maximum durations for any level of spell:
+
+|Level|Max Duration|
+|:---:|:-----------|
+|1    |One day     |
+|2    |One week    |
+|3    |One month   |
+|4    |One year    |
+|5    |One decade  |
+|6    |One century |
+
+Of course, for the highest-level spells, PCs will likely not be aware of 
+any distinction between these limits and actual permanent effects.
+As noted elsewhere, the DM should presume some secret variation in scale with these limits (say, 1d20%),
+so characters can't ever anticipate the exact moment when they terminate.
 
 ## Arcana Obscura
 
