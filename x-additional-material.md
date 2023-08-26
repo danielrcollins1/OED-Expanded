@@ -1,7 +1,6 @@
 # Appendix A: Additional Material
 
-The below additions are not offically part of OED but may be useful to
-Judges
+The below additions are not offically part of OED but may be useful to Judges.
 
 ## Spell Duration Limits
 
