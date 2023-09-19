@@ -339,7 +339,7 @@ There are no longer random encounters / monster lairs within the Hex.
 
 The PC no longer needs to replenish mundane items such as torches, rations, etc. prior to embarking on an adventure. It is presumed “their people” take care of these tasks.
 
-The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 5 people) settle in per season. The standard stronghold can support and protect a community of up to 6500.
+The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 5 people) settle in per season. The standard stronghold can support and protect a community of up to 6500, with 20% of this population able to take up arms to defend it.
 
 A Stronghold is protected by a compliment of 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms. For every 30 soldiers there is also a sergeant of 4th level. These forces begin to arrive in proportion to the completion of the construction.
 
