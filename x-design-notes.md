@@ -2,6 +2,10 @@
 
 This section gives references, citations, and justifications for OED rules. We do the research so you don't have to.
 
+## Origins of OED Expanded
+OED Expanded origins begin with Delta's work in creating an easy to remember approach to original D&D, extensivly documented on his blog: https://deltasdnd.blogspot.com/.  The work for OED Expanded intself began from my (Baquies) desire to have an all-in-one document for the OED system.  This started as just compiling the house rules from OEDgames.com, filling in the gaps with info from the 3 original books, extensive parsing of the OED footnotes and Delta's blog, and finally creating prose to communicate the rules.  Over time it contnued to evolve to include all things OED, and Delta's rules, various "Additional Material" from the blog and WanderingDMs discord, and finally a Judges "Missing Manual" in the form of the Campaign Material appendix.  
+The final efforts were shared with Delta, which of course led to rounds of revisions, discussions, clarifications, and changes (Both to OED Expanded, and OED itself).  From this years long collaboration grew the OED Expanded Gitub, and this document.
+
 ## Fighter Feat Sources
 
 The motivation for the Fighter Feats system is to replicate various benefits accrued to Fighters over the evolution of the O/AD&D game system. It may be of interest to note the source of inspiration for the feats we've selected, given below. Note that we don't attempt to match the exact mechanics in those sources; we've carefully balanced the effects in the context of our OD&D-based system.
