@@ -20,6 +20,8 @@ OED uses the monsters presented in Vol II with the adjustments below.
 
 **Languages**: It is assumed than an intelligent creature has a base 1 in 6 chance to speak common.
 
+**Level Drain**: Characters are allowed a Save vs Death to avoid Level Drain effect. If the save is failed, XP is set to the midpoint of the prior level. Current and Max HP are reduced proportionally (divide by original level), possibly resulting in death at 0hp. The number of lost HP should be noted and returned if/when the level is re-achieved.
+
 **Magic to Hit**: For every 4 *natural* Hit Die a creature possesses, it is capable of harming creatures that normally require +1 magic weapon to hit.
 
 **Mental Attacks**: Undead, golems, slimes, plants, and other non-intelligent creatures are generally immune to such effects, unless specifically targeting that type.
