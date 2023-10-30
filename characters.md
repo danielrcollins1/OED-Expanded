@@ -151,7 +151,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 - *Hide in Shadows*: A Thief can remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
 - *Move Silently*: The likelihood of the Thief moving with absolute silence.
-- *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1 - the lock must be forced open - a very time consuming process.
+- *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1, the lock must be forced open - a very time consuming process.
 - *Pick Pockets*: Can also be used to allow the Thief to perform acts of sleight of hand.
 - *Remove Traps*: Making use of materials at hand, the thief can neutralize small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
 
@@ -193,7 +193,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
-*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
+*Note*: Treat Potions of Healing as a 1st level spell, and Mithridate as a 4th level spell.
 
 ### Multi Classing
 
