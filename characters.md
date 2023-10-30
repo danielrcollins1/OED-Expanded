@@ -2,11 +2,11 @@
 
 ## Ability Scores
 
-Prior to the selection of character race and class, it is necessary to determine ability scores.
+Prior to the selection of character race and class, one should determine ability scores.
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
+Roll abilities 3d6 in order, then add 3 points among any scores desired (max 18). 
 
 ### Modifiers
 
@@ -35,9 +35,9 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend assigning any new languages during any downtime between adventures.  Note that PCs are assumed to be literate in any of their known languages.
 
-**Common**:Common represents the standard Human language of the region. 
+**Common**: Common represents the standard Human language of the region. 
 
 **Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
 
@@ -51,19 +51,19 @@ OED features 3 alignment options:
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
 
-## Race
+## Races
 
 **Movement**: In OED all PC races move at a base speed of 12" (60') per round.
 
 ### Humans
 
-**Class Options**: Can be a member of any class, and advance to an unlimited level.
+**Class Options**: Can be a member of any class, and advance to a unlimited levels.
 
 ### Dwarves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
+**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
 ### Elves
 
@@ -75,9 +75,9 @@ OED features 3 alignment options:
 
 **Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
+**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
-## Class
+## Classes
 
 OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
 
@@ -112,7 +112,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
 4.  *Iron Will*: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
-5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks d against being unhorsed.
+5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks against being unhorsed.
 6.  *Rapid Shot*: Add one attack per round with any missile weapon.
 7.  *Rapid Strike*: Add one attack every OTHER round with any melee weapon.
 8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
