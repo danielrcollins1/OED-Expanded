@@ -37,7 +37,7 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 |1 turn      |  1 minute |
 |1" on table |  5 feet or 1"pace" |
 
-**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 Con + *Bonus* minutes. A full sprint would be (240'), lasting for 1 plus Con + *Bonus* rounds. Walking is half (30').
+**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 + Con *Bonus* minutes. A full sprint would be (240'), lasting for 1 + Con *Bonus* rounds. Walking is half (30').
 
 **Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
@@ -52,8 +52,8 @@ darkness clearly out to 1/2 the specified distance (30') and dimly out to
 the full listed distance (60'). It is spoiled when looking directly at a
 torch/fire source.
 
-**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They cannot make ranged attacks (see
-errant shots below), move at half speed, and suffer –1 to morale.
+**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They move at half speed, cannot make ranged attacks (see
+errant shots below), and suffer –1 to morale.
 
 ### Adventuring Tasks
 
@@ -108,7 +108,7 @@ In general, all spells and harmful effects should require an attack or
 allow some form of saving throw to either negate the effect or result in
 half effect/damage.
 
-**Diseases**: When exposed to a disease hazard, a Save vs Breath will
+**Diseases**: When afflicted with a disease, a Save vs Breath will
 avoid Strength damage for the day. Recovery requires bed rest.
 
 - *Rat Plague*: –1d12 Strength per day. Recover 3 Strength per week of rest.
@@ -116,13 +116,11 @@ avoid Strength damage for the day. Recovery requires bed rest.
 - *Leech Fever*: –1 Strength per day. Recover 3 Strength per week of rest.
 - *Mummy Rot*: –1 Strength per day. Recovery (See Magic Diseases below).
 
-**Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot
-can be removed via the Remove Curse spell in place of the Remove Disease
-spell.
+**Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot can be removed via the Remove Curse spell due to the lack of Clerics and the Remove Disease spell.
 
 **Drowning/Suffocation**: You have a 50% chance each round without air
 to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6
-damage per Turn (minute) without air. Damage is doubled if surprised.
+damage per Turn (minute) without air, damage is doubled if surprised.
 
 **Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A
 successful Save vs Stone halves the damage. Damage may be modified by 1
@@ -165,14 +163,14 @@ round:
     character's movement)
 
 **Fleeing**: A creature can flee combat and does not draw a free attack
-at its back, but does suffer the penalty for attacks to the rear.
+at its back, but does suffer the penalty for attacks to the rear (See Combat Modifiers below).
 
 **Withdraw**: In combat a creature can move up to half their speed
 without turning their back on the enemy, preventing an attack against
 the rear flank.
 
 **Critical Hits**: In most cases, a natural 1 is an automatic miss, 
-and 20 an automatic hit (DM rules on impossible cases). 
+and 20 an automatic hit (Judge rules on impossible cases). 
 The former may give a chance for a fumble; the latter does double damage 
 (roll twice with bonuses).
 
@@ -183,8 +181,7 @@ to attack rolls.
     AC.
 -   Attacker is silent or unseen: +4 to hit.
 -   Target is stunned, stationary: +4 to hit.
--   Target is helpless: +6 to Ranged attacks; Automatic Melee attacks for
-    full damage.
+-   Target is helpless: Automatic Melee attacks for full damage. +6 to Ranged attacks. 
 
 **Shots at Groups**: When firing at a specific individual in a crowd, if
 the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
