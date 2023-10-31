@@ -2,7 +2,7 @@
 
 [Delta's D&D Hotspot](http://deltasdnd.blogspot.com/)
 
-[OED games website](http://oedgames.com/)
+[OED Games website](http://oedgames.com/)
 
 [OED Character Sheet](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
 
