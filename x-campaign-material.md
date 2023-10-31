@@ -356,8 +356,8 @@ For variety, the Judge can roll 2d6 on the table below once per season to determ
 |2d6	|Outcome|
 |:---|:-------------------------------------------------|
 |2	|Bane: Plague, Treachery, Revolt, War.|
-|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resource(s) |
+|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resources (Pay extra upkeep) |
 |6-8	|Uneventful Season (20% chance each for good or bad omen, +/-1 to next season’s roll)|
-|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration|
+|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration (Make a Profit)|
 |12	|Boon: Title of Nobility, Magic Item, Special Allies, etc.|
 
