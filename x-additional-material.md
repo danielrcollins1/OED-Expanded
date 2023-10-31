@@ -9,7 +9,7 @@ Below is a summary of Cleric, Druid, and Magic User spells not included
 in [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 They can be used for Judges who wish to include other kinds of spell-casters, or diversify their villains.
 
-|Level 1   |Name                     |Range    |Duration      |Description |
+|Level    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |1        |Cause Light Wounds       |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly inflicts 1d6+1 HP damage to the target.  Sapping the target's Vigor.  |
 |1        |Cure Light Wounds        |Touch    |Instant       |By placing their hand on the intended creature's body, this spell instantly restores 1d6+1 HP to the target.  Restoring the target's Vigor.  |
@@ -22,7 +22,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |1        |Locate Animals           |120'      |3 Turns       |The caster senses the direction of a well-known or clearly visualized animal. The caster can search for general animals such as a bear, dog, or snake, in which case he or she locates the nearest one of its type. Attempting to find a specific animal requires an accurate mental image.|
 |1        |Faerie Fire              |30'      |6 Turns       |This spell causes any creatures in a 10' radius globe to be outlined by lights as if by torchlight, they then remain so illuminated for the duration of the spell.|
 
-|Level 2   |Name                     |Range    |Duration      |Description |
+|Level    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |2        |Bless                    |Touch    |6 Turns       |This spell bolsters the resolve of all creatures in the area (10' radius globe). The subjects gain a +1 to morale and +2 to attack rolls.  |
 |2        |Blight                   |Touch    |6 Turns       |This spell saps the resolve of all creatures in the area (10' radius globe). The targets suffer a -1 to morale and -2 to attack rolls.  |
@@ -34,7 +34,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |2        |Heat Metal               |15'       |3 Turns       |This spell will cause a volume of metal equivalent to 1 suit of plate, 2 shirts of chain, or 6 shields/weapons/helms (withing a 10' radius globe) to become hot to the touch. Crearures in conact with any number of such items will suffer 1d6 points of heat/fire damage per round of contact. Targets can attempt to drop/remove items to avoid further damage.  |
 |2        |Warp Wood                |30'       |Instant       |This spell will cause a volume of wood equivalent to a door or 6 weapon-shafts/ammo containers (within a 10' radius globe) to swell and warp becoming useless.|
 
-|Level 3  |Name                     |Range    |Duration      |Description |
+|Level   |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |3        |Cause Disease            |Touch    |Permanent     |When this spell is cast the target becomes diseased, losing 1d6 Strength immediately.  Each week the target must make a save vs breath or lose another 1d6 Strength.  This remains the case until naturally healed, Dispel Magic, or Remove Disease is used to cancel the effect.|
 |3        |Continuing Darkness       |60'      |1 Week        |This spell extinguishes all light sources in range (60' radius globe), up to large campfire size, and dispels any magic light sources. Further, it prevents re-ignition of any light sources during the duration, save for a Continual (Continuing) Light spell, or similar effect.  |
@@ -45,7 +45,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |3        |Protection from Fire     |Touch    |6 Turns       |This spell wards all creatures in the area (10' radius globe) from the effects of normal fire and heat. The subjects gain a +4 bonus to saves against magical fire, such as from spells and dragon’s breath, etc. |
 |3        |Hold Animal              |60'      |6 Turns       |One or more animals in a 10' radius golbe the size of a Polar Bear or smaller are frozen in place. The caster can opt to target a single animal (save vs Stone at –2 penalty), or up to four total (at normal saves). |
 
-|Level 4   |Name                     |Range    |Duration      |Description |
+|Level    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |4        |Create Water             |30'       |Instant     |The caster creates a day's mass of potable water, the amount conjured is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.|
 |4        |Neutralize Poison        |Touch    |Instant     |This spell instantly renders poison in an object or affected creature inert. |
@@ -55,7 +55,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |4        |Turn Sticks to Snakes    |60'      |6 Turns       |The caster can turn a number of sticks in a 10' radius globe into snakes that perform actions as they command. The caster can transmute 2d6+2 sticks into common snakes or 1d6+2 sticks into venomous snakes.|
 |4        |Protection from Lightning|Touch    |12 Turns      |This spell wards all creatures in the area (10' radius globe) against lightning and electricity. Electricity that does 1 die of damage is ignored, and they receive a +4 bonus to saves against magical lightning and electricity, such as from spells and dragon’s breath, etc.  |
 
-|Level 5   |Name                     |Range    |Duration      |Description |
+|Level    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |5        |Commune                  |Personal |3 Turns ( C ) |This spell puts the caster in contact with an entity of the Outer Planes, allowing them to ask of it three "yes or no" questions. The being will always answer truthfully, or respond that is does not know.  The entity has a 2 in 6 chance of knowing the answer.  Concentration is required throughout the spell's duration. If it has been over a year since the caster's last use of the spell, 6 questions are allowed. The Judge may rule that frequent castings may be less effective.  |
 |5        |Create Food              |30'       |Instant       |The caster creates a day's mass of nutritious, if plain, food. The amount is determined by caster level. Caster level 1+ = 2 People and 2 Mounts / level; Caster level 10+ = 10 People and 10 Mounts / level; Caster level 20 = 100 People and 100 mounts / level.  |
@@ -65,7 +65,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |5        |Quest                    |Touch    |1 Year        |A Quest spell places a magical command on a creature to carry out some service or to refrain from some activity, language permitting. If the subject does not undertake the Quest, then he or she loses one point of Charisma per day (Minimum 1). It cannot be dispelled, and remove curse is ineffective. The Judge should assess the strength of the Quest (it cannot result in certain death), and ways of possibly ending one. |
 |5        |Raise Dead               |Touch    |Instant       |This spell brings a deceased humanoid of man-size or smaller back to life, provided it has been dead for less than 1 day per caster level.  The creature must succeed at a Save vs Death in order to come back to life, at which point is has 1 HP.  The Judge may rule that repeated castings on the same creature are less effective.|
 
-|Level 6   |Name                     |Range    |Duration      |Description |
+|Level    |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |6        |Repulsion                |Personal |6 Turns       |This spell causes selected creatures and objects surrounding the caster to withdraw from the caster by the safest means possible. Inanimate objects will move at a rate of 30’ per round.  If trapped or cornered, creatures will cower.   |
 |6        |Animate Objects          |30'      |6 Turns       |This spell can animate an object up to twice the size of a man (16HD), two man-sized objects (8HD each), or 2d6 smaller objects (2 HD each) that act on behalf of the caster as a creature of the given HD.  Items made of Stone or Metal would have an AC of 3, movement of 30'.  -Objects made of Wood or Hide would have an AC of 5, movement of 45'.  -Objects of Fragile materials would have an AC of 7, movement of 60'.  -Items like rugs or tapestries, may blind, trip, or bind targets instead of inflicting damage at Judge's discretion.|
@@ -75,7 +75,7 @@ They can be used for Judges who wish to include other kinds of spell-casters, or
 |6        |Speak with Monsters      |Touch    |12 turns      |This spell allows the target to speak with any creature as they would another person and understand their replies, even those that are not typically able to communicate via language. |
 |6        |Conjure Animals          |30'      |12 turns      |This spell allows the caster to conjure a number of (real world) animals whose total HD do not excede twice the caster’s level.  The animals so brought will obey the caster’s basic commands. |
 
-|Level 7    |Name                     |Range    |Duration      |Description |
+|Level     |Name                     |Range    |Duration      |Description |
 |:-----:|:-----------------|:----------|:-----------|:-----------------------------------------------|
 |7        |Earthquake               |1 mile    |1 turn        |This spell causes the ground to shake in a 40' by 40' area. This shaking will cause even sturdy stone to collapse (palisades, an earth rampart, a portion of a cliff, etc.) Creatures in the area have a 1 in 6 chance to fall into cracks in the earth as they appear, suffering 1d6 damage per round.   |
 |7        |Aerial Servant           |30'      |Permanent     |This spell conjures an Aerial Servant (an extraplanar creature) in order to retrieve an object or creature the caster desires. The creature avoids combat, instead using its stealth, strength, and speed to grab its prey by surprise and whisk it back to the caster. It cannot be dispelled, although it can be driven off in combat. Treat the servant as a 16HD and AC 2. It is silent and invisible, flies at a speed of 360'. If frustrated from its purpose the Aerial Servant will turn on its sender, attacking them. The spell ends when the servant retrieves the object or is killed. |
@@ -98,7 +98,7 @@ When striking without a weapon (including strikes with just a gauntlet/brass knu
 
 ### Fighter Feats
 
-**Beast-master**: Gain a +4 to reaction/moral checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
+**Beast-master**: Gain a +4 to reaction/morale checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
 
 **Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
 
