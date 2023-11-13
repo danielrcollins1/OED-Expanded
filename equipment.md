@@ -8,7 +8,7 @@
 Piece in OED has the buying power of a GP in traditional sources. In
 published sources replace references to "gold pieces' with"silver
 pieces", keeping original amount. Silver becomes Copper, Platinum
-becomes Gold and so on.
+becomes Gold and so on.  *Note: Men-at-arms costs in gold from the original sources are accurate; do not convert these to silver.*
 
 **Calculating Costs**: For items not listed, take the historical value
 in shillings and multiply by 3 for SP cost.
