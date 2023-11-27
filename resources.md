@@ -14,6 +14,8 @@
 
 [Wandering DMs website](https://wanderingdms.com/)
 
+["SUPERDAN"'s gaming notes](http://www.superdan.net/gaming/index.html)
+
 [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
 
 [Jeff Rients' Carousing](http://jrients.blogspot.com/2008/12/party-like-its-999.html)
