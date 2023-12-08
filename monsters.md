@@ -82,11 +82,11 @@ When stocking a dungeon, the numbers of monsters appearing is dependent on the r
 
 |EHD vs Dungeon Level|No of monsters appearing|
 |:-------------------|:-----------------------|
-|Dungeon level is greater by 3 or more    | (1d4+1) or ~2 3/4 party size |
-|Dungeon level is greater by 1 or 2  | (1d4+1) or ~ 1 3/4 party size|
+|Dungeon level is greater by 3 or more    | (1d4+1)*3 or ~2 3/4 party size |
+|Dungeon level is greater by 1 or 2  | (1d4+1)*2 or ~ 1 3/4 party size|
 |Dungeon level and EHD are equal     | 1d4+1 or equal to party size |
-|EHD is greater by 1 or 2      | (1d4+1) or 1/2 party size    |
-|EHD is greater by 3 or more   | (1d4+1) or 1/4 party size    |
+|EHD is greater by 1 or 2      | (1d4+1)/2 or 1/2 party size    |
+|EHD is greater by 3 or more   | (1d4+1)/3 or 1/4 party size    |
 
 For a wandering monster encounter, cut the above number in half.
 
