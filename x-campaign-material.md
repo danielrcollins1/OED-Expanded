@@ -143,9 +143,9 @@ To begin laying out your wilderness, start with a “Plains” hex, “P”, in 
 
 |**2d6**|**Terrain**              |   |**2d6**|**Terrain**                   |
 |:------|:------------------------|---|:------|:-----------------------------|
-|2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
+|1-2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
 |3      |Hills “H”                |   |10-11  |Trees “T”                     |
-|4-7    |Same as Reference Hex    |   |12     |Wetlands “W” (+1 to next roll)|
+|4-7    |Same as Reference Hex    |   |12-13     |Wetlands “W” (+1 to next roll)|
 
 Remember, this is only the main type of terrain in the hex, a plains hex will have small wooded areas, a dry hex will have small ponds, a forested hex can also be hilly or have a bog, etc.
 
