@@ -115,6 +115,7 @@ tough hide (AC 3 or better)
 |Saddle               |25           |1              |                                                                           |
 |Saddlebags           |10           |\--            |Holds 3 stone                                                              |
 |Barding              |150          |5              |Horse armor, gives +4 AC bonus                                             |
+|Fodder               |1            |5              |Horse/Mount Feed for 1 week                                                |
 |Cart                 |100          |\--            |2 Wheels, can hold 1 "long" ton (160 Stone)                                |
 |Wagon                |200          |\--            |4 Wheels, can hold 2 "long" tons (320 Stone)                               |
 |Raft                 |40           |\--            |1-2 occupants plus 60 stone, drifts with current                           |
