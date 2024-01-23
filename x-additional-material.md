@@ -242,6 +242,14 @@ Should a creature find themselves immersed in a new language (and have no spare 
 - You can never become a Fluent speaker in this manner.
 - You will lose this language if you leave immersion for a Season or more (the Judge may allow you to “pick it up” again at an accelerated rate).
 
+## Sleep
+
+- Sleeping creatures suffer a -4 penalty to surprise and detection rolls.
+  
+**Sleep Deprivation**
+- Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing, nor can they regain any "per day" special abilities, including spells.
+- Characters who go more than 24 hours without rest suffer a cumulative -1 penalty to rolls and check every 6 hours.  In addition they must make a Save vs Death every 6 hours or fall asleep.  
+
 ## Tournaments and Contests
 
 ### Archery
