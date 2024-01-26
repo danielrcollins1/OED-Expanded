@@ -248,7 +248,7 @@ Should a creature find themselves immersed in a new language (and have no spare 
   
 **Sleep Deprivation**
 - Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing, nor can they regain any "per day" special abilities, including spells.
-- Characters who go more than 24 hours without rest suffer a cumulative -1 penalty to rolls and check every 6 hours.  In addition they must make a Save vs Death every 6 hours or fall asleep.  
+- Characters who go more than 24 hours without rest suffer a cumulative -1 penalty to rolls/checks every 6 hours.  In addition they must make a Save vs Death every 6 hours or fall asleep.  
 
 ## Tournaments and Contests
 
