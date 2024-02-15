@@ -247,8 +247,9 @@ Should a creature find themselves immersed in a new language (and have no spare 
 - Sleeping creatures suffer a -4 penalty to surprise and detection rolls.
   
 **Sleep Deprivation**
-- Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing, nor can they regain any "per day" special abilities, including spells.
-- Characters who go more than 24 hours without rest suffer a cumulative -1 penalty to rolls/checks every 6 hours.  In addition they must make a Save vs Death every 6 hours or fall asleep.  
+- Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing.
+- Creatures suffer a cumulative -2 to rolls and checks for every rest period they miss. This penalty is recovered by 1 for every regained period of rest.
+- If needed, the GM can enforce a Save vs Death, including the penalties above, to determine if a creature can stay awake on its own.
 
 ## Tournaments and Contests
 
