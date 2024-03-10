@@ -58,7 +58,7 @@ tough hide (AC 3 or better)
 |Mace           |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                    |
 |Hammer         |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                    |
 |Military Pick  |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                    |
-|Staff          |Medium      |1            |1d6       |1/3      |Two Hands needed to attack            |
+|Staff          |Light      |1            |1d6       |1/3      |Two Hands needed to attack            |
 |Sword          |Medium      |10           |1d8       |1/3      |“Sword”                               |
 |Polearm        |Medium      |7            |1d8       |1/3      |“Spear”; Two Handed                   |
 |Battle Axe     |Medium      |7            |1d8       |1/3      |“Axe”                                 |
