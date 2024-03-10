@@ -122,11 +122,11 @@ If thou must...
   |6       |25,000       |6d6      |+4       |Spells: 2 2 1 1|
   |7       |50,000       |7d6      |+4       |Spells: 2 2 2 1 1|
   |8       |100,000      |8d6      |+5       |Spells: 2 2 2 2 2; Magic Wands/Staves & Weapon Creation|
-  |9       |200,000      |9d6      |+6       |Spells: 3 3 3 2 2|
-  |10      |300,000      |10d6     |+6       |Spells: 3 3 3 3 3|
-  |11      |400,000      |11d6     |+7       |Spells: 4 4 4 3 3|
-  |12      |500,000      |11d6+1   |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
-  |13+     |+100,000     |(+1)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
+  |9       |200,000      |8d6+2    |+6       |Spells: 3 3 3 2 2|
+  |10      |300,000      |8d6+4    |+6       |Spells: 3 3 3 3 3|
+  |11      |400,000      |8d6+6    |+7       |Spells: 4 4 4 3 3|
+  |12      |500,000      |8d6+8    |+8       |Spells: 4 4 4 4 4 1; All Other Magic Item Creation|
+  |13+     |+100,000     |(+2)     |(+2/3)   |Spells: Alternate +1 spells of levels 1-3, then +1 spells of levels 4-6|
   
 **Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
