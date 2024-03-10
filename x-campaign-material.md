@@ -143,9 +143,9 @@ To begin laying out your wilderness, start with a “Plains” hex, “P”, in 
 
 |**2d6**|**Terrain**              |   |**2d6**|**Terrain**                   |
 |:------|:------------------------|---|:------|:-----------------------------|
-|2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
+|1-2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
 |3      |Hills “H”                |   |10-11  |Trees “T”                     |
-|4-7    |Same as Reference Hex    |   |12     |Wetlands “W” (+1 to next roll)|
+|4-7    |Same as Reference Hex    |   |12-13     |Wetlands “W” (+1 to next roll)|
 
 Remember, this is only the main type of terrain in the hex, a plains hex will have small wooded areas, a dry hex will have small ponds, a forested hex can also be hilly or have a bog, etc.
 
@@ -282,6 +282,26 @@ Each terrain type has a difficulty factor associated with it, this value represe
 
 **Lost Check**: A party navigating without reliable roads or consistently visible horizon markers has a chance in 6 to become lost equal to the terrain difficulty factor. When the party becomes lost, the Judge rolls a 1d6 to determine which neighboring hex they end up in, with a 1 being their intended direction.
 
+### Resources
+
+The above rules assume groups have suffiecient and water for their journey, supplemented with light foraging.  In most terrain types, only food for people needs to be tracked.  Otherwise assume that water is generally available and mounts can graze daily.  Severe terrain such as deserts, mountains, artic, open sea, caves, and dungeons requires the tracking of food and water for people and mounts. Total cost and encumbrance per week of supplies is shown in the table below.  Food can be supplimented with hunting, presume 1 HD will feed 6 people for a week, before spoilage.
+
+|Item|	Cost (SP)	|Encumbrance|
+|:---|:---|---|
+|Food Person 		|5	|1|
+|Water Person 		|0*	|2|
+|Fodder Mount		|1	|5|
+|Water Mount		|0*	|20|
+
+*Presumes water is readily available
+
+**Lack of Water**: Creatures subtract 1d6 points from their Max HP per day without water. The creature's Max HP recover at a rate of 1 HP per day of proper nutrition.  
+
+**Lack of Food**: Creatures subtract 1d6 points from their Max HP per week without food.  The creature's Max HP recover at a rate of 1 HP per day of proper hydration.  
+
+If a creature's Max HP is reduced to below half from lack of food and/or water (or exposure/see below), then the creature’s movement is halved. 
+
+
 ### Weather
 
 A tried and true way to determine the weather at any given time in game is to look out the window and use the prevailing conditions you see. Or you can use the below table.
@@ -298,21 +318,44 @@ For added variety, the Judge can opt to have a 1 in 6 chance of a change in weat
 
 #### Exposure
 
-Characters and creatures are presumed to be adequately dressed or acclimated to the weather (including armor, etc.). If they are inappropriately garbed for the temperature (too hot or too cold) they take damage as below (the Judge may increment the damage for more extreme situations)
+Characters must be adequately dressed or acclimated to the weather (including armor, etc.). Consult the table below for appropirate garb for the given "Feels Like" temperature (accounting for Wind Chill, Humidity, etc.).  Assume standard mounts and creatures can function comfortably between 0* to 90* F (-15* to 30* C).  
 
-**Extreme Temperatures**: You suffer 1d6 damage per hour and must additionally save vs death or suffer -1d6 Strength.
+|Category	|Temp F		|Temp C 	|Clothing Needed|Cost (sp)	|Encumbrance	|Penalty*|
+|:---		|:---:		|:---:		|:---		|:---:		|:---:		|:---:	|	
+|Ex Hot		|150+		|60+		|N/A		|N/A		|N/A		|0	|
+|V Hot		|120 to 150	|45 to 60	|N/A		|N/A		|N/A		|0	|
+|Hot		|90 to 120	|30 to 45	|N/A		|N/A		|N/A		|0	|
+|Warm		|60 to 90	|15 to 30	|None/Tunic	|2		|0		|0	|
+|Cool		|60 to 30	|15 to 0	|Linen		|5		|0		|0	|
+|Cold		|30 to 0	|0 to -15	|Woolen		|10		|1/3		|-1	|
+|V Cold		|0 to -30	|-15 to -30	|Fur-lined**	|20		|2/3		|-2	|
+|Ex Cold	|-30 or less	|-30 or less	|Artic Skins***	|50		|1		|-3	|
 
-#### Resources
+*This penalty applies to applies to AC and all Dex based rolls/attacks.
 
-The above rules assume groups are carrying food and water for their journey, supplemented with light foraging. If a party runs out of resources, they suffer the effects below.
+**Prohibits wearing of Plate Armor
 
-**Lack of Water**: You suffer 1d6 damage per day without water and must additionally save vs death or suffer -1d6 Strength.
+***Prohibits wearing of Chain or Plate Armor
+ 
+**Extreme Temperatures**: Creatures subtract 1d6 points from their Max HP per hour of exposure.  For every additional "step" outside their comfort range, the penalty accrues more quickly.  1 step = hourly; 2 steps = every 10 minutes; 3 steps = each minute; 4 steps = -1d6 each round.
+The creature's Max HP recover at a rate of 1 HP per hour of proper shelter.  
 
-**Lack of Food**: You have a 50% chance each day without food to suffer 1 point of damage (1d3 if engaging in strenuous activity). You also suffer 1d6 damage per week without food and must additionally save vs death or suffer -1d6 Strength.
+If a creature's Max HP is reduced to below half from exposure (or starvation as above), then the creature’s movement is halved. 
 
 #### Night/Darkness
 
 Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
+
+### Long Journeys
+If the party traversing a long distance without a focus on explorationg, the Judge may wish to summarize the journey with a 2d6 roll.
+
+|2d6	|Outcome|
+|:---|:-------------------------------------------------|
+|2	|Mishap: Arrive late with resources delepted, party saves vs Breath or is at 1/2 HP.|
+|3-5 	|Poor: Arrive late and low on resources |
+|6-8	|Uneventful: Arrive in the average amount of time|
+|9-11	|Good: Arrive a bit early|
+|12	|Excellent: Arrive exrta early and in good spirits with supplies fully stocked|
 
 
 ## Bases and Stongholds
@@ -339,7 +382,7 @@ There are no longer random encounters / monster lairs within the Hex.
 
 The PC no longer needs to replenish mundane items such as torches, rations, etc. prior to embarking on an adventure. It is presumed “their people” take care of these tasks.
 
-The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 5 people) settle in per season. The standard stronghold can support and protect a community of up to 6500.
+The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 5 people) settle in per season. The standard stronghold can support and protect a community of up to 6500, with 20% of this population able to take up arms to defend it.
 
 A Stronghold is protected by a compliment of 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms. For every 30 soldiers there is also a sergeant of 4th level. These forces begin to arrive in proportion to the completion of the construction.
 
@@ -356,8 +399,8 @@ For variety, the Judge can roll 2d6 on the table below once per season to determ
 |2d6	|Outcome|
 |:---|:-------------------------------------------------|
 |2	|Bane: Plague, Treachery, Revolt, War.|
-|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resource(s) |
+|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resources (Pay extra upkeep) |
 |6-8	|Uneventful Season (20% chance each for good or bad omen, +/-1 to next season’s roll)|
-|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration|
+|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration (Make a Profit)|
 |12	|Boon: Title of Nobility, Magic Item, Special Allies, etc.|
 

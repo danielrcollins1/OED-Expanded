@@ -1,7 +1,6 @@
 # NPCs
 
-It is recommended that the Judge keep a short roster of basic NPC info
-(names, stats, personality).
+It is recommended that the Judge keep a short roster of basic NPC info (names, stats, personality).  The Judge should run the NPC initially and for the next session generate full stats for the player's reference including personality, (public) alignment, morale, equipment, and treasure share.
 
 NPC types can be generated randomly below.
 
@@ -13,11 +12,7 @@ NPC types can be generated randomly below.
 
 **Alignment**: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
 
-The Judge should run the NPC initially and for the next session generate
-full stats for the player's reference including personality, (public)
-alignment, morale, equipment, and treasure share.
-
-NPC's bequeath their belongings to their next of kin.
+**Equipment**: By Class or Profession, NPC's bequeath their belongings to their next of kin.
 
 ## Zero Level Characters
 

@@ -1,4 +1,8 @@
-# Introduction
+# OED Expanded
+
+*by William "Baquies" Heilman and Dan "Delta" Collins*
+
+An expanded presentation of the Original Edition Delta houserules for 1974 era Dungeons and Dragons formulated by Dan Collins.
 
 ## What is OED?
 
@@ -19,3 +23,5 @@ Many of us find the original game the purest, most playable, most DM-friendly ve
 ## Where can I get it?
 
 The OED rules supplement is free for download at OED Games ([www.oedgames.com](http://www.oedgames.com/)). And don't forget, scans of the Original D&D core rules can be bought at RPGNow.com (search for "Original Edition").
+
+## Creative Commons info here?

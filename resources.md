@@ -2,7 +2,7 @@
 
 [Delta's D&D Hotspot](http://deltasdnd.blogspot.com/)
 
-[OED games website](http://oedgames.com/)
+[OED Games website](http://oedgames.com/)
 
 [OED Character Sheet](http://oedgames.com/addons/houserules/OED-CharacterSheet-1.07.pdf)
 
@@ -13,6 +13,8 @@
 [OED Book of War](http://oedgames.com/addons/bow/index.html)
 
 [Wandering DMs website](https://wanderingdms.com/)
+
+["SUPERDAN"'s gaming notes](http://www.superdan.net/gaming/index.html)
 
 [Paul's Game Blog: The Magic Table](https://www.paulsgameblog.com/2018/06/28/magic-tables/)
 
