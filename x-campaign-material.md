@@ -346,6 +346,17 @@ If a creature's Max HP is reduced to below half from exposure (or starvation as 
 
 Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
 
+### Long Journeys
+If the party traversing a long distance without a focus on explorationg, the Judge may wish to summarize the journey with a 2d6 roll.
+
+|2d6	|Outcome|
+|:---|:-------------------------------------------------|
+|2	|Mishap: Arrive late with resources delepted, party saves vs Breath or is at 1/2 HP.|
+|3-5 	|Poor: Arrive late and low on resources |
+|6-8	|Uneventful: Arrive in the average amount of time|
+|9-11	|Good: Arrive a bit early|
+|12	|Excellent: Arrive exrta early and in good spirits with supplies fully stocked|
+
 
 ## Bases and Stongholds
 
