@@ -135,7 +135,7 @@ tough hide (AC 3 or better)
 
 ## Armor
 
-Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level or Armor proficiency to use. Leather and Chain armor takes 1 minute to put on, Plate takes 10 minutes and requires assistance.
+Armor in OED comes in 4 types, Light (Leather), Medium (Chain), Heavy (Plate), and Shields.  Helmets require some level or Armor proficiency to use. Leather and Chain armor takes 1 minute/turn to put on, Plate takes 10 minutes/turns and requires assistance.  It takes 1 round (each) to remove a shield, helm, or backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate requires 3 turns to remove with assistance.
 
 |Item                   |Cost (SP)  | AC          | Stone|
 |:----------------------|:----------|:-----------:|:----:|
