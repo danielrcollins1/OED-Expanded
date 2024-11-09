@@ -12,7 +12,7 @@ OED uses the monsters presented in Vol II with the adjustments below.
 
 **Monster Damage**: Monster damage is rolled on a 1d6, unless otherwise noted.
 
-**Monster Strength**: If necessary, you can assume a Monster's Strength modifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 2 or 3 for quardrapeds, etc).
+**Monster Strength**: If necessary, you can assume a Monster's Strength modifier is equal to ½ its Hit Die, and their carry capacity in Stone is (HD*2)+10 (Multiply by 1.5 or 2.5 for quardrapeds, mounts, etc).
 
 **Gaze Attacks**: Creatures facing beings with Gaze Attacks must make a Save each round unless precautions are taken.
 
