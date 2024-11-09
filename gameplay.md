@@ -121,64 +121,42 @@ initiative is rolled.
 -   Ranged Attacks (unless a weapon thrown in the same direction as the
     character's movement)
 
-**Fleeing**: A creature can flee combat and does not draw a free attack
-at its back, but does suffer the penalty for attacks to the rear (See Combat Modifiers below).
+**Fleeing**: A creature can flee combat and does not draw a free attack at its back, but does suffer the penalty for attacks to the rear (See Combat Modifiers below).
 
-**Withdraw**: In combat a creature can move up to half their speed
-without turning their back on the enemy, preventing an attack against
-the rear flank.
+**Withdraw**: In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
 
-**Critical Hits**: In most cases, a natural 1 is an automatic miss, 
-and 20 an automatic hit (Judge rules on impossible cases). 
-The former may give a chance for a fumble; the latter does double damage 
+**Critical Hits**: In most cases, a natural 1 is an automatic miss, and 20 an automatic hit (Judge rules on impossible cases). The former may give a chance for a fumble; the latter does double damage 
 (roll twice with bonuses).
 
-**Combat Modifiers**: The following situational modifiers may be added
-to attack rolls.
+**Combat Modifiers**: The following situational modifiers may be added to attack rolls.
 
--   Attacks to the target's rear: +2 to hit & To hit roll ignores shield
-    AC.
+-   Attacks to the target's rear: +2 to hit & To hit roll ignores shield AC.
 -   Attacker is silent or unseen: +4 to hit.
 -   Target is stunned, stationary: +4 to hit.
 -   Target is helpless: Automatic Melee attacks for full damage. +6 to Ranged attacks. 
 
-**Shots at Groups**: When firing at a specific individual in a crowd, if
-the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but
-*not* AC) is less than 10, it misses the (man-size) target.
+**Shots at Groups**: When firing at a specific individual in a crowd, if the attack roll (d20 + To Hit + Dex Modifier + Range/Attack Modifiers; but *not* AC) is less than 10, it misses the (human-size) target.
 
-**Errant Shots**: Ranged attack rolls (as above) below 10 miss the target, 
-but may hit another nearby (determined randomly). Errant, fumbled, or random attacks into groups 
-are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
+**Errant Shots**: Ranged attack rolls below 10 miss the target (noted above), but may hit another nearby target (determined randomly). Errant, fumbled, or random attacks into groups are assessed with a raw d20 roll that ignores attacker skill and range modifiers.
 
-**Grappling**: Roll a melee attack, if succesful, then roll opposed Grapple (Strength) checks 
-(d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
+**Grappling**: Roll a melee attack, if succesful, then roll opposed Grapple (Strength) checks (d6 + Str bonus; equal to 1/2 HD for monsters). Failure means the target can act normally, success means the target is immobilized, or pushed up to ten feet.  The target must win a Strength check on their turn to break free.
 
 **Subdual Attacks**: Blunt, wooden weapons can optionally be used to attack for nonlethal damage.  If the attack reduces the target to 0 Hit Points, it is knocked out.  Damage from critical hits becomes lethal, regardless of attacker's intent.
 
 ### Death and Healing
 
-**Zero Hit Points**: When a character reaches or goes below 0 Hit
-Points, they must immediately make a Save vs Death. Failure means the
-character is Dead. Success results in the character stabilizing at 0HP,
-waking in 1d6 turns, in an incapacitated state. Any healing (returning
-the character to 1 HP) will restore normal activity.
+**Zero Hit Points**: When a character reaches or goes below 0 Hit Points, they must immediately make a Save vs Death. Failure means the character is Dead. Success results in the character stabilizing at 0HP, waking in 1d6 turns, in an incapacitated state. Any healing (returning the character to 1 HP) will restore normal activity.
 
-**Natural Healing**: Creatures regain a number of Hit Points equal to
-Level (Hit Dice) + Con *Bonus* per week of rest and comfort. The
-creature can not undergo other meaningful activities.
+**Natural Healing**: Creatures regain a number of Hit Points equal to Level (Hit Dice) + Con *Bonus* per week of rest and comfort. The creature can not undergo other meaningful activities.
 
-**Magical Healing**: The only common source of magical healing in OED
-are potions of healing and potions of mithridate (neutralize poison)
-which are available from Wizards and NPC Alchemists. There is no common
+**Magical Healing**: The only common source of magical healing in OED are potions of healing and potions of mithridate (neutralize poison) which are available from Wizards and NPC Alchemists. There is no common
 source of regeneration, resurrection, or restoration magic.
 
-**Character Death**: Players can bring in a new 1st level character at
-the completion of current combat/activity.
+**Character Death**: Players can bring in a new 1st level character at the completion of current combat/activity.
 
 ## Spells
 
-OED makes the below spells available to the Wizard class. Spell
-attributes and effects have been standardized and are available in the
+OED makes the below spells available to the Wizard class. Spell attributes and effects have been standardized and are available in the
 [OED Book of Spells](http://www.lulu.com/content/paperback-book/original-edition-delta-book-of-spells-2nd-edition/15995854).
 
 |**Level 1**              |**Level 2**               |**Level 3**                  |
@@ -221,5 +199,5 @@ attributes and effects have been standardized and are available in the
 - Spells generally need line-of-sight to their target point.
 - All spells permit saving throws for anyone directly or negatively affected by them (half effect for damage type spells). 
 - Concentration (when required) permits ½ speed movement, but no attacks, spells, or taking damage.
-- “Man-size” creatures are those of 1 HD (base, without class levels).
+- “Human-size” creatures are those of 1 HD (base, without class levels).
 - Low-level detection spells (up to 3rd level) are generally blocked by 3 feet of dirt or wood, 1 foot of stone, 1 inch of metal, or a thin sheet of lead. Higher-level spells are blocked only by special protections.
