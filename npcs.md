@@ -10,7 +10,7 @@ NPC types can be generated randomly below.
 
 **Class**: 1-3 (Fighter), 4-5 (Thief), 6 (Wizard -- roll again for Elf)
 
-**Alignment**: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
+**Alignment**: 1-2 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden)
 
 **Equipment**: By Class or Profession, NPC's bequeath their belongings to their next of kin.
 
