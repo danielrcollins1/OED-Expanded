@@ -37,7 +37,7 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 |1 turn      |  1 minute |
 |1" on table |  5 feet or 1"pace" |
 
-**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 + Con *Bonus* minutes. A full sprint would be (240'), lasting for 1 + Con *Bonus* rounds. Walking is half (30').
+**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 minute. A full sprint would be (240'), lasting for 1 round.  The Judge may allow Consitution checks to extend these duratins. Walking is half (30').
 
 **Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
