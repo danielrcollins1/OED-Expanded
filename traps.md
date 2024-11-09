@@ -29,12 +29,12 @@ Finally roll a d12 and match the result to the given Threat Rank.
 |       |**Trap by Threat Rank**|                   |                         |                         |                           |                                     |
 |-------|:-----------------------|-------------------|-------------------------|-------------------------|---------------------------|-------------------------------------|
 |**d12**|**I**                  |**II**             |**III**                  |**IV**                   |**V**                      |**VI**                               |
-|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked, Poison     |Pit; Locking, - Monster    |Pit; Spiked, Poison, Locked, Flooding|
-|**2**  |Pit; Open, Spiked     |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
+|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked, Poison      |Pit; Locking, Monster      |Pit; Spiked, Poison, Locked, Flooding|
+|**2**  |Pit; Open, Spiked      |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
 |**3**  |Darts (1d3)            |Arrows (1d6)       |Arrows (1d6); Weak Poison|Darts (2d6)              |Arrows (1d6); Poison       |Darts (2d6); Poison                  |
 |**4**  |Arrows (1d3)           |Spears (1d6)       |Spears (1d6); Accurate   |Spears (1d6); Weak Poison|Spears (1d6); Very Accurate|Spears (1d6); Accurate, Poison       |
 |**5**  |Pendulum               |Scything Blade     |Wall Spikes              |Door; Poison Needle      |Poison Scythe              |Wall Spikes; Poison                  |
-|**6**  |Ball Trap              |Royal Statue       |Block; Swinging          |Block; Falling           |Block; Falling, Spiked     |Block; falling, Spiked, Poison       |
+|**6**  |Ball Trap              |Royal Statue       |Block; Swinging          |Block; Falling           |Block; Falling, Spiked     |Block; Falling, Spiked, Poison       |
 |**7**  |Door; Falling          |Rolling Rock       |Collapsing Column        |Collapsing Wall          |Compacting Room            |Crushing Wall                        |
 |**8**  |Net                    |Portcullis         |Watery Room              |Spinning Wall            |Flooding Room              |Dropping Ceiling                     |
 |**9**  |Gas; Obscuring         |Gas; Sickening     |Gas; Blinding            |Gas; Poisonous           |Gas; Corroding             |Gas; Insanity                        |
@@ -53,7 +53,7 @@ Optionally, convert any pit to a chute to a lower level.
 
 **Pit; Locking**: This pit has a lid that closes behind the victims. The mechanisim can not be opened from inside without magic. Someone outside must force the cover: Force Door (2 in 6 + Strength Bonus).
 
-**Pit; Spiked**: The spikes at the bottom do and additional 1d6 damage on top of the fall damage.
+**Pit; Spiked**: The spikes at the bottom do an additional 1d6 damage on top of the fall damage.
 
 **Pit; Spiked, Poison**: The Spikes do 1d6 damage in addition to fall damage and are covered with poison. If the save for half fall damage is failed, the victim must then save vs. death.
 
@@ -137,7 +137,7 @@ Clubbing traps are concealed within the architectural elements of the structure.
 
 **Rolling Rock**: A 8’ diameter boulder is released down the passage moving at 9” (45‘) per round; those struck take 4d6 damage and can save vs. stone for half. The boulder comes to rest, blocking the passageway, and can be moved 4 average strength people working in unison. 
 
-**Collapsing Column**: A non-load bearing column is designed to break apart with the sections falling in a 5’ radies foot area causing 4d6 damage, characters can save vs. stone for half.
+**Collapsing Column**: A non-load bearing column is designed to break apart with the sections falling in a 5’ radius area causing 4d6 damage, characters can save vs. stone for half.
 
 **Collapsing Wall**: The outer layer of blocks on this wall collapse in 5’ deep by 10' long area causing 8d6 damage, those affected can save vs. stone for half.
 
@@ -149,13 +149,13 @@ Clubbing traps are concealed within the architectural elements of the structure.
 
 Confining traps are typically normal appearing rooms that restrict movement. The Judge should familiarize themselves with the rules for Forcing Doors, Swimming, etc. 
 
-**Net**: A net with hooks and bells drops from the ceiling, landing in 10’ × 20’ area, entangling those beneath. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this roll. Check for nearby monsters when net falls.
+**Net**: A net with hooks and bells drops from the ceiling, landing in 10’ × 20’ area, entangling those beneath. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this roll. Check for nearby monsters when the net falls.
 
 **Portcullis**: An iron gate falls behind party and blocks the passage, the sound of which triggers a check for nearby monsters. The bars may be forced as locked door.
 
 **Watery Room**: The floor of the room is flooded with stagnant water at least 10' deep.
 
-**Spinning Wall**: A section of wall up to 20’ in length spins in place, depositing the victims in area on adjacent side. It cannot be triggered from the other side. 
+**Spinning Wall**: A section of wall up to 20’ in length spins in place, depositing the victims in area on the opposite side. It cannot be triggered from the other side. 
 
 **Flooding Room**: The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. Once sealed, the room floods with water in 1d6 rounds. Once fully flooded, attempts to open the door are at –2.
 
@@ -187,4 +187,4 @@ While these traps may make use of magical effects, they are triggered and detect
 
 **Acid Vent**: Acid dumps into a 10’ radius area inflicting 4d6 points of acid damage. The targets can make a save vs. breath for half damage.
 
-**Spell**s: These traps work as per the spell description, at the lowest level required to cast. Targets must Save vs Wand where applicable. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
+**Spells**: These traps work as per the spell description, at the lowest level required to cast. Targets must Save vs Wand where applicable. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
