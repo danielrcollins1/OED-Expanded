@@ -97,7 +97,7 @@ tough hide (AC 3 or better)
 |Iron Rations         |15           |1              |Canned food for 1 person-week (must be bought from Dwarves)                |
 |Lantern              |10           |1/3            |Good light 30’, dim light 60’ radius, 4 hours per flask.                   |
 |Lantern Oil (Flask)  |2            |1/3            |Is not flammable but can ignite flammable items.                           |
-|Spellbook (Blank)    |100          |1              |Large; can hold up to 12 spells.                                           |
+|Spellbook (Blank)    |100          |1              |A large, rugged bound tome; can hold 1 Level worth of spells.              |
 |3 Stakes & Mallet    |3            |1/3            |                                                                           |
 |Steel Mirror         |5            |\--            |                                                                           |
 |Silver Mirror (Small)|15           |\--            |                                                                           |
