@@ -52,7 +52,7 @@ tough hide (AC 3 or better)
 |:--------------|:-----------|:------------|:---------|:--------|:-------------------------------------|
 |Dagger         |Light       |3            |1d4       |1/12     |“Sword”; "Thrown" (60’)                   |
 |Dagger (silver)|Light       |30           |1d4       |1/12     |“Sword”; "Thrown" (60’)                   |
-|Crude Club     |Light       |\--          |1d6       |1/3      |Thrown (60’); not a “Club” type weapon  |
+|Bludgeon (improvised)|Light       |\--          |1d6       |1/3      |Thrown (60’)  |
 |Spear          |Light       |1            |1d6       |1/3      |“Spear”; "Thrown" (60’)                   |
 |Hand Axe       |Light       |3            |1d6       |1/3      |“Axe”; "Thrown" (60’)                     |
 |Mace           |Light       |5            |1d6       |1/3      |“Club”; "Thrown" (60’)                    |
