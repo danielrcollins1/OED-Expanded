@@ -56,7 +56,7 @@ Within the dungeon, there is a 2 in 6 chance a monster is present in any unalloc
 
 -   Every 15 minutes of real time play.
 -   During long searches, such as those for secret doors, etc.
--   On the parties exit from dungeon.
+-   On the parties exit from dungeon at the end of the session.
 -   In the presence of loud/combat noise.
 
 If a wandering monster result is indicated, use the Monster Determination information below. Multiple parties of monsters may attack one another. On a near miss (result of 5), give a hint that monsters are present (ex: distant monster noise).
@@ -95,7 +95,7 @@ For a more detailed breakdown of this formula and approach, see:
 
 ## Monster Equivalent Hit Dice
 
-This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) for a more accurate distribution of challenges. 
+This is a measure of monster threat that can be slotted into monster determination formula (in place of the Hit Die) providing a more accurate distribution of challenges. 
 
 |**Monster**            |**EHD**||**Monster**            |**EHD**||**Monster**            |**EHD**|
 |:----------------------|:-----:|---|:----------------------|:-----:|---|:----------------------|:-----:|
