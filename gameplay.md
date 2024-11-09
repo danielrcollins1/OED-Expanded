@@ -116,9 +116,8 @@ initiative is rolled.
 
 -   Casting a Spell
 -   Set a Pike
--   Retrieve a Scroll
--   Use a Retrieved Scroll
--   Retrieve and Use a Potion
+-   Retrieve/Ready a Scroll or Potion
+-   Use a Retrieved/Readied Scroll or Potion
 -   Ranged Attacks (unless a weapon thrown in the same direction as the
     character's movement)
 
