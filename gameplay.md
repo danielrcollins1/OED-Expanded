@@ -37,23 +37,18 @@ scale see [Book of War](http://www.lulu.com/content/paperback-book/original-edit
 |1 turn      |  1 minute |
 |1" on table |  5 feet or 1"pace" |
 
-**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 minute. A full sprint would be (240'), lasting for 1 round.  The Judge may allow Consitution checks to extend these duratins. Walking is half (30').
+**Movement**: All player races move at a base rate of 60' per round, equivalent to a light jog. A fast jog is double this (120'). A run is triple (180'), sustainable for a 1 minute. A full sprint would be (240'), lasting for 1 round.  The Judge may allow Consitution checks to extend these durations. Walking is half (30').
 
 **Time**: Assume that the amount of time spent searching and exploring is analogous to actual time spent. This will result in checking for wandering monsters every 15 minutes of real time, adding a check for long searches (such as for secret doors, etc.).
 
 ### Light and Vision
 
-**Lighting**: Torches and lanterns shed good light out to 30', and dim
-light out to 60'. In dim light one can make out basic shapes and/or
-glowing eyes.
+**Lighting**: Torches and lanterns shed good light out to 30', and dim light out to 60'. In dim light one can make out basic shapes and/or glowing eyes.
 
-**Infravision**: Infravision allows one to see (most) creatures in
-darkness clearly out to 1/2 the specified distance (30') and dimly out to
-the full listed distance (60'). It is spoiled when looking directly at a
+**Infravision**: Infravision allows one to see (most) creatures in darkness clearly out to 1/2 the specified distance (30') and dimly out to the full listed distance (60'). It is spoiled when looking directly at a
 torch/fire source.
 
-**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They move at half speed, cannot make ranged attacks (see
-errant shots below), and suffer –1 to morale.
+**Darkness/Blindness**: Creatures unable to see suffer a –4 penalty to AC and melee attacks. They move at half speed, cannot make ranged attacks (see errant shots below), and suffer –1 to morale.
 
 ### Adventuring Tasks
 
@@ -68,48 +63,30 @@ In OED a number of tasks are resolved with a d6 roll. The chance for success is 
 |Swimming    |2 in 6\* |\+ Strength *Bonus*; -# of Stone carried; +/-1 for water conditions|
 |Tracking    |4 in 6\**|+/- 1 small or large parties, inclement weather, and the like|
 
-\* Fighters and Thieves gain a +2 as noted in their class description,
-for a base 4 in 6 chance.
+\* Fighters and Thieves gain a +2 as noted in their class description, for a base 4 in 6 chance.
 
 \*\* Fighters with the Tracking feat only
 
-**Climbing**: When climbing you move at half speed on a successful
-check. A failed check is stalled movement. If you fail the roll by 2
-pips or greater you fall.
+**Climbing**: When climbing you move at half speed on a successful check. A failed check is stalled movement. If you fail the roll by 2 pips or greater you fall.
 
-**Climbing with Rope**: Grants a +2 to the roll and allows one to move
-downward at up to 4x speed. A sharp jolt while on the rope results in a
-1 in 20 chance for the rope to break.
+**Climbing with Rope**: Grants a +2 to the roll and allows one to move downward at up to 4x speed. A sharp jolt while on the rope results in a 1 in 20 chance for the rope to break.
 
-**Hauling with Rope**: A character can haul a load safely up or down a
-rope equal to their Strength score in Stone. A sharp jolt while on the
-rope results in a 1 in 20 chance for the rope to break.
+**Hauling with Rope**: A character can haul a load safely up or down a rope equal to their Strength score in Stone. A sharp jolt while on the rope results in a 1 in 20 chance for the rope to break.
 
-**Detection**: Used to find a secret door, listen at a door, discover a
-trap, etc. Listening can not be done while wearing a helmet.
+**Detection**: Used to find a secret door, listen at a door, discover a trap, etc. Listening can not be done while wearing a helmet.
 
-**Doff Armor**: It takes 1 round (each) to remove a shield, helm, or
-backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate
-requires 3 turns to remove with assistance.
+**Doff Armor**: It takes 1 round (each) to remove a shield, helm, or backpack. Leather and Chain armor have a 3 in 6 chance per round. Plate requires 3 turns to remove with assistance.
 
-**Force a Door**: Limited to one character per door panel. Special tools
-(ropes, ram, etc.) will allow the summation of all character's Strength
-modifiers.
+**Force a Door**: Limited to one character per door panel. Special tools (ropes, ram, etc.) will allow the summation of all character's Strength modifiers.
 
-**Jumping**: A running jump will allow a man sized creature to cover a distance of d6×3 feet, + Strength *Bonus*, - encumbrance level. Half again for a long jump, half again for a vertical jump.
+**Jumping**: A running jump will allow a human sized creature to cover a distance of d6×3 feet, + Strength *Bonus*, - encumbrance level. Half again for a long jump, half again for a vertical jump.
 
-**Swimming**: When swimming you move at half speed on a successful
-check. A failed check is stalled movement. If you fail the roll by 2
-pips or greater you sink (see Drowning/Suffocation). You may swim at
-full speed with a -2 to the check.
+**Swimming**: When swimming you move at half speed on a successful check. A failed check is stalled movement. If you fail the roll by 2 pips or greater you sink (see Drowning/Suffocation). You may swim at full speed with a -2 to the check.
 
 ### Hazards
-In general, all spells and harmful effects should require an attack or
-allow some form of saving throw to either negate the effect or result in
-half effect/damage.
+In general, all spells and harmful effects should require an attack or allow some form of saving throw to either negate the effect or result in half effect/damage.
 
-**Diseases**: When afflicted with a disease, a Save vs Breath will
-avoid Strength damage for the day. Recovery requires bed rest.
+**Diseases**: When afflicted with a disease, a Save vs Breath will avoid Strength damage for the day. Recovery requires bed rest.
 
 - *Rat Plague*: –1d12 Strength per day. Recover 3 Strength per week of rest.
 - *Tick Fever*: –1d6 Strength per week. Recover 1 Strength per week of rest.
@@ -118,41 +95,24 @@ avoid Strength damage for the day. Recovery requires bed rest.
 
 **Magic Diseases**: Magical disease such as Lycanthropy and Mummy Rot can be removed via the Remove Curse spell due to the lack of Clerics and the Remove Disease spell.
 
-**Drowning/Suffocation**: You have a 50% chance each round without air
-to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6
-damage per Turn (minute) without air, damage is doubled if surprised.
+**Drowning/Suffocation**: You have a 50% chance each round without air to suffer 1 point of damage (1d3 if surprised). You also suffer 1d6 damage per Turn (minute) without air, damage is doubled if surprised.
 
-**Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A
-successful Save vs Stone halves the damage. Damage may be modified by 1
-or 2 pips per die based on landing surface.
+**Falling**: Suffer 1d6 damage per 10 feet fallen (Max 50d6). A successful Save vs Stone halves the damage. Damage may be modified by 1 or 2 pips per die based on landing surface.
 
-**Level Drain**: Characters are allowed a Save vs Death to avoid Level
-Drain effect. If the save is failed, XP is set to the midpoint of the
-prior level. Current and Max HP are reduced proportionally (divide by
-original level), possibly resulting in death at 0hp. The number of lost
-HP should be noted and returned if/when the level is re-achieved.
+**Level Drain**: Characters are allowed a Save vs Death to avoid Level Drain effect. If the save is failed, XP is set to the midpoint of the prior level. Current and Max HP are reduced proportionally (divide by
+original level), possibly resulting in death at 0hp. The number of lost HP should be noted and returned if/when the level is re-achieved.
 
-**Poison**: Unless otherwise specified, a failed save vs poison means
-incapacitation, then death in 1d6 rounds. Normal animals may have
-delayed or non-fatal effect (HP damage, Incapacitation, etc.)
+**Poison**: Unless otherwise specified, a failed save vs poison means instant incapacitation, then death in 1d6 rounds. Normal animals may have delayed or non-fatal effect (HP damage, Incapacitation, etc.)
 
 ## Combat
 
-**Surprise**: Parties are surprised on a roll of 2 in 6. If the foes are
-unseen (hidden, invisible, elven cloak, etc.) the chance is increased by
-2 pips. If the foes are silent (motionless, undead, moving silently,
-etc.) the chance is increased by 2 pips. A warning (the presence of
-light, noisy action, magic detection, etc.) negates the surprise roll. A
-party with the advantage of surprise gets a free round of action before
+**Surprise**: Parties are surprised on a roll of 2 in 6. If the foes are unseen (hidden, invisible, elven cloak, etc.) the chance is increased by 2 pips. If the foes are silent (motionless, undead, moving silently,
+etc.) the chance is increased by 2 pips. A warning (the presence of light, noisy action, magic detection, etc.) negates the surprise roll. A party with the advantage of surprise gets a free round of action before
 initiative is rolled.
 
-**Initiative**: Roll a d6 per side; high rolling side goes first; ties
-go to players. Players declare and resolve actions around the table in
-order.
+**Initiative**: Roll a d6 per side; high rolling side goes first; ties go to players. Players declare and resolve actions around the table in order.
 
-**Actions**: On their turn, characters can move and then take an action,
-in that order. The following actions *disallow* movement during that
-round:
+**Actions**: On their turn, characters can move and then take an action, in that order. The following actions *disallow* movement during that round:
 
 -   Casting a Spell
 -   Set a Pike
