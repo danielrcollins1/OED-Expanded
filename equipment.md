@@ -109,11 +109,11 @@ tough hide (AC 3 or better)
 |Garlic (Head)        |5            |\--            |Wards vs Vampires (Must save vs Breath to attack)                          |
 |Wine (Quart)         |1            |\--            |Account for weight in wineskin                                             |
 |Room & Board (week)  |15           |\--            |Communal space and meals                                                   |
-|Mule                 |20           |66            |AC 7, MV 12, HD 2+1, light load 20 stone, will go in dungeons               |
-|Draft Horse          |30           |133            |AC 7, MV 12, HD 2+1, light load 40 stone                                   |
-|Light Horse          |40           |66            |AC 7, MV 24, HD 2, light load 20 stone                                      |
-|Warhorse (Medium)    |100          |100            |AC 7, MV 18, HD 2+1, light load 30 stone, used to fire/combat              |
-|Warhorse (Heavy)     |200          |133            |AC 7, MV 12, HD 3, light load 40 stone, used to fire/combat                |
+|Mule                 |20           |60            |AC 7, MV 12, HD 2+1, light load 20 stone, will go in dungeons               |
+|Draft Horse          |30           |120            |AC 7, MV 12, HD 2+1, light load 40 stone                                   |
+|Light Horse          |40           |60            |AC 7, MV 24, HD 2, light load 20 stone                                      |
+|Warhorse (Medium)    |100          |90            |AC 7, MV 18, HD 2+1, light load 30 stone, used to fire/combat              |
+|Warhorse (Heavy)     |200          |120            |AC 7, MV 12, HD 3, light load 40 stone, used to fire/combat                |
 |Saddle               |25           |1              |                                                                           |
 |Saddlebags           |10           |\--            |Holds 3 stone                                                              |
 |Barding              |150          |5              |Horse armor, gives +4 AC bonus                                             |
