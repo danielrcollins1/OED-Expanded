@@ -32,9 +32,9 @@ OED uses the monsters presented in Vol II with the adjustments below.
 
 **Goblin-kin**: Goblins, Orcs, and Kobolds suffer a -4 to attack, and -1 to Morale in full daylight.
 
-**Giants**: Giants can throw a stone every other round at ranges of 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is equivalent to Leather armor on top of naturally tough skin (+3 AC).
+**Giants**: Giants can throw a stone every other round at ranges between 100' to 140'. Giant melee attacks are 1d10 +Str bonus. Giant garb is equivalent to Leather armor on top of naturally tough skin (+3 AC).
 
-**Horses and Mounts**: Only warhorses are usable near combat, fire, smells, etc. (others auto-fail morale).  The light load value indicates the maximum load carried at full-speed; up to double this amount can be carried at half-speed.  The normal load values are set at 1/3 of the equine's body weight.
+**Horses and Mounts**: Only warhorses are usable near combat, fire, smells, etc. (others auto-fail morale).  The light load value indicates the weight that can be carried while travelling at full-speed; up to double this amount can be carried at half-speed.  The normal load values are set at 1/3 of the equine's body weight.
 
 **Slimes**: Successful attacks by these creatures will cause metal to corrode instantly. Metal weapons used against them will corrode on a successful attack. Wood is consumed at too slow a rate to affect combat.
 
