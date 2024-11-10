@@ -100,7 +100,7 @@ When striking without a weapon (including strikes with just a gauntlet/brass knu
 
 **Beast-master**: Gain a +4 to reaction/morale checks with animals and may treat one animal at a time, of a lower Hit Die, as a Hireling. It does not take a share of treasure, but you do need to pay upkeep costs.  It takes a share of XP and gains levels as a Fighter. 
 
-**Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not allow spotting at a distance.
+**Blind Fight**: You avoid penalties in melee combat against unseen opponents (invisibility, darkness, etc.). Note this does not affect ranged attacks or allow spotting at a distance.
 
 **Pugilist**: You do not suffer a -4 to hit when making unarmed attacks, which now do 1d4 base damage, plus your full Strength bonus. On an attack roll of 20, opponents must Save vs Death or be stunned (unable to move/act) for 1 round.
 
@@ -110,7 +110,7 @@ If thou must...
 
 **Armor**: Light (Leather), Medium (Chain), Heavy (Plate), Shields
 
-**Weapons**: Blunt Weapons (Crude Club, Staff, Sling, and weapons with the "club" type)
+**Weapons**: Blunt Weapons (Bludgeon, Staff, Sling, and weapons with the "club" type)
 
   |Level   |XP           |HP       |To Hit   |Class Abilities|
   |:------ |:----------- |:------- |:------- |:----------------------------------------------|
@@ -131,11 +131,11 @@ If thou must...
 **Turn Undead**: A Cleric may brandish their Holy Symbol in order repel the Undead. When doing so, the player rolls 1d6 + (Cleric Level -5), with the result being the highest Hit Die of Undead affected. Up to 2d6 such creatures are affected (lowest Hit Die first). If the Cleric's level exceeds the Undead's Hit Dice by 4 or more, the Undead is reduced to 0 HP instead. Such an ability works to a range of 60', once per day
 per given creature(s).
 
-An Example Notation for a Cleric 10: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
+An Example Notation for a 10th level Cleric: "Turn Undead: HD = d6+5; 2d6 creatures, destroy 6HD or below."
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be prepared at a time (no duplicates). To cast a spell a Cleric must brandish their holy symbol with a free hand.
 
-**Spells known**: Clerics start with knowledge of all the standard Cleric spells in Vol 1.
+**Spells known**: Clerics start play with knowledge of all the standard Cleric spells in Vol 1.
 
 **Learning Spells**: Should the Cleric encounter a new spell, it will require a roll of d20 + Cleric Level + Wis modifier ≥ 20. Requires 1 day per spell level (3 tries per spell)
 
@@ -153,18 +153,18 @@ A Familiar is a spirit that takes on the form of a small animal to provide magic
 
 **Saves**: As owner.
 
-**Languages**: Understands/Speaks Owner's racial language + bonus languages, per Int score. Only the Magic User can understand the familiar. When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. On addition, the Familiar adds its Intelligence Bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
+**Languages**: Understands/Speaks Owner's racial language and gains bonus languages per Intelligence bonus. Only the Magic User can understand the familiar. When the familiar is present, it permits the Magic User to speak to animals of its kind and any other languages it knows. In addition, the Familiar adds its Intelligence bonus to owner’s Learn Spells, Spell Research, and Magic Item Creation checks.
 
 ### Slime Splitting
 
 Assume that slimes are roughly spherical, and their hit dice are proportional to their volume, but their damage output is proportional to their surface area. Assume that the splitting stops at 1 HD. 
 
-||Ochre Jelly|Black Pudding|
-|:---|:---|:---|
-|**Start**|5HD, 1d6 damage|10HD, 3d6 damage|
-|**1st Split**|2HD, 1d4 damage|5 HD, 2d6 damage|
-|**2nd Split**|1 HD, 1d3 damage|2HD, 1d6+2 damage|
-|**3rd Split**|N/A|1 HD, 1d6 damage|
+|             |Ochre Jelly      |Black Pudding    |
+|:------------|:----------------|:----------------|
+|**Start**    |5HD, 1d6 damage  |10HD, 3d6 damage |
+|**1st Split**|2HD, 1d4 damage  |5 HD, 2d6 damage |
+|**2nd Split**|1 HD, 1d3 damage |2HD, 1d6+2 damage|
+|**3rd Split**|N/A              |1 HD, 1d6 damage |
 
 ## Equipment Options
 
@@ -181,7 +181,7 @@ Alternative rule for helmets, in case the save vs. criticals is undesirable:
 **Helmets**: For each armor type, the listed AC assumes the use of a helmet.  If a helmet is not worn, then a 1 point penalty to AC is applied.
 
 ### Upkeep Costs ###
-Should calculating and tracking 1% of XP prove troublesome, you can instead opt charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter,  480 SP to become an 5th level Thief, 5,000 SP to become a 9th level Wizard, etc.
+Should calculating and tracking 1% of XP prove troublesome, you can instead opt to charge at level up, as a form of deferred upkeep.  This charge is equal to 5% of the XP needed for the level, in Silver.  Ex: 100 SP to become a 2nd level Fighter, 480 SP to become an 5th level Thief, 5,000 SP to become a 9th level Wizard, etc.
 
 ## Grievous Wounds
 
@@ -193,22 +193,22 @@ When a character reaches or goes below 0 hit points, the character has suffered 
 |03-07 |Shin                  |A
 |08-10 |Knee                  |A
 |11-20 |Thigh                 |A
-|21-22 |Groin|B
-|23-33 |Gut  |C
+|21-22 |Groin                 |B
+|23-33 |Gut                   |C
 |34-40 |Hip                   |A
 |41-50 |Shoulder              |A
-|51-70 |Chest|D
+|51-70 |Chest                 |D
 |71-73 |Hand                  |A
 |74-78 |Lower Arm             |A
 |79-81 |Elbow                 |A
 |82-91 |Upper Arm             |A
-|92-93 |Neck  |E
-|94-96 |Face  |F
-|97-00 |Head  |G
+|92-93 |Neck                  |E
+|94-96 |Face                  |F
+|97-00 |Head                  |G
 
 |**Severity d8**|**1-4**                                      |**5-7**                               |**8**               |
-|:---------------|:---------------------------------            |:--------------------------------------|:--------------------|
-|**A**          |Broken (will heal in 1d4+2 weeks             |Maimed (Can only be healed magically) |Severed             |
+|:---------------|:---------------------------------          |:--------------------------------------|:--------------------|
+|**A**          |Broken (will heal in 1d4+2 weeks)            |Maimed (Can only be healed magically) |Severed             |
 |**B**          |Broken and Stunned for 1 round               |Maimed and Unconscious                |Severed and Unconscious|
 |**C**          |Broken and Bleeding, death in d6 rounds\*    |Maimed and Internal Bleeding death in d3 rounds\*|Severed and Death in d6 rounds\*|
 |**D**          |Broken and Broken Ribs, -2 to hit and damage |Maimed and Punctured Lung, -4 to hit and damage|Severed and Death in d6 rounds\*|
@@ -249,36 +249,26 @@ Should a creature find themselves immersed in a new language (and have no spare 
 **Sleep Deprivation**
 - Characters who do not get sufficient rest (typically 6 to 8 hours in a 24 hour period) do not gain the benefits of natural healing.
 - Creatures suffer a cumulative -2 to rolls and checks for every rest period they miss. This penalty is recovered by 1 for every regained period of rest.
-- If needed, the GM can enforce a Save vs Death, including the penalties above, to determine if a creature can stay awake on its own.
+- If needed, the Judge can enforce a Save vs Death, including the penalties above, to determine if a creature can stay awake on its own.
 
 ## Tournaments and Contests
 
 ### Archery
 
-Each participant gets to take 6 shots at a dish sized target 30 feet
-away backed by an earthen "butt". The target itself is AC 10, and some
-targets will have inner rings of AC 5 and AC 0. Each hit on the target
-scores 1 point. Inner rings are worth 2 or 3 points respectively. A
-critical failure misses the butt entirely.
+Each participant gets to take 6 shots at a dish sized target 30 feet away backed by an earthen "butt". The target itself is AC 10, and some targets will have inner rings of AC 5 and AC 0. Each hit on the target scores 1 point. Inner rings are worth 2 or 3 points respectively. A critical failure misses the butt entirely.
 
-In head-to-head competition, participants alternate shots. On a critical
-hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
+In head-to-head competition, participants alternate shots. On a critical hit, there is a 1 in 6 chance to strike and split the opponent's arrow.
 
 ### Jousting
 
-In a proper tournament joust, riders must wear plate armor and shield
-with no enchantments. They make use of blunted lances (subdual damage).
+In a proper tournament joust, riders must wear plate armor and shield with no enchantments. They make use of blunted lances (subdual damage).
 
-Each ride, the participants roll their standard melee attack. On a hit,
-the target must save vs stone. If the save is successful, the attacker's
-lance breaks. If the save fails, the target is unhorsed. 
+Each ride, the participants roll their standard melee attack. On a hit, the target must save vs stone. If the save is successful, the attacker's lance breaks. If the save fails, the target is unhorsed. 
 Participants take rides until one is unhorsed.
 
 ### Melee
 
-Up to 50 participants per side line up across a field in equal armor, 
-no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal;
-the event ends when one side is entirely down or surrenders. 
+Up to 50 participants per side line up across a field in equal armor, no enchantments, and blunt clubs (subdual damage). Melee proceeds as normal; the event ends when one side is entirely down or surrenders. 
 This can also be resolved quickly using Book of War.
 
 
