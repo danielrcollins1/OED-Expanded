@@ -180,5 +180,5 @@ This is a measure of monster threat that can be slotted into monster determinati
 \* Indicates The EHD for this creature is highly situational.
 
 For a more detailed list of appropriate monsters and Equivalent Hit
-Dice, consult the [OED Monster Determination](http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf)
+Dice, consult the [OED Monster Stat Blocks add-on]([http://oedgames.com/addons/houserules/OED-MonsterDetermination.pdf](http://www.oedgames.com/addons/houserules/OED-MonsterStatBlocks-1.1.4.pdf))
 sheet.
