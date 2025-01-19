@@ -125,8 +125,19 @@ initiative is rolled.
 
 **Withdraw**: In combat a creature can move up to half their speed without turning their back on the enemy, preventing an attack against the rear flank.
 
-**Critical Hits**: In most cases, a natural 1 is an automatic miss, and 20 an automatic hit (Judge rules on impossible cases). The former may give a chance for a fumble; the latter does double damage 
-(roll twice with bonuses).
+**Critical Hits**: In most cases, a natural 20 is an automatic hit (Judge rules on impossible cases), and does double damage(roll twice and add bonuses).
+
+**Critical Miss**:  In most cases, a natural 1 is an automatic miss (Judge rules on impossible cases) and a chance (d20) for a fumble.
+
+|d20          |        Effect                |
+|:----------- |:-----------------------------|
+|1            |Judge's Choice                |
+|2            |Hit Self             |
+|3            |Hot Ally   |
+|4            |Slip and Fall   |
+|5            |Break Weapon  |
+|6            |Drop Weapon|
+|7-20         |No Additional Effect          |
 
 **Combat Modifiers**: The following situational modifiers may be added to attack rolls.
 
