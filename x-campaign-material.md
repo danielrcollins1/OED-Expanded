@@ -1,6 +1,6 @@
 # Appendix B: Campaign Material
 
-The below is not part of OED but was written as a "missing manal" to create an initial dungeon, settlement, and wilderness as well as other non-dungeon topics. The best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
+The below is not part of OED but was written as a "missing manual" to create an initial dungeon, settlement, and wilderness as well as other non-dungeon topics. The best place to start is with your dungeon, this is where the majority of your play time is likely to be spent, and may be all you really need. 
 
 ## Design a Dungeon
 
@@ -67,7 +67,7 @@ Now that you have a collection of rooms and their adventuring contents, it is ti
 
 Once you know what is in a room and decided what the room’s purpose is in the game world; consider what sort of mundane items may be in the room (furniture, containers, junk, decorative elements). If you need ideas, there is a world of random generators out there to spark the imagination.
 
-For rooms with doors, which ones can lock? How sturdy are they? Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
+For rooms with doors, which ones can lock? How sturdy are they? Which way to they swing? Take a moment to think about the sites, smells, and sounds present in each room; what can be perceived from down the hall or through the door that could influence the players’ decision-making?
 
 #### Final Pass
 
@@ -128,7 +128,7 @@ With the basics of the settlement established, it is a good time to generate a c
 
 Hirelings will be first level. Town guard (if present) are 1st level fighters with a 4th level sergeant for every 30 guards. Most other townsfolk and specialists will be zero level. 
 
-**Rumors**: You can make up rumors based on the work you have done already, or randomly create some (see Rumors). When starting out, it is probably best to keep your rumors true.
+**Rumors**: You can make up rumors based on the work you have done already, or randomly create some (see Rumors). When starting out, it is probably best to keep your rumors (mostly) true.
 
 ### Finishing up
 
@@ -143,9 +143,9 @@ To begin laying out your wilderness, start with a “Plains” hex, “P”, in 
 
 |**2d6**|**Terrain**              |   |**2d6**|**Terrain**                   |
 |:------|:------------------------|---|:------|:-----------------------------|
-|2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
+|1-2      |Dry “D” (-1 to next roll)|   |8-9    |Plains “P”                    |
 |3      |Hills “H”                |   |10-11  |Trees “T”                     |
-|4-7    |Same as Reference Hex    |   |12     |Wetlands “W” (+1 to next roll)|
+|4-7    |Same as Reference Hex    |   |12-13     |Wetlands “W” (+1 to next roll)|
 
 Remember, this is only the main type of terrain in the hex, a plains hex will have small wooded areas, a dry hex will have small ponds, a forested hex can also be hilly or have a bog, etc.
 
@@ -163,10 +163,10 @@ It would take tremendous work to define an entire region or continent via Hex ge
 
 Now that you have your starting terrain, a settlement, and a dungeon, it is time to place major features in the remaining hexes. The below simulates a borderlands of civilization where adventure happens.
 
-There is a 1 in 20 chance that a hex has a major occupant, with the type determined on a d6 below:
+There is a 1 in 20 chance that a hex has a major feature, with the type determined on a d6 below:
 
 - 1-3: Major Dungeon (Multiple levels and areas as described above)
-- 4-5: Large Settlement (Town or larger as described above)
+- 4-5: Notable Settlement ( often a Town or larger as described above)
 - 6: Stronghold (See below)
 
 Remember, at this scale we are mainly concerned with showing major features. These hexes can be riddled with hamlets, caves, ruins, monster lairs, bandit camps, etc. The Judge should feel free to drop in 2 other small settlements nearby and more features (such as additional dungeons) as needed. 
@@ -185,11 +185,11 @@ Remember, at this scale we are mainly concerned with showing major features. The
 
 #### Quick Start
 
-if you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations (school, downtown, shopping center) for settlements and monster lairs.
+If you don't want to take a great deal of time procedurally generating hexes, instead just take of map of an existing wildness area (current or historical) and trace hexes or use the map as guideline to fill in your hex paper. You can even take a map of your own home town and work outward from there, swapping in well known locations (school, downtown, shopping center) for settlements and monster lairs.
 
 ### Strongholds
 
-A Stronghold is a special kind of settlement, typically established by high level NPCs. It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc. Like Towns, they secure they Hex in which they are located. A stronghold is defined by its occupant(s), which are generated using the rules for NPCs of level 9+1d6 (or use the quick list below)
+A Stronghold is a special kind of settlement, typically established by high level NPCs. It can be a Warrior’s Keep, a Wizard’s Tower, an Outlaw’s Hideout, etc. Like Towns, they secure they Hex in which they are located. A stronghold is defined by its occupant(s), which are generated using the rules for NPCs, with a lovel of 9+1d6 (or use the quick list below)
 
 |**d6**|**Stronghold Occupant**                                                                                            |
 |:-----|:------------------------------------------------------------------------------------------------------------------|
@@ -201,7 +201,7 @@ A Stronghold is a special kind of settlement, typically established by high leve
 |**6** |Thief 10: S 10 D 18 C 10 I 10 W 11 X 10; HP 41; Backstab x4; Leather +1, Sword +2, Ring of Protection.             |
 
 - Thieves: On a d6, 1-3 is a Human, 4 is a Dwarf, 5 is a Halfling, and 6 is an Elf (Wizard level of 1d6).
-- Alignment: 1 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden).
+- Alignment: 1-2 (Lawful), 3-5 (Neutral), 6 (Chaotic-Hidden).
 - Strongholds will also have an apprentice, or guardian beast, of EHD equal to ½ the owner’s level.
 - Strongholds will be protected by 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms. For every 30 soldiers there is also a sergeant of 4th level.
 
@@ -234,8 +234,8 @@ You will repeat the process until you have a filled out encounter chart (typical
 
 #### Number Appearing and % in Lair
 
-When stocking a wilderness, use the number appearing and guidelines in volume 2 or in [OED Monster Database](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv). The numbers of creatures in the wilds are not constrained by the limits of dungeon corridors. 
-The “% in lair” statistic is rolled when the encounter comes up. This will indicate that the party has encountered the lair of such creatures (camp, hut, cave, etc.) Note on the map for future development.
+When stocking a wilderness, use the number appearing and guidelines in volume 2 or in [OED Monster Database](https://github.com/danielrcollins1/Arena/blob/master/MonsterDatabase.csv). The numbers of creatures in the wilds are not constrained by the limits of dungeon corridors or the size of the party. 
+The “% in lair” statistic is rolled when the encounter comes up. This will indicate that the party has encountered such creatures at their lair (camp, hut, cave, etc.) Note on the map for future development.
 
 ### Adjustment and Final Touches
 
@@ -250,7 +250,7 @@ Trips to explore or travel through the wilderness can be abstracted using the be
 
 ### Movement
 
-Movement across the wilderness is measured in move points per day. A typical creature has 3 movement points, double for flying creatures. This abstraction assumes daylight travel, along with occasional breaks, foraging, investigation, and trailblazing. For other creature types, divide their movement rate in feet by 20 (or movement in table inches by 4). Groups of 100+ suffer a -1 penalty; groups of 1000+ a suffer -2 penalty to their base move points (to a minimum of 1). 
+Movement across the wilderness is measured in move points per day. A typical creature has 3 movement points, double for flying creatures. This abstraction assumes daylight travel, along with occasional breaks, foraging, looking about, and trailblazing. For other creature types, divide their movement rate in feet by 20 (or movement in table inches by 4). Groups of 100+ suffer a -1 penalty; groups of 1000+ a suffer -2 penalty to their base move points (to a minimum of 1). 
 
 ### Terrain Difficulty
 
@@ -269,18 +269,38 @@ Each terrain type has a difficulty factor associated with it, this value represe
 
 - Any major river, ravine, or other obstacle will add +1 to the difficulty factor.
 - Traveling along a major road will subtract 1 from the difficulty factor (min 1).
-- \* Mountain Hex: there is a 1 in 6 chance to make progress in a given day.
+- \* Mountain Hex: there is a 1 in 6 chance to make progress in a given day, unless there is a pass.
 - Night travel costs double (unless a full moon, on a clear night, in open terrain) and adds a +2 to the difficulty factor, even with Infravision. 
 
 ### Procedure
 
-**Describe/Map**: As the party explores beyond the bounds of the immediate area, the Judge should inform them of the new terrain type and features they encounter so they can learn and record the lay of the land on their map.
+**Describe/Map**: As the party explores beyond the bounds of the immediate area, the Judge should inform them of the new terrain types and features they encounter so they can learn and record the lay of the land on their map.
 
 **Encounter Check**: Once per hex there is a chance in 6 for a random encounter equal to the terrain difficulty factor. Encounter type is based on the tables you made earlier. Parties outdoors have a chance to spot one another at a distance of 2d6x10 yards, using the same procedures as in a dungeon.
 
 **Evasion**: The Judge may choose to roll morale for pursuing creatures if the party has fled their territory.
 
 **Lost Check**: A party navigating without reliable roads or consistently visible horizon markers has a chance in 6 to become lost equal to the terrain difficulty factor. When the party becomes lost, the Judge rolls a 1d6 to determine which neighboring hex they end up in, with a 1 being their intended direction.
+
+### Resources
+
+The above rules assume groups have suffiecient and water for their journey, supplemented with light foraging.  In most terrain types, only food for people needs to be tracked.  Otherwise assume that water is generally available and mounts can graze daily.  Severe terrain such as deserts, mountains, artic, open sea, caves, and dungeons requires the tracking of food and water for people and mounts. Total cost and encumbrance per week of supplies is shown in the table below.  Food can be supplimented with hunting, presume 1 HD will feed 6 people for a week, before spoilage.
+
+|Item|	Cost (SP)	|Encumbrance|
+|:---|:---|---|
+|Food Person 		|5	|1|
+|Water Person 		|0*	|2|
+|Fodder Mount		|1	|5|
+|Water Mount		|0*	|20|
+
+*Presumes water is readily available
+
+**Lack of Water**: Creatures subtract 1d6 points from their Max HP per day without water. The creature's Max HP recover at a rate of 1 HP per day of proper nutrition.  
+
+**Lack of Food**: Creatures subtract 1d6 points from their Max HP per week without food.  The creature's Max HP recover at a rate of 1 HP per day of proper hydration.  
+
+If a creature's Max HP is reduced to below half from lack of food and/or water (or exposure/see below), then the creature’s movement is halved. 
+
 
 ### Weather
 
@@ -298,21 +318,44 @@ For added variety, the Judge can opt to have a 1 in 6 chance of a change in weat
 
 #### Exposure
 
-Characters and creatures are presumed to be adequately dressed or acclimated to the weather (including armor, etc.). If they are inappropriately garbed for the temperature (too hot or too cold) they take damage as below (the Judge may increment the damage for more extreme situations)
+Characters must be adequately dressed or acclimated to the weather (including armor, etc.). Consult the table below for appropirate garb for the given "Feels Like" temperature (accounting for Wind Chill, Humidity, etc.).  Assume standard mounts and creatures can function comfortably between 0* to 90* F (-15* to 30* C).  
 
-**Extreme Temperatures**: You suffer 1d6 damage per hour and must additionally save vs death or suffer -1d6 Strength.
+|Category	|Temp F		|Temp C 	|Clothing Needed|Cost (sp)	|Encumbrance	|Penalty*|
+|:---		|:---:		|:---:		|:---		|:---:		|:---:		|:---:	|	
+|Ex Hot		|150+		|60+		|N/A		|N/A		|N/A		|0	|
+|V Hot		|120 to 150	|45 to 60	|N/A		|N/A		|N/A		|0	|
+|Hot		|90 to 120	|30 to 45	|N/A		|N/A		|N/A		|0	|
+|Warm		|60 to 90	|15 to 30	|None/Tunic	|2		|0		|0	|
+|Cool		|60 to 30	|15 to 0	|Linen		|5		|0		|0	|
+|Cold		|30 to 0	|0 to -15	|Woolen		|10		|1/3		|-1	|
+|V Cold		|0 to -30	|-15 to -30	|Fur-lined**	|20		|2/3		|-2	|
+|Ex Cold	|-30 or less	|-30 or less	|Artic Skins***	|50		|1		|-3	|
 
-#### Resources
+*This penalty applies to applies to AC and all Dex based rolls/attacks.
 
-The above rules assume groups are carrying food and water for their journey, supplemented with light foraging. If a party runs out of resources, they suffer the effects below.
+**Prohibits wearing of Plate Armor
 
-**Lack of Water**: You suffer 1d6 damage per day without water and must additionally save vs death or suffer -1d6 Strength.
+***Prohibits wearing of Chain or Plate Armor
+ 
+**Extreme Temperatures**: Creatures subtract 1d6 points from their Max HP per hour of exposure.  For every additional "step" outside their comfort range, the penalty accrues more quickly.  1 step = hourly; 2 steps = every 10 minutes; 3 steps = each minute; 4 steps = -1d6 each round.
+The creature's Max HP recover at a rate of 1 HP per hour of proper shelter.  
 
-**Lack of Food**: You have a 50% chance each day without food to suffer 1 point of damage (1d3 if engaging in strenuous activity). You also suffer 1d6 damage per week without food and must additionally save vs death or suffer -1d6 Strength.
+If a creature's Max HP is reduced to below half from exposure (or starvation as above), then the creature’s movement is halved. 
 
 #### Night/Darkness
 
 Creatures suffer the same penalties they do in darkness (movement, attack, morale); unless it is one of the nights of the full moon, with clear skies, and open terrain.
+
+### Long Journeys
+If the party traversing a long distance without a focus on explorationg, the Judge may wish to summarize the journey with a 2d6 roll.
+
+|2d6	|Outcome|
+|:---|:-------------------------------------------------|
+|2	|Mishap: Arrive late with resources delepted, party saves vs Breath or is at 1/2 HP.|
+|3-5 	|Poor: Arrive late and low on resources |
+|6-8	|Uneventful: Arrive in the average amount of time|
+|9-11	|Good: Arrive a bit early|
+|12	|Excellent: Arrive extra early and in good spirits with supplies fully stocked|
 
 
 ## Bases and Stongholds
@@ -329,7 +372,7 @@ To construct a basic keep that is able to secure 1 hex worth of territory will c
 
 For other structures, reference the prices found in Vol III or the historical price in shillings x3. 
 
-They may also take over an established structure or and abandoned one, presume ½ the cost in repairs. 
+They may also take over an established structure or and abandoned one, presume ½ the cost in repairs (and therefore time). 
 
 ### Benefits
 
@@ -339,13 +382,13 @@ There are no longer random encounters / monster lairs within the Hex.
 
 The PC no longer needs to replenish mundane items such as torches, rations, etc. prior to embarking on an adventure. It is presumed “their people” take care of these tasks.
 
-The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 5 people) settle in per season. The standard stronghold can support and protect a community of up to 6500.
+The area will being to attract settlers. The Judge can assume that 3d6 families (averaging 2d6 people) settle in per season. The standard stronghold can support and protect a community of up to 6500, with 20% of this population able to take up arms to defend it.
 
 A Stronghold is protected by a compliment of 3d6x10 1HD warriors, half outfitted with Crossbows and Light Armor, and the rest with Heavy Armor and Polearms. For every 30 soldiers there is also a sergeant of 4th level. These forces begin to arrive in proportion to the completion of the construction.
 
 The stronghold comes with an unerringly loyal “Major Domo” or similar NPC who manages the daily affairs, allowing the PC to continue adventuring.
 
-It is recommended the PC spend at minimum 1 week in their Stronghold per season to maintain a good relationship with the folk, and thereby receive the above benefits.
+It is recommended the PC spend at minimum 1 month in their Stronghold per season to maintain a good relationship with the folk, and thereby receive the above benefits.
 
 ### Managing the Stronghold
 
@@ -356,8 +399,8 @@ For variety, the Judge can roll 2d6 on the table below once per season to determ
 |2d6	|Outcome|
 |:---|:-------------------------------------------------|
 |2	|Bane: Plague, Treachery, Revolt, War.|
-|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resource(s) |
+|3-5 	|Poor Season: Attack (Monster, Bandit, Army), Poor Harvest, Depleted Resources (Pay extra upkeep) |
 |6-8	|Uneventful Season (20% chance each for good or bad omen, +/-1 to next season’s roll)|
-|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration|
+|9-11	|Good Season: New Resource(s), Bountiful Harvest, Victory/Celebration (Make a Profit)|
 |12	|Boon: Title of Nobility, Magic Item, Special Allies, etc.|
 

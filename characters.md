@@ -2,11 +2,11 @@
 
 ## Ability Scores
 
-Prior to the selection of character race and class, it is necessary to determine ability scores.
+Prior to the selection of character race and class, one should determine ability scores.
 
 ### Generation
 
-Roll abilities 3d6 in order, than add 3 points among any scores desired (max 18). 
+Roll abilities 3d6 in order, then add 3 points among any scores desired (max 18). 
 
 ### Modifiers
 
@@ -35,9 +35,9 @@ In OED the modifiers from your ability scores affect the attributes listed below
 
 ## Languages
 
-**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend defining a new one during any downtime between adventures.  Note that  PCs are assumed to be literate in any known languages.
+**Known Languages**: Characters start with Common and their own racial language (if nonhuman). They may specify other languages, as determeind by Intelligence bonus, at creation or later. The maximum number of extra languages learned is 1 per point of Intelligence above 10. We recommend assigning any new languages during downtime between adventures.  Note that PCs are assumed to be literate in any of their known languages.
 
-**Common**:Common represents the standard Human language of the region. 
+**Common**: Common represents the standard Human language of the region. 
 
 **Alignment Languages** Alignment/divisional tongues are _not_ known automatically; they must be learned like any other language. Usually this is only done by agents, officers, or subjugated populations of specific powers. 
 
@@ -51,33 +51,33 @@ OED features 3 alignment options:
 - *Chaotic* beings want civilization broken down and destroyed; the never take prisoners and stab each other in the back. PCs should list their alignment as either neutral or lawful and secretly inform the DM.
 
 
-## Race
+## Races
 
 **Movement**: In OED all PC races move at a base speed of 12" (60') per round.
 
 ### Humans
 
-**Class Options**: Can be a member of any class, and advance to an unlimited level.
+**Class Options**: Can be a member of any class, and advance to a unlimited levels.
 
 ### Dwarves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Resist Magic (+4 to Saves), Dodge Giants (+4 to AC), Stone Detection (+1 in 6 to detect Traps, Secret Doors, etc. in stonework).
 
-**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (optional, max 4th).
+**Class Options**: Fighter (max 6th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
 ### Elves
 
 **Special Abilities**: Infravision 60' (see creatures in darkness), Hide in Woods (4 in 6), Woodland Detection (+1 in 6 to detect Traps, Secret Doors, etc. in woodlands).
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and one other class.
+**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (max 8th). Elves start as a member of BOTH the Wizard class and either the Thief or Fighter class.
 
 ### Halflings
 
-**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4, Can use Light melee Weapons or use Medium melee weapons two handed, plus sling, shortbow, and light crossbow.
+**Special Abilities**: Hide in Woods (4 in 6), Resist Magic (+4 to Saves), Ranged Attacks +4. Can use Light Melee weapons or use Medium Melee weapons two handed, plus sling, shortbow, and light crossbow.
 
-**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (optional, max 4th).
+**Class Options**: Fighter (max 4th), Thief (unlimited), Wizard (Judge's discretion, max 4th).
 
-## Class
+## Classes
 
 OED features three character classes: Fighter, Thief, and Wizard. There are no Clerics in OED.
 
@@ -112,13 +112,13 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
 4.  *Iron Will*: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
-5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks d against being unhorsed.
-6.  *Rapid Shot*: Add one attack per round with any missile weapon.
-7.  *Rapid Strike*: Add one attack every OTHER round with any melee weapon.
-8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
+5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks against being unhorsed in a joust.
+6.  *Rapid Shot*: Add one attack per round with any Missile (Ranged, not Thrown) weapon.
+7.  *Rapid Strike*: Add one attack every EVEN round with any Melee weapon.
+8.  *Survival*: The character gains a +2 (in 6) bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
 9.  *Toughness*: The character gains +2 hit points per level.
 10. *Tracking*: Track prey on a base 4 in 6 chance.
-11. *Two-Weapon Fighting*: The character can fight with a light melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
+11. *Two-Weapon Fighting*: The character can fight with a Light Melee weapon in the off hand, for an extra attack (at -2 to hit) or a parry (+2 AC) each round.
 12. *Weapon Specialization*: Pick one kind of weapon, gain +2 to hit and damage with that weapon.
 
 ### Thieves
@@ -151,9 +151,9 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 - *Hide in Shadows*: A Thief can remain undetected when hiding or moving through shadows. Requires shadows and a lack of observation prior to hiding.
 - *Move Silently*: The likelihood of the Thief moving with absolute silence.
-- *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1 - the lock must be forced open - a very time consuming process.
+- *Open Locks*: Making use of materials at hand, the thief can bypass small, discreet, single mechanical locking mechanisms. On a natural 1, the lock must be forced open - a very time consuming process.
 - *Pick Pockets*: Can also be used to allow the Thief to perform acts of sleight of hand.
-- *Remove Traps*: Making use of materials at hand, the thief can neutralize small mechanical devices, needle traps, etc. Rarely consider a mishap on natural 1.
+- *Remove Traps*: Making use of materials at hand, the thief can neutralize small mechanical devices, needle traps, etc. The Judge should rarely consider a mishap on natural 1.
 
 ### Wizards
 
@@ -183,7 +183,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Spell Casting**: Standard "Vancian" magic; Only 1 instance of a spell can be memorized at a time.
 
-**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense the same as learning spells.
+**Spellbook**: Wizards start with a spellbook containing all 1st level spells. Each level of spells requires its own book. Replacement or duplicate spellbooks require time and expense, the same as learning spells.
 
 **Learning Spells**: Adding a new spell from a book or scroll requires a roll of d20 + Wizard Level + Int modifier ≥ 20. Requires 1 day per spell level (3 tries per spell).
 
@@ -191,15 +191,15 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 
 **Magic Item Creation**: Takes 1 day and 100SP per spell level/charge/use and the ability to cast the relevant spell(s). 
 
-The DM will secretly roll a 1 in 20 chance for a mishap/cursed item.
+The Judge will secretly roll a 1 in 20 chance for a mishap/cursed item.
 
-*Note*: Treat potions of healing as a 1st level spell, and Mithridate as 4th level spell.
+*Note*: Treat Potions of Healing as a 1st level spell, and Mithridate as a 4th level spell.
 
 ### Multi Classing
 
 **Adding Classes**: A character must have a 16 or greater in the Prime Requisite of the new class (Strength for Fighter, Dexterity for Thieves, Intelligence for Wizards), and must pay 1000xp to add the new class.
 
-*Note*: Elves begin play as a member of the Wizard class and one other without needing to meet the above requirements.
+*Note*: Elves begin play as a member of the Wizard class and either Fighter or Thief, without needing to meet the above requirements.
 
 **Experience Points**: After each adventure, the character applies all earned XP to a single class of their choice.
 

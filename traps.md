@@ -1,5 +1,6 @@
 # Traps
 
+## Trap Determination
 When stocking a dungeon, there is a 1 in 6 chance for a room to have a
 trap.
 
@@ -10,7 +11,7 @@ When a trap is indicated, roll a d6 and consult the result against the
 level of the dungeon (depth) in question. This will give you the
 "Threat Rank" (I -- VI) of the trap.
 
-Finally roll a d12 and match the result to the given Threat Rank.
+
 
 
 |**Dungeon Depth**|**d6 Result**|      |       |      |     |      |
@@ -23,16 +24,17 @@ Finally roll a d12 and match the result to the given Threat Rank.
 |11                     |             |      |       |1     |2    |3-6   |
 |**Threat Rank**        |**I**        |**II**|**III**|**IV**|**V**|**VI**|
 
+Finally roll a d12 and match the result to the given Threat Rank.
 
 |       |**Trap by Threat Rank**|                   |                         |                         |                           |                                     |
 |-------|:-----------------------|-------------------|-------------------------|-------------------------|---------------------------|-------------------------------------|
 |**d12**|**I**                  |**II**             |**III**                  |**IV**                   |**V**                      |**VI**                               |
-|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked, Poison     |Pit; Locking, - Monster    |Pit; Spiked, Poison, Locked, Flooding|
-|**2**  |Pit; Open, Spiked     |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
+|**1**  |Pit                    |Pit; Locking       |Pit; Spiked              |Pit; Spiked, Poison      |Pit; Locking, Monster      |Pit; Spiked, Poison, Locked, Flooding|
+|**2**  |Pit; Open, Spiked      |Pit; Watery        |Pit; Monster             |Pit; Flooding            |Pit; Locking, Flooding     |Pit; Locking, Crushing               |
 |**3**  |Darts (1d3)            |Arrows (1d6)       |Arrows (1d6); Weak Poison|Darts (2d6)              |Arrows (1d6); Poison       |Darts (2d6); Poison                  |
 |**4**  |Arrows (1d3)           |Spears (1d6)       |Spears (1d6); Accurate   |Spears (1d6); Weak Poison|Spears (1d6); Very Accurate|Spears (1d6); Accurate, Poison       |
 |**5**  |Pendulum               |Scything Blade     |Wall Spikes              |Door; Poison Needle      |Poison Scythe              |Wall Spikes; Poison                  |
-|**6**  |Ball Trap              |Royal Statue       |Block; Swinging          |Block; Falling           |Block; Falling, Spiked     |Block; falling, Spiked, Poison       |
+|**6**  |Ball Trap              |Royal Statue       |Block; Swinging          |Block; Falling           |Block; Falling, Spiked     |Block; Falling, Spiked, Poison       |
 |**7**  |Door; Falling          |Rolling Rock       |Collapsing Column        |Collapsing Wall          |Compacting Room            |Crushing Wall                        |
 |**8**  |Net                    |Portcullis         |Watery Room              |Spinning Wall            |Flooding Room              |Dropping Ceiling                     |
 |**9**  |Gas; Obscuring         |Gas; Sickening     |Gas; Blinding            |Gas; Poisonous           |Gas; Corroding             |Gas; Insanity                        |
@@ -51,15 +53,15 @@ Optionally, convert any pit to a chute to a lower level.
 
 **Pit; Locking**: This pit has a lid that closes behind the victims. The mechanisim can not be opened from inside without magic. Someone outside must force the cover: Force Door (2 in 6 + Strength Bonus).
 
-**Pit; Spiked**: The spikes at the bottom do and additional 1d6 damage on top of the fall damage.
+**Pit; Spiked**: The spikes at the bottom do an additional 1d6 damage on top of the fall damage.
 
-**Pit; Spiked**, Poison: The Spikes do 1d6 damage in addition to fall damage and are coverd with poison. If the save for half fall damage is failed, the victim must then save vs. death.
+**Pit; Spiked, Poison**: The Spikes do 1d6 damage in addition to fall damage and are covered with poison. If the save for half fall damage is failed, the victim must then save vs. death.
 
 **Pit; Locking, Monster**: This pit has a lid that closes behind the victims. The mechanisim can not be opened from inside without magic. Someone outside must force the cover: Force Door (2 in 6 + Strength Bonus). Roll for a random unintelligent monster appropriate for dungeon level living within.
 
 **Pit; Spiked, Poison, Locking, Flooding**: Fall damage, 1d6 damage from spikes, which are covered in poison. Tf the save for half fall damage is failed, victim must then save vs. death. The pit lid closes behind the victim, and can not be opened from within, except with magic. An outside character must Force Door (2 in 6 + Strength Bonus). A torrent of liquid forces victim to bottom (drowning damage 1d3/round); victims require outside assistance to escape (AC 2 to grab pole or rope and be pulled out).
 
-**Pit; Open, Spiked**: This pit is not covered, so PCs will not fall into it accidentally unless running, pushed, etc.; The spikes at the bottom do and additional 1d6 damage on top of the fall damage.
+**Pit; Open, Spiked**: This pit is not covered, so PCs will not fall into it accidentally unless running, pushed, etc.; The spikes at the bottom do an additional 1d6 damage on top of the fall damage.
 
 **Pit; Watery**: This pit is near filled with water or some other mundane liquid. Victims must succeed a swim check to stay afloat. Failure by 2 pips results in sinking/drowning.
 
@@ -73,31 +75,31 @@ Optionally, convert any pit to a chute to a lower level.
 
 ### Shooting Traps
 
-The basic shooting trap attacks as a 3 HD monster (+3 to hit), firing the listed number of projectiles from concealed holes. Targets are determined randomly from creatures in the trigger zone. On a roll of 1, the Judge may decide the trap is out of ammo.
+The basic shooting trap attacks as a 3 HD monster (+3 to hit), firing the listed number of projectiles from concealed holes. Targets are determined randomly from creatures in the trigger zone. On an attack roll of 1, the Judge may decide the trap is out of ammo.
 
 **Darts (1d3)**: Shoots 1d3 darts at +3, for 1d4 damage each.
 
 **Arrows (1d6)**: Fires 1d6 arrows at +3, for 1d6 each damage each.
 
-**Arrows (1d6)**; Weak Poison: Fires 1d6 arrows at +3, for 1d6 each damage each. Victims struck must save vs. death at a +4 bonus.
+**Arrows (1d6); Weak Poison**: Fires 1d6 arrows at +3, for 1d6 each damage each. Victims struck must save vs. death at a +4 bonus.
 
 **Darts (2d6)**: Shoots 2d6 darts at +3, for 1d4 damage each.
 
-**Arrows (1d6)**; Poison: Fires 1d6 arrows at +3, for 1d6 each damage each. Victims struck must save vs. death.
+**Arrows (1d6); Poison**: Fires 1d6 arrows at +3, for 1d6 each damage each. Victims struck must save vs. death.
 
-**Darts (2d6)**; Poison: Shoots 2d6 darts at +3, for 1d4 each damage each. Victims struck must save vs. death.
+**Darts (2d6); Poison**: Shoots 2d6 darts at +3, for 1d4 each damage each. Victims struck must save vs. death.
 
 **Arrows (1d3)**: Fires 1d3 arrows at +3, for 1d6 each damage each
 
 **Spears (1d6)**: Launches 1d6 spears at +3, for 1d6 each damage each.
 
-**Spears (1d6)**; Accurate: Launches 1d6 spears at +6, for 1d6 each damage each.
+**Spears (1d6); Accurate**: Launches 1d6 spears at +6, for 1d6 each damage each.
 
-**Spears (1d6)**; Weak Poison: Launches 1d6 spears at +3, for 1d6 each damage each. Victims struck must save vs. death at a +4 bonus. 
+**Spears (1d6); Weak Poison**: Launches 1d6 spears at +3, for 1d6 each damage each. Victims struck must save vs. death at a +4 bonus. 
 
-**Spears (1d6)**; Very Accurate: Launches 1d6 spears at +9, for 1d6 each damage each.
+**Spears (1d6); Very Accurate**: Launches 1d6 spears at +9, for 1d6 each damage each.
 
-**Spears (1d6)**; Accurate, Poison: Launches 1d6 spears at +6, for 1d6 each damage each. Victims struck must save vs. death.
+**Spears (1d6); Accurate, Poison**: Launches 1d6 spears at +6, for 1d6 each damage each. Victims struck must save vs. death.
 
 ### Slashing Traps
 
@@ -109,7 +111,7 @@ Slashing traps typically come out of cunningly concealed panels in the walls, fl
 
 **Wall Spikes**: These spikes spring from holes in the walls. If these holes are not covered by tapestries, foliage, plaster, etc.; grant characters a +2 to their search. When triggered, anyone within 5' of the wall is attacked by 1d3 protruding spikes at +6 for 1d6 damage.
 
-**Door; Poison Needle**: A poison needle jabs out and quickly retracts from a doorknob or other protrusion. Victims must save vs. death at a +4 bonus. Note: Plate gauntlets are either open or supple leather on the inner side, and are of no protection against this trap.
+**Door; Poison Needle**: A poison needle jabs out and quickly retracts from a doorknob or other protrusion. Victims must save vs. death at a +4 bonus. *Note*: Plate gauntlets are either open or supple leather on the inner side, and are of no protection against this trap.
 
 **Poison Scythe**: A Scythe springs out of the wall or other object, attacking at +9. It strikes up to three characters for 2d6 damage and they must then save vs death.
 
@@ -135,7 +137,7 @@ Clubbing traps are concealed within the architectural elements of the structure.
 
 **Rolling Rock**: A 8’ diameter boulder is released down the passage moving at 9” (45‘) per round; those struck take 4d6 damage and can save vs. stone for half. The boulder comes to rest, blocking the passageway, and can be moved 4 average strength people working in unison. 
 
-**Collapsing Column**: A non-load bearing column is designed to break apart with the sections falling in a 5’ radies foot area causing 4d6 damage, characters can save vs. stone for half.
+**Collapsing Column**: A non-load bearing column is designed to break apart with the sections falling in a 5’ radius area causing 4d6 damage, characters can save vs. stone for half.
 
 **Collapsing Wall**: The outer layer of blocks on this wall collapse in 5’ deep by 10' long area causing 8d6 damage, those affected can save vs. stone for half.
 
@@ -147,13 +149,13 @@ Clubbing traps are concealed within the architectural elements of the structure.
 
 Confining traps are typically normal appearing rooms that restrict movement. The Judge should familiarize themselves with the rules for Forcing Doors, Swimming, etc. 
 
-**Net**: A net with hooks and bells drops from the ceiling, landing in 10’ × 20’ area, entangling those beneath. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this roll. Check for nearby monsters when net falls.
+**Net**: A net with hooks and bells drops from the ceiling, landing in 10’ × 20’ area, entangling those beneath. Those in the net cannot move, suffer a -2 penalty to AC, and can only make melee attacks with swords and spears at a -2 penalty. Creatures have a 1 in 6 plus Strength bonus chance per round to escape. Having a dagger in-hand grants a +2 to this roll. Check for nearby monsters when the net falls.
 
 **Portcullis**: An iron gate falls behind party and blocks the passage, the sound of which triggers a check for nearby monsters. The bars may be forced as locked door.
 
 **Watery Room**: The floor of the room is flooded with stagnant water at least 10' deep.
 
-**Spinning Wall**: A section of wall up to 20’ in length spins in place, depositing the victims in area on adjacent side. It cannot be triggered from the other side. 
+**Spinning Wall**: A section of wall up to 20’ in length spins in place, depositing the victims in area on the opposite side. It cannot be triggered from the other side. 
 
 **Flooding Room**: The doors to this room are reinforced and will swing shut and lock. If they are spiked open beforehand, the spikes have a 4 in 6 chance to hold. Once sealed, the room floods with water in 1d6 rounds. Once fully flooded, attempts to open the door are at –2.
 
@@ -185,4 +187,4 @@ While these traps may make use of magical effects, they are triggered and detect
 
 **Acid Vent**: Acid dumps into a 10’ radius area inflicting 4d6 points of acid damage. The targets can make a save vs. breath for half damage.
 
-**Spell**s: These traps work as per the spell description, at the lowest level required to cast. Targets must Save vs Wand where applicable. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
+**Spells**: These traps work as per the spell description, at the lowest level required to cast. Targets must Save vs Wand where applicable. Trap-conjured Elementals are 8 HD (small). For deeper dungeon levels (where the dungeon level is greater than trap rank), add +2 to the caster level per degree of difference.
