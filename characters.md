@@ -112,7 +112,7 @@ OED features three character classes: Fighter, Thief, and Wizard. There are no C
 2.  *Exceptional Strength*: The character adds +3 to Strength.
 3.  *Great Fortitude*: The character gains a +4 bonus to saves against poison, disease, and death.
 4.  *Iron Will*: The character gains a +4 bonus to saves against mental attacks (including charm, fear, illusions, etc.)
-5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks d against being unhorsed.
+5.  *Mounted Combat*: When mounted, the character gets +2 to hit and +4 to damage with a mounted lance, and +4 to checks against being unhorsed.
 6.  *Rapid Shot*: Add one attack per round with any missile weapon.
 7.  *Rapid Strike*: Add one attack every OTHER round with any melee weapon.
 8.  *Survival*: The character gains a +2 bonus to checks to find food, water, shelter, or avoid being lost in the wilderness.
